@@ -1,0 +1,192 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+
+    <title>Phantom Pen</title>
+
+    <!-- Bootstrap CSS CDN -->
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.0/css/bootstrap.min.css" integrity="sha384-9gVQ4dYFwwWSjIDZnLEWnxCjeSWFphJiwGPXr1jddIhOegiu1FwO5qRGvFXOdJZ4" crossorigin="anonymous">
+    <!-- Our Custom CSS -->
+    <!-- For referencing style sheet locally-->
+    <link rel="stylesheet" href="style_extra.css">
+    <link rel="stylesheet" href="personal_style_extra.css">
+    <link rel="icon" href="writrly_favicon.png">
+
+    
+<!--    for referencing style sheet through application-->
+    <link rel= "stylesheet" type= "text/css" href= "static/css/personal_style_extra.css">
+    <link rel="stylesheet" type= "text/css" href= "static/css/style_extra.css">
+    <link rel="icon" href="static/images/writrly_favicon.png">
+
+<!-- Font Awesome JS -->
+    <script defer src="https://use.fontawesome.com/releases/v5.0.13/js/solid.js" integrity="sha384-tzzSw1/Vo+0N5UhStP3bvwWPq+uvzCMfrN1fEFe+xBmv1C/AtVX5K0uZtmcHitFZ" crossorigin="anonymous"></script>
+    <script defer src="https://use.fontawesome.com/releases/v5.0.13/js/fontawesome.js" integrity="sha384-6OIrr52G08NpOFSZdxxz1xdNSndlD4vdcf/q2myIUVO0VsqaGHJsB0RaBE01VTOY" crossorigin="anonymous"></script>
+
+<!--   Favicon for webpage -->
+  <link rel="icon" href="static/images/writrly_favicon.png">
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.0/jquery.min.js"></script>
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.0/js/bootstrap.min.js"></script>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
+</head>
+
+<body>
+    <div class="wrapper">
+        
+        <!-- Sidebar  -->
+        <nav id="sidebar">
+            <div class="sidebar-header">
+                <h4><i>PHANTOM PEN</i></h4>
+            </div>
+
+            <ul class="list-unstyled components">
+<!--                <p>Dummy Heading</p>-->
+
+                <li>
+                    <a href="{{ url_for('index') }}">Home</a>
+                </li>
+                <li>
+                    <a href="{{ url_for('usage') }}">Usage Tips</a>
+                </li>                
+                <li>
+                    <a href="{{ url_for('about') }}">Background</a>
+                </li>
+
+                <li>
+                    <a href="{{ url_for('corpora') }}">Corpora</a>
+                </li>
+                <li>
+                    <a href="{{ url_for('ethics') }}">Ethics</a>
+                </li>
+                
+            </ul>
+
+            <ul class="list-unstyled CTAs">
+<!--
+                <li>
+                    <a href="https://bootstrapious.com/tutorial/files/sidebar.zip" class="download">Download source</a>
+                </li>
+-->
+                <li>
+                    <a href="https://github.com/mowillia" class="article">Github Repo</a>
+                </li>
+                            <li>
+                    <a href="{{ url_for('slides') }}" class="download">Slides</a>
+                </li>       
+            </ul>
+        </nav>
+    
+        <!-- Page Content  -->
+        <div id="content" >
+
+              <nav class="navbar navbar-expand-lg navbar-light bg-light">
+                <div class="container-fluid">
+
+                    <button type="button" id="sidebarCollapse" class="navbar-btn">
+                        <span style = "color:  #fff;"></span>
+                        <span style = "color:  #fff;"></span>
+                        <span style = "color:  #fff;"></span>
+                    </button>
+                    <button class="btn btn-dark d-inline-block d-lg-none ml-auto" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+                        <i class="fas fa-align-justify"></i>
+                    </button>
+
+<!--
+
+-->
+                </div>
+            </nav>
+
+            
+            
+            <div class="container">
+              <h3 style = "font-family: GillSans, 'Gill Sans MT', Calibri, sans-serif;  text-transform: uppercase;  font-size: 18pt" ><i>Ethics</i></h3>  <h5 style = "font-family: GillSans, 'Gill Sans MT', Calibri, sans-serif; text-transform: uppercase; font-size: 12px"> Isn't This Plagiarism?</h5>
+                <div class="row">
+
+                    <div class="col-sm-6"  style = "font-size: 14px">
+                        
+<!--
+                    <p>                 
+                          <li >Isn't this Plagiarism? </li>
+                          <li> Doesn't this make false news easier to create?</li>
+                          <li> Doesn't this rob writing of its personal nature?</li>                      
+
+                        <br></p>
+-->
+                    <p>
+                        Here is something to try: Take the text you generated on the output page of the application and enter it into the <a href = "https://www.grammarly.com/plagiarism-checker" style = "color:dodgerblue" ><b>Grammarly Plagiarism Detector</b></a>. Assuming you chose a creativity value that was close to 1, you should find that Grammarly did not detect plagiarism. This is an interesting result. The model was trained on many different texts all of which can be found online, and although it matches the style and content of the trained text, it does not merely reproduce that text word for word. 
+                        
+                        </p>
+
+                        <p>In this way, the program does something that many good writers already do.
+</p>
+
+                    <p> 
+                        A common piece of advice for learning how to write well is to read volumes and volumes of published writing. The goal of all this reading is to pick up new vocabulary and new writing styles that you can incorporate into you own writing. In developing a personal style, a poor writer imitates word for word what she finds in her inspiration material. A more sophisticated approach is to emulate the general structure of the written work and to use that structure for her own ends. If this writer reads 100 articles and manages to emulate the style of all those articles in order to produce a new piece of writing, one would say she developed a personal style.</p>
+
+                        
+                        <p>
+                            The algorithm in this application does something similar: Trained on hundreds of articles, it is capable of picking up the semantics of words and the structure of essays and reproduce both to create original content. 
+                        </p>
+
+                       
+                        <p> 
+                            But there is something that <i>feels</i> different about using the output of a text-generator algorithm to craft essays rather than going through the slow and deliberate process of reading all the relevant texts and mixing the styles on one's own. It feels dishonest somehow, almost too easy. 
+
+                        </p>
+                        
+                        <p>
+                            I think this feeling is at the source of a common question I received about this application: "Isin't this plagiarism?"
+                        </p>
+                   
+                    </div>
+                    <div class="col-sm-6"  style = "font-size: 14px">
+
+
+                        <p>
+                            If "plagiarism" refers to what the program is doing, the answer is easy: At high creativity, the program is not plagiarizing texts. It is creating new texts stochastically given the trained corpus, in much the same way that after accumulating many random trials of an experiment and creating a distribution from these trials, you can then sample from that distribution to generate newer trials. 
+
+                        </p>
+                        <p>
+                            But if plagiarism refers to what someone can do with the program, then the answer is more complicated. The program was originally envisioned as a way to help writers with writers' block by providing story and essay completions given a writing prompt. I saw these essay completions as providing a scaffold for future writing, not as a substitute for the writing itself. But given that the produced text is original enough to evade a plagiarism detector and is often coherent enough to seem human written, it appears that what I have actually created is a "plagiarism proof" essay generator. Such a tool, the argument goes, could be used by students to write (at least part) of any writing assignment they are given.  
+                        
+                        </p>
+                        
+                        <p>
+                            This is true, but such tools are not new. Essay writing services have existed for students for decades and have posed similar ethical questions surrounding plagiarism. More importantly, the progress in language modeling is such that more advanced text generators than the one used here will soon be developed. Thus, rather than trying to prevent applications like this from existing—which is my guess for what the "Isn't this plagiarism?" question hopes to achieve—I think a more pragmatic approach is to incorporate such tools into the working knowledge of writers and teachers, so that they all know what students have access to and can develop policies accordingly. 
+                        </p>
+                            <p>In short, a university honor statement where a student claims "This work is my own work," has not immediately become necessary due to plagiarism-proof essay generators. The statement has always been necessary, but it is now necessary in a new context. 
+                        </p>
+                    </div>
+
+                </div>
+    
+            </div>
+            
+        </div>
+        
+    </div>
+
+    <!-- jQuery CDN - Slim version (=without AJAX) -->
+    <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
+    <!-- Popper.JS -->
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.0/umd/popper.min.js" integrity="sha384-cs/chFZiN24E4KMATLdqdvsezGxaGsi4hLGOzlXwp5UZB1LY//20VyM2taTB4QvJ" crossorigin="anonymous"></script>
+    <!-- Bootstrap JS -->
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.1.0/js/bootstrap.min.js" integrity="sha384-uefMccjFJAIv6A+rW+L4AHf99KvxDjWSu1z9VI8SKNVmz4sk7buKt/6v9KI65qnm" crossorigin="anonymous"></script>
+
+    <script type="text/javascript">
+        $(document).ready(function () {
+            $('#sidebarCollapse').on('click', function () {
+                $('#sidebar').toggleClass('active');
+                $(this).toggleClass('active');
+            });
+        });
+    </script>
+
+    
+</body>
+
+</html>

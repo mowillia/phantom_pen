@@ -1,0 +1,375 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+
+    <title>Phantom Pen</title>
+
+    <!-- Bootstrap CSS CDN -->
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.0/css/bootstrap.min.css" integrity="sha384-9gVQ4dYFwwWSjIDZnLEWnxCjeSWFphJiwGPXr1jddIhOegiu1FwO5qRGvFXOdJZ4" crossorigin="anonymous">
+    <!-- Our Custom CSS -->
+    <!-- For referencing style sheet locally-->
+    <link rel="stylesheet" href="style_extra.css">
+    <link rel="stylesheet" href="personal_style_extra.css">
+    <link rel="icon" href="writrly_favicon.png">
+
+    
+<!--    for referencing style sheet through application-->
+    <link rel= "stylesheet" type= "text/css" href= "static/css/personal_style_extra.css">
+    <link rel="stylesheet" type= "text/css" href= "static/css/style_extra.css">
+    <link rel="icon" href="static/images/writrly_favicon.png">
+
+<!--     Font Awesome JS -->
+    <script defer src="https://use.fontawesome.com/releases/v5.0.13/js/solid.js" integrity="sha384-tzzSw1/Vo+0N5UhStP3bvwWPq+uvzCMfrN1fEFe+xBmv1C/AtVX5K0uZtmcHitFZ" crossorigin="anonymous"></script>
+    <script defer src="https://use.fontawesome.com/releases/v5.0.13/js/fontawesome.js" integrity="sha384-6OIrr52G08NpOFSZdxxz1xdNSndlD4vdcf/q2myIUVO0VsqaGHJsB0RaBE01VTOY" crossorigin="anonymous"></script>
+    
+<!--   Favicon for webpage -->
+  <link rel="icon" href="static/images/writrly_favicon.png">
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.0/jquery.min.js"></script>
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.0/js/bootstrap.min.js"></script>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
+</head>
+
+<body>
+    
+    <div class="wrapper">
+        
+        <!-- Sidebar  -->
+        <nav id="sidebar">
+            <div class="sidebar-header">
+                <h4><i>PHANTOM PEN</i></h4>
+            </div>
+
+            <ul class="list-unstyled components">
+<!--                <p>Dummy Heading</p>-->
+
+                <li>
+                    <a href="{{ url_for('index') }}">Home</a>
+                </li>
+                <li>
+                    <a href="{{ url_for('usage') }}">Usage Tips</a>
+                </li>                
+                <li>
+                    <a href="{{ url_for('about') }}">Background</a>
+                </li>
+
+                <li>
+                    <a href="{{ url_for('corpora') }}">Corpora</a>
+                </li>
+                <li>
+                    <a href="{{ url_for('ethics') }}">Ethics</a>
+                </li>
+                
+            </ul>
+
+            <ul class="list-unstyled CTAs">
+<!--
+                <li>
+                    <a href="https://bootstrapious.com/tutorial/files/sidebar.zip" class="download">Download source</a>
+                </li>
+-->
+                   <li>
+                    <a href="https://github.com/mowillia" class="article">Github Repo</a>
+                </li>
+                <li>
+                    <a href="{{ url_for('slides') }}" class="download">Slides</a>
+                </li>                   
+            </ul>
+        </nav>
+    
+        <!-- Page Content  -->
+        <div id="content" >
+
+              <nav class="navbar navbar-expand-lg navbar-light bg-light">
+                <div class="container-fluid">
+
+                    <button type="button" id="sidebarCollapse" class="navbar-btn">
+                        <span></span>
+                        <span></span>
+                        <span></span>
+                    </button>
+<!--
+                    <button class="btn btn-dark d-inline-block d-lg-none ml-auto" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+                        <i class="fas fa-align-justify"></i>
+                    </button>
+-->
+
+
+                </div>
+            </nav>
+
+            
+            
+            <div class="container">
+                
+                <div class="row">
+
+                    
+                    <div class="col-sm-6">
+
+
+                    <!--        See https://stackoverflow.com/questions/40648084/how-to-toggle-between-three-divs-possibly-with-jquery-solution for a reference on how to implement the toggles below. -->
+                        <div class="midSection sections">
+                          <div class="menuLine">
+                            <div id="gen" class="menu" style = "font-size: 14px">Simple Generate</div>
+                            <div id="class_gen" class="menu" style = "font-size: 14px">Classify and Generate</div>
+                            <div id="class_extract_gen" class="menu active" style = "font-size: 14px">Classify, Extract, and Generate</div> 
+                          </div>
+                        </div>
+
+                        <div id="firstBlock" style = "display: block"  class="middleBlock">
+
+                            <form action="/output_gen" method="GET">
+
+                                <div class="form-group green-border-focus">
+                                  <label for='user_text'></label>
+                                  <textarea type = 'text' class="form-control" id="user_text" name='user_text' rows="9" placeholder='It is a rare skill to stand at the foot of the mountain and be awed, and yet undaunted; to peer upwards at a summit hidden in the clouds and to respect its terrible beauty without succumbing to terror itself.' style = "font-size: 14px;">{{entered_text}}</textarea>
+                                </div>
+
+                                <div class="row">
+                                    <div class="col-md-4" align = 'center'>
+                                        <label for="temperature"
+                                        style = "font-family: GillSans, 'Gill Sans MT', Calibri, sans-serif; text-transform: uppercase; font-size: 12px"><b>Creativity</b></label>
+                                        <input type="number" step="0.01" min = "0" max = "1" id='temperature' name = 'temperature' class="form-control form-control-sm" type="text" placeholder=0.95>  
+                                    </div>
+
+                                    <div class="col-md-4" align = 'center'>
+
+                                        <label for="length"
+                                        style = "font-family: GillSans, 'Gill Sans MT', Calibri, sans-serif; text-transform: uppercase; font-size: 12px"><b>Length</b></label>
+                                        <input type="number" step="1" min = "50" max = "900" id='length' name = 'length' class="form-control form-control-sm" type="text" placeholder=100>  
+
+                                    </div>    
+
+
+                                    <div class="col-md-4" align = 'center'>
+                                        <label for="temperature" style = "font-family: GillSans, 'Gill Sans MT', Calibri, sans-serif; text-transform: uppercase; font-size: 12px"><b>Class</b></label>
+
+                                        <select type = 'text' id='topic' name = 'topic' class="form-control1" name="topic" method="GET" >
+                                          <option value = 'Business' selected>Business</option>
+                                          <option value = 'Education'>Education</option>
+                                          <option value = 'Entertainment'>Entertainment</option>
+                                          <option value = 'Health'>Health</option>
+                                          <option value = 'Ideas/Opinion'>Ideas/Opinion</option>
+                                          <option value = 'International'>International</option>
+                                          <option value = 'Politics'>Politics</option>                     
+                                          <option value = 'Science'>Science</option>
+                                          <option value = 'Technology'>Technology</option>
+                                          <option value = 'Short Story'>Short Story</option>
+                                          <option value = 'Gutenberg'>Gutenberg</option>
+
+                                        </select>
+
+                                    </div>
+                                </div>
+
+                                <hr>
+
+                                <div class="col text-center">
+                                    <div class = "row">
+                                    <div class="col-md-6" align = 'center'> 
+                                        <select type = 'text' id='model_type' name = 'model_type' class="form-control2" method="GET" cols = 10> Text
+                                          <option selected>117M Model</option>
+                                          <option>345M Model</option>
+                                        </select>
+                                    </div>
+                                    <div class="col-md-6" align = 'center'>
+                                  <button  id = 'gen1' type="submit" class="btn-md btn btn-primary"  style = "font-family: GillSans, 'Gill Sans MT', Calibri, sans-serif; text-transform: uppercase">Execute</button>
+                                    </div>
+                                        </div>
+                                </div>
+
+                            </form>
+                            <br>  
+
+                        </div>
+
+                        <div id="secondBlock" class="middleBlock">
+
+
+                            <form action="/output_class_gen" method="GET">
+                        <!--        <form action="/output" method="GET">  <!-- redefine action "/output1" and define HTML accordingly--> 
+
+                                <div class="form-group green-border-focus">
+
+                                    <label for='user_text'></label>
+                                    <textarea type = 'text' class="form-control" id="user_text" name='user_text' rows="9" style = "font-size: 14px" placeholder='It is a rare skill to stand at the foot of the mountain and be awed, and yet undaunted; to peer upwards at a summit hidden in the clouds and to respect its terrible beauty without succumbing to terror itself.' style = "font-size: 14px;">{{entered_text}}</textarea>
+
+                                </div>
+
+                                <div class="row">
+
+                                    <div class="col-md-2" align = 'center'></div>
+
+                                    <div class="col-md-4" align = 'center'>
+                                        <label for="temperature" style = "font-family: GillSans, 'Gill Sans MT', Calibri, sans-serif; text-transform: uppercase; font-size: 12px"><b>Creativity</b></label>
+                                        <input type="number" step="0.01" min = "0" max = "1" id='temperature' name = 'temperature' class="form-control form-control-sm" type="text" placeholder=0.95>  
+                                    </div>
+
+                                    <div class="col-md-4" align = 'center'>
+
+                                        <label for="length" style = "font-family: GillSans, 'Gill Sans MT', Calibri, sans-serif; text-transform: uppercase; font-size: 12px"><b>Length</b></label>
+                                        <input type="number" step="1" min = "50" max = "900" id='length' name = 'length'  class="form-control form-control-sm" type="text" placeholder=100>  
+
+                                    </div>
+
+                                    <div class="col-md-2" align = 'center'></div>
+
+                                </div> 
+
+                                <hr>
+                                <div class="col text-center">
+                                    <div class = "row">
+                                    <div class="col-md-6" align = 'center'> 
+                                        <select type = 'text' id='model_type' name = 'model_type' class="form-control2" method="GET" cols = 10> Text
+                                          <option selected>117M Model</option>
+                                          <option>345M Model</option>
+                                        </select>
+                                    </div>
+                                    <div class="col-md-6" align = 'center'>
+                                  <button  id = 'gen2' type="submit" class="btn-md btn btn-primary"  style = "font-family: GillSans, 'Gill Sans MT', Calibri, sans-serif; text-transform: uppercase">Execute</button>
+                                    </div>
+                                        </div>
+                                </div>
+
+                            </form>        
+                            <br>
+
+                        </div>
+
+                        <div id="thirdBlock" class="middleBlock" >
+
+
+                            <form action="/output_class_ex_gen" method="GET">
+
+                                <div class="form-group green-border-focus">
+                                    <label for='user_text'></label>
+                                    <textarea type = 'text' class="form-control" id="user_text" name='user_text' rows="9" placeholder='It is a rare skill to stand at the foot of the mountain and be awed, and yet undaunted; to peer upwards at a summit hidden in the clouds and to respect its terrible beauty without succumbing to terror itself.' style = "font-size: 14px;">{{entered_text}}</textarea> 
+                                </div>
+                                <div class="row">
+
+                                    <div class="col-md-2" align = 'center'></div>
+
+                                    <div class="col-md-4" align = 'center'>
+                                        <label for="temperature" style = "font-family: GillSans, 'Gill Sans MT', Calibri, sans-serif; text-transform: uppercase; font-size: 12px"><b>Creativity</b></label>
+                                        <input type="number" step="0.01" min = "0" max = "1" id='temperature' name = 'temperature' class="form-control form-control-sm" type="text" placeholder=0.95>  
+                                    </div>
+                                    <div class="col-md-4" align = 'center'>
+
+                                        <label for="length" style = "font-family: GillSans, 'Gill Sans MT', Calibri, sans-serif; text-transform: uppercase; font-size: 12px"><b>Length</b></label>
+                                        <input type="number" step="1" min = "50" max = "900" id='length' name = 'length'  class="form-control form-control-sm" type="text" placeholder=100>  
+
+                                    </div>   
+
+                                    <div class="col-md-2" align = 'center'></div>
+
+                                </div>
+                                <hr>
+                                <div class="col text-center">
+                                    <div class = "row">
+                                    <div class="col-md-6" align = 'center'> 
+                                        <select type = 'text' id='model_type' name = 'model_type' class="form-control2" method="GET" cols = 10 > Text
+                                          <option selected>117M Model</option>
+                                          <option>345M Model</option>
+                                        </select>
+                                    </div>
+                                    <div class="col-md-6" align = 'center'>
+                                  <button  id = 'gen3' type="submit" class="btn-md btn btn-primary"  style = "font-family: GillSans, 'Gill Sans MT', Calibri, sans-serif; text-transform: uppercase">Execute</button>
+                                    </div>
+                                        </div>
+                                </div>
+
+                            </form> 
+                            <br> 
+
+
+                        </div>
+                            <br>
+
+
+
+                    </div>
+                    
+                    <div class="col-sm-6">
+                        
+                        <div class="midSection sections">
+<!--                            <div class="line"></div>-->
+                            <br>
+                         
+                            <div class="sectionHeader">Generated Text</div> 
+                            
+                                <p class = 'c'><b>ERROR:</b> Sentence extraction requires three sentences or more (preferably more). </p> 
+                            
+<!--                        </div>-->
+                        
+                        </div>
+                        
+                    </div>
+
+                </div>
+    
+            </div>
+            
+        </div>
+        
+    </div>
+
+    <!-- jQuery CDN - Slim version (=without AJAX) -->
+    <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
+    <!-- Popper.JS -->
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.0/umd/popper.min.js" integrity="sha384-cs/chFZiN24E4KMATLdqdvsezGxaGsi4hLGOzlXwp5UZB1LY//20VyM2taTB4QvJ" crossorigin="anonymous"></script>
+    <!-- Bootstrap JS -->
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.1.0/js/bootstrap.min.js" integrity="sha384-uefMccjFJAIv6A+rW+L4AHf99KvxDjWSu1z9VI8SKNVmz4sk7buKt/6v9KI65qnm" crossorigin="anonymous"></script>
+
+    <script type="text/javascript">
+        $(document).ready(function () {
+            $('#sidebarCollapse').on('click', function () {
+                $('#sidebar').toggleClass('active');
+                $(this).toggleClass('active');
+            });
+        });
+    </script>
+    <script>
+        
+//        $("#topic").val('{{tops}}').change();
+//        $("#model_type").val('{{model_type}}').change();
+        
+        var display = function(block_name, title) {
+          // Toogle Block
+          $('.middleBlock').css('display', 'none');
+          $('#' + block_name + '').css('display', 'block');
+
+          // Change Title Color
+          $('.menu').removeClass('active');
+          $(title).addClass('active');
+        }
+
+        $('#gen').on('click', function() {
+          display('firstBlock', $(this));
+        });
+
+        $('#class_gen').on('click', function() {
+          display('secondBlock', $(this));
+        });
+
+        $('#class_extract_gen').on('click', function() {
+          display('thirdBlock', $(this));
+        });
+
+        function myFunction() {
+          var x = document.getElementById("myDIV");
+          if (x.style.display === "none") {
+            x.style.display = "block";
+          } else {
+            x.style.display = "none";
+          }
+        }
+        
+</script>
+    
+</body>
+
+</html>
