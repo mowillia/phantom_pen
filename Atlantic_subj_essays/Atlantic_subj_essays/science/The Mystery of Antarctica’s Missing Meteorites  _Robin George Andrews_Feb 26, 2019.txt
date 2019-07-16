@@ -1,0 +1,53 @@
+For about a month, Katherine Joy spent hours snaking up and down the Antarctic ice on a snowmobile, trying to spot gatherings of meteorites.
+
+The bottom of the Earth is a jarringly alien realm—an “expansive place where the sky and ice seem to go on forever,” says Joy, a Royal Society University Research Fellow and meteorite hunter at the University of Manchester. And in some stretches of ice, “every rock you come across is from space.”
+
+The majority of the world’s meteorites are discovered in Antarctica. A single dark rock would be easy enough to spot amid the white background, but the movements of the ice can also act as a conveyor belt, creating concentrated pockets of space debris. Meteorite-hunting expeditions over the past few decades have revealed, though, an enigmatic lack of iron meteorites in Antarctica compared with other locations around the world.
+
+Though iron meteorites are falling through the atmosphere at equal rates across the planet, they simply weren’t showing up on the icy surface as often as they should be compared with their stony meteorite cousins. This raised an intriguing possibility: These missing iron meteorites were hiding beneath Antarctica’s ice.
+
+To test this idea, Joy and her colleagues had come to Antarctica as part of the first-ever expedition to search for “lost meteorites.” They spent late December to early February scouting out accessible spots that might contain the best hauls. If they eventually find these missing meteorites on the full-blown expedition in a year’s time, they’ll have located new geochemical clues contained within that chronicle the early chaos of the solar system and its inner rocky planets, including our own.
+
+Treacherously frigid conditions aside, finding meteorites buried beneath ice while scooting across a truly vast landscape will require plenty of serendipity, because buried meteorites can only be detected if you’re standing right above them. That’s why, to game the odds as much as it can, the team is bringing along some extremely fancy iron meteorite detectors: snowmobiles equipped with the sort of tech you’d normally find in war zones.
+
+The hunt for lost meteorites began after a group of mathematicians and glaciologists started to wonder whether meteorites could burrow through Antarctic ice. The first test, in 2014, deployed a humble household freezer, a Pixar-like desk lamp, and “some small and cheapish meteorites,” says Geoffrey Evatt, a senior lecturer in applied mathematics at the University of Manchester.
+
+The researchers shined the lamp on those discount meteorites, and nothing appeared to happen. Realizing that the lamp didn’t mimic the sun properly, they upgraded to a solar-simulator beam that provided the vital missing infrared spectrum.
+
+That’s when they saw meteorites heat up and start to nestle down into the ice.
+
+Iron meteorites generally come from the hearts of massive asteroids. Their composition is not dissimilar to that of Earth’s own core, which suggests that they can tell us much about the formation of rocky planets. They are rather shiny and typically have pronounced, sometimes crosshatched textures that catch the eye. Often, because of these properties, strange-looking rocks that the general public brings to meteorite researchers turn out to be iron meteorites, says Matthew Genge, a senior lecturer and meteorite expert at Imperial College London not involved in the expedition.
+
+Iron meteorites are also tougher than other meteorites, which means they survive atmospheric entry better than their relations. All things considered, we should be finding plenty of them, so it’s strange to encounter so few in Antarctica, an otherwise veritable wonderland for all things spaceborne.
+
+This deficit matters. Joy notes that the handful of different meteorite groups we know of originate from at least 100 different sources, from the innards of long-lost annihilated planets to the inner reaches of asteroids.
+
+“Any new meteorite we find could provide us with a previously unsampled asteroid type that tells us something new about how planets first formed and geologically evolve,” she says. The lack of iron meteorites means a key part of that cosmic puzzle is missing.
+
+After those early desktop experiments, the researchers upped their game. Within a cloud-simulator contraption, which replicated real-world Antarctic environmental conditions, they carefully placed meteorites between two ice layers. Shining a solar lamp on the site, they noticed that the stony and iron meteorites sometimes caused melting above and below them, meaning they could move up and down in their icy prison an inch or two in just a few hours.
+
+The team then used a simple, elegant mathematical model to scale up these results to Antarctica. In the lab, stony and iron meteorite migrations were pretty indistinguishable, but this model showed that on a longer timescale, the iron meteorites could sink into the ice far quicker than the stony ones. These results, described in a 2016 study, made it seem possible that a huge number of iron meteorites were in hiding.
+
+The next step: prove it. By December 2018, funded by a significant grant, the first U.K.-led Antarctic search mission was out in the wilds of that frosted land, hunting for meteorites—a proof-of-concept run for the climactic meteorite search a year later.
+
+Scouting out meteorites on the surface is one thing, but finding buried iron meteorites is an entirely different ball game.
+
+In Antarctica, some areas of blue ice—named for its ethereal, vivid hue—are so compressed and lacking in trapped air bubbles that they look like glass. It feels like “you’re walking on air,” Genge says, and any patches of snow on top “looks like clouds.” Standing there makes you feel like being on top of the world at the end of the world. In more practical terms, the ice can be almost transparent, providing an ideal window into the realm below. But no one had ever been out in blue-ice areas looking for sunken meteorites before, so the team didn’t know whether they would contain any, Evatt says.
+
+It's not simply a matter of zooming around and taking in otherworldly views. Fun though this is, Joy says it’s “a bit of a chilly business when the wind is blowing.” At the same time, concentrating on scanning the ground for meteorites while making sure to drive safely and not get lost can sometimes be exhausting.
+
+The iron meteorite-detection technology attached to the snowmobiles is both bespoke and complicated. It is analogous to land-mine detectors, but has some key design differences. Meteorite detectors don’t need to be as sensitive. Land mines try very hard not to be found, Evatt says, but large lumps of iron are fairly conspicuous to metal detectors, so long as you know where to look. However, land-mine detectors don’t like being bashed around, which is why the metal detectors on the snowmobiles had to be built to be far hardier. They need to deal with being “banged around left, right, and center” across the continent, Evatt says.
+
+Land-mine detectors also dislike being moved too rapidly, which is problematic for the team: Researchers have to be able to detect iron meteorites in real time while they zip about. Thanks to all the computing power you can fit on the snowmobiles, that’s possible, but they have to maintain a speed of about nine miles per hour, because the signal-sorting algorithms can’t handle moving any faster or slower. Tests in Svalbard, a series of islands in the high Arctic, revealed other quirks; the detectors, for example, experience different types of signal noise on snow compared with ice.
+
+The alternative to all this, though, would be exploring the continent by foot, using traditional metal detectors, a torturously slow endeavor. There’s likely fewer than one iron meteorite buried in ice every 0.4 square miles, on average. Even if the team does find a buried meteorite, it’s not always clear how to excavate it out of what could be several feet of bulletproof ice.
+
+Already, though, researchers have some promising signs that their models and experiments are correct. Bits of mountain rock have been found falling into Antarctic ice and melting through, and Joy says that some meteorites they found have been partially buried within the ice, too. In both cases, heating during the austral summer days likely drove the rocks downward. During this season’s fieldwork, Joy and her colleagues have collected a good haul, at least 36 meteorites with a variety of compositions.
+
+The team has yet to spot any fully buried iron meteorites, but that’s the aim of the fieldwork in 2020. It is nevertheless prepared for the possibility that it ultimately ends up empty-handed.
+
+“We are literally in the hands of the gods,” Evatt says. “If a collision hadn’t happened in the asteroid belt millions of years ago, or if the orbital path of Earth hadn’t lined up with the trajectories of any resulting asteroidal debris, then it’s a definite possibility that these meteorites [never] landed at all, and there’s nothing we or all our equipment can do about that.”
+
+They could, of course, end up finding plenty, and that hypothetical buried treasure would suddenly become very tangible. Success isn’t a numbers game at the end of the day. To show that iron meteorites might be found lurking beneath the surface, and to demonstrate that the model they have spent years working on applies to the real world, all they need to do is get lucky once.
+
+“As soon as we’ve found one,” Evatt reckons, “I’ll be happy. Just one.”

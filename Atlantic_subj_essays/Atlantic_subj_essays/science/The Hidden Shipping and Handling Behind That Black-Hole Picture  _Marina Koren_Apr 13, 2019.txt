@@ -1,0 +1,33 @@
+The picture of a black hole, captured for the first time, shows a ring as radiant as gold against the darkness of space. At its center, the charcoal shadow of a void so powerful, nothing can escape its pull.
+
+The dreamy photograph represents a tremendous technological achievement, assembled using eight radio telescopes in four continents—two each in Hawaii and Chile, and one each in Arizona, Mexico, Spain, and Antarctica—all synced together to scan the skies for several days in a row.
+
+But the picture would not exist without technology much less sophisticated: computer disk drives.
+
+The telescopes’ data had to go to two astronomy institutions to be processed, MIT’s Haystack Observatory in the United States and the Max Planck Institute for Radio Astronomy in Germany. An email attachment wasn’t going to work. The observatories had collected five petabytes of data. The average iPhone has 64 gigabytes of data storage. One million gigabytes are in one petabyte. It would have taken years for the data to cross the internet.
+
+And so the data were carried on hundreds of hard disk drives, shipped to and from the observatories through plain old FedEx. Which is kind of marvelous, when you think about it. In a world where transferring information from one end of the world to another takes only a click, some things still have to be done the old-fashioned way. Humanity owes its first glimpse of one of the most mysterious objects in the universe not to something flashy and high tech, but a technology that has been around since the late 1950s, and transportation methods far older.
+
+And to find out how it’s done, you have to talk with Don Sousa.
+
+Sousa is a computer-support specialist at the Haystack Observatory. He’s also the shipping guy. He handled virtually every shipment for the Event Horizon Telescope, the effort to photograph a black hole.
+
+Sousa grew up a few towns over from Haystack and has the trademark Boston-area accent to prove it. Over decades at the observatory, he has packaged equipment, put in orders, wrangled foreign customs regulations, and filled out reams of paperwork so that all kinds of hardware, from atomic clocks to disk drives, gets where it is needed. Before disk drives became widely available, he shipped reels of magnetic tape. “It’s amazing the differences from the mid-eighties, when I started, to what we do now,” Sousa says.
+
+For the Event Horizon Telescope, Sousa packaged the disk drives in groups of eight. (“These are off-the-shelf hard drives,” he says. “You could buy them for your own personal computer if you wanted.”) The stacks were placed inside custom cases that allowed data to be recorded on all eight drives at once. Each module—eight disks, plus their custom coating—weighed about 23 pounds. Sousa shipped them in boxes labeled fragile and lined with a two-inch layer of foam, with cutouts in the middle to snuggle the modules, like precious jewelry in an antique box.
+
+Sousa says he uses mostly FedEx and UPS. Some routes were trickier than others. Chile and Mexico had stricter rules about what could cross their borders. Sousa had to obtain a special license from the U.S. Department of Commerce to ship a particular piece of equipment to Mexico.
+
+The toughest destination was the South Pole Telescope in Antarctica. Without a nation to decide customs law, the continent relies on shipping agencies in Christchurch, New Zealand, which dispatch cargo ships and planes to the ice. Sousa had to coordinate with the National Science Foundation, which operates the research station where the telescope is based. Shipments had to meet very detailed specifications; Haystack had to build a wooden crate to carry the modules, because plastic containers weren’t allowed. “If it gets to Christchurch and something’s wrong, your equipment just sits there,” Sousa says.
+
+The journey to the eight observatories was fine. It was the return trip that was worrisome. There were too much data to go through the burden of making extra copies; the disks that flew out of the stations were the only ones they had. “Going out there, they’re just blank,” says Mike Titus, the researcher who operated the supercomputer that helped synthesize all the data into a single, composite image. “Coming back, they’re precious commodities.”
+
+I asked Titus whether the team considered asking a file-sharing service like Dropbox to build them something capable of transferring all those petabytes. “Don’t tell me that Amazon Cloud and Google Cloud, they wouldn’t love to have our data and store it for us,” Titus said, laughing. But even groundbreaking scientific teams don’t have that kind of budget. “Too much data and too much money—that’s why we don’t do it that way. Nothing beats the bandwidth of a 747 filled with hard disks.”
+
+The return of the disks from the South Pole was particularly welcome. The shipment arrived months after all the rest thanks to the Antarctic winter, which had prevented anyone from flying in. The staff at Haystack was jubilant when FedEx arrived with a truck full of cosmic goodies from the bottom of the Earth. “It’s like they thought we were expecting penguins to jump out of the box or something,” says Nancy Wolfe Kotary, the communications officer at Haystack.
+
+Sousa understood the concern, but he wasn’t too worried himself. “I’ve shipped to every continent,” he says, and in his 32 years on the job, he hasn’t lost one package.
+
+Well, there was one, but it wasn’t his fault, or even the fault of any shipping company. The equipment, bound for a new research station in South Africa, cleared customs in Johannesburg and was loaded onto a truck. On the road, the truck was hijacked, and its contents stolen. “To this day, we figure it’s sitting somewhere on a coffee table as a conversation piece,” Sousa says.  
+
+Sousa plans to retire in three years and enter a new phase of his life that doesn’t require checking tracking alerts every day. He doesn’t have a background in science; before joining Haystack, he worked as a police officer for the state of Massachusetts. For him, the photo is the culmination of years’ worth of effort by astronomers and shipping experts alike. But the actual shot, he says, is pretty impressive, too.

@@ -1,0 +1,30 @@
+When employers surveil workers, it’s usually to cut costs and ensure efficiency—checking when people are clocking in and leaving, whether they’re hitting sales goals, and so on. But for police, operating efficiently is a matter of life and death, law and order. Their bosses, and the communities they serve, want to know whether they’re potentially violating someone’s rights. In the event of a shooting, they want to know how it happened. Now they have more insight than ever.
+
+Thanks to new machine-learning tools, researchers and police departments can use behavioral data to find the earliest signs an officer may be flouting policy or at risk of shooting an unarmed civilian. To build the algorithms that may one day be able to create a sort of “risk score” for police, researchers are using familiar tools: data from police body cameras and squad cars, and the internal reports usually kept locked in police departments away from researchers, including information on officer suspensions and civilian complaints.
+
+Of all this information, body cameras—which were purpose-built to create an objective and unaltered record of an officer’s every move on the job—may be the most valuable. At least in theory: Since the Justice Department began offering millions of dollars in grants for body cameras in 2015 and advocates began clamoring for the technology, police have claimed their cameras have fallen off, become suddenly unplugged, or exploded, their footage accidentally deleted or never filed. At the same time, civil-rights advocates’ widespread support for the devices cooled amid suspicion that police have too much discretion in when to record and when to release footage.
+
+But the push to use body cameras on police now has a surprising source: the camera industry itself. Late last month, Axon, the No. 1 manufacturer of body cameras in the United States, announced its Performance tool, which is seemingly targeted at the long line of high-profile body-camera failures.* The tool, a paid upgrade for current customers, is a dashboard that quantifies how often officers turn their cameras on during calls and whether they categorize videos correctly.
+
+Axon’s announcement came just a day after a jury convicted the Minneapolis police officer Mohamed Noor of shooting and killing an unarmed civilian, the Australian-born yoga instructor Justine Damond. The case is among the most high-profile incidents of police violence that involved body-camera failure.
+
+While both Noor and his partner wore body cameras the night Damond was shot, neither was turned on to record the shooting. Shannon Barnette, the sergeant on duty and Noor’s supervisor, was the first to arrive on the scene after Damond’s death. Footage from her body camera is split into three parts. In the first, she drives to the scene. In the second, she approaches another officer; says “I’m on,” presumably referring to her body camera; and then turns the camera off. The footage resumes two minutes later. Prosecutors asked Barnette why her camera was turned off, then on.
+
+“No idea,” Barnette responded.
+
+Barnette testified that the department’s policy on when the cameras are supposed to be on was “not clear” at the time. Since the shooting, the Minneapolis Police Department has revised its policy: The cameras stay on.
+
+Andrew Ferguson, a professor at the University of D.C. David A. Clarke School of Law, studies what he calls “blue data,” information collected from police-officer activities that can then be used for police reform. Specifically, he’s interested in police “resistance” to being surveilled, drawing a direct comparison between the predictive analytics used on police and those used on citizens.
+“Police officers are the first ones to say, ‘Hey, that’s unfair that I’m not gonna get this promotion, because some algorithm said I might be more violent or at risk than someone else,’” Ferguson says. “And you want to turn around and say, ‘Exactly. It’s unfair that some kid gets put on a heat list because he lives in a poor area and he’s surrounded by poverty and violence.’”
+
+Lauren Haynes, the former associate director of the Center for Data Science and Public Policy at the University of Chicago, helped design a statistical model to predict when officers may become involved in an “adverse event,” anything from a routine complaint up to an officer-involved shooting. The project didn’t use the kind of body-camera data that Axon’s new tool works with, but she says they’re “absolutely something that could be put into the model.”
+
+The team found that a number of stressors were related to those adverse events, including whether officers worked a second job, whether they took too many sick days, and whether they’d recently responded to a domestic-violence incident or a suicide. Place matters, too: Officers were more likely to be involved in an adverse event if they were sent into neighborhoods far from their usual beat.
+
+Haynes thinks it’s possible that officers won’t be completely opposed to the idea of risk scoring. “If it comes off as a punitive thing, people are going to be against it,” she says. On the other hand, if the scores are presented as a tool to keep departments from pushing officers too hard, the plan might gain some support.
+
+“You want to put people in the right interventions for them,” Haynes says. “There are all kinds of different solutions depending on what the specific risk is.”
+
+Predictive tools have an inherent risk. They offer only the probability of any event happening. They could be wrong or even dangerous, creating feedback loops that penalize officers who seek counseling, for example. Cameras and algorithms offer potential tools for police accountability—but don’t ensure it.
+
+* This post originally misstated the name of the Performance tool.

@@ -1,0 +1,35 @@
+Before the tragedy seen all around the world, flames leaping from the top of Notre-Dame Cathedral, there was a smaller one, thousands of miles away in upstate New York.
+
+Andrew Tallon, a pioneering architectural historian and father of four, died on November 16, 2018, from brain cancer. He was 49. He had dedicated his life to the study of medieval architecture, its mysteries and resonances, blending in his interest in technology to create novel ways of studying centuries-old buildings.
+
+“When you’re working on medieval buildings, it’s difficult to have the impression you can say anything new. They’ve been looked at and written about for ages,” Tallon told a documentary crew in 2015. “So I’ve been using more sophisticated technology these days to try to get new answers from the buildings.”
+
+And so it was that in 2010, Tallon, an art professor at Vassar, took a Leica ScanStation C10 to Notre-Dame and, with the assistance of Columbia’s Paul Blaer, began to painstakingly scan every piece of the structure, inside and out. They mounted the Leica on a tripod, put up markers throughout the space, and set the machine to work. Over five days, they positioned the scanner again and again—50 times in all—to create an unmatched record of the reality of one of the world’s most awe-inspiring buildings, represented as a series of points in space. Tallon also took high-resolution panoramic photos to map onto the three-dimensional forms that the laser scanner could create.
+
+“Andrew was relentless at scanning full buildings,” his colleague John Ochsendorf, of MIT, told me. “He would get on top of the vaults and under the roofs to capture the geometry.”
+
+(A year before he died, Tallon posted a brief tour of the upper parts of the choir as a 3-D video to YouTube, embedded below.)
+
+Now, with the building having sustained untold but very substantial damage, the data that Tallon and Blaer created could be an invaluable aid to whoever is charged with rebuilding the structure. Ochsendorf described the data as “essential for capturing [the structure] as built geometry.” (He added, however, that the cathedral, no matter what happens now, “is irreplaceable, of course.”)
+
+Tallon and Blaer’s laser data consist of 1 billion data points, structured as “point clouds,” which software can render into images of the three-dimensional space. Stitch them together, inside and out, map the photographs onto the precise 3-D models, and you have a full digital re-creation of incredible detail and resolution.
+
+“I saw this happening, and I had two thoughts,” Blaer told me of watching the cathedral engulfed in flames. “One thought was that I was kind of relieved that he didn’t actually have to see this happen. But on the other hand, he knew it so well and had so much information about how it’s constructed, he would have been so helpful in terms of rebuilding it.”
+
+Laser scans like Tallon and Blaer’s represent a significant development in the restoration of historic buildings. “Having the scans is incredibly important in any kind of reconstruction,” said Raymond Pepi, the president of Building Conservation Associates, which was the restoration consultant for St. Patrick’s Cathedral in New York City.
+
+Megan Rispoli is a specialist in restoring religious buildings and ruins; she also worked on the St. Patrick’s project with her previous firm, Murphy Burnham & Buttrick. She said the value of the laser-scanning data is that they capture the buildings as they really are.
+
+“It would capture the cathedral in all its true dimension and imperfection,” Rispoli told me. “When you draw a building, you tend to make things perfect right angles, and it helps you make sense of the building. But that isn’t actually what exists.”
+
+For a structure such as Notre-Dame, built over hundreds of years, it’s almost certainly the case that any drawing or archival material about its construction would be incomplete or incorrect, the preservationist and architectural historian Lindsay Peterson told me. Given that, the laser data might be the ground truth in a way that nothing else is.
+
+“Historic drawings or even modern drawings are only accurate up to a certain degree,” said Peterson, now with the preservation consultancy Higgins Quasebarth & Partners. “Laser scans get you accuracy up to the millimeter.”
+
+But there’s a problem with all that detail: That much data requires massive storage and processing power to use. So it tends to be stored quite locally, by just a small number of people. Pepi, for example, said that his firm tends to hold on to the laser data for its project partners, primarily because its clients (such as churches) just don’t have the infrastructure to use it.
+
+The work at Notre-Dame has not yet begun, but it will be a long, long process. Rispoli thought the first step might be emergency shoring for the walls, as the roof has endured so much damage. Then the rebuilding firms will have to assess the integrity of the stone in the rest of the structure. Pepi said that they’d drill holes in the stone to get core samples, and then they’d look at them alongside known good stone from the cathedral to get a sense of “the physical condition and mineralogical properties of the stone.”
+
+But as the cathedral officials and architectural authorities in France and around the world begin to consider what to do, they will come looking for the laser-data files that Tallon created. Blaer estimated that, despite the high resolution of the scans and panoramic photographs, the files would be roughly a terabyte, small enough to fit on a single hard drive, but unlikely to be stored in the cloud. All those data now exist on a single disk, a tiny portal into the past, which is sitting somewhere on Earth. Blaer thought it might be in the hands of Tallon’s students at Vassar. But Ochsendorf thought the data were most likely with the rest of Tallon’s archive, in the possession of his widow, Marie, who held Andrew in her arms as he died.
+
+A cathedral calls us to consider time beyond the boundaries of one life, enclosing us in a grand view of what humanity can do that humans cannot. Andrew Tallon will not reappear among the living, but the work he put into recording stone and wood as it was built by countless hands over time may restore that creation—and embed the man into the place he venerated.

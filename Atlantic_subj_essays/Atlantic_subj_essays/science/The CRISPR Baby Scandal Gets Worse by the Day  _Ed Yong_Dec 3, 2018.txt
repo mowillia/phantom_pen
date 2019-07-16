@@ -1,0 +1,105 @@
+Updated on December 4 at 10:55 a.m. ET.
+
+Before last week, few people had heard the name He Jiankui. But on November 25, the young Chinese researcher became the center of a global firestorm when it emerged that he had allegedly made the first CRISPR-edited babies, twin girls named Lulu and Nana. Antonio Regalado broke the story for MIT Technology Review, and He himself described the experiment at an international gene-editing summit in Hong Kong. After his talk, He revealed that another early pregnancy is under way.
+
+It is still unclear if He did what he claims to have done. Nonetheless, the reaction was swift and negative. The CRISPR pioneer Jennifer Doudna says she was “horrified,” NIH Director Francis Collins said the experiment was “profoundly disturbing,” and even Julian Savulescu, an ethicist who has described gene-editing research as “a moral necessity,” described He’s work as “monstrous.”
+
+Such a strong reaction is understandable, given the many puzzling and worrying details about the experiment. Even without any speculation about designer babies and Gattaca-like futures that may or may not come to pass, the details about what has already transpired are galling enough. If you wanted to create the worst possible scenario for introducing the first gene-edited babies into the world, it is difficult to imagine how you could improve on this 15-part farce.
+
+1. He didn’t address an unmet medical need. 
+
+He focused on a gene called CCR5, which the HIV virus uses as a doorway for infiltrating human cells. To lock the virus out, several scientists have tried extracting the immune cells of HIV patients and deactivating CCR5 using gene-editing techniques before injecting the cells back into the body. Although Nana and Lulu’s father is HIV-positive, neither of the infants actually had HIV. As I’ve written before, He’s team deactivated a perfectly normal gene in an attempt to reduce the risk of a disease that neither child had—and one that can be controlled through safe-sex education or antiviral drugs. Even if you wanted to block CCR5 specifically, there are drugs out there that could do the job, many of which have been repeatedly tested in clinical trials. The rationale for using a method as extreme and untested as gene editing doesn’t hold up.
+
+Deactivating CCR5 doesn’t confer complete immunity to HIV, either, since some strains of the virus can enter cells via a different protein. And although people with natural deficiencies in the gene appear healthy, they might be more susceptible to West Nile virus, and more likely to die when they catch influenza. Essentially, He gave Nana and Lulu resistance to a virus that they could have avoided in myriad other ways, and may have opened them up to other dangers.
+
+2. The actual editing wasn’t executed well. 
+
+He’s data haven’t been published or peer reviewed, so many of the details of his experiment are unclear. But based on the slides that he presented at the Hong Kong summit, other scientists have denounced the work for being amateurish.
+
+For example, it appears that He only managed to edit half of Lulu’s CCR5 genes; the rest are normal. That could either be because every cell in her body has one normal copy of CCR5 and one edited one (she’s heterozygous) or because half of her cells carry two edited genes and half carry two normal ones (she’s mosaic). If it’s the former, she would not be resistant to HIV. If it’s the latter, it depends on whether her immune cells specifically carry the edits. The same might apply to Nana, who, based on the slides, seems to also have normal copies of CCR5 somewhere.
+
+What’s more, the edited cells don’t seem to have been edited in the right way. He planned to delete a small section of the CCR5 gene, mimicking a naturally occurring mutation called delta 32 that’s found in about 10 percent of Europeans. But according to Sean Ryder, a biochemist from the University of Massachusetts Medical School, He’s slides show no sign of delta 32 in either girl. Instead, Lulu has an entirely different CCR5 mutation, and Nana has two. These mutations are in roughly the same part of the gene as delta 32, but “it’s a fairly outrageous assumption that any change to this region would lead to some benefit,” Ryder says. “He made new mutations, and there’s no reason to think that they’d be protective—or even that they’d be safe.”
+
+3. It’s not clear what those new mutations will do. 
+
+At least two of the three mutations that He introduced into Nana and Lulu’s genomes are substantial changes that could alter how CCR5 works. Typically, scientists would introduce the same mutations into mice or other lab animals to see what would happen. If they felt reassured enough to move into human patients, they could recruit patients with HIV, take out some immune cells, introduce the new CCR5 mutations, transplant the cells back, and monitor the volunteers to see if they’re healthy. “That could take months or years, but to do anything less would be cutting corners,” Ryder says.
+
+But He appears to have leapfrogged over all of those basic checks and implanted the edited embryos into a woman. “The children are test subjects for variants that haven’t been vetted in animals,” Ryder says. What’s shocking about this “is the blatant disregard of all the rules and conventions we have in place for how one should approach any proposed intervention,” said Leonid Kruglyak, a geneticist at the University of California at Los Angeles, on Twitter.
+
+4. There were problems with informed consent. 
+
+It’s not clear if the participants in He’s trial were actually aware of what they were signing up for. He relied on an AIDS association to reach out to the patients and falsely described his work as an “AIDS-vaccine development project.” He told delegates at the Hong Kong summit that he personally took the volunteers through the informed-consent process, along with another professor. But taking consent is a specific skill that requires training; He had none.
+
+The consent document that he used describes CRISPR and gene editing, but it does so in heavily technical language. He has said that his patients were “very well educated” and already knowledgeable about gene-editing technology. But according to a news report from the Chinese magazine Sanlian Life Week (which has since been removed, but not before a digital copy was saved and translated), one of the people who dropped out of the experiment had only a high-school understanding of biology, and only heard the term “gene editing” when news stories about He’s experiment broke. The man claimed that he was not informed about the risks of off-target effects, or about the fact that gene editing was a prohibited and ethically controversial technology.
+
+Also, the consent form “is not a consent form,” says Kelly Hills, a bioethicist at Rogue Bioethics. “It’s a business form, of the kind that a company might use when subcontracting.” For example, the section about possible risks says nothing about any negative consequences of deactivating CCR5, and is instead more focused on absolving He’s team of legal responsibility for problems arising from the procedure. The form also gives He’s team rights to use photos of the babies in magazines, calendars, billboards, propaganda, product packaging, and posters in cars and elevators.
+
+5. He operated under a cloak of secrecy …
+
+By his own admission, He didn’t tell his institution, the Southern University of Science and Technology, about the experiment, and took a stint of unpaid leave in February to begin work in secret. The university plans to launch an investigation into the project, which it called a “serious violation of academic ethics and standards” in a statement.
+
+He also claims that he received ethical approval from Shenzhen Harmonicare Hospital. But in a statement, the hospital says that the Medical Ethics Committee never met to discuss such a project, and that the signatures on He’s approval form “are suspected to have been forged.” Meanwhile, He’s laboratory web page has disappeared, as have statements praising his other work on government sites.
+
+6. … but organized a slick PR campaign.
+
+Given how many people He kept in the dark, it is all the more striking that he was simultaneously organizing a public-relations effort. He engaged the services of an American PR consultant, Ryan Ferrell. He created a set of five YouTube videos describing his actions and the rationale behind them. And all of this while the actual technical details of his work have yet to be released in any official publication.
+
+7. A few people knew about He’s intentions but failed to stop him.
+
+Even though He spoke at scientific conferences about his gene-editing research in other animals, he only discussed his ambitions to edit human embryos with a select few. Those included his former adviser Michael Deem of Rice University, who played an active role in the project and was reportedly present in China when several patients were consented. (Deem holds a small stake in He’s two companies, and is under investigation for his involvement in the matter.)
+
+Other scientists were not supportive. As reported in STAT, He also consulted Mark DeWitt of UC Berkeley, who told him not to go ahead with the project. The Associated Press also reported that He expressed an interest in editing human embryos to his former adviser Stephen Quake from Stanford University, who cautioned him in broad terms to seek ethical advice. This February, He also told Stanford’s Matthew Porteus that he had hospital approval to proceed with his experiment. Porteus told the AP that he was angry at He’s naïveté and recklessness, but after chiding him assumed that he would not go ahead.
+
+The chair of the Hong Kong summit, David Baltimore, called the episode “a failure of self-regulation by the scientific community.” Baltimore urged other scientists in the field who learn about experiments like He’s to alert the authorities. But this “See something, say something” approach won’t work, says Hills, the bioethicist. “Would scientists actually recognize a bad actor if one was working with them?” she says. “The answer is no. We simply assume that if someone is a colleague, they have shared values.”
+
+“And who do you say something to?” she adds. “We don’t have an international group that oversees gene editing.” China is unusual in that it actually does have a medical-ethics agency that oversees all medical research in the country, and that Porteus or others could have contacted. The United States does not specifically prohibit the gene-editing work that He did, unless it was federally funded. But Hank Greely, an ethics and law professor at Stanford, notes that the step of implanting the embryos would count as distributing a new drug without FDA approval. That’s a federal crime, Greely notes.
+
+8. He acted in contravention of global consensus. 
+
+To the extent that there was any global consensus about using gene-editing technologies on human embryos, it was: Don’t rush into it. That was the feeling in 2015 when the U.S. National Academies of Sciences, Engineering, and Medicine convened an international summit of scientists, ethicists, and others to discuss the topic. And it was the view of a landmark report that the same group published in 2017.
+
+The report did not call for an outright ban on germ-line gene editing—that is, altering the DNA of sperm, eggs, or embryos in ways that could cascade through generations—but said that “there is a need for caution.” It should only be done in clinical trials with “rigorous oversight,” “maximum transparency,” and an “absence of reasonable alternatives,” and only after “much more research to meet appropriate risk/benefit standards” and “broad participation and input by the public.”
+
+He’s work, which was both rushed and cloaked in secrecy, clearly did not fit these criteria. And as reported by Antonio Regalado at MIT Technology Review, He wrote in the ethics proposal that accompanied his experiment that the National Academies in their 2017 report had “for the first time” approved germ-line gene editing in human embryos to treat or prevent serious disease. It’s as if he took the absence of a red light as a green one.
+
+9. He acted in contravention of his own stated ethical views. 
+
+In July 2017, He spoke at a conference at Cold Spring Harbor Laboratory. He didn’t mention his plans to edit human embryos, but he brought up the case of Jesse Gelsinger, an American teen who died in a botched gene-therapy trial in 1999. To avoid such deaths, and the chilling effect that they can have on research, He urged scientists to move cautiously before editing the genome of embryos.
+
+He also published a paper in The CRISPR Journal that lays out ethical principles, such as transparency, that he himself violated. The paper was in the works well before the news of the babies broke, and was published two days afterward. Ryan Ferrell, He’s PR consultant, is one of the co-authors.
+
+10. He sought ethical advice and ignored it. 
+
+Sharon Begley at STAT reports that He spoke at length with bioethicists William Hurlbut at Stanford University, as well as his son Benjamin Hurlbut at Arizona State University, neither of whom was aware of He’s plans. The elder Hurlbut spent time telling He about opposition to the instrumental use of human embryos in the United States, and the grounds for believing that human life begins at conception. But despite those discussions, He proceeded with his experiments and seems, by Hills’s reading, to have “developed his own personal code that reads like what you would expect from a freshman in the first weeks of Bioethics 101.” *
+
+11. There is no way to tell whether He’s work did any good. 
+
+Both Nana and Lulu will be monitored at least until they turn 18. But “the children were already at virtually no risk of contracting HIV,” said Alta Charo, a bioethicist from the University of Wisconsin at Madison, in a statement. This means that “there is no way to evaluate if this indeed conferred any benefit. If they remain HIV-negative, there is no way to show it has anything to do with the editing.”
+
+At the Hong Kong summit, He was asked whether the two children would be treated differently by their parents, who will know that they have been edited. “I don’t know how to answer this question,” He said.
+
+12. He has doubled down.
+
+If He shows any contrition about how these events have unfolded, it has not been obvious. Speaking at the Hong Kong summit, he apologized, but only because news about his work “leaked unexpectedly” before he could present it in a scientific venue. That, He said, took away from the community. Regarding the experiment itself, he said: “I feel proud.”
+
+13. Scientific academies have prevaricated.
+
+In the wake of He’s bombshell, several scientists, including the CRISPR pioneer Feng Zhang and the stem-cell biologist Paul Knoepfler, have called for a temporary moratorium on similar experiments. By contrast, after the news first broke, the organizing committee of the Hong Kong summit, which includes representatives from scientific academies in Hong Kong, the United Kingdom, and the United States, released a bland statement in which it simply restated the conclusions from its earlier report. A second statement, released after the summit, was stronger, calling He’s claims “deeply disturbing” and his work “irresponsible.”
+
+But the second statement still discusses the creation of more gene-edited babies as a goal that should be worked toward. The risks are “too great to permit clinical trials of germ-line editing at this time,” it says, but “it is time to define a rigorous, responsible translational pathway toward such trials.” George Daley from Harvard Medical School, who was one of the meeting’s co-organizers, made similar points during the event itself. Given that the world is still grappling with the implications of what has happened, “no, it’s not time yet and it’s tone-deaf to say so,” says Hank Greely.
+
+“Although the chair opened the summit by invoking Huxley’s Brave New World, few of the discussions at the meeting, and nothing in the concluding statement, suggest a meaningful engagement with social consequences,” says the Center for Genetics in Society, a watchdog group.
+
+14. A leading geneticist came to He’s defense.
+
+In an interview with Science, George Church, a respected figure from Harvard and a CRISPR pioneer, said that he felt “an obligation to be balanced about” the He affair. Church suggested that the man was being bullied and that the “most serious thing” about his experiment was “that he didn’t do the paperwork right.” “[Church’s] comments are incredibly irresponsible,” says Alexis Carere, who is president-elect of the Canadian Association of Genetic Counsellors. “If someone contravenes the rules that we have laid down, we are very justified in speaking out about it. The unfortunate effect of this is that it makes it seem like there is some kind of balance, and George is just in the middle. There is not.”
+
+Carere was also dismayed at the rest of the interview Church gave, where “every sentence was a new ethical maxim that I had never heard of,” she says. For example, Church noted that “as long as these are normal, healthy kids it’s going to be fine for the field and the family.” But unethical actions are still unethical, even if nothing goes wrong. Arguing otherwise gives a pass to scientists who blow past ethical norms, provided that they find something interesting. “It’s bizarro-land consequentialist ethics,” Carere says.
+
+15. This could easily happen again.
+
+Last year, the world learned that a group of scientists had resurrected a virus called horsepox. Several researchers and ethicists criticized that work, arguing that it would make it easier for others to recreate the related (and far more dangerous) smallpox virus. As I wrote in October, regardless of the risks or merits of the experiment, it reveals a vulnerability at the heart of modern science. That is: Small groups of researchers can make virtually unilateral decisions about experiments that have potentially global consequences, and that everyone else only learns about after the fact.
+
+He Jiankui’s experiment reveals that vulnerability in the starkest-possible light.
+
+* This section previously and erroneously grouped the views of William and Benjamin Hurlbut together. It mischaracterized the nature of the conversation between He and Benjamin Hurlbut. It has also been revised to clarify William Hurlbut’s stance on the ethics of embryo use, which do not, as previously stated, arise from conservative religious beliefs.

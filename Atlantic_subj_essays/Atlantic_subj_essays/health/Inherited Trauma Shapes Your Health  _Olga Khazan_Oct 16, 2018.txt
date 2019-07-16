@@ -1,0 +1,47 @@
+Often when I complain to my therapist about how stressed out I am by a problem I’m having, she says a variation on the same thing:
+
+“Well, like all Ashkenazi Jews, you have a lot of intergenerational trauma. You know, because of everything that’s ... happened.”
+
+Of course you’re anxious, she seems to say; you’re Jewish! I think it’s meant to help me feel more at peace with my emotions, but I must admit I find this response deeply unsatisfying.
+
+I am, of course, grateful that my life is easier than the lives of my relatives—Jewish and otherwise—who survived World War II. At the same time, I can’t do anything about the fact that the Holocaust happened, so I don’t want to spend time thinking about its effects on my cortisol levels. I can, however, write the perfect email to get myself out of a scrape, or find a way to stop thinking about why I didn’t get some plaudit or another.
+
+“The Jews have nothing to do with it!” I always want to say in response, as though I’m debunking some George Soros–related conspiracy.
+
+But a growing body of evidence suggests my therapist might be right and I’m wrong.
+
+The most recent chapter is a new study in the Proceedings of the National Academy of Sciences this week by researchers from the National Bureau of Economic Research. They found that the sons of Union Army soldiers who endured grueling conditions as prisoners of war were more likely to die young than the sons of soldiers who were not prisoners. This is despite the fact that the sons were born after the war, so they couldn’t have experienced its horrors personally. In other words, it seemed like the stresses of war were getting passed down between generations.
+
+The effects on longevity showed up for the sons of men who were imprisoned in 1863 and 1864, when conditions in POW camps were especially bad. Crowding was extreme—each man was said to have had a grave’s worth of square footage to himself—and deaths from diarrhea and scurvy were common.
+
+Because the study authors controlled for other factors that might have influenced the sons’ longevity, like socioeconomic status and the quality of the parents’ marriages, they believe this effect on mortality is working through epigenetics, or the process by which genes are switched on and off. These epigenetic changes are inherited by later generations, setting diseases in motion.
+
+“It’s either the stress of war or the malnutrition of war or both,” said Randy L. Jirtle, an epigenetics researcher at North Carolina State University who was not involved in the study. “The stress on the system moves the machinery to put down or not put down epigenetic markers.”
+
+Jirtle explains the epigenome as a type of software that runs on the computer-like cell. The epigenome can affect lots of different cells, just as a software program can be run on many different computers. He thinks this study might help explain why states in the southern United States—which had more severe food shortages during and after the Civil War—have worse health outcomes today.
+
+Epigenetic links have also been established in animal studies. For example, mice that have been taught to fear the smell of cherries when it was paired with an electric shock had children and grandchildren that also showed signs of anxiety when exposed to the odor, even though they had never “learned” the painful association.
+
+Other research in humans has suggested there’s something beyond our genes and environment that’s affecting our health, but the Civil War study is one of the first to study the effects of war specifically. The “Hunger Winter” studies in the Netherlands in 1944 showed that people conceived during a particularly brutal winter famine, when adults were eating 400 to 800 calories per day, were more likely to have heart disease as adults compared with those who were in the womb during more prosperous times. Perhaps more surprisingly, the children of men who endured the famine while in the womb were more likely to be obese.
+
+A 2014 study showed that sons (but not daughters) of fathers who began smoking before the age of 11, when they began to produce sperm, were fatter than those whose fathers started smoking later, after their sperm had already formed. Stress from racism might cause similar epigenetic changes: People who have experienced racial discrimination have more of a type of epigenetic change called methylation on the genes that affect schizophrenia, bipolar disorder, and asthma than people who have not.
+
+In 2016, Rachel Yehuda of Mount Sinai hospital and her colleagues found that Holocaust survivors and their children both had evidence of methylation on a region of a gene associated with stress, suggesting that the survivors’ trauma was passed onto their offspring. The paper was criticized for, among other things, having a small sample size and not looking at the third and fourth generations of descendants of the Holocaust survivors.
+
+The current Civil War paper overcomes some of these drawbacks, since it looked at thousands of veterans and their children. But the study examined only the statistics, not the genes themselves, so the idea that the connection is epigenetic is more like conjecture, or a process of elimination. The authors would have to follow the sample through further generations to know for sure.
+
+And those are only some of the uncertainties when it comes to epigenetics. We don’t yet know, for example, which genes to look at for epigenetic changes. Or how epigenetic markers might survive the power-wash-like fertilization process. Confusingly, some studies have found that stressful times our grandparents experienced might actually be beneficial for future generations. One study found that people who were undernourished at age 9 had grandchildren with better mental health. Studies performed on a series of poor 19th-century harvests in Överkalix, Sweden, found that grandsons of men who had bountiful harvests during childhood actually died younger than expected, but granddaughters of women who were in the womb during a famine were also at a higher risk of death at a young age.
+
+Lars Olov Bygren, the author of the Överkalix studies, told me this could be because it’s beneficial for our grandparents to have plenty of food before age 10, but after that age, something switches, and it’s in the best interest of our own longevity for them to be slightly undernourished. Jirtle, meanwhile, says that the contradictory findings show up because while too little food is bad, so is too much food. Ideally, our grandparents should be stressed just enough, but not too much.
+
+In another twist, the Civil War paper shows that the sons could be protected from their fathers’ trauma if their mothers had good nutrition while they were pregnant, which is something that’s consistent with epigenetic research.
+
+“By no means is it saying that whenever there’s trauma, that means it’s going to be transmitted,” Dora Costa, the lead author of the Civil War study and an economist at UCLA, told me. “The epigenetic story is optimistic because it allows for the possibility of reversibility through maternal nutrition.”
+
+Jirtle, for example, has found that dietary supplements fed to a mother mouse were able to protect baby mice from exposure to a chemical called BPA. “As Hippocrates basically stated two millennia ago, food is medicine,” Jirtle told me.
+
+I asked Jirtle if there’s anything we can do, short of demanding to see our mother’s food diaries during pregnancy, to try to erase some of our ancestors’ traumas. Jirtle says we still need more research to figure out such answers. But he pointed out that in Costa’s study and some others, the blow to longevity held true only for the sons of POWs, not daughters. Costa believes the epigenetics are being transmitted through the Y chromosome only.
+
+Because of that, Jirtle suggested I might be “home free.”
+
+Just not if you ask my therapist.

@@ -1,0 +1,35 @@
+
+
+Subscribe to Crazy/Genius: Apple Podcasts | Spotify | Stitcher | Google Play
+
+Rachel Cicurel, a staff attorney at the Public Defender Service for the District of Columbia, was used to being outraged by the criminal-justice system. But in 2017, she saw something that shocked her conscience.
+
+At the time, she was representing a young defendant we’ll call “D.” (For privacy reasons, we can’t share D’s name or the nature of the offense.) As the case approached sentencing, the prosecutor agreed that probation would be a fair punishment.
+
+But at the last minute, the parties received some troubling news: D had been deemed a “high risk” for criminal activity. The report came from something called a criminal-sentencing AI—an algorithm that uses data about a defendant to estimate his or her likelihood of committing a future crime. When prosecutors saw the report, they took probation off the table, insisting instead that D be placed in juvenile detention.
+
+Cicurel was furious. She issued a challenge to see the underlying methodology of the report. What she found made her feel even more troubled: D’s heightened risk assessment was based on several factors that seemed racially biased, including the fact that he lived in government-subsidized housing and had expressed negative attitudes toward the police. “There are obviously plenty of reasons for a black male teenager to not like police,” she told me.
+
+When Cicurel and her team looked more closely at the assessment technology, they discovered that it hadn’t been properly validated by any scientific group or judicial organization. Its previous review had come from an unpublished graduate-student thesis. Cicurel realized that for more than a decade, juvenile defendants in Washington, D.C., had been judged, and even committed to detention facilities, because the courts had relied on a tool whose only validation in the previous 20 years had come from a college paper.
+
+The judge in this case threw out the test. But criminal-assessment tools like this one are being used across the country, and not every defendant is lucky enough to have a public defender like Rachel Cicurel in his or her corner.
+
+In the latest episode of Crazy/Genius, produced by Patricia Yacob and Jesse Brenneman, we take a long look at the use of AI in the legal system. Algorithms pervade our lives. They determine the news we see and the products we buy. The presence of these tools is relatively obvious: Most people using Netflix or Amazon understand that their experience is mediated by technology. (Subscribe here.)
+
+But algorithms also play a quiet and often devastating role in almost every element of the criminal-justice system—from policing and bail to sentencing and parole. By turning to computers, many states and cities are putting Americans’ fates in the hands of algorithms that may be nothing more than mathematical expressions of underlying bias.
+
+Perhaps no journalist has done more to uncover this shadowy world of criminal-justice AI than Julia Angwin, a longtime investigative reporter. In 2016, Angwin and a team at ProPublica published a detailed report on COMPAS, a risk-assessment tool created by the company Equivant, then called Northpointe. (After corresponding over several emails, Equivant declined to comment for our story.)
+
+In 2013, a Wisconsin man named Paul Zilly was facing sentencing in a courtroom in Barron County. Zilly had been convicted of stealing a lawn mower, and his lawyer agreed to a plea deal. But the judge consulted COMPAS, which had determined that Zilly was a high risk for future violent crime. “It is about as bad as it could be,” the judge said of the risk assessment, according to the ProPublica report. The judge rejected the plea deal and imposed a new sentence that would double Zilly’s time in prison.
+
+Angwin and her team wanted to know more about the COMPAS algorithm: It seemed unfair, but was it truly biased? They got access to the COMPAS scores of 7,000 people arrested in Broward County, Florida, and compared those scores with the criminal histories of those same people over the next few years. “The score proved remarkably unreliable in forecasting violent crime,” they found. “Only 20 percent of the people predicted to commit violent crimes actually went on to do so.” They also concluded that the algorithm was twice as likely to falsely flag black defendants as future criminals as it was to falsely flag white defendants.
+
+There’s another concern about algorithms such as COMPAS. It’s not just that they’re biased; it’s also that they’re opaque. Equivant doesn’t have to share its proprietary technology with the court. “The company that makes COMPAS has decided to seal some of the details of their algorithm, and you don’t know exactly how those scores are computed,” says Sharad Goel, a computer-science professor at Stanford University who researches criminal-sentencing tools. The result is something Kafkaesque: a jurisprudential system that doesn’t have to explain itself.
+
+Goel dislikes COMPAS’s opacity. But he’s a cautious advocate for algorithms in the legal system, more broadly. “Everything that happens in the criminal-justice system involves a human in some way, and every time a human is involved, there’s always this potential for bias,” he told me. “We already have black boxes making decisions for us all the time, but they just happen to be sitting in black robes.”
+
+For proof that algorithms can play a positive role, Goel points to New Jersey. In 2017, the state eliminated cash bail in almost all cases, except when judges consult a risk-assessment algorithm that determines the defendant is a high risk for future crimes. Last year, The Star-Ledger reported that violent crime had fallen more than 30 percent since 2016. To Goel, this shows that public algorithms can be part of a larger plan for states to slash incarceration and still reduce overall crime by identifying defendants who are most likely to violently recidivate.
+
+“I don’t think we can make perfectly fair decisions,” Goel said. “But I think we can make better decisions. And that’s where these algorithms are coming into play.”
+
+This article is part of our project “The Presence of Justice,” which is supported by a grant from the John D. and Catherine T. MacArthur Foundation’s Safety and Justice Challenge.

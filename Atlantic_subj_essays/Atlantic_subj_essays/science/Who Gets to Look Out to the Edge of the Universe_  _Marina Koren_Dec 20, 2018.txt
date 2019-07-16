@@ -1,0 +1,37 @@
+The cosmos would seem like a dull and desolate void if it weren’t for the Hubble Space Telescope. The space-based observatory has revealed a trove of colorful, cosmic wonders, from sparkling stars and galaxies, to glowing clouds of gas and dust, to the glittering shards left behind after a supernova. Hubble has found these cosmic jewels scattered across the universe and followed them back in time, reaching almost to the Big Bang.
+
+The work behind this celestial catalog begins back on Earth, at the Space Telescope Science Institute in Maryland. Each year, the institute receives more than 1,000 proposals from scientists around the world asking for a piece of Hubble’s busy observation schedule. The process is quite competitive: Only about 200 proposals are accepted, selected by committees of astronomy experts.
+
+Unfortunately, the process may be flawed, too. In 2014, the Space Telescope Science Institute noticed a pattern: In more than a dozen review cycles since 2001, proposals led by men consistently did better than proposals led by women. The Institute’s leadership wondered whether the way they assessed proposals had something to do with it; under the current system, reviewers know the identities of applicants—including their gender—but applicants don’t know the identities of reviewers. It’s a standard setup in the sciences, from telescope proposals to paper submissions, but perhaps it had allowed subtle biases to creep in.
+
+This year, the institute decided to conduct a double-blind review of Hubble proposals, which hid nearly all information about applicants, including gender, from reviewers. Of the 351 male-led proposals, 28 were picked. Of the 138 female-led proposals, 12 were chosen. That translates into an 8.7 percent success rate for female researchers, and 8 percent for male researchers.
+
+Under the new review system, the disparity that Hubble’s decision-makers had seen year after year had disappeared.
+
+Priyamvada Natarajan, a theoretical physicist at Yale who led the effort, said she was surprised at the outcome. “I was ready to see a small change, but not complete parity,” she said.
+
+But she wasn’t surprised that the years-long pattern had been broken. Research has found ample evidence that men and women are evaluated differently in the same settings, and the Hubble program is no different, she said.
+
+“I firmly believe that conscious and unconscious bias both operate quite strongly in these kinds of reviews,” Natarajan said. “They’re not entirely objective.”
+
+Last year, the Space Telescope Science Institute brought in some outside researchers to sit it on reviewer discussions and evaluate the process. They reported that nearly half of all discussions included some focus on the applicants rather than the science in their proposals. “He is very well qualified,” one reviewer said. “My group has benefited a lot from previous work from this team,” said another. To the outside consultants, this process wasn’t objective at all. They recommended that the institute implement a fully anonymous review system.
+
+The new system presented reviewers with applications without any names or identifying details. Outside observers were brought in to listen to their discussions again. This time, the tenor of the deliberations was different. “It was really noticeable how the discussion were really focused much more on the science,” said Natarajan, who has participated in the discussions of both settings. Some of the reviewers said it was “almost liberating” to focus on the science of the proposals, and not on the people who wrote them.
+
+If they wanted, reviewers could learn about the applicants after they made their final decisions. The institute had applicants submit separate documents detailing their backgrounds and expertise, just in case reviewers wanted to make sure that the team could, in fact, execute their proposals. Natarajan said the majority of reviewers didn’t seek out those documents. “They were like, it doesn’t matter, we are confident that we picked the best science,” she said.
+
+Natarajan cautions that it’s too early to determine whether gender biases are the only biases that played a role in the process and, if they did, by how much. The review process wasn’t a controlled experiment. “We have to continue this, and it’ll take time to see whether these trends hold up,” she said.
+
+The pattern that the Hubble program identified in its reviews is not new, and it affects some of the most powerful—and coveted—telescopes around the world. A 2016 survey of more than 13,000 applications to the European Southern Observatory, which operates several ground-based telescopes, found that female applicants had significantly lower chances of getting telescope time. Another 2016 analysis, of applications to the National Radio Astronomy Observatory, which also runs ground-based telescopes, found the same effect. This year, an analysis of requests for Canadian telescopes found that proposals written by women were rated significantly worse than those by men. In all these cases, reviewers were aware of the identities of the applicants.
+
+Some institutions have implemented anonymous review process in an attempt to protect against potential perceptions of bias. The journal Biological Conservation switched from single- to double-blind reviews in 2014, not because it had seen any evidence of bias in its process, it said, but just in case. “This will ultimately be in the best interests of furthering conservation science.” Nature and its suite of journals followed suit in 2015, offering researchers the choice between the two systems, but analyses have shown that the number of study authors who actually opt for an anonymous review is low.
+
+Space Telescope Science Institute officials say they will continue to use double-blind reviews. Natarajan hopes that over time, researchers can focus on other factors beyond gender, like country of origin, university or institution affiliation, and how well-known applicants are in their field. But this experiment is getting quite the late start. Hubble launched 28 years ago, and the observatory is aging. Engineers don’t know exactly when Hubble may stop functioning, but they are prepared for that moment to come soon.
+
+I asked Natarajan whether she was frustrated that officials decided to overhaul the proposal system now, when requests for Hubble are bound to become even more competitive, and time is running short. What else could Hubble had seen, if the process had been different, if the pool of applicants were more diverse?
+
+“It’s a bit upsetting that there was more struggle than needed to be because basically the system was rigged and the playing field was simply not level,” Natarajan said.
+
+Officials are looking ahead to the next great space telescope, the James Webb, which will be 100 times more powerful than Hubble. Webb is scheduled to launch in 2021. Ken Sembach, the director of the Space Telescope Science Institute, said the organization is considering using double-blind reviews for Webb proposals from the outset, but hasn’t made a formal decision yet. “We are still reviewing the results from the recent Hubble review and wish to discuss them with our stakeholders at NASA and in the science community,” he said.
+
+Natarajan feels like the decision has already been made. For her, the results of even one round were encouraging enough. “I think those days are gone,” she said of single-blind reviews. “The impact is so obvious that there’s just no way that we can go back now.”

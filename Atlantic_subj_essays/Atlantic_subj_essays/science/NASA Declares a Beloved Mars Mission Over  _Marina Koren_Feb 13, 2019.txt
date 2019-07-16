@@ -1,0 +1,43 @@
+Updated at 2:40 p.m. ET on February 13, 2019.
+
+The Mars probe came barreling in. It streaked through the planet’s atmosphere at about 12,000 miles per hour. With the surface in sight, its parachute unfurled. The probe fired its rockets to slow itself down, and inflated its airbags to cushion the landing. Touching down gently, it bounced across the clay-colored terrain.
+
+When the dust settled, the probe unwound itself, like a flower opening toward the sun, and revealed its cargo: a rover, no bigger than a golf cart.
+
+The rover, named Opportunity, was sent to study what the Martian surface was made of and search for signs of a watery past. If life had ever existed on this other planet, the composition of the alien dust, soil, and rock might hint at its nature. The rover’s work was slow and precise. For years, it rolled over plains and craters, digging into the ground and relaying its findings to Earth.
+
+Then, last summer, it stopped. On Tuesday, following months of attempts to regain contact, the Opportunity team sent a final set of commands to the rover. After receiving no response, NASA announced that the Opportunity mission, after nearly 15 years, was officially over.
+
+“I was there with the team, as the commands went out into the deep sky. And I learned this morning that we had not heard back,” Thomas Zurbuchen, associate administrator of NASA’s science division, said in a press conference. “It is therefore that I’m standing here with a sense of deep appreciation and gratitude that I declare the Opportunity mission as complete.”
+
+In June 2018, an enormous dust storm clogged the Martian atmosphere, blocking sunlight from reaching the surface. Opportunity, a solar-powered rover, couldn’t charge its batteries in the darkness and entered a deep sleep.
+
+Engineers at NASA’s Jet Propulsion Laboratory made more than 1,000 attempts to rouse Opportunity. The rover did not respond, even as the storm passed in September. The team held out for a windy season in January, which could wipe off any dust coating the rover’s solar panels. They ran out of options. Engineers transmitted a final set of commands to Opportunity on Tuesday night—one last chance—and received nothing but silence in return.
+
+During its years on Mars, Opportunity crept along at a tiny fraction of a mile per hour. A robotic arm burrowed into the surface, exposing fresh rock, and scooped soil samples for analysis. Scientists back on Earth delighted as Opportunity returned detailed images of the landscape, and when the rover found evidence that Mars once had water, enough to support microbial life.
+
+The engineers sent the commands, directing the rover where to drive and what to inspect, but it seemed, at times, as if Opportunity was doing the work on its own. The rover’s communication with mission control felt less like data transmissions from a mindless robot, and more like dispatches from a curious explorer.
+
+The end of Opportunity leaves only one functioning rover on Mars: Curiosity. Curiosity arrived on the planet in 2012 and, despite some technical problems of its own last year, is in good health. The rover is on the opposite side of the planet, and with Opportunity shut down, “we basically lost our surface presence on one half of Mars,” says Mike Seibert, a former Opportunity flight director. (Seibert was around for the last massive dust storm on Mars, in 2007, which the rover survived just fine.)
+
+Curiosity doesn’t have the time or speed to trundle over and check on its friend. The only views NASA has of Opportunity come from robotic spacecraft that orbit Mars, like satellites circle the Earth. From here, Opportunity is a fuzzy smudge against a vast, rugged landscape.
+
+For engineers and scientists, the pain of the mission’s demise is softened by this fact: Opportunity was supposed to die years ago. It was one of two rovers NASA landed on Mars in 2004. The other, named Spirit, touched down on the other side of the planet. The missions were expected to last three months, but they kept going for years.
+
+Spirit met its end in 2009. While exploring, the rover broke through some crust and slipped into a sand pit. Engineers commanded the rover to wiggle its wheels, but it was stuck. For the first time in its mission, Spirit wouldn’t be able to drive to a north-facing slope. The rovers looked for these slopes each winter, where their solar arrays could absorb as much sunlight as possible each day. “We saw it coming,” Steve Squyres, the principal investigator for both rovers, told me. “I knew from day one, if Spirit has to spend a winter on flat ground, that was going to be Spirit’s last winter.”
+
+Opportunity was in good shape when the skies darkened last year. It was exploring a valley that might have been carved by powerful winds or flowing water. Over the years of the rover’s journey on Mars, mission planners had stared for hours at high-resolution images of the terrain to find intriguing spots for it to investigate. In total, the rover drove 28 miles, more than a marathon.
+
+As engineers prepared to transmit their final commands, through massive radio antennae positioned around the world, the mood at JPL was somber, according to Tanya Harrison, a scientist on the mission.
+
+“The rover surpassed every single expectation we could’ve possibly had,” Harrison says. “But I’m not sure anything can fully prepare you for the wave of emotion of hearing a mission you work on is coming to an end.”
+
+Harrison and her colleagues now find themselves members of a rather depressing club in space exploration: scientists, engineers, and other NASA staff who have devoted years, sometimes decades, of their lives to spacecraft that eventually broke, exploded, or even disintegrated in the atmosphere of a planet. Some have compared the pain of ending a mission to losing a family member. “It’s like you have a loved one in a coma in the hospital,” John Callas, the Opportunity project manager, told reporters last year. “The doctors are telling you that you just got to give it time and she’ll wake up, all the vital signs are good, it’s just waiting it out.”
+
+Curiosity won’t be alone for long. NASA’s next rover is expected to land on the planet in February 2021. Another rover, built by the European Space Agency, will arrive in the same year.
+
+They will follow in Opportunity’s tracks, casing the Martian rock for signs of life, present and ancient. Perhaps someday, more complex spacecraft will join them, not to stay, but to collect samples and fly back to Earth, delivering chunks of another planet for scientists to study for themselves.
+
+Until then, Curiosity bears the burden of maintaining the rover streak on Mars, set in 2004 with Opportunity and Spirit.
+
+“There are high-school freshmen this year that have lived their entire lives with functioning Mars rovers,” Seibert says. “I think everyone is going to be like, Don’t break the car. It’s the only one we’ve got.”

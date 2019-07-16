@@ -1,0 +1,43 @@
+There is a very small chance that you came across what appeared to be an Atlantic article about the war in Yemen in September 2017. The author, according to the byline, was Aria Bendix, a regular global-news writer. Every link in the story went to other Atlantic stories. It even included the module shilling lowbrow content slurry that used to appear on Atlantic articles, at the bottom of the page.
+
+On first glance, that is to say, you might not have known that you were looking at a counterfeit story, produced as part of a global disinformation campaign that was recently unearthed by researchers at Citizen Lab, at the University of Toronto.
+
+But that’s what it was, one of many such inauthentic articles created by an ongoing campaign called Endless Mayfly, which Citizen Lab describes as “an Iran-aligned network of inauthentic websites and online personas used to spread false and divisive information primarily targeting Saudi Arabia, the United States, and Israel” in a new report published Tuesday. The disinformation project put out 160 articles that targeted 20 legitimate news organizations, including The Atlantic, The Guardian, and The Globe and Mail.
+
+Once the articles were created, they were pushed by a network of Twitter bots. These bots tweeted the fake Atlantic story more than 2,700 times, using a Google URL shortener that would have initially masked the fact that the article was not published on TheAtlantic.com.
+
+The fake story, which Citizen Lab preserved, is a fascinating artifact of our new disinformation age. The page exploits the open nature of the web’s underlying code, the frenzied nature of online news consumption, and people’s basic trust that a website is what it looks like.
+
+“It’s just painfully easy to pull one over on the layperson,” Bendix told me, “which is really, really frustrating given how much you put into your work as a journalist.”
+
+Looked at another way, it’s Adbusters-style culture jamming perverted into an instrument of geopolitics. Scammers and spammers have always tried to surf on the legitimacy of real journalism outfits, but faking news articles can’t be much of a business when most news organizations can’t make money themselves. The entrance of state-aligned actors into the world of fake reporting has changed the nature of the threat posed by “information operations,” as Facebook security researchers noted after the 2016 election. “We have had to expand our security focus from traditional abusive behavior, such as account hacking, malware, spam and financial scams,” they wrote, “to include more subtle and insidious forms of misuse, including attempts to manipulate civic discourse and deceive people.”
+
+But of course, this isn’t true only on Facebook. It’s easy to knock off the look of any page on the internet. Right now you can look at the source code for this webpage and download all its elements to make your own Atlantic look-alike pages.
+
+Walking through the story, I can show you how someone who works at this publication would spot the fake. These tricks won’t work in every context; Endless Mayfly was not the most sophisticated effort. But they can at least draw your attention to the elements that are likely to give away an information-operations spoof.
+
+Of course, to the experienced eye, some things about the fake article are immediately noticeable. The headline—“A shocking document shows the shameful acts of Saudis and Emiratis for hiding human rights abuses in Yemen”—was, by our publication’s standards, long and overwrought. But the real giveaway is simpler. It was written in what is called sentence case,  which means only the first word is capitalized. The Atlantic uses title case, in which every major word is capitalized.
+
+Your next stop would probably be at the URL. Here it is:
+
+http://theatlatnic.com/international/archive/2017/09/shocking-document-shameful-acts-saudi-emiratis-cover-human-rights-abuses-yemen/549410/
+
+You may or may not have noticed theatlatnic.com. Our brains are very good at unscrambling words nearly automatically. Some organizations buy URLs with common typos and redirect them to their own domains, so Googl.com will send you to Google.com. You can see when any domain was registered, and theatlatnic.com was registered on August 12, 2018, by a Chinese domain registrar.
+
+The next sign of fakery: The author bio at the end of the story does not match the byline. So, while Bendix’s name was on top, the Atlantic contributing editor Peter Beinart’s author bio appeared on the bottom. (As you might imagine, journalists are extremely sensitive to this kind of mistake, and though it might happen because of a coding bug, it would be fixed nearly immediately.)
+
+And then there is the content. The story begins:
+
+Saudi FM Adel Al-Jubeir wrote a letter titled “Necessary steps for confronting the Netherlands for creation of an independent inquiry examining the human rights situation in Yemen within the framework of the Human Rights Council in Geneva” to the Chief of the Royal Court and Special Secretary to the King of Saudi Arabia which is handed over to The Atlantic by an informed source.
+
+This is not how most magazine prose goes.
+
+“I went back and read the full thing, and I knew instantly it wasn’t mine,” Bendix, the purported author, said. “All the giant block quotes. I wouldn’t do that.”
+
+The lede also doesn’t spell out F(oreign) M(inister), which American news organizations would. The sentence is grammatically flawed. The rest of the article displays a similar lack of familiarity with journalistic conventions. As good as the design knockoff was, the text was a terribly amateurish counterfeit.
+
+And the tweet distribution was equally bad. As far as Citizen Lab could tell, all 2,700 of the tweets to the fake story may have yielded only a few thousand clicks. Does that influence much? Even multiplied across more than a dozen similar efforts with other publications like The Guardian and The Globe and Mail?
+
+Directly, it seems highly unlikely. But on three occasions, legitimate news organizations—Reuters, Le Soir, and Haaretz—picked up a fake story and ran with it. In the Reuters case, this led to a burst of attention from other sites before a retraction was published.
+
+These efforts will get more sophisticated. For now, though, paying close attention to the form and content of a news article is probably a robust enough inoculation against this new informational virus.

@@ -1,0 +1,141 @@
+Denise was already late, even before her augmented-reality glasses decided to perform another endless system update.
+
+Updating …
+Updating …
+
+She drummed her fingers on the steering wheel of her car. She could not afford to be late for her first appointment of the day. Being late meant being rushed, and a rushed pitch would almost always turn into a failed pitch. She’d been emphatically reminded of that at her last performance review. She’d also been reminded that she needed to fail a lot less, if she wanted to keep her job.
+
+Update complete. Please restart to initiate Pharmanalysis v8.5 for DataPoint View Glasses.
+
+She could not afford to be late. But until she restarted her Glasses, she wouldn’t be able to see her calendar, and she needed to see her calendar to find out where her first appointment was.
+
+Denise had become a pharmaceuticals representative because it promised independence. The Glasses were not in charge of her life or her choices, she reminded herself. They were just a tool. They could not tell her what to do.
+
+She restarted the Glasses as instructed.
+
+Welcome, Denise. The time is 10:35 a.m.
+Reminder: 10:30 a.m. Dr. Tobias Booten, Galvanyl sales meeting
+
+Dr. Booten. She hadn’t worked with him before, and medical office buildings were a maze. Denise selected the appointment and waited for a navigational overlay to appear in her field of vision, guiding her from the parking lot to Dr. Booten’s office—but instead of the overlay, there was another prompt.
+
+Congratulations! Your DataPoint View Glasses have been updated.
+
+Initiate tutorial for new features?
+
+> Now
+> Later
+> Dismiss
+
+Irritably, Denise selected “dismiss” with a more emphatic gesture than the user interface required. She didn’t have time for this. Again, she selected the calendar appointment and waited for the navigational overlay.
+
+You are currently 10 minutes late for your appointment with Dr. Tobias Booten.
+
+“I know,” Denise hissed under her breath. She dismissed the notification and returned to the calendar appointment. Finally, finally, a blue navigational overlay appeared across both lenses of her Glasses, showing her how to get to her appointment. She would get there late, but at least she would get there.
+
+Better late than never.
+
+The new navigational overlay was better than the old one in ways Denise could not have articulated if asked, but that was not the part of the system update that she was excited about.
+
+She was most excited to try out the new version of DataShare. Getting a live stream of information about her sales targets would go a long way toward reducing the number of failures she had to explain.
+
+She walked into Dr. Booten’s office, apologized for being late, blamed traffic. Dr. Booten made a predictable joke about people forgetting how to drive in the rain. As they made small talk, the navigational overlay dissolved from her field of view, and DataShare opened. A facial-recognition indicator appeared in the left lens of Denise’s Glasses. It detected Booten’s features, flashing blue; when it matched his face with his record, it turned green. A stream of information about him began to scroll across Denise’s left lens.
+
+Lead identified: Dr. Tobias Booten
+
+> Age: 68 years
+> Specialty: Rheumatology
+> Rx Disposition: 72 percent
+> Interests: Golf / World War II, European theater / Travel
+
+Golf. Perfect. It was easy enough to get Booten talking about his putting game, and once he did, Denise took her opening.
+
+“You know, it’s so funny,” she said. “I was talking to my father just the other day, and he mentioned that his arthritis pain was making it tough to chip from the rough when he’s on the green. But then I told him about Galvanyl—you’ve heard of Galvanyl, right?”
+
+When she said the word Galvanyl, the scrolling text on her left lens froze. Dr. Booten’s data vanished, replaced by pitch prompts for the drug: Galvanyl is an exciting new solution for managing the discomfort associated with arthritis, gout, and related inflammation ...
+
+This must have been a part of the system upgrade, a new pitch-assistance program, and Denise instantly, violently resented it. She didn’t need help. She didn’t need the Glasses telling her how to do her job. She tried to dismiss the prompt with a subtle gesture, but the Glasses didn’t respond, so she took them off, pretending to clean the lenses on her shirt so she could get rid of the prompt out of sight.
+
+She only glanced down for a moment. But when she looked back up and put her Glasses back on, Dr. Booten was nowhere to be seen. She heard a guttural gasp from behind his desk. She peered over the desk, and there he was, collapsed on the floor, motionless, his face a rapidly deepening shade of red.
+
+The DataShare facial-recognition indicator blinked on her left lens, finding Booten’s face. It flashed blue, blue, blue, yellow—red.
+
+First Response Alert: Dr. Tobias Booten appears to be suffering from respiratory/cardiac distress. Initiate First Responder Protocol: CPR Tutorial?
+
+> Now
+> Later
+> Dismiss
+
+Denise hesitated. She’d read about this somewhere once, but she had no idea how long it would take to use.
+
+She stared at the blinking time readout in the upper-right corner of the right lens of her Glasses, her heart pounding as she calculated how much time she had until her next appointment. Even if she left for her next appointment now, she would be cutting it close. A few minutes’ delay would make her late, and late meant rushed, and rushed meant failure. 
+
+She wouldn’t be making a sale to Booten, she could see that much. This sales call was a failure, and if she didn’t get to her next sales call, it would be a failure, too. Denise could not afford two failures in a row.
+
+She dismissed the First Responder notification and opened her calendar.
+
+Appointments: 11:30 a.m. Dr. Alandra Meacham, Tesset Hospital
+
+She could probably make it in time. No one had seen her come into Booten’s office. She could just say she missed the appointment with him, and she could move on with her day. Or, wait, no—the Glasses would know she’d been to his office. So, she could say that she arrived, found the door shut, waited for a while, and left without ever seeing him.
+
+She tried to select the next appointment on her calendar, but before she could, her lenses flashed red again.
+
+First Response Alert: Dr. Tobias Booten appears to be suffering from respiratory/cardiac distress. Initiate First Responder Protocol: CPR Tutorial?
+
+> Now
+> Later
+> Dismiss
+
+She dismissed the prompt again, her heart pounding. She opened her calendar, selected the appointment with Meacham, waited for the navigation overlay—
+
+First Response Alert: Dr. Tobias Booten appears to be suffering from acute respiratory/cardiac distress. Initiate First Responder Protocol: CPR Tutorial?
+
+> Now
+> Later
+> Dismiss
+
+She went through the cycle twice more, opening her calendar and selecting the next appointment only to be interrupted by the First Response notification. The app was invasive, inescapable. She pressed the power button on the left arm of the Glasses—maybe a hard reboot would get rid of the notifications—but the lenses simply flashed red again: Device cannot be powered down with pending First Response Alert push notification.
+
+Denise squeezed her eyes shut. The Glasses were not in charge of her, she reminded herself. They were not in charge of her choices. They did not dictate her actions.
+
+But the Glasses did have her calendar, and she needed her calendar to work if she was going to do her job, and she needed to do her job if she was going to keep her job.
+
+“Fine,” she muttered. She opened her eyes, looked at Booten’s prone form, and waited for the lenses to flash red again. When they did, she knelt on the floor next to Booten, pushed his desk chair out of her way, and selected “now.”
+
+Booten’s doctor smiled at Denise from the foot of Booten’s hospital bed. “I understand you’re a big hero,” he said.
+
+“Not really,” she replied, tapping her Glasses. “I just followed the prompts.”
+
+“First Response Alert?” Booten’s doctor asked, flipping through Booten’s chart.
+
+“You’ve heard of it?” Denise had never performed CPR before; she massaged her left wrist. She tried to forget the sensation of Booten’s chest compressing under the heel of her hand as the tutorial flashed a steady rhythm across her lenses.
+
+“A few of my colleagues consulted on it,” Booten’s doctor muttered, making a note on the chart. He looked up at Denise, somber now. “You saved a life today, you know. You should feel good about that. I think your friend here will probably be waking up on his own before too long.”
+
+Denise smiled.
+
+An hour and a half later, she found herself staring at the vending machine down the hall from Booten’s room, trying to choose between two off-brand candy bars. Denise settled on the one without coconut and regretted her decision as soon as the package hit the bottom of the vending machine. Resigned, she walked back to Booten’s hospital room.
+
+She froze in the doorway. He was awake.
+
+“Doctor Booten,” she said, “I’m so glad you’re awake.” He blinked at her, disoriented. Denise reached back to ease the door to his room halfway shut.
+
+“Not ... my best,” he rasped.
+
+On the left lens of Denise’s Glasses, the facial-recognition indicator blinked. Blue, blue, blue—green. A stream of information began to scroll across the lens.
+
+Dr. Tobias Booten
+
+> Age: 68 years
+> Specialty: Rheumatology
+> Rx Disposition: 72 percent
+> Interests: Medical / Recovery / End-of-life planning
+
+“I’ll let the doctor know you’re awake,” Denise said. “In the meantime, though, I would love to talk to you about something that can make many of your patients feel their best.”
+
+“What?” Booten asked blearily. “Can I have some water?”
+
+“Of course.” Denise smiled down at him. She filled a paper cup with water and handed it to him as she settled herself into the chair next to his bed. “Now, let’s talk about Galvanyl, the exciting new solution for managing the discomfort associated with arthritis, gout, and related inflammation.”
+
+On the left lens of her Glasses, pitch prompts for Galvanyl scrolled slowly past. Denise read the pitches to Dr. Tobias Booten, comforted by the knowledge that this time, being late didn’t have to mean being rushed. This pitch didn’t have to be a failure. She would be able to take all the time she needed.
+
+Denise smiled at Dr. Tobias Booten. This sale felt like a sure thing.

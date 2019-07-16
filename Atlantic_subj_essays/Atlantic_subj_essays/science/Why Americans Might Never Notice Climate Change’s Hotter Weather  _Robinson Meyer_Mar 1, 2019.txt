@@ -1,0 +1,31 @@
+In the past 50 years, climate change has altered the weather of the United States, leading to milder winters, warmer nights, and sweltering summer heat waves. These changes will intensify in the decades to come; by the end of the century, for instance, Philadelphia could feel a lot like Memphis.
+
+But a new study suggests that most Americans have not noticed these changes—and they never will.
+
+For the past decade or so, different teams of social scientists have tried to answer the same question: Where does our sense of “normal” weather come from? Why do some days feel unusually hot, and some only normally hot? Were I to compare thee to a summer’s day, would I be thinking of a lifetime of summer days, the past few decades of summer days, or just some pictures of summer that I saw once in a book?
+
+The new study, published this week in the Proceedings of the National Academy of Sciences, tries to answer this question by looking at Twitter data. Is the weather ever so unusual, the authors asked, that people tweet more about it? To find out, they matched a database of 2.1 billion geotagged tweets with another database of geotagged weather conditions. Then they filtered the tweets for weather-specific words, such as drizzly, scorching, and autumnal.
+
+Americans’ sense of “normal” weather seems to reset about every five years, they found. People sent more weather tweets when it was unusually hot or cold outside, but their sense of what made for “unusual” weather was fairly shortsighted. Generally, if people had experienced an extreme temperature in the same month over the previous two to eight years, they were much less likely to tweet about it.
+
+This is a challenging finding for many climate advocates, because it suggests that people update their sense of normal weather faster than climate change will occur. In other words, many Americans will simply never detect that anything has gone wrong with the weather, at least on a day-to-day basis. As Frances Moore, an author of the paper and an environmental science and policy professor at UC Davis, told me: “We can’t just expect people to walk outside and realize climate change is happening.”
+
+In their data, Moore and her colleagues found that Twitter users updated their sense of cold weather just as quickly as they did hot weather. So users would sometimes complain about a seemingly frigid week in midwinter, even though outdoor temperatures were “not actually that cold in historical context,”’ she said. “It just felt cold because people’s idea of normal winter temperatures has changed.”
+
+Earth’s Temperatures Will Rise—But We Might Not Notice
+
+The study tells a larger story about climate change, one that I can recognize in my own experience. It suggests that global warming won’t feel as if someone is raising the atmosphere to a broil. Instead, it will feel as if we’re all ascending an endless staircase, without really knowing how high we’ve climbed. Every few years, people might remark about a dangerously hot summer or a worryingly warm winter. But after those temperatures come back a few times, we’ll stop noticing them. We’ll forget that the seasons were once different than they are now. And the cycle of extremes will start over again.
+
+Yet the study can only really gesture at this idea, however compelling it might be. Aaron McCright, a sociology professor at Michigan State University who has studied public understanding of climate change, told me he is uncomfortable analyzing Twitter data to measure changing attitudes. Ultimately, only a computer program is up to the task of analyzing 2.1 billion tweets—and even then, computer programs make basic mistakes, get confused, and don’t recognize sarcasm. Even though humans double-checked a small sample of that program’s work, they can never clear the entire data set.
+
+The study ignores other important questions, too. “You really want to try to account for the length of time a person has lived in an area when you are asking them to evaluate some weather as normal or abnormal,” McCright said in an email. But the study doesn’t do that.
+
+It also doesn’t account for how much any one heat wave or cold snap was covered by the press, which could shape how often people tweeted about it. “Think about the polar-vortex wobble a few weeks ago,” he said. “Sure, most in the U.S. experienced much colder temperatures than normal. But we were heavily bombarded with major news stories before, during, and after the event telling us just how extreme the weather was.”
+
+Finally, because only a fraction of Americans use Twitter, the study’s sample likely does not represent the U.S. population as a whole. “I’m just not sure what to make of this study,” he said.
+
+Even the study recognizes some of these gaps. Moore stressed that the study does not examine perception of high-profile natural disasters, such as floods, wildfires, or hurricanes. Yet evidence suggests that Americans still take heed of those events. Last month, an AP poll found that “recent extreme weather events” are the main reason that Americans are coming to accept climate change.
+
+For Alexa Spence, a psychology professor at the University of Nottingham, the study offers helpful lessons for scientists, the press, and anyone hoping to talk persuasively about climate change. “We should be making sure that … historical comparisons are selected appropriately” she said, so that we can properly appreciate today’s weather in its “full alarming enormity.”
+
+After all, most of our weather has been unprecedented lately. We have just lived through the four hottest years ever measured. But what did winter bring back in 2014? How sweltering was that summer? A few years can be enough time to forget whatever felt different.

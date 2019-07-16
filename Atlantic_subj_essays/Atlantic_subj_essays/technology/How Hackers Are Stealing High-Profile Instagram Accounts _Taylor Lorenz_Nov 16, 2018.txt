@@ -1,0 +1,59 @@
+In early October, a publicist received an irresistible message via email. The publicist’s client is a top “influencer”—someone who leverages a social-media following to exert influence and, usually, make money, often by selling sponsored posts. “We would be extremely interested in a business partnership,” a man calling himself “Joshua Brooks” wrote. His pitch was eye-popping: He was offering “80 Thousand US Dollars” for a single picture.
+
+The publicist hastily agreed. Brooks, who claimed to have worked with other internet stars including Bella Thorne, Amanda Cerny, and Jake Paul, said that to get started, the influencer would simply need to log in to a third-party Instagram analytics tool, Iconosquare—a common request; many brands use tools such as Iconosquare to track the success of their influencer campaigns.
+
+But the link Brooks sent wasn’t to iconosquare.com—it was to lconosquare.biz, a cloned version of the site set up for phishing. Once the influencer logged in with the Instagram username and password, Brooks seized control of the account. Within minutes, he was spamming the influencer’s millions of followers with offers for a free iPhone.
+
+Brooks has targeted several YouTubers, Instagram stars, and meme pages and used the stolen pages to promote scammy-looking apps and fake offers for free products. In the past month alone, he has seized @Fact, with 7.2 million followers; @Chorus, with 10.1 million; and @SnoopSlimes, with 1.9 million. After the accounts are seized, the hackers update the account’s bio to say “managed by SCL Media” and begin reaching out to brands via direct message, telling them to negotiate sponsored-content deals with SCL, not with the previous account holder, going forward.
+
+According to its website, SCL Media is “a tech-media company building content brands for multicultural and niche audiences.” Its website lists clients including Netflix, Microsoft, and Comedy Central. But representatives from all three companies said they have no affiliation with SCL Media, nor have they worked with the company in the past.
+
+The influencer-marketing industry has exploded over the past several years. According to a 2017 study by Influencer Marketing Hub, 420 new influencer-marketing agencies opened in 2017 alone, more than double the amount that opened in 2015. “We’ve seen the industry go from a rising marketing tactic to an essential part of most marketing budgets,” one executive wrote in Adweek. Analysts estimate it’s currently worth more than $2 billion, and could reach up to $10 billion by 2020.
+
+But this very lucrative, very new market still lacks critical infrastructure. There’s no standard method of communication, no formalized negotiation process, and, often, no paperwork. Rates can range widely from brand to brand and are often hashed out entirely via direct message. And because sponsored-content deals typically happen beyond Instagram’s official advertising mechanisms, the company is all but powerless to stop scams.
+
+Eric Toda, the head of marketing at Hill City, a Gap brand, said that the influencer industry right now is like the Wild West. “You see a lot of people selling snake oil,” he said, “because the market is so saturated.”
+
+Influencers as young as 13 are entering into brand deals with zero experience in negotiating high-value business partnerships. It’s all too easy for a scammer to entice them with the promise of a big paycheck, then hack their accounts or escape without paying. “It’s an underground world, and what a lot of people are doing is representing themselves as Insta experts when they’re hackers and scammers,” explained Lisa Navarro, the founder of Espire, a digital-marketing agency that works with influencers. “They’re stealing accounts from children.”
+
+Ruvim Achapovskiy, the founder of Social Bomb, a social-marketing agency in Seattle, said he’s seen branded-content scams increase sharply over the past year. They’ve also gotten more sophisticated. Hackers sometimes create their own fake brands to phish influencers, but often they pretend to be representatives from real companies. “They’ll set up some sort of username that’s something that seems like it would be legit, like @LuluLemonAmbassadors,” Achapovskiy said. “They’ll use all the company logos, make it seem as legit as possible, make the bio seem normal, use the company’s mission statement. It’s super simple.”
+
+Once hackers gain control of an influencer’s account, said Moritz von Contzen, the founder of the Dutch social-media agency Avenik, they’ll often hop into the account’s direct messages and begin spamming other influencers with the same phishing links, before the hacked influencer even knows what’s happening.
+
+Von Contzen said he sees this scam play out over and over again. He even fell for it once.
+
+A year and a half ago, von Contzen was running a luxury-lifestyle-themed Instagram account with nearly 300,000 followers when someone reached out about a collaboration opportunity with several brands, some of which were well known for reaching out to influencers directly. “I was super young and inexperienced, so I was really excited,” von Contzen said. He logged in to the Instagram analytics tool the “brand representative” had provided. “It all looked legit. But as soon as I logged in and gave my password, I went back in to my Instagram and bam—my Instagram was gone, and that was that.”
+
+For young influencers with no direct contacts at Instagram or Facebook, it can be nearly impossible to retrieve a stolen account. Hackers will change the contact email address and phone number, and reset the username so the account is impossible to find. Then they’ll run ads on it until they can sell the whole page off for a large price, sometimes for more than $100,000.
+
+Faisal Shafique, a college student who Instagrams under the handle @Fact, said he earns roughly $300,000 a year from posting sponsored content for brands like TikTok and Fashion Nova. When Brooks seized control of his account several weeks ago, it put those brand deals in jeopardy, potentially costing Shafique his livelihood. Shafique was able to retrieve his account before it was sold off, but he estimates that he would have lost a half a million dollar property if he hadn’t.
+
+Rachel Taton wasn’t so lucky. She began posting to an account called @BestScenes five years ago. By 2014, it had grown to become one of the largest meme pages on Instagram. Two years ago, she lost it to a hacker. Brooks’s particular scheme hadn’t taken hold yet, but she thinks someone obtained her password through other means. Throughout the years, she’s watched helplessly as her old account has changed owners, changed names, and run sponsored content for major brands. It’s now operating under the handle @FunStuff with 1.3 million followers.
+
+“I realized how fast everything could be taken away from me,” Taton said. Shortly after her account was stolen, she quit the influencer game. “I realized that my priority should be focusing on a real job, something that can’t be taken away from me,” she said.
+
+All the influencers I spoke to said brands have a responsibility to be more diligent about who they work with. Greg owns a network of Instagram pages with 50 million followers and asked to be referred to by a pseudonym to protect his clients. He said he’s seen several campaigns from mainstream brands running on pages that he knows to be stolen.
+
+But, he added, the brands themselves likely don’t realize this. Many rely on third-party media-buying or advertising agencies to negotiate the terms of sponsored-content deals across the whole Instagram market. Sometimes a brand will vet particular pages, but Toda said that happens “very rarely.”
+
+“Unless you have a head of marketing or someone in a leadership position that’s from social or digital, they’re not going to have those questions,” Toda said. “Traditional [chief marketing officers] are from different backgrounds … Odds are the person on their social or influencer team is so many clicks down from the person who is making the decision.”
+
+All marketers I spoke to wished for more transparency in the industry. They said brands should have an easy way to vet an Instagram page’s history, make sure the page managers are advertising things ethically, view robust analytics related to their influencer campaigns, and ensure that the person negotiating a page’s sponsored-content deals is the rightful account admin. Brands don’t want to advertise on stolen accounts, Greg said—most just don’t know it’s happening.
+
+“Just like the ad-tech industry in 2009 or 2010, there’s a lot of scammers,” Toda said. “The platforms these creators are on, including Instagram, need to do a better job of protecting the people on there creating content. At the end of the day, you want the best high-quality content on the platform, and unless you’re protecting creators, you’re not going to have that.”
+
+Of course, the safer way to market your product would be to just buy ads directly through Facebook’s ad network. But marketers say ads aren’t as effective as influencer campaigns, where the personal touch resonates more deeply with consumers.
+
+In a statement, an Instagram spokesperson said, “The type of posts you describe are not ads but rather paid promotional relationship between the brand and influencer, so our ads policies won’t apply. We are looking at this area closely and trying to understand areas for improvement, so we can help our community navigate this type of content.”
+
+In the meantime, influencers are banding together via group chats and Facebook groups to alert one another of potential scams. Talent managers and publicists say they’re cross-checking every potential brand deal. And social-analytics companies are working hard to convince influencers and their managers that they’re operating on the up-and-up.
+
+Michael Metzler is the head of content strategy at Delmondo, a social-analytics company that serves as a middleman between brands and influencers, a neutral third party that can make sure influencers aren’t inflating metrics. “Whenever we ask these influencers to authenticate into Delmondo for third-party analytics, most of them say, ‘I don’t authenticate my accounts through anything, that’s how you get your account hacked.’” Metzler said. Sometimes even after he explains that the company is legitimate, influencers bail on what could potentially be a lot of money because they’re too nervous to take a chance.
+
+Ross Smith, a former Vine star who now runs several Instagram accounts with a collective 19 million followers, said that at this point, even when Fortune 500 companies ask him to sign into analytics tools, he says no. “I’m not willing to let anyone have access to my information anymore,” he said. “There’s a lot of fake apps, a lot of foreign brands. Even if the message you get is from a real company, they might not have the money they’re promising you. There’s so much of it.”
+
+Stephen is a publicist for an Instagram star whose account was hacked after she fell for Brooks’s brand-deal scam. (He asked to be referred to by a pseudonym so as to not reveal confidential client information.) He said he plans to be far more careful the next time someone reaches out offering a lot of money.
+
+“I know who to call, but if I was a little influencer on YouTube in Pennsylvania, who knows,” he said. Social media has “splintered everyone into their own little brands now,” he added. “There’s just as many people with brands as there are brands. So to take a fake brand and go after the people who are looking to brand themselves—those are some easy marks.”
+
+When reached for comment, Brooks replied by email: “becauze im a savage bitch Guciiiiii 4 lyyyffeee skrt skrt.”

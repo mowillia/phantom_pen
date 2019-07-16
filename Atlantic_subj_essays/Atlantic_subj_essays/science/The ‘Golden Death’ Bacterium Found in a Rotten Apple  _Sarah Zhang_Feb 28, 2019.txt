@@ -1,0 +1,23 @@
+For several years in the fall, Marie-Anne Félix would walk through an apple orchard near Paris in search of rotten fruit.
+
+Félix, an evolutionary biologist at École normale supérieure, studies tiny, translucent worms called nematodes. These worms feed on bacteria, so they tend to congregate, as their prey do, on the flesh of decaying fruit. In 2009, Félix picked up one such apple rich in nematodes. She took samples back to her lab, where she tried to grow worms and bacteria from the apple in petri dishes.
+
+What she saw, though, was a massacre. Dead nematodes’ bodies were strewn everywhere. What’s more, bacteria inside the worms seemed to be eating their hosts inside out. Over the course of several days, she saw the worms’ corpses disappear, literally dissolving before her eyes. Félix has studied a lot of bacteria that live on worms, and this, she says, is “the most spectacular I have ever seen.”
+
+
+
+In a study published today in the journal BMC Biology, Félix and her co-author Antony Page describe this “golden death” bacterium. The scientific name they chose is Chryseobacterium nematophagum, meaning “golden bacteria, nematode-eating.” Under the right conditions, colonies of Chryseobacterium take on a golden hue and, well, the second part of the name is self-explanatory.
+
+Page, a parasitologist at the University of Glasgow, saw Félix give a talk about this strange new bacterium in 2015. He became intrigued because he studies the cuticle, the strong but flexible exoskeleton of nematodes. “The cuticle of these nematodes is really a tough structure,” he says. Yet the Chryseobacterium nematophagum seemed to be dissolving it.
+
+Page first fed the bacteria to a species of nematodes called Caenorhabditis elegans—most famous, among scientists at least, as a model organism so well studied that each of its 302 neurons has been mapped out. With even a rudimentary nervous system, C. elegans can learn to avoid bacteria that make them sick. But the nematodes seemed to be actually attracted to Chryseobacterium nematophagum. Once they ate the bacteria, it was too late to learn anything. Within seven hours, they were all dead.
+
+When Page and his team sequenced the DNA of Chryseobacterium nematophagum, they found genes for enzymes that likely break down the exoskeleton and structural proteins of the worm’s body. They also tracked the dissolving of the worms in real time by using various stains and molecular tags. The bacteria’s enzymes ate through the worms’ pharynx, or mouth, over a matter of hours. Once they breached the lining of the mouth, the bacteria simply digested the rest of the worm. They could even dissolve some of the tough outer cuticle, which normally protects the worm from outside pathogens but can’t do anything about a pathogen eating it inside out.
+
+This strategy also bypasses the grinder, a structure in the back of the mouth that nematodes use to crush pathogenic bacteria trying to sneak into the gut. Chryseobacterium nematophagum never goes through the grinder—it hangs out in the mouth long enough to dissolve through it. Hinrich Schulenburg, an evolutionary biologist at the University of Kiel, says this is the first nematode pathogen he’s seen that begins its attack in the mouth.
+
+As far as nematodes go, C. elegans is mostly harmless, but other species can be parasites for sheep, cattle, goats, and horses. Page wondered whether Chryseobacterium nematophagum could be a way to control parasites that sicken livestock, so he tested it against 13 nematode species. It worked against all but one.
+
+Jonathan Ewbank, who studies C. elegans immunity at Centre d’Immunologie de Marseille-Luminy, notes the long history of studying nematode pathogens as a way of controlling nematodes. The organic pesticide Bt is derived from a bacterium called Bacillus thuringiensis that makes toxins harmful to nematodes as well as a wide range of insects. Other pathogens have invented additional clever ways to kill nematodes. Some fungi can physically lasso nematodes before digesting them. Microsporidia use sharp tubes to pierce nematodes and inject their genetic material, so they can replicate inside the worm.
+
+Even among these, Chryseobacterium nematophagum rates among the most dramatic in its effects. “This bacteria completely destroys the nematodes,” Ewbank says. “It’s like the flesh-eating disease of worms.” A rotten apple—so soft and brown and unassuming—hides a whole violent world inside.

@@ -1,0 +1,31 @@
+The experiment really shouldn’t have worked. Several years ago, Laura Duvall from Rockefeller University decided to feed mosquitoes with experimental drugs designed to suppress the appetite of humans. Perhaps these chemicals might also reduce the insects’ appetite for blood? And, by extension, stop them from biting people and spreading diseases?
+
+“The whole thing started off as a joke,” says Leslie Vosshall, who led the study. “The assumption was that the human drugs would kill the animal or have no effect. It was a stupid thing.”
+
+So imagine her surprise when it worked.
+
+The Aedes aegypti mosquito, which spreads dengue and Zika, is an exceptional human hunter, drawn to our body heat, odors, and exhalations. When a female finds and bites a person, she doubles her body weight in blood, before lapsing into a days-long food coma. During that time, while she slowly digests the blood and converts it into eggs, “her interest in human cues is dialed down to zero,” Vosshall says. “You can put your hand in a cage of blood-fed females and you won’t get a bite.”
+
+That switch between relentless hunter and disinterested layabout is so stark that about a decade ago, Vosshall started wondering if she could control it. She focused on a small protein called neuropeptide Y, or NPY. Among its many roles, it acts as a universal appetite controller, influencing feelings of hunger across the animal kingdom. Its exact effect varies among species: It drives flies and humans to eat but, as Duvall found, it does the opposite in mosquitoes, suppressing their appetite.
+
+NPY acts by sticking to receptor proteins, and the pharmaceutical industry has tried to develop appetite-controlling drugs that target these receptors. Duvall got her hands on some of these drugs five years ago, and fed them to Aedes mosquitoes. She then put the insects in a trap that was baited at one end with a stocking that she had worn on her arm. Normally, unfed mosquitoes would “go toward eau de Laura,” Vosshall says. But after swallowing drugs that stimulate NPY receptors, their attraction to her scent fell by 80 percent. They hadn’t drunk any blood, but they were behaving like mosquitoes that had.
+
+By contrast, drugs that block NPY receptors had the opposite effect. “This was the first time we’d ever seen a blood-fed mosquito getting up off the floor of its cage, staggering around with a full belly, and trying to bite someone,” Vosshall says. “Surprises and successes in biology are few and far between, so that was a good week for us.”
+
+Humans have only four NPY receptors, but Aedes mosquitoes have 49. Duvall found that the human drugs act primarily on just one of these—lucky number seven, as it happens. She then searched for other drugs that hit that seventh mosquito receptor more effectively, and, crucially, don’t work on the four human ones. She found several, the best of which she simply referred to as compound 18.
+
+As a final test, Duvall placed anesthetized mice in cages with three groups of mosquitoes that were, respectively, unfed, blood-fed, or dosed with compound 18. (She distinguished between the three groups by first shaking them in bags filled with red, blue, or yellow paint powder.) After 15 minutes, most of the unfed females had bitten the poor rodents, while the others had largely ignored the meal on offer. Compound 18 had successfully duplicated the satiating effect of a blood-filled stomach, and stopped the mosquitoes from biting.
+
+This study “is [a] tour de force of techniques and ingenuity,” says Zainulabeuddin Syed from the University of Kentucky. “It is a significant milestone in research on mosquito sensory biology,” which builds on decades-old foundations laid by researchers such as Mark Klowden of the University of Idaho, who showed that blood-fed mosquitoes don’t bite.
+
+Vosshall thinks it should be possible to bait mosquito traps with NPY-targeting chemicals to dose the insects in more realistic conditions. “There are already surveillance traps that work by attracting mosquitoes,” she says. “We’d just need to engineer a feeding cup where we can put in our drug.”
+
+Such traps don’t lure beneficial insects, so the drugs have little chance of unintentionally getting into, say, pollinators such as bees or butterflies. And since NPY receptors are so similar across species, Vosshall thinks that the same approach could help to control other vector-borne diseases. “I got Lyme disease earlier this year, so I’m very interested in that,” she says. “We know these drugs work on Lyme vectors, so you’d just need a different tick-specific delivery system. It’s all in the art of the trap.”
+
+Compound 18 and other such drugs aren’t ready for widespread use, though. The team still needs to optimize these chemicals so that they work at low doses. Even then, “the drugs would need to be cheap enough to deploy in the field, and stable enough to sit out for six months,” Vosshall says. “You can’t have someone change the traps every day.”
+
+Another hitch: For now, the appetite-suppressing effect wears off after just two or three days. That’s the biggest limitation, says Lisa Reimer from the Liverpool School of Tropical Medicine. The drug could also have unintended consequences. “Is it possible that mosquitoes with temporarily suppressed blood-feeding might live longer?” she asks.
+
+Still, Reimer adds that she’s “enthusiastic” about the new study, as is Nsa Dada from the Centers for Disease Control and Prevention, speaking in a personal capacity. “As mosquitoes have become increasingly resistant to insecticides, we are continuously seeking other, easier, and safer alternatives for mosquito control,” Dada says. “This work is therefore important and very timely.”
+
+Other scientists are looking to kill mosquitoes with fungi, or to load the insects with bacteria that stop them from carrying viruses, or to reduce their numbers with the gene-editing technique called CRISPR. None of these is a panacea, but given how many people are affected by mosquito-borne diseases, new ideas are always welcome. Suppressing their hunger is “a fresh look at how we can deal with this problem,” Vosshall says.

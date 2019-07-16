@@ -1,0 +1,43 @@
+This might offend some astronomers, but exoplanets are kind of old news. Over the course of two decades, telescope observations have pinpointed thousands of planets orbiting other stars across the cosmos. Some of these planets are as giant as Jupiter and smoldering hot. Others are more massive than Earth and covered in ice. A few reside in their solar system’s habitable zone, the not-too-hot, not-too-cold environment for liquid water. There have been so many discoveries in the past few years, in fact, that newly found exoplanets are announced now in batches of several hundred.
+
+Not that exoplanets are boring. There’s just ... a lot of them. So it was pretty juicy when astronomers reported, for the first time, that they might have found an exomoon—a moon orbiting a planet around another star, thousands of light-years from our own.
+
+The press (us included) covered the news, announced last fall, with a sense of wonder. An accompanying illustration of the moon, pale blue and silky, only heightened the fascination. Scientists are still trying to understand how our own moon works—still discovering moons in our own solar system, even, around Jupiter—and now here they were, excavating one from the depths of the cosmos.
+
+The researchers, a pair of astronomers at Columbia University, stressed that they only found evidence for the moon’s existence, not the moon itself. To help confirm their potential discovery, they needed that exacting hallmark of science: someone else to replicate their work.
+
+Eventually, someone else tried—with mixed results.
+
+Two separate teams have since delved into the same data. One could only replicate half the evidence. The other found the same signals the Columbia astronomers did, but won’t confirm there’s a moon there. For now, the existence of the exomoon remains uncertain.
+
+“Frankly, I can’t tell you who’s right,” says Alex Teachey, the Columbia graduate student who led the initial study.
+
+The story of the maybe-moon begins about two years ago, with Kepler, a NASA space telescope responsible for uncovering most of the known exoplanets. Before it ran out of fuel and shut down last year, the telescope absorbed the light from thousands of stars in the Milky Way. When something—such as a planet—passes in front of a star, it blocks a tiny fraction of the star’s light. Kepler could spot this faint, brief dimming.
+
+Teachey and his colleague, David Kipping, were sifting through Kepler’s catalog for exoplanets that could have moons. One planet, Kepler-1625b, located about 8,000 light-years away from Earth, seemed more intriguing than the rest—there was something unusual about the light coming from its sun. Teachey and Kipping turned to an even more powerful instrument, the Hubble Space Telescope.
+
+The Hubble observations recorded a dimming as the planet trekked across, as expected. But it began its journey earlier than expected, and the dimming was followed by a second, fainter dip in the light. To Teachey and Kipping, this signal meant that a moon trailed behind, its gravity tugging gently on the planet and shifting its course ever so slightly. An alien astronomer watching the Earth and moon pass in front of the sun would see these same types of blips, too.
+
+The astronomers said the moon, if it existed, was likely the size of Neptune and made of gas. “It looks very convincing on this one detection, but it’s so strange compared to what moons are like in our own solar system that it’s kind of hard to believe it,” Kipping told me last year.
+
+Laura Kreidberg, an astronomer at Harvard and Smithsonian’s Center for Astrophysics, wanted to see it for herself. Kreidberg isn’t an exomoon hunter; she studies the atmospheres of exoplanets, and has extensive experience analyzing Hubble observations. “I have been analyzing data like this for many years, and so I was really curious to see if I put it through my pipeline, if I would get the same answer,” Kreidberg tells me.
+
+Kreidberg emulated the other researchers’ methods. “I did my best to reproduce their analysis as exactly as I could,” she says. Her team confirmed that the exoplanet arrived earlier than expected. But “I could not reproduce that little dip in the brightness that they attributed to the moon,” she says.
+
+Kreidberg doesn’t know why that’s the case, and neither does Teachey; the two have chatted and checked each other’s work but found no explanation for the discrepancy. (I asked Kreidberg what it’s like for one scientist to tell another that she thinks his potential scientific breakthrough isn’t real. “I mean, it’s a little awkward,” she says. “But I think Alex and I are cool.”)
+
+Kreidberg suspects the mismatch might have something to do with Hubble, which was designed to observe distant galaxies, not nearby stars like the one that hosts this potential moon. Plus, the telescope zooms at about 17,000 miles per hour around Earth. While Hubble is designed to lock onto celestial targets at this great speed, its instruments are not immune to subtle perturbations. The jostling, apparent in a fraction of a pixel, could be mistaken for something cosmic.
+
+“At this level of precision, things like the sensitivity of individual pixels become important,” she says. “If the position of the star on the detector moves just a little bit, that can mimic the type of drop in brightness that would be caused by a moon.”
+
+The Kepler telescope might be another factor, Kreidberg says. After Teachey and Kipping picked Kepler-1625b as an interesting target, the Kepler data were reprocessed, and the signatures in the surrounding starlight that had intrigued the two researchers vanished. (Teachey and Kipping acknowledged this disappearing act in their original work, and say that the observations by Hubble, which is four times more precise, stand.)
+
+It is this disconnect that makes René Heller, an astrophysicist at the Max Planck Institute for Solar System Research, stop short of endorsing the exomoon. Heller and his own team of researchers tried to repeat Teachey and Kipping’s analysis. They confirmed the early arrival of the planet, the mark of an object floating nearby. And they found the small dip in the starlight that Kreidberg didn’t.
+
+But they came to different conclusions when they analyzed the Kepler and Hubble data separately. Like Kreidberg, Heller doesn’t rule out that the Hubble signal might be corrupted data masquerading as a moon. He suspects that Teachey and Kipping have discovered something—not a moon, but another planet around the star, tugging on the other as they go round and round. (The Columbia astronomers have also entertained this possibility.)
+
+The first tentative detection of a moon in another solar system was always going to be controversial. The first reports of exoplanets, in the 1990s, were met with skepticism, and it took some candidates a decade to be confirmed. More than 3,300 exoplanets are in limbo right now; space telescopes have recorded their movements, the telltale darkening in their star’s glow, but astronomers need to see several more passes before the objects are declared the real deal. Which is to say, it might be a while before the theory of the maybe-moon makes history or fades away. And a future of thousands of known exomoons, their discoveries as routine as those of exoplanets, seems even more distant.
+
+Teachey welcomes the independent analyses and competing interpretations. This is how science should work, he says. What the alleged moon needs now—what every intriguing cosmic conundrum needs, any astronomer would tell you—is more data. Teachey hopes to continue monitoring the movements of Kepler-1625b and the potential moon using ground-based telescopes, which require less wrangling than Hubble does. The telescope splits its time among thousands of requests from astronomers around the world, and quick schedule changes are reserved for very special occasions, such as the surprise arrival of an interstellar asteroid.
+
+“The good news is, if the moon is really there, it’s not going anywhere,” Teachey says. “So eventually, maybe when it’s a bit easier or cheaper to perform the observations, we really ought to know one way or another whether the moon is there by watching the planet transit again and again and seeing if the moon shows up. It won’t be a mystery forever.”

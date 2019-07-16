@@ -1,0 +1,23 @@
+For most of Facebook’s existence, a prospective advertiser listing a job or a home or a loan could have kept the ad from reaching women or people over 55 or those with an “ethnic affinity” for African Americans.
+
+When ProPublica documented this in late 2016, housing-rights advocates were shocked. After all, it was exactly this kind of exclusionary practice that activists in the 1960s and 1970s had fought to end. And here they saw a drop-down box that literally said, “EXCLUDE African Americans.” While Facebook slowly (and imperfectly) changed its processes in response to the new scrutiny, civil-rights groups filed a series of lawsuits over these and other practices.
+
+Yesterday, after more than two years of negotiations, the plaintiffs in five separate cases announced that they’d reached a settlement that will require Facebook to rebuild the way it sells advertising for housing, employment, and credit services. The company has committed to building “a separate advertising portal for creating housing, employment, and credit (‘HEC’) ads on Facebook, Instagram, and Messenger that will have limited targeting options, to prevent discrimination,” by September, according to the National Fair Housing Alliance’s summary of the settlement.
+
+In addition, all housing ads will be viewable on a public portal, presumably on the model of the company’s political-ad archive. And Facebook agreed to limit how advertisers employ “look-alike” audiences, which, though it is difficult to prove, might have provided a back door for discriminatory advertisements.
+
+Facebook’s Sheryl Sandberg presented the changes as a result of the company’s increased “understanding” of the problems in its system, and painted them as another step toward fairness.
+
+The civil-rights groups called it a landmark settlement that had important implications. Lisa Rice, president and CEO of the National Fair Housing Alliance, one of the plaintiffs, said that internet companies had disclaimed responsibility for advertisements placed on Facebook by relying on Section 230 of the Communications Decency Act, a 1996 law that provides immunity for networked platforms for content that their users post. Though the argument was never adjudicated, the plaintiffs obviously disagreed.
+
+“It’s not just that Facebook was innocuously sort of providing a platform, but that it designed the platform in a way that helped to spur discrimination,” Rice said in a conference call with reporters. “If you think about it in a more historical context, Facebook was operating a digital system that allowed restrictive covenants to be implemented when it came to housing.”
+
+The settlement is yet another sign that civil-society groups and governments have begun to claw back some of the privileges that the technology industry had extended to itself. Amazon now has to charge sales tax, after years of skating around it. Gig workers have sparked movement on legislation concerning their employment status. The pressure is turning up on the novel antitrust issues presented by the dominant internet companies. It turns out that businesses in cyberspace must also take on the obligations and legal restrictions that every brick-and-mortar company already did.
+
+“The internet does not provide a blank check to tech companies to flout our civil-rights laws,” said Jahan Sagafi, an attorney at Outten & Golden LLP, who helped represent the plaintiffs.
+
+One key law at issue is the Fair Housing Act of 1968, the capstone of the civil-rights era, which passed in the tumultuous wake of the murder of Martin Luther King Jr. Though it was an important statement, it did not contain strong enforcement provisions until the Fair Housing Amendments Act of 1988. Absent further legislation from Congress to deal explicitly with the digital realm, this settlement marks a key moment in extending the act’s protections online.
+
+With the settlement agreement signed, the battle will turn to implementation. For example, Facebook faced questions about the usability of its interface for the archiving of political advertising. But unlike with the ad archive—which Facebook created on its own—the company has agreed to biannual meetings for three years with the plaintiffs in the settlement to check on the progress of the new tools. Rice called it a “trust but verify” system.
+
+The good news is: By the end of the year, civil-rights protections will be equal on Facebook and the media platforms that came before it. The bad news is: all the years before that was true.

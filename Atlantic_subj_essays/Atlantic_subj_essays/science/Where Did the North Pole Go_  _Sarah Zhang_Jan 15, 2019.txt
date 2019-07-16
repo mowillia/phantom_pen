@@ -1,0 +1,21 @@
+As the humans go about their affairs, living atop a thin crust floating on molten rock, the liquid iron in the Earth’s core is churning in strange, erratic ways.
+
+This is a problem because those humans, clever in some ways, have figured out that the movement of the liquid iron creates a magnetic field. For centuries, their compasses have pointed “north.” But where that is, exactly, is changing.
+
+After observing, if not exactly understanding, the magnetic field’s recent behavior, scientists decided to update the World Magnetic Model, which underlies navigation for ships and planes today. As Nature reported, the update was supposed to come January 15. But the model is jointly developed by the British Geological Survey and the U.S. National Oceanic and Atmospheric Administration, and the U.S. government is shut down.
+
+The NOAA web page for the World Magnetic Model currently says, “The website you are trying to access is not available at this time due to a lapse in appropriation.”
+
+This isn’t a big crisis: The north magnetic pole has always drifted. Since scientists began tracking its location in the 19th century, it has moved from Canada toward Siberia. (The north magnetic pole is close to but distinct from the north geographic pole, whose location is determined by the axis on which the Earth spins.) For most of the 20th century, the pole moved about nine miles a year. Then, beginning in the 1990s, it moved about 35 miles a year.
+
+What’s making the north magnetic pole speed up? Scientist have proposed that a jet of liquid iron under Canada may be dragging it toward Siberia. Interestingly enough, notes Ciaran Beggan, a geophysicist with the British Geological Survey, the south magnetic pole has not moved much at all. 
+
+On top of the North Pole’s movement, scientists have noticed a series of mysterious pulses in the Earth’s magnetic field. No one can say what causes them. “Our knowledge of what’s happening in the Earth’s core is very limited,” says Arnaud Chulliat, a geophysicist at NOAA and the University of Colorado Boulder. But the World Magnetic Model cannot account for those pulses, and its predictions are especially off near the North Pole.
+
+One of these pulses came in 2016, right after a scheduled update to the model. “The error started to grow faster than usual,” says Chulliat. So the team decided to compute a new version using satellite data. They planned a release on January 15, 2019, ahead of the scheduled update that usually happens every five years. The new model has the North Pole 25 miles away from what the previous one predicted, according to Beggan. 
+
+The updated model itself is ready, and Chulliat says they can make it downloadable for users within a few days. They’re just waiting for the government to reopen. 
+
+Practically speaking, this delay in the World Magnetic Model update matters only to those currently engaged in navigation requiring great precision around the North Pole. The farther away you are from the pole, the smaller the error. Anyone looking at the compass in a phone in the United States will find it pointing northward with reasonable accuracy. 
+
+But in another way, the episode underscores just how mysterious the inner workings of the Earth still are, and how attempts to understand such global phenomena require collaboration and stability that perhaps should not be taken for granted, given humanity’s own inconstant nature.

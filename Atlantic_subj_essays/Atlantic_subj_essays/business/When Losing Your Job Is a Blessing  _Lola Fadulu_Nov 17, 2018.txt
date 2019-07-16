@@ -1,0 +1,39 @@
+Tim Chen had recently been laid off from his job as a financial analyst at a hedge fund, during the recession of 2008, when his sister asked him for help finding a good credit card. Much of the information he found online was confusing and disorganized, so he decided to start a personal-finance website; it would go on to become NerdWallet, which is now worth $500 million and employs almost 350 people. I recently spoke with Chen about how it feels to get laid off, starting a business during a recession, and why workers should pay attention to who their managers are. This interview has been lightly edited and condensed for length and clarity.
+
+Lola Fadulu: Your parents were computer scientists. Did they want you to go into computer science?
+
+Tim Chen: Yes. It’s a stable job. They knew it well. They had been able to provide for our family by working in the industry. My sister and I were really fortunate. My parents paid for our college education, which is huge.
+
+Fadulu: It sounds like both your parents were steering you toward jobs that would lead to stable futures and high standards of living. How much were you thinking about money when you were applying to jobs post-graduation?
+
+Chen: Growing up, I never felt well off, even though in hindsight we were at least much more stable than average. I think it’s part of the immigrant mentality to be really ambitious about providing for a good future for your kids. I think people base their perception of the world on what happened in their lifetimes, and both my parents fled from armed conflict in their very early years and grew up quite poor after World War II.
+
+Fadulu: The way you grew up was very different from the way your parents grew up.
+
+Chen: Until 2008, I thought that the economy was this super-stable thing, and everything was good. I didn’t realize that crazy economic shocks can happen. 2008 really changed my life. I lost my job, I lost a lot of my savings. I ended up starting a company as a result. It’s funny; my grandpa used to tell me, “You should take your money and go buy gold and jewelry with it, because you never know when the government’s gonna get overthrown by communists.” I’d go, “Grandpa, that’s such outdated thinking.” But it wasn’t that long ago when that happened to a huge country.
+
+Fadulu: Were you completely surprised when you lost your job in 2008? Did you see it coming at all?
+
+Chen: Absolutely not. [I was] totally blindsided. Never in a million years would I have thought that the institutions that I worked for, or the banks themselves, would be worried about going out of business. In hindsight I feel very fortunate that there was a recession, from a personal perspective, because I never would have gotten into entrepreneurship, even though it was an ambition of mine. It’s just too hard to take that risk when you have a stable job and you’re living in a really expensive city like New York. So the downturn forced me into it. In the early years, I wasn’t seeing much success with NerdWallet, and it was really the length of the recession that caused me to keep trying instead of taking another job.
+
+Fadulu: Did you have any other business ideas you were considering, or was it NerdWallet all along?
+
+Chen: I didn’t know that I wanted to start a business. I didn’t have anything that I was seriously considering outside of NerdWallet. It really came about when my sister asked me for help finding a credit card. I said, “Let me Google that for you.” I was kind of surprised when I didn’t find anything that helpful, in terms of breaking it down in an easy-to-understand way. I quickly realized that this is a problem with all financial products. They’re extremely hard to shop for because, basically, there’s no incentive for anyone to provide you with an easy-to-understand way to shop for them.
+
+Fadulu: What was the hardest part of starting NerdWallet?
+
+Chen: I think one of the hardest parts was convincing other people I wasn’t crazy. You can’t do something like this yourself. You need to convince people with perfectly good jobs to quit their jobs and come join you, which is a lot of responsibility to shoulder, especially in the early days. Fortunately, in the early days it was much easier because many of my friends in New York were unemployed. A lot of us were affected by the financial crisis. A lot of us were just sitting around twiddling our thumbs, going to Dave & Buster’s in the middle of the day because they have half-price tickets on Wednesdays. And it was easy at least to get a few people to hang out [and join NerdWallet] until they found gainful employment. The first two years, I basically told people I was unemployed because there was really very little traction in the business.
+
+Fadulu: You had to convince people to quit perfectly good jobs. How did you do it? What were your selling points?
+
+Chen: In the early days, it was really just hitting up people out of my personal network from college or people who had been laid off from their jobs and seeing if they [wanted to help out]. I couldn’t pay them at the time. Later on, as we started growing, it really became more about painting the vision of what [the business] could eventually become and getting people inspired by that.
+
+Fadulu: What would you say is the best piece of advice you’ve received from a mentor or a colleague?
+
+Chen: For me, personally, it was that you can’t just put your head down and work hard and do things. You have to communicate well what it is you’re trying to do—the vision behind what you’re trying to do—to get other people inspired to understand what you’re doing and help you out. I think that really applies for NerdWallet the company because … I, myself, have done very little. My one piece of advice from my early career is that I had no idea that my development and my happiness at each of these jobs was going to be almost completely driven by my manager. In my first job, I was in a different city than my manager, and people didn’t have time to develop me or guide me. I didn’t learn much my first two years of work. At my second job, I learned more in the first two months than I did in the first two years [of the first job]. In hindsight, my manager [at my second job] cared a lot about developing me and teaching me things, and that was huge. And then at my third job, my manager and I didn’t really get along. I got fired. I think these things are important to think about.
+
+Fadulu: What do you think about the state of the workforce for young people?
+
+Chen: I think what I’ve noticed about Millennials in our workforce is that they are some of the most passionate, inspiration-driven people, whereas the stereotype for the older generation is that they cared more about stability and were more willing to work in a factory manufacturing widgets all day in exchange for that stability. People are much more transitory in their careers now. If you find great alignment for three or four years with a job opportunity, and you say, “I really want to learn from the person I’m working for, and three or four years from now I’m going to come out with a different set of skills,” that seems like a great fit for three or four years. You can’t really think too far beyond that. It’s really hard to plan where you’re going to be in 30 years. If you keep on doing that, it’s kind of like rock climbing. You’ll end up in a good place.
+
+I think the best opportunities in 30 years, while we can’t anticipate them now, are going to go to the people who have picked up a lot of skills along the way.

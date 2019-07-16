@@ -1,0 +1,47 @@
+The NASA astronauts aren’t nervous for their next trip to space. They’ve been in the job for almost two decades, and they served as military pilots before that. Together, they’ve spent nearly 1,400 hours in orbit above Earth.
+
+But they’ve never had a ride quite like this.
+
+Doug Hurley and Bob Behnken are training for their first flight on a new astronaut-transportation system built by SpaceX, and as early as this summer could launch into the sky in a capsule named Dragon. The interior of the capsule is black and white, with clean lines and cushy seats. A triptych of touch screens, compatible with space-suit gloves, displays important information. The cabin is spacious enough to seat seven.
+
+Decades after the first people reached Earth’s orbit, the physics of getting to space hasn’t changed. Neither have the dangers. But the aesthetics have.
+
+The astronauts stress that the safety of the launch vehicle matters most, but that doesn’t mean they aren’t impressed. “It’s an incredibly sleek-looking vehicle from the inside,” Hurley told me.
+
+When the United States and the Soviet Union began sending astronauts and cosmonauts to space, capsules were small and cramped. Control panels brimming with switches, buttons, and levers covered nearly every inch of the interior. Life-support systems and other equipment crowded the single seat. If there were any nooks and crannies, they were crammed with wires. NASA astronauts, who couldn’t be more than 6 feet tall to fit inside, joked that “you don’t get in it, you put it on.”
+
+Such utilitarian capsules were made to serve a single purpose: Put a man in orbit and then bring him home alive. There was no room for error, so there was no room for much else, either.
+
+Though the computers have been updated, the Soviet design for the Soyuz spacecraft, developed in the 1960s, remains in use. Hardware juts out from the walls, and passengers are squished together, with life-support supplies wedged between them and their legs pulled close to their chest. The system has been considered so reliable that China bought Soyuz technology from Russia in the 1990s to build the country’s own crew-friendly spacecraft, Shenzhou. Unlike the earliest crew capsule, the Soyuz can fit three passengers and regularly swaps crew members on the International Space Station. But it’s a tight fit.
+
+“In Soyuz, there was so much equipment between the seats that I couldn’t even see [the cosmonaut’s] head right next to me,” says Suni Williams, a NASA astronaut and Soyuz veteran.
+
+It’s also the only way up. China hasn’t launched a Shenzhou crew since 2016, and the United States folded its Space Shuttle program in 2011.
+
+The United States has relied on Russia since then, paying tens of millions of dollars per seat to fly NASA astronauts to the International Space Station, where they stay for up to six months at a time.
+
+After NASA retired the shuttles, the agency awarded billion-dollar contracts to SpaceX and Boeing to do the job instead. SpaceX built the Dragon, which recently survived its first flight without a crew, and Boeing developed the Starliner, scheduled to fly this spring.
+
+Kjell Lindgren, a NASA astronaut and a backup crew member for the SpaceX flight, says the difference between the Dragon and the Soyuz is striking. “It’s a beautiful interior,” Lindgren says.“If you had to think about what spacecraft looked like for a movie set, or from the future, it’s a little bit of that.”
+
+Compared with Soyuz, these quarters are lavish. “You can turn your head and you can look at the person next to you, which is nice—you can give him a thumbs up or give him an okay without having to talk,” says Williams, who’s assigned to the first crewed flight of the Starliner.
+
+The interior of the Dragon feels downright bare next to the Soyuz and the space shuttles. While the shuttle, the size of a single-aisle airplane, was considerably roomier, its control panels were overstuffed. Hurley estimates that the SpaceX capsule has about 30 manual switches and circuit breakers, compared with the shuttle’s 2,000.
+
+“You had switches literally right next to each other, and if you threw the wrong one, you could make your day a lot worse rather than a lot better,” he says.
+
+That risk is minimal inside the Dragon, where passengers interact with touch screens. But the modern edition, while visually pleasing, has inadvertently changed the flight experience that astronauts are used to.
+
+On the Soyuz and the shuttles, crew members flipped switches and pressed buttons, sometimes with the help of a stick. That sense of texture is lost with touch screens. Astronauts don’t receive the physical feedback that signals they’ve completed an important step or procedure. Behnken says he’s had to retrain his mind to process his actions on the screen.
+
+“There’s a mode you can turn on where you can see the touch, so that when you put your finger on the screen, it blooms or it flares—which is extremely helpful when you’re wearing gloves and you might not know if you’ve actually touched it,” he says. “It’s just training yourself to maybe use a different cue, like a visual cue instead of a physical cue, that you’ve actually accomplished the thing that you were trying to do.”
+
+The sleek display has provided some operational bonuses. On the Soyuz, astronauts don’t receive many alerts about their progress as the capsule hurtles toward orbit and the rocket falls away. Confirmation comes from a jolt of the capsule as the rocket hardware detaches. “You don’t have anything on the display that shows that,” Williams says. But “on these other spacecraft, we have a visual display of how that’s happening or words that tell us, this just happened.”
+
+The astronauts assigned to Dragon and Starliner warn that the spacecraft might not always look as good as they do now. The shuttles, for example, became packed with extra equipment in lieu of expensive renovations over the years. “The shuttle was cluttered with 135 flights’ worth of people living with it and trying to make it better,” Behnken says. “As we go forward here, they’ll get cluttered a little bit by the people adding things to them.”
+
+For now, the squeaky-clean spacecraft represent a new era in spaceflight. While the U.S. government has paid private companies to build hardware for NASA, it has never handed over the responsibility of reaching space to one of them. NASA engineers have provided oversight and guidance during development, but SpaceX and Boeing are in charge of the training, engineering, and of course, interior design.
+
+These are private companies worried about revenue streams, not taxpayer concerns. The spacecraft they develop to deliver NASA astronauts to their space office could also lug wealthy tourists on a loop around Earth. They want the environment to be appealing, luxurious. That’s especially true for Elon Musk, SpaceX’s founder, who has a taste for polished transportation design, whether it’s rockets or electric cars. But both companies have every incentive to think about avionics and aesthetics.
+
+“We’ve passed where we just jammed a man in a can,” Williams says.

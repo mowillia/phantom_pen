@@ -1,0 +1,49 @@
+In the fall of 2010, Rowan Barrett was stuck. He needed a piece of land, one with plenty of mice, and after days of futile searching, he found himself at a motel bar in Valentine, Nebraska, doing what people do at bars: telling a total stranger about his problems.
+
+A young evolutionary biologist, Barrett had come to Nebraska’s Sand Hills with a grand plan. He would build large outdoor enclosures in areas with light or dark soil, and fill them with captured mice. Over time, he would see how these rodents adapted to the different landscapes—a deliberate, real-world test of natural selection, on a scale that biologists rarely attempt.
+
+But first, he had to find the right spots: flat terrain with the right color soil, an abundance of mice, and a willing owner. The last of these was proving especially elusive, Barrett bemoaned. Local farmers weren’t keen on giving up valuable agricultural land to some random out-of-towner. After knocking on door after door, he had come up empty. Hence: the bar.
+
+Barrett’s drinking companion—Bill Ward, or Wild Bill to his friends—thought the idea was bizarre, but also fun. “He told me, ‘I’ve got this alfalfa field. You’re welcome to come by tomorrow. I’m okay with you building this thing,’” Barrett said to me. “I just about fell out of my chair.”
+
+When researchers study evolution through natural selection, they typically focus on just one part of it. The essence of the process is this: Some genes confer beneficial traits. Those traits make their owners more likely to survive and reproduce in a given environment. Over time, those genes and traits become more common. So researchers might, for example, find genes behind certain traits (such as striped coats). Or they might link certain traits to success in a given environment (such as longer-legged lizards in hurricane-hit islands). Beyond some experiments with lab-grown microbes, they have rarely connected all the dots together.
+
+That’s what Barrett accomplished. With hundreds of mice and years of research, he and his colleagues were able to show and measure, in the real world, “the full process of evolution by natural selection,” says Hopi Hoekstra of Harvard University, who led the study. “It’s all in one.”
+
+It was also a pain in the ass. “Utter ignorance was a good thing,” said Barrett, who had, until this point, only ever worked with small fish. “Anyone who had worked with mice would have never attempted this.”
+
+Once the team had Bill Ward on board, they ended up buying 30,000 pounds of stainless steel plates from a local hardware store, and carting them over to the farm using flatbeds and forklifts. There, they erected the plates in trenches two feet deep, creating square enclosures that were 164 feet across on each side. They built three such pens on light sand, and three on dark soil.
+
+At first, the steel pens seemed to work. Mice could neither dig beneath the plates nor climb over them. They were, however, exceptionally good at sneaking through gaps where adjacent plates didn’t quite meet, so the team had to dig everything back up and pour concrete around the joints.
+
+Nature itself seemed eager to select against the team. On one trip, high winds almost flipped the truck carrying the steel plates. Once, a team member fainted and cut himself on a piece of steel. During winter, ramps of snow would accumulate along the walls, so the team had to add an extra layer of mesh along the plates. They also had to catch all the rattlesnakes in the enclosures and throw them over the walls; Bill helped. “Everything goes wrong in the field,” Hoekstra says. “And we’re used to dealing with pipettes, not backhoes.”
+
+When everything was finally set, the team evicted every mouse already inside the enclosures, and caught around 500 more from the surrounding hills. They photographed each rodent, took a DNA sample, implanted a tiny radio chip between its shoulders, and released it into one of the enclosures.
+
+As time passed, many of the mice fell prey to owls, but after three months, the team returned and recaptured the ones that were left. Sure enough, they found that, compared with the average founding rodents, the average survivors were noticeably lighter in the light-sand enclosures, and darker in the dark-soil ones. Through the deaths of the most conspicuous individuals, the survivors from two initially identical populations had shifted in different directions thanks to their different environments. “It’s intuitive that if you match your background, you’re more likely to survive,” Hoekstra says. “But that’s been a just-so story for years.” This experiment showed that it matters—a lot.
+
+A simpler study could have stopped here, but the team went deeper. Team member Stefan Laurent sequenced a gene called Agouti, which has been linked to fur color, in all 481 of the mice. He found seven mutations that had become more common in the light enclosures, and rarer in the dark ones.
+
+One, known as delta-Ser, seemed to have an especially strong effect. And when another team member, Ricardo Mallarino, engineered that mutation into the Agouti genes of normal lab mice, the rodents grew up with noticeably lighter coats. What had happened?
+
+The Agouti gene is known to affect fur color through the production of a yellow-brown pigment. But to do that, it needs to partner up with other genes. Mallarino found that the delta-Ser mutation disrupts the part of the gene that facilitates those partnerships. It forces Agouti to work alone, which means that it produces much less pigment. This one mutation had lightened the mice’s fur enough that a human eye could see the difference. “And now we know why,” Hoekstra says.
+
+In the lab, scientists can poke Agouti and show that it controls fur color, notes Luisa Pallares of Princeton University, who also studies evolution. But does this mean that variations in the gene are actually driving color differences in the wild? That question would be very hard to address through more piecemeal experiments. But thanks to Hoekstra’s study, the answer is an unambiguous yes. At the start of the experiment, the delta-Ser mutation was equally common in all six enclosures. After three months, it had become more common in two of the light ones, and rarer in all the dark ones—and the rodents’ fur had shifted accordingly. It clearly provides the variation that natural selection sculpts. “The study is very ambitious, and the results totally paid off,” Pallares adds.
+
+Just showing that color-matched mice were more likely to have survived, and finding mutations that were associated with that pattern, “would have been excellent, and actually very rare in the literature,” says Martha Muñoz, an evolutionary biologist at Virginia Tech. “But they dug even deeper. They took a very clear pattern of evolution and broke it down in several different layers. That’s unprecedented.”
+
+After almost a decade, Barrett, Hoekstra, and their colleagues had shown that darker-furred mice were more likely to survive on the soils of Wild Bill’s alfalfa farm, while lighter-furred individuals thrived against the whiter sands of a nearby park. They found that these variations in fur color depend heavily on mutations in one particular gene. They uncovered exactly how one of these mutations changes the color of a mouse’s hair.
+
+In other words, they showed that one mutation became more common over time because it creates a physical trait that makes its owners better suited to their environment. It’s the essence of evolution, measured comprehensively.
+
+“It demonstrates how quickly natural selection can occur when there is variation present in a population, and how genetic changes can be tracked in real time in natural systems,” says Erica Bree Rosenblum from University of California, Berkeley.
+
+The experiment is still ongoing. All the original mice have died, but not before spawning new generations that are now scurrying about their steel-walled pens. The team wants to see how these progenies differ from their parents, and look beyond the Agouti gene to analyze their entire genome.  
+
+It helps, Barrett said, that the people of Valentine have become so invested in the study. “They thought we were a little crazy at first,” he told me, “but we’ve made a lot of very good friends. Everyone in town knew about the experiment. People would go out between our trips to check on our enclosures. They call us the Mouseketeers.”
+
+Roughly a third of Nebraskans believe that living things were created as they are now. Another third think that evolution occurs, but through God’s design. Given those beliefs, I asked Barrett whether he ever encountered resistance when talking to his new friends about his work. “In the early trips, when first meeting people, I would talk generally about genetics and natural selection. I wouldn’t use the E word,” he said. “It’s one of those trigger words where, in certain parts of the U.S., people just stop listening to you.”
+
+But he added that all of them comprehended the essence of evolution, even if they explicitly rejected it. “A lot of them are farmers, who have a very good understanding of inheritance, and genetics,” he said. “A lot of them hunt, so they’ve got the survival-of-the-fittest thing down. They understand variation, and they know that a slow deer is easier to shoot than a fast deer. Inheritance, variation, fitness … all the pieces are there.”
+
+“I’d never push too hard. I never explicitly said, ‘Do you believe in it or not? Have I now convinced you?’” he told me. “I just had some long conversations over beers at BBQs and high-school football games. And I found that in subsequent trips, I could use the E word and not get the flinch.”

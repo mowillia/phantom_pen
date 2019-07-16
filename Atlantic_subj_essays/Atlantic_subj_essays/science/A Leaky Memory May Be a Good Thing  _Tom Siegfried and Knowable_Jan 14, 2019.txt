@@ -1,0 +1,59 @@
+In the quest to fend off forgetfulness, some people build a palace of memory.
+
+It’s a method for memorizing invented in ancient times by (legend has it) the Greek poet Simonides of Ceos, more recently made popular by multiple best-selling books (and the “mind palace” of Benedict Cumberbatch’s Sherlock Holmes).
+
+Memory palaces provide imaginary architectural repositories for storing and retrieving anything you would like to remember. Sixteen centuries ago, St. Augustine spoke of “treasures of innumerable images” stored in his “spacious palaces of memory.” But 21st-century scientists who study memory have identified an important point to remember: Even the most luxurious palace of memory needs trash cans.
+
+“There are memories that we don’t want and we don’t need,” says the neuroscientist Maria Wimber, of the University of Birmingham in England. “Forgetting is good, and an adaptive thing.”
+
+Traditionally, forgetting has been regarded as a passive decay over time of the information recorded and stored in the brain. But while some memories may simply fade away like ink on paper exposed to sunlight, recent research suggests that forgetting is often more intentional, with erasure orchestrated by elaborate cellular and molecular mechanisms. And forgetfulness is not necessarily a sign of a faulty memory. “In fact,” Wimber says, “it’s been shown over and over in computational models and also in animal work that an intelligent memory system needs forgetting.”
+
+Far from signifying failure, forgetting may be the brain’s frontline strategy in processing incoming information. Forgetting is essential, some researchers now argue, because the biological goal of the brain’s memory apparatus is not preserving information, but rather helping the brain make sound decisions. Understanding how the brain forgets may offer clues to enhancing mental performance in healthy brains while also providing insights into the mechanisms underlying a variety of mental disorders.
+
+Memory itself is still something of a mystery, but it basically consists of physical changes in the brain that encode a representation of past experiences. Those memory traces—known as engrams—can be accessed to reconstruct the past, albeit imperfectly. Many experts believe that engrams are built by strengthening synapses—the sites where signals are transmitted between nerve cells, or neurons. Recalling a memory reactivates a pattern of nerve-cell signaling that mimics the original experience.
+
+“The prevailing view is that the formation of an engram involves strengthening of synaptic connections between populations of neurons … that are active during an event,” Sheena Josselyn and Paul Frankland write in the current Annual Review of Neuroscience. “This increases the likelihood that the same (or similar) activity pattern within this cell assembly can be recreated at a later time.”
+
+Engrams obviously do not save every detail of every experience. Some records of activity patterns do not persist. And that’s a good thing, says Wimber.
+
+“An overly precise memory is maybe not really what we want in the long term, because it prevents us from using our memories to generalize them to new situations,” Wimber said in San Diego at a recent meeting of the Society for Neuroscience. “If our memories are too precise and overfitted, then we can’t actually use them to … make predictions about future situations.”
+
+If your memory stores every exact detail of getting bitten by a dog in the park, for instance, then you wouldn’t necessarily know to beware of a different dog in a different park. “In fact,” Wimber says, “what we might want is a more flexible and more generalized memory, and that would involve a bit of forgetting of the details and more the development of a gist of a memory.”
+
+Such “streamlined” memories are not side effects of flaws or constraints on memory power, Frankland and Blake Richards point out in a 2017 paper in Neuron. Such simplification “is an essential component of adaptive memory,” they write. “Simple memories that store the gist of our experiences and avoid complicated details will be better for generalizing to future events.”
+
+Getting the gist, and just the gist, is therefore valuable as an aid to making smart decisions, say Frankland, of the Hospital for Sick Children in Toronto, and Richards, of the University of Toronto. In fact, they believe it is wrong to think of memory “simply as a means for high-fidelity transmission of information through time.” Rather, they propose that “the goal of memory is to guide intelligent decision making.”
+
+Getting just the gist is especially helpful in changing environments, where loss of some memories improves decision making in several ways. For one thing, forgetting can eliminate outdated information that would hamper sound judgment. And memories that reproduce the past too faithfully can impair the ability to imagine differing futures, making behavior too inflexible to cope with changing conditions. Failure to forget can result in the persistence of unwanted or debilitating memories, as with post-traumatic stress disorder.
+
+Forgetting’s great value implies that it doesn’t happen accidentally. In some cases, forgetting may simply reflect an inability to recall a memory trace, even if the engram encoding it remains intact. But a growing number of researchers believe that can’t be the whole story. As Ronald Davis and Yi Zhong point out, the brain’s remarkable storage ability suggests that it possesses an efficient information-management system, equipped with data-disposal methods. “Because of the extraordinarily large number of memory engrams that can accumulate in the brain across time, it seems logical that the brain must have … mechanisms to remove memories that become unused,” they wrote in 2017 in Neuron.
+
+Psychologists have considered the possibility of active forgetting for more than half a century, but only in the past 15 years or so have researchers accumulated substantial neurobiological evidence on the issue. While the neuroscientific study of forgetting is still in its infancy, scientists have begun to discern some of the brain’s tactics for information erasure. In their paper in Neuron, Davis, of Scripps Research Institute Florida, and Zhong, of Tsinghua University in Beijing, described various studies in the past few years on mechanisms that may implement the forgetting process.
+
+Some forgetting does appear to be “passive”—a result of either natural decay of the biological material forming engrams or the loss of ability to retrieve them—Davis and Zhong noted. But many forms of forgetting are more like running a program that wipes data off your hard drive. New stimuli can actively interfere with old memories, for instance. Recalling parts of a memory can induce loss of other parts of it. And “forgetting cells” might actually signal the brain to sweep memory traces away, Davis and Zhong suggested. “We posit that … the brain also has the inherent biological capacity to erode memory traces using signaling systems” similar to those used in acquiring memories and storing them. In fact, forgetting could be the brain’s main strategy in managing information.
+
+“I would speculate that forgetting might be the default system of the brain,” Davis said at the neuroscience meeting. “We might have a slow chronic forgetting signal in our brains that basically says, ‘Let’s erase everything,’ unless a judge … comes to intervene and says, ‘This memory is worth saving.’”
+
+In various experimental studies, Davis and others have amassed ample evidence for the role of biochemical processes that actively erase memory. Studies in fruit flies, for instance, implicate the well-known chemical messenger molecule dopamine.
+
+Flies can remember to avoid an odor that has been accompanied by an electric shock, a memory managed by nerve cells known as mushroom body neurons. Shocks activate other neurons that transmit dopamine to the mushroom body cells, initiating biochemical reactions that store a memory linking the shock to the odor. But that memory is soon forgotten (typically by the next day). Something erases it, and the evidence suggests that dopamine is responsible for the forgetting, too.
+
+Dopamine’s dual role is not fully understood. But mushroom body neurons possess two distinct molecular antennas that respond to dopamine; one of those antennas (or receptor molecules) initiates memory formation, and the other promotes erasure. Whether dopamine promotes or erases memory may depend on the context, including prevailing biochemical conditions and how active the mushroom body neuron is at the time.
+
+In any case, the erasing process involves a protein known as Rac1, which plays a part in structuring synapses. Restructuring synapses in response to Rac1 may be responsible for weakening engrams, some studies indicate. Blocking Rac1 activity, for example, helps to extend how long memories persist.
+
+Rac1 may also be involved in a second forgetting mechanism, driven by the birth of new nerve cells (the process known as neurogenesis). Studies in rats have found that new neurons integrated into existing neural circuits can restructure the circuitry. Such changes in connections might make memories harder to access, Frankland said at the neuroscience meeting. Animal studies have shown that disrupting neurogenesis preserves memories, while high levels of neurogenesis drive forgetting. Whether that form of forgetting is important in humans remains unknown, because the amount of neurogenesis in adult humans is still an unsettled question.
+
+In any case, the evidence suggests that many types of “forgetting cells” must be involved in erasing engrams. “Dozens of molecular and cellular pathways likely exist to erode memories,” Davis and Zhong wrote in Neuron.
+
+How and when those processes operate can depend on various factors, such as physical activity, stress, and sleep. Sleep is known to enhance memory in humans and other animals, presumably by providing a time when memories can be stored (or “consolidated”) in the brain. But sleep may also aid memory by suppressing the processes that drive forgetting, Davis and Zhong point out. A 2015 study published in Cell found evidence that sleep inhibits release of the dopamine forgetting signal to mushroom body neurons.
+
+If forgetting is the key to how the brain successfully processes the massive data input it encounters each day—as research accumulated so far suggests—then flaws in the forgetting process could plausibly contribute to brain disorders, Davis and Zhong note. Deficits in the ability to forget may be involved in autism spectrum disorders, for instance. Certainly the powerful and debilitating memories of post-traumatic stress disorder reflect an inability to forget disturbing experiences. Unwanted, repetitive invasive memories are a feature of some psychiatric disorders, such as schizophrenia. And the inability to forget cues associated with addictive drug use impairs recovery from substance abuse.
+
+On the plus side, better insight into the biology of forgetting could help identify drugs capable of enhancing needed memories while disposing of undesirable ones. But such benefits may appear only after much more research, Davis said at the neuroscience meeting—speaking at a rather sparsely attended session.
+
+“We’re at the very, very beginning of trying to understand the neurobiology of active forgetting,” he said. But he expects that the field will rapidly attract more attention.
+
+“I guarantee you, five years from now this room will be filled,” he said. “Hordes of neuroscientists will start invading this field.” If he’s right, future meetings on forgetting might best be convened at a spacious palace—with plenty of trash bins and perhaps even a Dumpster.
+
+This post appears courtesy of Knowable Magazine.

@@ -1,0 +1,107 @@
+Does the country’s most popular climate policy actually work?
+
+A controversial new study suggests that a type of state policy—usually called a “renewable portfolio standard,” or RPS—may impose large hidden costs on Americans. But a wide range of experts, including engineers, political theorists, and economists, aren’t sure the paper can actually make its case.
+
+As Congress and the White House have failed to do much of anything about climate change, state standards have come to define U.S. climate law. Since 1991, 29 states and the District of Columbia have required that a portion of their electricity come from renewable sources. These RPS policies usually mandate that the state’s power grid use a certain amount of wind and solar energy by a certain year.
+
+RPS standards look like climate policy that can actually win. Just look at Washington State. Last November, voters there overwhelmingly nixed a carbon-tax ballot proposal. But Governor Jay Inslee signed a 100 percent clean-power RPS into state law this Tuesday.
+
+“Among our carbon policies, probably the biggest one we have in the country are RPSes,” Michael Greenstone, an economics professor and the director of the Energy Policy Institute at the University of Chicago, told me. Today, renewable standards already cover about half of the national power grid and about 18 percent of all U.S. emissions. Carbon pricing, meanwhile, only applies to about 9 percent of national emissions, he said.
+
+Yet RPS policies have flourished without much sense of their cost. That’s the question that the new study seeks to answer.
+
+The study, still in draft form and not yet peer-reviewed, finds that renewable standards tend to make electricity more expensive. Seven years after a state passes an RPS, the price of electricity rises by about 11 percent, and a standard unit of power—a kilowatt-hour—becomes about one cent more costly.
+
+“There is a clear upward turn in prices once a state adopts an RPS, and it just kind of marches upwards as the standards get more stringent,” said Greenstone, who co-wrote the paper with Ishan Nath, another economics researcher at the university.
+
+An RPS does lead to a moderate decline in carbon pollution, the study finds. But Greenstone and Nath argue that this reduction comes at a steep price. They say that, under an RPS, it costs at least $130 to prevent a ton of carbon pollution from entering the atmosphere. That’s far more expensive than the $50-per-ton carbon tax that Barack Obama’s administration once calculated.
+
+The paper’s title is, “Do Renewable Portfolio Standards Deliver?” Its answer seems to be no—or at least, no, when compared with a carbon tax.
+
+The study was first covered by Axios last month, and lawmakers have already cited it in debates about a state RPS. But the paper has become a flash point. In the days after its release, several experts have raised questions about the scope of its argument.
+
+I spoke with five outside researchers for this story, including two economists. All of them took some issue with the paper’s purported scope: While the research was impressive, they said, it should not be taken as the last word about RPSes. Several of them also argued that the study confused too many different state laws, that it left out important benefits of an RPS, and that—above all—it couldn’t actually answer the most relevant question about RPS policies.
+
+The authors freely admit to some of these difficulties in the paper. But some of the experts held that, even with those admissions, the paper could still be misused by enemies of all climate policy.
+
+The controversy points to some of the larger questions haunting the academic study of global warming: What do we really have to know to fight climate change? What can economics tell us about some of the toughest questions raised by the climate crisis? When the fate of the planet is at stake, should we care about saving every marginal dollar?
+
+The big critiques of the new Chicago paper fall along three lines. First, some experts took issue with the aspects of RPS policies that the authors tried to measure. Second, some experts take issue with what the paper didn’t measure. Finally, most of the experts worried about what the paper can’t measure.
+
+Leah Stokes, a political-science professor at UC Santa Barbara, is very much in the first camp. She is writing a book about state standards, and the most important thing to know about them, she told me, is that it’s very rare that state lawmakers actually passed an RPS by itself. 
+
+Instead, states tended to adopt RPS policies as part of a package of bills about the power grid. Starting in the 1990s, as the wave of Reaganite deregulation overtook the electricity sector, environmentalists often succeeded in slipping a small RPS into an omnibus power bill. After passage, multiple provisions in the new law would all take effect at the same time.
+
+“These things were negotiated agreements,” Stokes said. “They’re not these beautiful stand-alone RPS bills.”
+
+That negotiated history makes it harder to tease out the effect of any one RPS by itself. Plus, no two states passed exactly the same standard. The differences can be significant: By 2021, North Carolina needs its grid to be 12.5 percent renewables, while South Carolina only needs 2 percent renewables. States also defined “renewable power” in very different ways. Massachusetts and Ohio have long allowed nuclear power to count against their RPS mandates; other states generally have not. 
+
+The Chicago study tries to control for some of these variables, accounting for national changes to electricity pricing and for other state power policies. “[The authors] do, to my mind, as solid an analysis as you can do,” Ken Gillingham, a Yale energy economist who did not work on the paper, told me. “They have the caveats that I would demand to feel comfortable.”
+
+But ultimately, the answer that the paper finds—that RPS policies increase electricity prices while somewhat reducing carbon emissions—describes only the average effect of the 30 different statewide policies.
+
+“These things are extremely messy laws,” Stokes told me. “If you go and talk to people in certain places about what was happening on the ground [when RPSes passed], you would discover that there’s a lot of heterogeneity and complexity and politics happening. The model is not going to account for that very easily.”
+
+“Yes, each of the RPS policies is like a snowflake,” Greenstone said. “But when you wake up in the morning after a bunch of snowflakes have fallen, there’s snow on the ground.” RPS policies, he reminded me, are the most substantive U.S. climate policy on the books. “To the extent that we want to understand how we’re doing with carbon, knowing the average effects across the 30 seems self-evidently informative,” he said.
+
+But in addition, experts raised questions about what the paper didn’t measure. Many RPS laws had several intended benefits. They may have aimed to help local solar or wind companies. They might also have reduced toxic air pollution, which can carry enormous public-health costs.
+
+“The title of the paper is, ‘Do Renewable Portfolio Standards Deliver?’ That’s a pretty provocative title,” Gillingham, the Yale economist, said. “They do a lot of work to answer that … [but] I’m not sure they fully answer the question.”
+
+Instead, the paper focuses on only one benefit: prevented carbon pollution. Yet even some of those methods can be controversial. The paper estimates the cost of carbon pollution by using a figure called the “social cost of carbon,” which attempts to compute the damage wrought by greenhouse gases between now and 2100. The paper estimates that every ton of carbon deals $50 in cost to society. But some economists doubt the utility of that figure.
+
+“The empirical work on the social cost of carbon is better than nothing. It helps us to do things like say that the social cost of carbon is bigger than zero,” Noah Kaufman, an energy economist at Columbia University, told me. But he doubted that the social cost of carbon represented a precise, meaningful, per-ton estimate of all the damage wrought by climate change. Without a social cost of carbon, it’s impossible to say that an RPS costs more than its benefits. (That said, not every economist is as skeptical of the social cost of carbon as Kaufman.)
+
+For these reasons, the two economists said that the paper could not render a final judgment about the overall value of RPS policies. Yet it seems to do so, at one point saying directly: “It appears that the current costs of RPS programs exceed their benefits.”
+
+“You can’t really say that,” Gillingham said. “It is not a cost-benefit analysis. It is a cost-effectiveness analysis.” Such a sentence would probably be removed during the peer-review process, he said. Greenstone agreed. “That sounds like it needs to be edited,” he said.
+
+And that points to a quirk of economics as a discipline. In the physical sciences, researchers do not discuss their work in public in any way until after a paper has been peer-reviewed and published. Scientists are free to share drafts with colleagues, or present early results at a conference, but they are essentially barred from talking about them on the record with journalists.
+
+But in economics, researchers discuss working papers with the press all the time. Blockbuster results regularly receive major coverage before they are peer-reviewed. This makes sense: Many economists study real-life policies, and they wish to get their conclusions in front of policy makers as quickly as possible. Economists have also told me that the peer-review process in their field is slower and more arduous than it is in other disciplines.
+
+Sometimes this working-paper approach can backfire: In 2010, two Harvard economists published a non-peer-reviewed paper that suggested high levels of public debt could depress a country’s economy. The paper was immediately cited to help justify widespread and painful budget cuts in the European Union. But three years later, a 28-year-old graduate student discovered that a coding error in an Excel spreadsheet had distorted the paper’s results. The data did not justify the same policies.
+
+No one suspects the RPS paper of brimming with similar issues. And it’s not like the peer-review process keeps mistakes in other fields from making it to print: A high-profile, peer-reviewed Nature paper was corrected after publication last year. “People’s opinions about using working papers are like opinions about process crimes—if you’re likely to dislike the paper’s findings, you’re likely to distort what the working paper means,” said Kaufman, the Columbia economist.
+
+“I like the economics approach,” he added. “It’s like a societal peer review. Everyone digs into them, and within a few days we have a sense of what a lot of well-qualified experts think.”
+
+With the new paper, a bunch of well-qualified experts agree on a final criticism—that the most important benefit of an RPS may be totally unmeasurable. Even the paper itself repeatedly mentions this shortfall. Here is the problem: Economics has no way of knowing whether RPS policies reduced the global price of renewable energy. But depending on who you ask, that was the entire point of RPS policies in the first place.
+
+Take Oregon, where Jesse Jenkins, an energy-systems engineer and a researcher at Harvard Kennedy School, helped pass an RPS law early in his career. State lawmakers never designed that policy solely to cut carbon pollution, he told me. Instead, they hoped to prompt cost-reducing innovation in the solar and wind industries. The standards “were designed to incubate and kick-start the nascent renewable energy industry—to take what was then called alternative energy and make it mainstream,” Jenkins said.
+
+Even the most advanced statistical methods have a notoriously hard time of capturing this type of innovation, known as “learning by doing.” They struggle to tease out the effects of any one policy on the global marketplace. As such, the paper doesn’t measure them. It admits this flaw several times, even printing it in the abstract. “We say eight ways to Sunday in the paper that we do not, and are unable to, make progress on RPS’s ability to drive down costs,” Greenstone said.
+
+What we know is that—in the years that many RPS policies have been active—solar and wind costs have fallen. Over the past decade, both solar and wind energy have plunged in cost. Solar energy is now 38 times cheaper than it was in 2010; renewable energy is now cheaper than coal across much of the United States. Economists know that American state-level RPS laws, Germany’s national solar policy, and cheap Chinese manufacturing all played a role in these incredible declines—but they have not distilled the exact relationship between all three of these.
+
+“I don’t think we really have the tools right now to isolate the impact that one RPS in particular has had on the decline in costs of solar and wind in the last few decades,” Kaufman said. “It’s fair to say it matters, and it’s certainly not the only thing that matters.” Greenstone took a more agnostic approach to the question: “Just because you can name that that might happen doesn’t mean that it is so. I don’t know if [RPSes] do [reduce costs] or if they don’t. I don’t think you can run around and assert that those benefits are large.”
+
+The question is what this lack of evidence means for the paper’s overall approach. Can an RPS, which aims to spur innovation, be fairly compared to a carbon tax, which aims to cut carbon? “In a way, it’s asking the wrong question if it’s trying to compare a carbon tax directly to an RPS,” Kaufman said. He believes that the policies work best together. “My sense is what you want is deployment policies like RPSes to help technologies along in their early stage of development, and then you want a policy like a carbon tax to more cost-effectively incentivize the low-cost mature technologies.”
+
+Gillingham, the Yale economist, echoed that critique. “If the policy maker’s goal is purely to reduce CO2 emissions at the short-run lowest cost—and I personally don’t see why that should be the policy maker’s goal—then this way of making the comparison makes sense,” he said. “Otherwise, if it’s a long-run problem that has innovation involved, you have to be careful making this comparison.”
+
+He added that he does trust the fundamental results. Greenstone and Nath’s findings closely match those in a 2017 study from Louisiana State University. It too found that power costs rise after the passage of an RPS.“But that doesn’t mean [RPSes] are a bad policy,” Gillingham added. It means that they are not cost-free and have some hard-to-measure benefits.
+
+This distinction may be lost on some of the study’s consumers. Days after the Chicago study was posted online, a Republican state lawmaker in Ohio cited it approvingly during a hearing on the local RPS policy. Republicans there are currently pushing to repeal the state renewable standard, replacing it with a bailout for two local nuclear plants. The lawmaker, State Representative Dick Stein, directed special attention to the RPS paper’s title.
+
+The paper “talks about whether renewable portfolio standards deliver—do they deliver a value to the customers?” he said. “When I see the metric cost of a ton of carbon at $130, and we’ve been told in the past that was something in the neighborhood of $50 … it seems like those two don’t get together.”
+
+“Many of the folks … today testified to the fact these standards work, but at what cost?” he asked. “The question is, are these really ideal policies?”
+
+The paper would reply that no, RPSes are not ideal policies when compared to a carbon tax. But Stein was not advocating for a carbon tax; he was advocating for junking the RPS altogether. With or without the paper, it seems likely that GOP lawmakers in his state will soon ditch Ohio’s renewable standards.
+
+That repeal could snap renewable standards’ winning streak. Since 2016, four states have adopted 100 percent clean-energy standards. This success has pushed some observers and activists to change their mind about the policy. “I used to favor starting with a carbon tax or cap-and-trade program, because they seem to be the most efficient way to attack climate change. But they’re not efficient if they never pass,” wrote David Leonhardt of The New York Times this week. He now favors sector-by-sector standards, like those used in an RPS.
+
+Greenstone believes that this new approach is gravely mistaken. “I don’t want to lose sight of the fact … that the enemy is carbon,” he told me. “Society should be trying to identify, ruthlessly and relentlessly, what are the least expensive ways to get rid of carbon?” Before the paper, he said, we didn’t know the effects of the average RPS. Now we do. “Why is it that—28 years after the first RPS passed—we didn’t have plausibly credible evidence on the effects of RPS policies on electricity prices and carbon emissions? How is that possible? And how were we better off not having answers to those questions?”
+
+“I just think the climate problem is so important that we should have the facts in front of us on the least expensive ways to do something,” he said. “It’s an iron law of economics—when things cost more, people buy less. So if we really want to make progress on the climate challenge, I’m confident we’re going to do much more if we find cheaper ways to address it.”
+
+None of the paper’s critics would, I think, disagree with this assessment. “There are a lot of people out there who say, Forget about carbon taxes, and let’s focus on policies that can pass, like RPSes. And they’re just not substitutes,” Kaufman said. Stokes called for open-mindedness: “I think we should all be open to the fact that these things are expensive,” she said. And like every other expert I talked with, she was effusive in her praise of Greenstone, calling him one of the top energy economists on the planet. “He’s a good guy, working in really good faith,” she said. “I don’t think he’s trying to game a certain answer.”
+
+So the dispute over the paper seems to raise a more philosophical question. In recent U.S. history, the political capital for climate policy has been a far scarcer resource than monetary capital. Once a new climate-friendly program passes, it tends to get funding, even from a GOP-controlled Congress. The passing, it seems, is the hard part, because massive political force will always be arrayed on the side of doing nothing about climate change at all.
+
+Given that situation, how should researchers talk in public about second-best policies, like an RPS? How should they discuss results when a field’s best methods can’t answer one of the most urgent questions about a given policy? There is no guidebook here, and no all-purpose answers.
+
+Almost a decade ago, Greenstone was an economist in the Obama administration. He watched as the Senate voted down the Waxman-Markey climate bill, the last credible attempt to put a price on carbon in the United States. “What I took away from that is that the politics are hard, period,” he said. And the politics will be hard no matter the strategy: Three years before the Obama bill fell, Congress voted down a national RPS.
+
+“In the face of politics being hard in all of its forms … I don’t get the case for focusing on more costly approaches to carbon,” he said. “I’m clear-eyed about my role here in all of this. Policy makers make policy. Economists do not make policy. What would be nice is if facts had a seat at the table with policy makers.”

@@ -1,0 +1,23 @@
+Google apologized Wednesday to customers who purchased its Nest Secure home-security system. The device is equipped with a microphone that has gone unmentioned since it went on sale in 2017. Earlier in February, Google announced on Twitter an upcoming software update that activated the microphone, making the Nest Guard responsive to voice commands and Google Assistant technology. The tweet startled users, who were never told the system could pick up sound.
+
+“Have I had a device with a hidden microphone in my house this entire time?” one user asked.
+
+Missing from the Nest account’s response was the word yes, but to be clear: Yes.
+
+“We included a microphone in the Nest Guard with features such as the Google Assistant in mind. It has not been used up to this point, and you can enable or disable it at any time using the Nest app,” the company wrote on Twitter.
+
+Google has since updated its product page to include a description of the microphone. Via email, a company spokesperson admitted that failing to mention the device in previous materials was an “error,” and the company’s intention was to eventually allow users to enable the microphone to detect disturbances or intrusions, such as the sound of glass breaking.
+
+“The on-device microphone was never intended to be a secret and should have been listed in the tech specs,” the statement reads. “That was an error on our part. The microphone has never been on, and is only activated when users specifically enable the option.”
+
+The incident recalls a similar one, also from this month, when American Airlines passengers discovered cameras embedded within the airline’s in-flight TVs. The apology was similar as well: American Airlines admitted that it never informed passengers that the TVs had cameras, but they were never turned on. “While these cameras are present on some American Airlines in-flight entertainment systems as delivered from the manufacturer, they have never been activated and American is not considering using them,” the airline told BuzzFeed News.
+
+Privacy advocates treat home surveillance systems, such as Nest devices or Amazon’s Ring, with suspicion because they primarily record people other than the customer: mail carriers, food-delivery workers, neighbors. These people are subject to interactions with the devices without being fully informed that those interactions might be recorded or analyzed. In this case, people who might draw their own privacy lines at passive listening or audio-enabled devices had unwittingly brought them into their homes.
+
+“At the very least, people need to know what they’re buying and, to the extent that they can, have a sense of what the risk entails,” says Lindsey Barrett, a teaching fellow and staff attorney at Georgetown Law’s Institute for Public Representation. “That’s an incredibly difficult ask for consumers in this day and age. But [this] seems like a pretty basic kernel of information that they’d need to know.”
+
+It’s difficult to stay fully informed not just because companies sometimes fail to disclose what technology their products contain, but also because the technology can be reworked very quickly. Microphones meant to pick up on glass breaking can also be used to record human voices. Cameras can be turned on. Devices can be recalibrated for new uses, and the data they collect can be used in ways that aren’t what customers signed up for.
+
+Google has filed a series of patents indicating a radical approach to collecting audio data in the home. The patents would allow smart home devices enabled with Google Assistant to infer behavior based on what they hear: the brushing of teeth, the opening of a refrigerator door. They can even estimate your mood based on the presence of raised voices or swearing. The sheer versatility of data and devices makes it hard to find stable ground. As devices’ capabilities evolve, so do the risks.
+
+“I think trust definitely plays a role in how people respond to choosing between Oh, this is new and shiny and [asking], But does it create new risks in my life?” Barrett says. Customers might trust what these products do now, but will they later?

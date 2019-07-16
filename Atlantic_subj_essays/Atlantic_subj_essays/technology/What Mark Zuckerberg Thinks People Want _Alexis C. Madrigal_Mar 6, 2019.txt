@@ -1,0 +1,31 @@
+Facebook has always been good at giving people what they want, whether they like it or not.
+
+That was the premise of News Feed, the most successful attention sponge in internet history. When Snapchat’s vertical, ephemeral “Story” format took off, Facebook brought it to its core service, Instagram, and WhatsApp.
+
+Facebook doesn’t create new behaviors, but it ruthlessly and shamelessly optimizes itself for them, mutating them to suit its own purposes.
+
+Which is why it is worth paying attention to Mark Zuckerberg’s new note, describing the public rationale for his plan to create an integrated, encrypted messaging back end that unites his company’s products. While the former FCC technologist Ashkan Soltani called it “a competition play to head off any potential regulatory efforts to limit data sharing across services,” Zuckerberg painted it as a natural evolution of the Facebook Inc. communities’ desires.
+
+In many ways, Zuckerberg’s new theories of privacy are a repudiation of his company’s long-established goals of increasing “openness” and “sharing” in the world. And it’s important to remember that Zuckerberg is talking to three audiences with a note like this: (1) his own employees, who see what their boss is publicly committing to; (2) investors, regulators, and other power players; and (3) Facebook’s billions of users.
+
+While many Facebook users might have been skeptical of the company’s goals and stated intentions, insiders have tended to fully buy into the company’s mission. Before 2017, that was to “to give people the power to share and make the world more open and connected,” in which encrypted private messaging fits only after considerable ideological renovation. Since mid-2017, the mission has been “to give people the power to build community and bring the world closer together.” The current moves fit roughly within that framework—except that, unlike the past couple of years’ missives about building “community,” today’s post doesn’t contain a single instance of that word. The new rhetoric centers on “people,” a word that appears 66 times in the document, and what those people want.
+
+Zuckerberg needs to do this, for all his audiences, to show that Facebook is merely following the dictates of the people, rather than shaping usage to expand Facebook’s corporate power and profits, while cutting down regulators’ options. “People increasingly also want to connect privately in the digital equivalent of the living room,” he wrote, noting that “we already see that private messaging, ephemeral stories, and small groups are by far the fastest growing areas of online communication.”
+
+But as he has long done, Zuckerberg easily tacks between description and prescription. “People should be comfortable being themselves,” he wrote, “and should not have to worry about what they share coming back to hurt them later.”
+
+Replace “People should” with “Facebook wants people to,” and it makes more sense that a CEO would write such a sentence. Having to actively evaluate the pros and cons of posting almost certainly drives down how much people post.
+
+The solution, then, is to reduce the perceived downsides of posting to Facebook products, but also to make people feel as if posting is an indication of being comfortable being themselves.
+
+Another con of communicating on the internet is that a multitude of hacks and other data exposures have shown the medium to be insecure. Thus, Zuckerberg argues for end-to-end message encryption, which ensures that not even Facebook can see the messages on its platforms. “Messages and calls are some of the most sensitive private conversations people have,” he wrote, “and in a world of increasing cyber security threats and heavy-handed government intervention in many countries, people want us to take the extra step to secure their most private data.”
+
+Here, many civil libertarians would agree. They’ve argued for end-to-end encryption for many years. But the simple “people want” framing for this kind of issue doesn’t make sense. People might want their own messages to be secure while supporting law enforcement’s access to others’ messages. People might want their own messages to be secure while worrying that end-to-end encryption makes it more difficult to keep dangerous misinformation from spreading.
+
+The version of “people want” that Zuckerberg uses here relates only to the atomized individual, the user, not the citizen or the person as part of any meaningful collectivity outside Facebook Inc.
+
+If this is what Mark Zuckerberg thinks people want, his company will try to build products that satisfy these desires.
+
+“I understand that many people don’t think Facebook can or would even want to build this kind of privacy-focused platform—because frankly we don’t currently have a strong reputation for building privacy protective services, and we’ve historically focused on tools for more open sharing,” Zuckerberg wrote. “But we’ve repeatedly shown that we can evolve to build the services that people really want, including in private messaging and stories.”
+
+But Facebook’s execution on even venerable goals has always left the company open to criticism. Facebook always gets what it wants, but the people? Our trade-offs with the company have been much more complicated since the month it was founded.

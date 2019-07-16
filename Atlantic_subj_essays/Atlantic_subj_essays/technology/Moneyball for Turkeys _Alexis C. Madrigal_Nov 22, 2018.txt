@@ -1,0 +1,49 @@
+The future of American turkey breeding arrived in August and November of this year, when huge new hatcheries opened in Terre Haute, Indiana and Beresford, South Dakota. The facilities represent the state of the art for, respectively, Aviagen and its subsidiary Select Genetics, and Hendrix Genetics and its subsidiary Hybrid Turkeys.
+
+These two big companies now rule the turkeyscape. Aviagen’s Indiana facility is the largest in the world. It has 41 million slots for eggs to produce its main product, day-old turkeys known as “poults,” which Aviagen sells to turkey farmers around the country. Hendrix’s facility—a $25 million investment, in a town of less than 2,000—has 35 million slots, which it expects will produce 30 million poults. Last year, hatcheries placed 265 million poults total. In other words, both facilities are enormous.
+
+“We experienced a flywheel effect of the scaling in the sector,” Hendrix Genetics CEO Antoon van den Berg told Poultry World in 2016. “In the current breeding [business] you must have a big size as a company.”
+
+Everything has grown larger in the industry: the companies, the hatcheries, and—through what the companies call “genetic progress”—the birds themselves. Although breeding organizations existed as far back as the mid-19th century and more scientific programs began in the 1950s, bird weight at slaughter began to take off only during the 1980s. The average slaughter weight of a turkey in 1980 was 18.5 pounds. By 1990, that was 21.3 pounds. In 2000, 25.6. In 2017, the number reached 30.9 pounds.
+
+
+
+At the same time, the growth rate of turkeys was exploding. The turkey George W. Bush pardoned in 2003 took just 133 days to reach 17.5 pounds. Lyndon Johnson’s turkey in 1966 would have taken 220 days to reach that weight, according to Christine Baes, a geneticist at the University of Guelph, in Ontario, who is working with Hendrix Genetics on a research program. Faster growth means fewer days of feed, which means less energy and fewer resources going into each bird. And these savings, which have positive environmental impacts, are overwhelming thanks not to environmental conditions, but to the genetic transformation of these animals, a hyperdomestication. Size and growth rate are highly heritable traits, Baes said.
+
+But these successes have not come without costs. As the turkeys grew in size, they lost mobility. Some had trouble walking. “In the ’90s, the critical voices got louder,” Baes said. “People started to look at the birds and say: ‘They can’t walk. They can’t stand up.’ They are growing so incredibly fast that there are all of these other problems that are coming up.”
+
+The problem was that breeders knew how to make bigger turkeys. They had really good records and could use the tools of quantitative genetics to keep growing ever bigger birds. They did not know how to select for other kinds of traits, in part because they didn’t have the phenotypic data—what the living birds looked like and how they behaved—to match up with the genetic profiles of the animals.
+
+Generally, the industry separated breeding from production. Breeders created and crossed individual genetic lines, delivering eggs to hatcheries or poults to farmers, who raised them to market age. The breeding facilities, for example, use “processes similar to a hospital” as Aviagen put it, while commercial turkey farms are considerably more rugged. Turkey lines that performed wonderfully under more controlled conditions might encounter unexpected problems on a regular farm surrounded by pathogens and thousands of other turkeys. As the turkeys got bigger, the problems grew along with them.
+
+Worse, turkey breeders can look into the future of their industry. It exists in the form of chickens, who constitute a far larger chunk of the poultry pie, and have been bred much more intensively as a result. And what is happening in that future chicken land is not good. Two new conditions have emerged that have alarmed the poultry industry: white-striping and woody breast syndrome. The techniques used to produce faster-growing, larger chickens have begun to affect the quality of the meat through these muscle conditions. Both are what they sound like: the meat either develops white stripes or it takes on a tough, woody texture.
+
+
+
+It doesn’t take special training with a butcher to look at these four chicken breasts and tell which one you’d want to eat.
+
+At the same time as the meat quality has suffered, activists have pushed the industry to move birds to more open, social environments, ones where they aren’t caged up all the time. In those new settings, new behavioral problems have emerged. Some birds have turned out to be very aggressive, engaging in vicious pecking of their fellow fowl. “If they are in big groups and don’t know each other, they’ll peck each other. Sometimes they’ll peck each other until they rip out all each other’s feathers,” Baes said. “It can progress even to cannibalism.”
+
+That’s the future that turkey breeders want to avoid, while also solving the problems they already have. “How do we make sure they can walk, that their bone integrity is good, that they don’t kill each other? Do we just breed for a very docile bird?” Baes asked. “Do we breed for shorter beaks, so when they do peck each other, they don’t do as much damage?”
+
+Doing any of that requires data. Baes gave me an example of how much harder it is to gather this kind of information than the traditional traits that breeders have optimized for. Let’s say a turkey farmer wants to measure how well her turkeys walk. The farmer has to individually grab the turkeys and have them walk. Seems easy enough, but let’s say the flock is 6,000 birds. That becomes a massive data-collection task. If the farmer wants to measure for, say, aggressiveness, she could deploy some kind of machine-learning system on video of a flock, looking for the aggressive birds that peck others a lot. But living creatures are complicated.
+
+“We could have a heyday with machine learning and algorithms, but at the same time, there is the biological basis behind it,” Baes said. “Looking at video data, an aggressive peck at the head of another bird is going to be very different from a gentle peck at a piece of sawdust that the bird sees on the ground.”
+
+Nonetheless, the industry is trying all kinds of sensors, automated video analysis, and other technologies to try to find good measurements for the traits it is trying to improve.  
+
+In one experiment, Baes’s team placed a little force plate under a feeding area. A bird walks in, gets an RFID tag scanned, and then the scientists measure how hard it pecks at the feed they’ve given it. They see a very clear difference in pecking intensity among different birds. “It is so cool,” Baes told me. “We are entering a new realm of data collection and of animal breeding and of all of these technologies coming together, hopefully being put to use for a good cause, like breeding more timid birds that are not gonna beat the crap out of each other.”
+
+The breeders know how to make animals change. They build associations between genotypes and the observed phenotypes. Then they start to predict how cross-breeding different lines of birds will change the animals. Once they’ve got a measurement to underpin their systems, they will force the evolution of the livestock. It takes years for the genetic enhancements to filter from what are known as “pedigree” lines down to the commercial stock, but it happens.
+
+Baes believes, too, that breeding healthier, happier animals will ultimately create higher-quality meat. Her research tries to link meat production, the behavior of the live animal, and meat quality. So in addition to the behavioral and traditional production data, her team also got 3,000 samples of meat from an abattoir. “If we can convince everyone that breeding a healthy, happy bird will improve the quality of the production and quality of the meat, you’ll be breeding for animals that can move freely and all of that good stuff,” she said.
+
+It’s not crazy. Years ago, the dairy industry began to incorporate many different components in genetic evaluation aside from raw-milk production, which had increased manyfold over the 20th century. Dairy farmers now breed for a wider variety of traits, as reflected in the ever more complex calculation that determines rankings of bulls.
+
+Aviagen, Hendrix Genetics’ main rival, has also committed to more “balanced” breeding goals. In opening a new genomics facility, the company’s chief technical officer held, its newest research “strengthens our ability to breed stronger, fitter and healthier birds with good robustness and adaptability to global production environments.” Of course, genetics is not going to do it all. No matter how chill a bird has been bred to be, it needs a decent place to live, as Purdue University’s Marisa Erasmus pointed out in a review of turkey life-quality issues published this year in Advances in Poultry Welfare. “Although it may be possible to resolve some welfare issues through genetic selection, environmental and management factors will continue to be important in improving turkey welfare,” Erasmus wrote.
+
+Environmental and genetic improvements are not mutually exclusive, of course. A healthier facility for the birds can also include a more intense data-gathering regime. As those data guide the more sophisticated, centralized turkey breeders, the breeding process can spread its optimizations over more and more traits.
+
+“You ever see the movie Moneyball? The whole thing can be summed up with that,” Baes concluded. “You create a wack ton of information, and you can find the best candidates to breed.”
+
+Happy Thanksgiving.

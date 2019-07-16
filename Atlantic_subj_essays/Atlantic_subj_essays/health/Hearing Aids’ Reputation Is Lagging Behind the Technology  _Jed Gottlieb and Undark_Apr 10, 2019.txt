@@ -1,0 +1,67 @@
+In 1983, The New York Times published a bombshell report about President Ronald Reagan: Starkey Laboratories had fitted the president, then 72, with a hearing aid. The news was welcomed by health professionals who reckoned it could help reduce the stigma associated with hearing loss. At the time, one in three people over the age of 60 was thought to have hearing problems, though only about 20 percent who needed hearing aids used them.
+
+Indeed, Reagan’s handlers knew too well that the revelation risked making the president look like a feeble old man—and, worse, someone ill-equipped to run the most powerful nation on Earth. “Among Presidential advisers,” The New York Times noted, “Mr. Reagan’s use of a hearing aid revived speculation on whether his age would be an issue if he seeks reelection next year.”
+
+Reagan won reelection, of course, but nearly 40 years later, negative perceptions persist—and health advocates are more concerned than ever. Hearing loss, they say, is not just a functional disability affecting a subset of aging adults. With population growth and a boom in the global elderly population, the World Health Organization now estimates that by 2050, more than 900 million people will have disabling hearing loss. A 2018 study of 3,316 children ages 9 to 11, meanwhile, found that 14 percent already had signs of hearing loss. While not conclusive, the study linked the loss to the rise of portable music players.
+
+The problem is compounded by the fact that people with hearing loss are at greater risk for a host of other problems: social isolation, abuse, depression, lower overall incomes, restricted career choices, and occupational stress. A 2017 Lancet Commissions report named hearing loss one of the largest potentially modifiable risk factors for dementia, and the WHO estimates that unaddressed hearing loss comes with an annual global cost of at least $750 billion.
+
+The crisis now has Starkey Hearing Technologies (the company changed its name in 2011)—and a growing and competitive field of scientists, drug developers, technology companies, and venture capitalists—angling to head off the intertwined problems of hearing damage and cognitive decline. “Hearing loss has always been the poor stepsister of disabilities, and people still make fun of it,” said Karl Strom, the chief editor of the trade publication The Hearing Review.
+
+“But it’s a serious disability,” he added, “and has been linked to everything from cognitive-function disabilities [such as] Alzheimer’s to depression and loneliness and a raft of comorbidities, from diabetes to ischemic heart disease.”
+
+And yet, as with Reagan’s worried handlers, the specter of hearing loss is still often greeted by many people with denial, shame, and reluctance to seek out solutions. The Hearing Loss Association of America reports that 48 million Americans currently have hearing loss, making it the third most common chronic ailment in the United States—ahead of diabetes and cancer, according to the Centers for Disease Control and Prevention. The CDC also lists occupational hearing loss from noise exposure as the most common U.S. work-related illness. Despite that, the FDA says only one-fifth of people who could benefit from a hearing aid seek it out.
+
+Overcoming the sense of stigma is one of the main challenges facing researchers and technologists looking to curb hearing loss with new drugs, or to restore hearing in those who’ve lost it with a new generation of high-tech devices. Should they succeed, the payoff—both financial and social—is potentially huge.
+
+“The way I do the math, a third of all adults have unaddressed hearing issues,” said Kevin Franck, the director of audiology at Massachusetts Eye and Ear, a Harvard-affiliated teaching and research hospital. “That’s a lot of people.”
+
+The inner ear is filled with thousands of microscopic hair cells. When sound waves hit these hair cells, they vibrate, creating electrical signals that reach the brain through the auditory nerve. Today, hearing loss is attributed to a number of factors, including presbycusis, which can be caused by the natural cell deterioration that comes with aging. Noise-induced hearing loss, or NIHL, is also a major factor, as are medications that, as a side effect, can cause damage to the hairs of the inner ear.
+
+“If you are a venture capitalist,” Franck said, “you get very excited about those numbers.” But helping people who have experienced hearing loss “is not as easy as selling them an app or a pair of headphones,” he added. “It’s more complicated than that.”
+
+One potential breakthrough may come from a handful of drugs currently being tested to combat hair-cell damage from ototoxic drugs. Scores of medications used to treat everything from infections to cancer to heart disease can kill off these cells. Currently, Boston-based Decibel Therapeutics has two drugs to counteract these side effects—small molecules administered via transtympanic injection or taken orally—in Phase I clinical trials.
+
+“Cisplatin and aminoglycoside antibiotics are powerful drugs, which unfortunately often come at the expense of the delicate cells in the inner ear that are necessary for hearing and balance,” Decibel’s chief medical officer, Peter Weber, wrote in an email. “We hope to change the equation for clinicians and patients by preventing these medications from damaging the inner ear, without interfering with the lifesaving efficacy that they are known for.”
+
+In Woburn, Massachusetts, Frequency Therapeutics has begun Phase I and II trials with a potentially broader solution. The company’s regeneration platform offers hope for those with NIHL, presbycusis, and other forms of hearing loss. Its process involves progenitor-cell activation—in essence, coaxing cells back to their development phase to get them to generate more hair cells.
+
+“I’m a drug developer by trade and have been in the field for about 30 years, and I’ve been pretty bearish on regenerative therapies,” said Carl LeBel, the chief development officer at Frequency Therapeutics. But now, he says, the company can stimulate stem cells in the ear, which in turn regenerate the more specialized sensory cells. “Up until today, no one has been able to crack the nut about how we can regenerate that function,” LeBel said. “That’s why we are so enthusiastic about our technology.”
+
+LeBel sees the company’s platform as potentially applicable to multiple sclerosis, alopecia, muscle regeneration, and a wide swath of autoimmune diseases. But others caution against looking for miracles in the coming months. “For my entire career, they’ve been five years away,” Franck said.
+
+“Something has happened where I do believe that, after these 20 some years I have been in the profession, they are closer,” he added. “But they always seem like they’re right over the horizon.”
+
+While drug developers are focused on regeneration, hearing-aid manufacturers are aiming to make their devices as indispensable as smartphones—not just for those with hearing impairments, but for everyone. Other functions, beyond improving hearing, “would make the non-hearing-aid person jealous that they don’t have one,” said Bill Facteau, the president and CEO of the California-based hearing-aid developer Earlens. “That is going to be the game changer.”
+
+Earlens developed technology to convert sound information into invisible light that activates a lens on the eardrum to vibrate it, which the company claims conducts sound more efficiently. The innovation represents only a sliver of the advances hearing aids have made in the past few years. Many can now be connected to mobile devices to allow wearers to stream phone calls, TV programs, and music, while directional microphones can improve nearly anyone’s hearing in crowded restaurants, on windy hikes, or in other noisy situations.
+
+At the higher end of the spectrum, these features can be fine-tuned with phone apps, some of which adapt to make automatic adjustments as the user moves from one type of noise environment to another.
+
+At Starkey Hearing Technologies, the chief technology officer, Achin Bhowmik, helped develop the Livio AI, which doubles as a Fitbit-like health tracker, a fall-detection sensor, and a language translator that transcribes speech to text on your phone, among other functions. The company also added brain-health features that track daily social engagement and active listening. Although at least one 2019 study linking losses in hearing and cognitive function failed to find that social engagement was a factor in staving off mental decline, Bhowmik thinks this added functionality could help combat dementia and Alzheimer’s.
+
+“Your Fitbit or Apple Watch has no clue whether you are socially engaged,” Bhowmik said. “It was a slam dunk for me to integrate those features into the hearing aid.”
+
+For all their efforts, Earlens, Starkey, and other industry players—Widex, Phonak, Oticon—might face new competition for their creations. In October, the FDA approved the first direct-to-consumer hearing aid, which, unlike the standard audiologist-fitted device, can be fitted by the user. The product, developed by Bose, must still comply with federal and state laws relating to the sale of hearing aids, though the FDA is also currently drafting regulations for a new category of hearing aids that can be sold over the counter.
+
+All of this is aimed at increasing access and reducing costs. As it stands, Medicare doesn’t cover hearing care or hearing aids, and the average price of a single aid comes in at about $2,400. High-end offerings often double that.
+
+Bhowmik believes the ballooning number of customers and competitors will naturally drive down costs. “Look at the hearing-aid market and 15 million hearing aids sold by the entire industry [per year],” he said. “Imagine a world where I can drive the volume up 10 times, and what I can do to the economics of them.”
+
+For his part, Franck doesn’t know whether treatment costs will come down fast enough to meet the rising need. But he does see the potential for a new generation of aging adults that won’t tolerate the once-thought-to-be-inevitable decline that past generations accepted.
+
+“They are going to demand greater performance from hearing for longer in their lives,” Franck said. “Some people take hearing loss as something that just happens when you get old. I think this generation might say, ‘I don’t care if I have to wear something on my ears. I’ve already been wearing stuff on my ears.’”
+
+Whether that sort of shameless embrace of hearing loss and hearing aids will come to pass, of course, remains an open question—not least because unease clearly persists.
+
+When Bhowmik joined Starkey Hearing Technologies in 2017, one of the few things he knew about the company was the legendary story of Reagan’s hearing aid. A veteran of Intel, where he was the vice president and general manager of the perceptual-computing group, Bhowmik quickly learned that innovations in the field of audiology rivaled anything happening in Silicon Valley. Scientists working on hearing loss had their fingers in everything from artificial intelligence to stem-cell therapies.
+
+But when former U.S. President Bill Clinton came to the company recently to be fitted with new hearing aids, Bhowmik also learned that pride remains a barrier to seeking help with hearing problems. During a visit with Clinton, Bhowmik says he showed the former president Starkey’s latest hearing aids. The devices come packed with radically advanced technology—light-years ahead of what Starkey had offered Reagan decades earlier—but they remain too large to fit discreetly inside the ear.
+
+According to Bhowmik, Clinton wasn’t interested.
+
+“He still likes to use our invisible, in-ear canal device nobody can see,” Bhowmik said, before speculating on the reason for Clinton’s preference. “If President Clinton doesn’t want anyone to see his hearing aids, there still is some stigma.”
+
+
+
+This post appears courtesy of Undark Magazine.

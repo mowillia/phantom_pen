@@ -1,0 +1,57 @@
+Not long ago, I reached out to a writer I respect, and posed the uncomfortable question authors find themselves forced to ask: Would she write a blurb—the endorsement you see on the back cover—for my new book about how a person can navigate a career in the winner-take-all economy of the 21st century?
+
+She declined. She felt strongly that this winner-take-all dynamic needs to be fought, not embraced. She argued, in essence, that I should have devoted my labors to tearing down a system in which a handful of giant companies and the highly compensated people who work at them dominate the world economy, rather than teaching people how to game it.
+
+She has a lot of company.
+
+Leading Democratic candidates for president have made attacking big business, and the power it wields, central to their campaigns. Republicans are on board, at least as it pertains to the power of the big tech platforms such as Facebook and Google.
+
+And among economists, the evidence keeps building that the concentration of major industries among a handful of superstar firms might be connected to deep economic dysfunctions. When there are fewer employers in an industry, for example, they have more power to depress workers’ wages. Big dominant companies might focus more on defending what they have than on generating the kinds of innovations that drive economy-wide productivity growth. And the rise of superstar firms is likely related to the rise of superstar cities and the hollowing out of many local economies.
+
+This is important and persuasive work—much of which I’ve written about in my day job as an economics writer at The New York Times. But in all the piling on, I fear something really important is missing from the conversation. The rise of superstar firms is rooted in fundamental technological and economic shifts that are mostly desirable. And policy changes aimed at limiting the downsides of corporate concentration—an important goal—wouldn’t restore an economy built on local, artisanal companies. They would instead leave us with a slightly larger variety of very big, technologically advanced companies dominating the corporate landscape.
+
+The wave of trust-busting and rise of unions in the early 20th century removed some of the industrial economy’s worst downsides, but industrial capitalism boomed over the ensuing decades nonetheless. Similarly, the crucial question facing ordinary Americans, no matter how the debates over corporate power play out in the years ahead, is how to harness this reality to have fulfilling careers.
+
+That’s what my book set out to help them do—showing how cultivating adaptability and the ability to connect different type of technical skills in team-based work is crucial to thriving in these organizations. If we want to be successful in the corporate world of the 21st century, we need to make sure we know how to work in the types of large, information-driven organizations that, one way or another, are going to remain central to the American economy.
+
+Our careers depend on it, whether we like it or not.
+
+Americans tend to take the advantages big companies confer for granted because they are so embedded in our daily lives. That’s because the rise of big, technologically advanced, well-managed companies that dominate their industries isn’t just a story of rapacious capitalists looking to take advantage of their workers and distort government in their favor. It’s also a story of growing abundance.
+
+More and more industries are built off intellectual, rather than physical, capital—in ways that make the goods and services we purchase better in all kinds of ways. And it’s the scalability of these businesses that increases the quality of their offerings and reduces costs for consumers—in the process, producing a winner-takes-all economy. A software company might spend millions of dollars to develop code that can then be endlessly replicated; a moviemaker can invest a fortune to make an action movie that can then be viewed by countless people for minimal additional cost.
+
+That pattern also applies in areas that might not seem like information industries. When you choose a bank based on whether it has a good mobile app and a wide network of automatic-teller machines, banking becomes more of a winner-take-all information industry. When Walmart’s global supply chain allows a person with a modest income nearly anywhere in America to buy a greater variety of fresh produce than people a century ago consumed in a lifetime, it entrenches retail as a winner-take-all information industry. When General Electric employs thousands of engineers to create the technology for a jet engine that saves fuel and almost never fails, it is very much part of a winner-take-all information industry.
+
+The technology that makes those things possible demands immense investment, massive forces of specialized labor, and complex management structures to make it all work. And those markets tend to favor fewer, more dominant players. They all exhibit positive returns to scale, in which greater size makes a business more efficient rather than less. In each of these examples, the sheer scale of the biggest banks, retailers, and jet-engine manufacturers makes their products inherently more desirable than those of most upstart competitors.
+
+Or consider the hotel business. It is a prime example of a once-fragmented industry that has become dominated by superstar firms. In 1997, the top five lodging companies in the United States controlled 43 percent of hotel rooms, according to the data and analytics company STR. By 2017 that had risen to 52 percent. Just three companies—Marriott International, Hilton Worldwide, and Choice Hotels International—have 2.6 million hotel rooms, 15 percent of the world total, and are all headquartered within a 20-minute drive of one another in the suburbs of Washington, D.C.
+
+But when you look at the forces that have driven that consolidation, they aren’t necessarily pernicious. A hotel room is full of physical capital—the building itself, the furniture in the room. But more and more of what you’re buying when you book a hotel room is ephemeral. You want to be able to book your room on an easy-to-use mobile app, and maybe even use it to check in. You want to have confidence that the room will be clean and the mattress comfortable, even if it is a hotel you’ve never stayed in. You want to accrue loyalty points that can be used across the widest possible network of other hotels.
+
+So the terms of competition have shifted in ways that favor a smaller number of large hotel companies and disfavor independent properties or small chains. Big global hotel companies can hire a bunch of talented software developers and product designers to build their mobile apps, then spread the benefits of that labor across thousands of properties. They can enforce quality standards across those hotels so that when you check in to, say, a Hilton Garden Inn in a strange city, you know exactly what you’re getting. And their scale allows you to accumulate points on your business trips to Cleveland that help pay for a future vacation to Bali.
+
+Tellingly, the ownership, as opposed to management, of hotels remains widely dispersed among different types of institutions. And it is those owners of the hotel real estate who vote with their feet, concluding that the (quite high) fees the big hotel chains charge for management services are worth it compared to going independent.
+
+It would be foolish not to acknowledge these shifts—and similar ones in nearly every other industry—in strategizing about your career. In studying how things work at many of these superstar firms for my book, I found that there are particular traits a person needs to cultivate in themselves to be successful within them.
+
+For example, it’s important for even low- and mid-level workers to understand how their work fits into the broader corporate strategy of their organization—understanding the shifting economics of a business isn’t just for senior executives anymore.
+
+And, relatedly, there is particular value in being a “glue person,” someone who understands how their specialty fits together with other types of technical expertise, who can ensure that teams containing people with diverse skills can work together to create something greater than the sum of its parts.
+
+People also need to cultivate adaptability—to stretch themselves into areas that are uncomfortable rather than just doing more and more of what comes most naturally. This adaptability, I argue, is a skill that you can develop, just as you can work at becoming better at public speaking or data analysis—it just requires overcoming the natural instinct to keep doing what you’re already good at.
+
+Fundamentally, though, you can thrive in this changing world while also accepting the critique of corporate power that economists and politicians are making, and working to fix the problems they’ve identified.
+
+This shift of the hotel industry toward relying on intellectual capital would have had the same effects even if antitrust regulators had been more skeptical of consolidation by merger, such as Marriott’s acquisition of Starwood in 2016. It would be true even if the hotel workers’ union gained greater clout and used it to substantially increase wages for housekeepers and desk clerks. It would be true even if lobbying and campaign-finance reforms limited the ability of the big hotels to get their way in Washington or local city councils.
+
+In thinking about the rise of winner-take-all effects in the corporate world, in other words, we need to separate the broad shifts in the economics of an industry from pernicious deployment of corporate power.
+
+Think of the historical changes in the auto industry. On the eve of the Great Depression, there were 108 automakers in the United States, most of which are long since forgotten by history. By the 1950s, the Big Three were wildly dominant, fueled by the economies of scale of their assembly lines.
+
+Yet we don’t remember the middle of the 20th century as a time when auto workers were exploited; to the contrary, it was a golden era in which workers without advanced education could attain a solid middle-class life.
+
+The difference between that consolidation and the consolidation of major industries today was that the automakers had a strong counterweight to their power in the form of an equally powerful union that ensured the economic spoils that resulted from this concentration were shared with workers rather than exclusively retained by shareholders and executives.
+
+In the late 19th and early 20th centuries, as industrialization proceeded at breakneck speed in the United States and western Europe, the downsides of the industrial age became glaringly obvious. Union leaders and other reformers strove to change the awful work conditions in many factories, and to prevent plutocrats from warping the political system. Those hard-fought battles reduced the rough edges of capitalism; it will take similar battles to do the same today.
+
+But if you wrote a book offering advice to young people embarking on a career in that era, it wouldn’t have been, “Stay on the farm.” It would have been, “Learn how to make your skills well-suited for the industrial age—and work to make the world fairer.” And the same goes for the winner-take-all-world of the 21st century.

@@ -1,0 +1,35 @@
+It has a sleek black pill of a body, with two rigid, white arms sprouting from its sides. It looks, in other words, like an iPad had a baby with a crop duster, or like a Volkswagen Bug from a future designed by Bjork. In the video, it sits on a small, square tarmac, surrounded by grass, then begins to purr and buzz. In a nearby hangar, a group of attractive young Germans stands and watches intently.
+
+And then, slowly, the vibrating thing rises from the ground. Several feet of air open between its body and the tarmac. It is flying. It has neither a small plane’s propeller, nor a helicopter’s immense rotor, nor a drone’s spidery appendages. Yet it is flying all the same.
+
+On Thursday, the German start-up Lilium announced that it had completed its first test of that strange and buzzing vehicle, the five-seater Jet. By the middle of the next decade, Lilium claims, reserving a seat on one will be as easy as hailing an Uber.
+
+
+
+
+
+The successful flight puts Lilium near the front of a pack of companies that hope to fill the sky with small electric aircraft. These companies see themselves as a key part of humanity’s climate-friendly future: At distances of more than 40 miles, such vehicles may even be better for the environment than electric cars. In the industry, the vehicles are known as electric VTOLs, short for “vertical takeoff and landing” vehicles. 
+
+But everyone calls them by a far more romantic name: flying cars.
+
+The video, which Lilium says was shot on May 4, near its Munich headquarters, shows the Jet’s sole test so far. In the roughly 15 seconds of footage, the five-seater does not rise more than a few feet off the ground. It does not carry any passengers: A licensed pilot stood on the ground during the test and controlled the Jet remotely. And it does not fly either forward or backward—though Remo Gerber, Lilium’s chief commercial officer, says its smaller test models have done so.
+
+But the company says the test nonetheless represents a major milestone because the five-seat model will “serve as a template for mass production,” according to a spokeswoman for Lilium.
+
+Eventually, Lilium hopes to use a fleet of five-seaters to ferry customers around metropolitan areas or between cities. It claims that flights booked through its app will be price-competitive with major airlines, but require far less infrastructure investment than an airport. A Jet requires only “a heliport type of structure, plus parking spaces around it,” Gerber told me. “It’s nowhere near comparable to any rail or road investments.”
+
+“We are very confident that we will have it in a number of different cities by 2025,” Gerber said. He envisions Jets linking New York to Boston, Philadelphia, or the Hamptons. A flight between downtown Manhattan and John F. Kennedy International Airport would cost $70 and take only six minutes, he says. Today that trip by taxi takes at least an hour, but costs about the same.
+
+At least 16 companies are trying to build electric flying cars or taxis, according to Transport Up, a news site that follows the budding industry. And Wired reports that a number of companies have already discreetly met to plan regulatory change. But only a handful have made successful test flights. Vahana, a start-up owned by the European aerospace conglomerate Airbus, says that it has made 50 test flights with its full-scale model, totaling more than five hours of flying time. Both the U.S. giant Boeing and the Silicon Valley–based start-up Kitty Hawk have completed test flights of smaller VTOLs.
+
+Lilium stands out by promising a far longer range than most of its competitors. While many companies say their VTOLs will travel 60 miles on a single charge, Lilium says (but has yet to prove) that it can eke out 185 miles. “We don’t have a magical battery,” Gerber said, adding that the Jet’s solid-body wings and dozens of small electric motors allow it to cruise while using little energy.
+
+Greg Keoleian, an engineering professor at the University of Michigan, could not comment on Lilium’s specific range claim, but he agreed that VTOLs are more efficient when cruising forward than when hovering. In a paper published last month, Keoleian and his colleagues found that a fully loaded flying car could be more efficient than an electric car at a distance of more than 60 miles. Flying cars are more efficient—and emit less carbon pollution—than gasoline-burning cars when going longer than 21 miles. 
+
+While it’s hard to know whether flying cars will ever become a commercial reality, they could help solve a major climate problem. Aviation, which makes up about 2 percent of global carbon emissions, will be one of the hardest parts of the economy to decarbonize. Scientists have yet to invent a cheap renewable fuel as dense with energy as the jet fuel burned by massive airliners. Although even Lilium doubts that its battery-powered taxis will ever be a substitute for long-haul air travel, they could eventually replace the short hops made by commuters and business travelers.
+
+Keoleian told me that the results were surprising, but that they made a certain amount of sense: It is much more energy-efficient to cruise forward through air than it is to drive, but hovering is very energy-inefficient. If you cruise far enough, eventually it becomes worthwhile. Even if Lilium debuts a New York–to–JFK flight, it will still be many times as expensive as just taking the subway.
+
+“You don’t want to displace mass transit or public transit systems, which are very efficient,” he told me. “And you don’t want to encourage sprawl.”
+
+Flying cars would be best for avoiding circuitous driving routes, he said, or to avoid congestion. There is also no traffic in the sky—at least not yet.

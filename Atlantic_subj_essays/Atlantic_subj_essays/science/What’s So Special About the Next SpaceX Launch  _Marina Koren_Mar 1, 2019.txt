@@ -1,0 +1,53 @@
+Cape Canaveral, Fla.—The Space Coast, lined with idyllic beaches and swaying palm trees, faced a quiet future when the space shuttles stopped flying nearly eight years ago, and the famed spacecraft rolled off the launchpads and into museums. Then Elon Musk and SpaceX moved in, under a lease with NASA, and brought their own rockets.
+
+The company tweaked the launchpads to support its own operations, and began launching new missions: commercial satellites built by manufacturers from around the world, cargo ships packed with supplies for the International Space Station, even top-secret missions for the U.S. government. In the past few years, the Falcon 9 rocket has flown so regularly, and without incident, that the launches now feel almost routine.
+
+The next mission leaves Earth in the very early–morning hours of Saturday. This time, the rocket will carry an unprecedented payload: a spacecraft designed to carry humans.
+
+The mission is a test, the first flight of a newly designed system. No humans will be on board—just 400 pounds of cargo and a mannequin dressed in a sensor-coated spacesuit, which SpaceX has named Ripley, for the protagonist and sci-fi feminist icon of the 1979 film Alien. But if the mission goes well, people could be riding in SpaceX spacecraft as early as July. The first passengers—two NASA astronauts, Bob Behnken and Doug Hurley—have already been selected and begun their training.
+
+The flight is an important milestone for the American space program. The United States hasn’t launched astronauts from American soil since 2011, when the space shuttle Atlantis closed out a 30-year program that folded under the weight of cost, political will, and safety concerns. Americans continued to fly to space. They hitched rides on a Russian launch system, the Soyuz, operated in Kazakhstan, in the middle of the desert—an expensive situation, but necessary to keep the ISS staffed.
+
+In 2014, NASA awarded two American companies, SpaceX and Boeing, billion-dollar contracts to build the next generation of astronaut transportation. SpaceX would build a passenger-safe version of its uncrewed Dragon spacecraft, which already delivers cargo to the ISS, to fly on a Falcon 9. Boeing would develop the Starliner, to launch on the Atlas V, a rocket manufactured by the United Launch Alliance, Boeing’s venture with Lockheed Martin.
+
+After schedule delays and technical issues at both companies, SpaceX has beaten Boeing to the launchpad for the NASA program’s first significant test. The firms have always resisted describing the efforts as a race, but surely there’s something juicy about a billionaire-run start-up edging out a longtime government contractor.
+
+Competition aside, the companies must do the same thing: prove to NASA that they can safely send astronauts to space.
+
+“The task ahead of us is really historic,” Hans Koenigsmann, the vice president for build and flight reliability at SpaceX, told reporters on Thursday. “We’ve done an incredible amount of testing together with NASA to make sure everything is safe and ready to go.”
+
+That sense of history is baked into the concrete here at the launch site. The mission will depart from the Kennedy Space Center’s launchpad 39A, right along the water, the site of many historic launches in American spaceflight history, including the Apollo and Space Shuttle programs.
+
+When the final space-shuttle mission flew, in 2011, the fate of the program had already been decided years earlier. After the Columbia disaster in 2003, which killed all seven crew members upon reentry, the United States shut down the program to conduct a lengthy review. As investigators worked to determine the cause of the tragedy, the Bush administration considered the future of American spaceflight. National-security officials spent the year in meetings to discuss what the country should do next, Sean O’Keefe, the NASA administrator at the time, said.
+
+Former President George W. Bush announced the result of these discussions in a speech in January 2004. “America has not developed a new vehicle to advance human exploration in space in nearly a quarter century,” he said. “It is time for America to take the next steps.”
+
+The president proposed the construction of a brand-new launch system that could carry astronauts not just to low-Earth orbit, but also farther—to the moon and Mars, journeys the space shuttle was not designed to make. The government couldn’t fund both efforts at the same time, so it was decided that the space shuttles would be retired after they finished delivering the hardware necessary to construct the new ISS, which was being built in orbit, piece by piece, at the time.
+
+“Take the next seven years to finish the ISS, because this is the machine that can build it,” O’Keefe said. “And once we’re completed with that, by that time there should be a capability developed to go back beyond low-Earth orbit to any destination you choose.” To start, Bush wanted to return Americans to the moon by 2020.
+
+When the United States paused the Space Shuttle program in 2003, American astronauts could fly to space only with Russia’s help. I asked O’Keefe whether he thought, during those discussions more than 15 years ago, that this would someday become NASA’s only option for years. “No, no,” he said. “Through all those discussions, that was the furthest thing from anybody’s imagination.”
+
+Bush left office five years after announcing that plan. When Barack Obama arrived in the White House, he convened an independent review of Bush’s exploration program, known as Constellation. The assessment found that billions of dollars in additional funding would be required to reach the program’s ambitious timelines. The president’s next budget requested no funding for Constellation, but included the searing description of the program as “over budget, behind schedule, and lacking in innovation.”
+
+Obama directed NASA to focus instead on Mars, with a goal of having a crewed mission orbit the planet in the 2030s. The new administration reimagined some of Constellation’s rocket plans. Since 2011, NASA has worked on the Space Launch System and Orion crew capsule, a rocket-and-spacecraft combo that the agency hopes will someday carry astronauts to the moon and Mars. (The effort has problems of its own; a report by NASA’s Office of Inspector General recently said that the system won’t be ready for its first test flight, expected in mid-2020, unless it receives more funding.) As for low-Earth travel, NASA would get help from the commercial sector, from companies such as SpaceX.
+
+Members of Congress, which holds the purse strings for NASA, frequently lament the country’s reliance on Russian services to reach the closest stretch of space. It’s an expensive travel package; today, one seat on the Soyuz launch system costs the U.S. government $81 million. But for American leaders, the arrangement has cost the country prestige, too. The United States, the world’s premier spacefaring nation—the one that put men on the moon—was never supposed to stay grounded for this long.
+
+NASA will continue to pay Russia to fly astronauts until SpaceX and Boeing prove themselves capable of doing the job, starting with this crucial mission playing out over the course of the coming week.
+
+The Falcon 9 will propel the Dragon spacecraft into orbit on Saturday. When the spacecraft approaches the ISS, it will attempt a new maneuver. In previous missions, a powerful robotic arm, operated by an astronaut on board the ISS, reached out and grabbed the capsule, pulling it toward the station. This time, the Dragon spacecraft will dock to a five-foot-wide metallic ring, controlled by only its autonomous computer systems—a procedure that carries a risk of collision. Russia’s space agency, Roscosmos, which controls half of the ISS, was even hesitant to formally approve the plan.
+
+When the spacecraft sticks, the ISS crew—an American, a Russian, and a Canadian—will go in and unload the fresh supplies. The spacecraft will stay docked to the station for five days before it detaches and prepares for a fiery reentry through Earth’s atmosphere. The mission ends with a parachute landing in the Atlantic Ocean.
+
+NASA says there’s still work to be done before its astronauts ride to the top of the Falcon 9 and climb aboard. Officials continue to examine the hardware involved in an explosion in 2016 while the rocket was being fueled for a routine engine test. The fiery explosion destroyed the rocket and its $200 million payload, and damaged the launchpad. Musk described it as “the most difficult and complex failure we have ever had in 14 years.”
+
+The incident also drew attention to SpaceX’s process for preparing for launch, which involves fueling the rocket just 35 minutes before liftoff. SpaceX planned to follow the same approach for future crewed launches, which sparked some concern. Last summer, NASA decided after an “extensive” review that the process was safe for astronauts.
+
+There’s also the matter of safety reviews at both SpaceX and Boeing, which Jim Bridenstine, the NASA administrator, announced in November would involve hundreds of interviews “to assess the culture of the workplaces.” Bridenstine said his decision was influenced in part by several spaceflight tragedies in NASA’s history. But the timing suggested additional factors; weeks earlier, Musk smoked marijuana and drank whiskey during a podcast appearance that drew millions of viewers.
+
+“I will tell you that was not helpful, and that did not inspire confidence, and the leaders of these organizations need to take that as an example of what to do when you lead an organization that’s going to launch American astronauts,” Bridenstine said at the time.
+
+By now, NASA and SpaceX have completed thousands of hours of tests and analyses in preparation for the Dragon flight. NASA officials say that while the SpaceX mission is ready to fly, they don’t expect a flawless test. They’re only comfortable saying this, of course, because Ripley the mannequin can handle a failed launch.
+
+“I guarantee you everything will not work exactly right, and that’s cool,” Bill Gerstenmaier, the associate administrator for NASA’s human-exploration division, said last week. “We want to maximize our learning so we can get the stuff ready; so when we put a crew on, we’re ready to go do a real crew mission.”

@@ -1,0 +1,43 @@
+The mysterious signals come from all directions in the sky.
+
+No one knows exactly what they are, or what causes them, but astronomers have detected dozens over the past decade. The signals, known as fast radio bursts, originate from deep within the cosmos, well beyond the Milky Way galaxy. The radio waves travel across space for billions of years, moving at the speed of light. When they reach Earth’s telescopes, they make a brief and powerful appearance. For a few milliseconds, the bursts shine with the intensity of an entire galaxy. And then they’re gone.
+
+Of the more than 50 recorded fast radio bursts, or FRBs, astronomers have a favorite: FRB 121102, named for the date of its discovery six years ago, on November 2, 2012. Unlike other fast radio bursts, this one repeats. Telescopes have observed blindingly bright flashes coming from the same point in the sky over and over, sometimes several times in less than a minute. The signal’s quirky nature has allowed astronomers to study it in more detail, to mine each flash for different kinds of information and even pinpoint its location in a small galaxy about 3 billion light-years from Earth.
+
+Despite the nondescript name, FRB 121102 was one of a kind. Which raised a discouraging possibility: Could it be the only one of its kind? Each new pulse produced tantalizing data. But to really make sense of it, astronomers needed to find another—if any existed.
+
+They began to search the sky, with focused attention and more powerful tools. And, to their relief, astronomers have now found that, no, FRB 121102 is not the lone example of this intriguing phenomenon.
+
+A Canadian-led team announced Wednesday the discovery of a second repeating FRB. A newly built radio telescope in British Columbia detected six flashes from the same spot in the sky last summer. This FRB, named 180814, appears to originate about 1.5 billion light-years away from Earth, half the distance of the other repeating burst.
+
+The same team has also detected 12 more one-off FRBs, which brings the total number of known flashes to 65. The research, described in a pair of papers in Nature, will provide more clues to one of astronomy’s greatest mysteries.
+
+The two repeating signals have more in common than just their flashy nature. When FRBs arrive at Earth, many appear smeared across a range of frequencies, a sign of their long and bumpy journeys through cosmic material across the universe. This includes FRBs 121102 and 180814. But even though the bursts came from two very different locations, and carved out two very different paths to Earth, their radio waves showed similar distortion patterns.
+
+This particular finding stunned astronomers at a recent conference, where the researchers teased their discovery with a little trick. “They put up images of these bursts, and everyone was like, ‘Okay, that looks familiar,’ and then the person showing it said, ‘Actually, you’ve never seen this before, because they’re from a new repeating FRB,’” said Shami Chatterjee, an astrophysicist at Cornell who studies FRBs and was not involved in the new research. “It looks shockingly similar.”
+
+The similarities suggest the two repeaters may have originated in the same kind of environment. It’s possible that repeating bursts are just one of many classes of FRBs, some yet to be discovered. But with so little information, researchers are far from any definitive conclusions.
+
+“We don’t know what it means yet,” said Ingrid Stairs, an astrophysicist at the University of British Columbia and a member of the research team. “This is our second repeater. I think we need to have a much better sample.”
+
+When the first FRB was discovered in 2007, some astronomers thought the flashes could be errant noise from telescope instruments. The bursts just didn’t seem real. “These things are billions of light-years away,” said Jason Hessels, an astronomer at the University of Amsterdam and ASTRON, the Netherlands Institute for Radio Astronomy, who studies FRBs. “It’s absolutely remarkable that they can still be bright enough to detect on Earth.”
+
+The complicated twisting observed in FRBs suggests they come from extreme environments with strong magnetic fields and high temperatures. Astronomers know of several astrophysical objects that could provide these radio-wave-bending conditions: Supermassive black holes, which can belch streams of radiation in space when they eat matter. Neutron stars, the fast-spinning cores of stars, leftover from spectacular explosions. Magnetars, a certain kind of neutron star, which spin even faster.
+
+Before the detection of 121102, FRBs were thought to be one-time events, the products of cosmic collisions or explosions that, given the power of the flashes, no astrophysical object could surely survive. The repeating nature of 121102 showed that the universe, always ready to surprise, is capable of producing objects that can erupt over and over without fizzling out.
+
+The scattered waves of FRBs can be used to answer other intriguing but basic questions about the universe, including what it’s actually made of. “If you try to add up all the material in galaxies and stars and planets and rocks, it doesn’t come up to the right number at all. We’re short by a lot,” Chatterjee said. “So where is all this missing matter?”
+
+Astronomers suspect that it may reside in the space between galaxies. The intergalactic medium is orders of magnitude emptier than the best vacuums in our terrestrial laboratories, but it still has some wisps of cosmic matter. The universe is so big, though, that these tiny traces could make up a substantial amount of space stuff. FRBs pass through this matter as they travel through space, and their interactions become encoded in the radio waves. “When [the FRB] arrives at Earth, we can basically read that information off the radio burst itself,” said Sarah Burke-Spolaor, an astronomer at West Virginia University who studies FRBs. The cosmic flashes can help illuminate the complicated composition of the universe, and the more FRBs astronomers detect, the more ground—er, space—they can cover.
+
+More discoveries are likely on their way. The telescope responsible for these findings, the Canadian Hydrogen Intensity Mapping Experiment, or CHIME, promises to be the most effective FRB hunter in operation. CHIME scans the entire Northern Hemisphere every day, hopping from one spot to the next every 15 minutes. The observatory can examine 500 times as much sky as the next FRB superstar, the Parkes radio telescope in Australia, which revealed the first FRB in 2007 and has found the majority of known bursts.
+
+You could say CHIME wasn’t even trying when it found a new batch of FRBs last summer. The data was collected before formal operations began, when astronomers were still tinkering with the instruments. “We were calibrating it and improving it day by day,” said Cherry Ng, an astronomer at the University of Toronto and a member of the research team. “Sometimes we had to turn off the instrument just to make changes.”
+
+Scientists estimate that FRBs occur about 10,000 times a day across the entire sky, and CHIME, at peak capacity, is poised to detect dozens every month.
+
+As with most cosmic mysteries, the specter of an extraterrestrial explanation looms large. Some, including astrophysicists at Harvard, have suggested that FRBs are beacons from an advanced alien civilization. Hello out there! they shout, searching the vastness of space for neighbors. FRB researchers say they can’t rule out an extraterrestrial origin for the cosmic flashes. It’s one possibility of many. But it’s the least likely, they say.
+
+“[FRBs] come from all over the sky, and from many different distances, always from different galaxies—the chances of aliens living in different parts of the universe getting together to organize, to produce these signals in this kind of way, are infinitesimally small,” Stairs said. “There’s just too many of them out there.”
+
+On top of that, the home environments of FRBs aren’t exactly conducive to life, intelligent or not. The emissions likely torch their surroundings as they erupt into space. “If we had one go off near Earth, we might not be around anymore,” Burke-Spolaor said.

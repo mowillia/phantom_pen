@@ -1,0 +1,23 @@
+In the study of forests, a central mystery has long stood unsolved: The seed that falls far from the tree does a whole lot better in life than the seed that stays close. Though scientists have never fully understood the reasons behind this pattern, they believe that something about the soil of an adult tree makes it unfriendly to seeds of the same species.
+
+In a recent study published in the Proceedings of the National Academy of Sciences, researchers grew seedlings in soil from various trees to probe this question. And they found an additional, fascinating wrinkle. The deadly effect is very particular: Seeds can actually grow relatively well in soil from trees of their own species. It’s the specific soil of their parents that afflicts them most.
+
+Furthermore, the team believes that what ails the offspring is bacteria living in the soil of their parent trees—not dangerous to the adult, but somehow adapted to sicken its own seedlings.
+
+In the past, scientists have considered many possible advantages to seeds flying farther from the feet of the adults of their species. This arrangement might encourage the growth of a wide variety of species, with the rare sheltering in the shadow of the common. Indeed, in tropical rain forests, there’s an enormous diversity of trees, all of them thriving together.
+
+The team set out to examine several different variables, including the nutrients in the surrounding soil and the presence of symbiotic fungi, in a sampling of trees from a forest in Panama. The researchers put seedlings of the baboonwood—a tall, lanky tropical tree—in pots whose soil had been mixed with soil carefully collected from under the seedlings’ parents, from under other baboonwood trees in the forest, or from under trees of other species.
+
+After eight months, they checked the total weight of each of the plants. That was when it became clear that there was a difference between growing in a parent’s soil versus another baboonwood tree’s soil.
+
+“Being near another member of your own species is a much better situation for seedlings than being near their maternal plants,” says Jenalle Eck, a postdoctoral researcher at University of Zurich who led the study. In the past, experimenters had sometimes pooled the soil from all the trees of a given species, for simplicity. This would have obscured the effect that Eck and her colleagues saw, making it look like growing near any tree of the same species is harmful.
+
+In contrast, there was no correlation between the nutrients in the soil or the symbiotic fungi and the final size of the plants. That confirmed a suspicion the researchers had—that something else living in the soil, probably bacterial, is to blame. The soil in the pots had been dosed with forest soil whose bacteria were intact. The bacteria in that dose would have spread throughout the soil, and if pathogens were present, they would have been able to infect the seedlings, hampering their growth.
+
+The fact that such pathogens would affect only seedlings of a given parent suggests that they target something specific to the offspring’s genome. A computer model built by the researchers to show how such genotype-specific pathogens might work confirmed that their presence would produce the patterns the team saw.
+
+Such pathogens might build up over time in the soil around a tree, Eck says. They might not be present in the soil around a newly sprouted tree, but once it has matured into adulthood, the tree might draw them with its constant rain of young unable to fend off an attack. “Essentially, as these trees live over decades and they every year produce offspring, it attracts ... pathogens that affect those offspring,” Eck suggests. The identity and the workings of such pathogens are still unknown, but Eck and her colleagues are hoping to answer these questions in future research.
+
+For a forest, the implications of being controlled by bacteria might be profound. If pathogens can limit the growth of offspring near their parent trees, then they can shape the pattern of species intimately. Of course, the exact effects would depend on just how bad it is for seeds to fall near parents, compared with falling somewhere else, Eck points out. But over evolutionary time, the bacteria might select for plants that can cast their seeds far and wide.
+
+“There is increased selection pressure for seeds to disperse,” she says, “because basically no matter where they land, they’re better off.”

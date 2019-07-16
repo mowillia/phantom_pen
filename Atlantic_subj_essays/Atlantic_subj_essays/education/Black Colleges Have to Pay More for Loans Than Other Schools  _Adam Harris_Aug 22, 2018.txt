@@ -1,0 +1,23 @@
+It’s expensive to be poor. And few places in higher education feel that more acutely than historically black colleges and universities (HBCUs), where endowments are typically smaller and enrollments have fluctuated wildly over the past decade.
+
+Now, to be clear, the financial misfortune of black colleges does not rest squarely on their shoulders. Born out of necessity primarily after the Civil War to educate black people who were shut out of most other colleges, the institutions have been plagued by unequal and inadequate funding ever since. HBCUs, half of which are public, draw a lion’s share of their revenue from state and federal funding. And as states tighten their belts on higher-education spending, these institutions are struggling to come up with the funds to improve their campuses by constructing new buildings or renovating ones that have started to wear down.
+
+But there’s a way for colleges to circumvent their funding woes to pay for campus improvements: taking on debt. But even then, the legacy of racism in the treatment of black colleges is apparent.
+
+There are a couple of steps colleges have to go through to issue bond debt. First, they have to find a bank to buy the debt. The bank will then sell the debt to public investors. The banks are the gatekeepers, and they’re essentially signing off on the fact that the loan isn’t a scam. But the banks don’t do this for free. They typically sell the debt at a slight markup as compensation for expenses and management fees—and that ultimately falls back on the college to pay off.
+
+A forthcoming study in the Journal of Financial Economics examines the differences in these markups for HBCUs and non-HBCUs. The researchers—Casey Dougal of Drexel University, Paul Gao of Notre Dame, William Mayew of Duke University, and Christopher Parsons of the University of Washington—used a 23-year sample of 4,145 tax-exempt municipal bonds issues issued by 965 four-year, not-for-profit colleges.
+
+They found that black colleges pay more to issue debt. “For the typical non-HBCU, 81 cents out of every $100 raised flows to banks. The average for HBCUs is 11 points higher, at 92 cents per $100 raised.” So, for a $30 million bond issuance, a black college would pay $276,000, while a non-HBCU would pay $243,000.
+
+Now, that doesn’t definitively mean that race is the determining factor. The hard part of the analysis, Gao told me, was figuring out whether the difference could be attributed to any factors other than black colleges’ affiliation with racial minorities. So, the researchers controlled for the bond features such as the amount raised, when the bond will be paid off, and colleges’ ability to pay early. They also looked at the quality of the bank selling the bond, as well as school metrics like enrollment, alumni-giving rates, and rankings. But even after controlling for all of these factors, black colleges still paid significantly more—16 points more than non-HBCUs.
+
+Another possible explanation, that HBCUs have bad credit and aren’t appealing to investors, also couldn’t explain the difference. The researchers controlled for credit rating, and only looked at deals with AAA-ratings—the kind where timely repayment is essentially a given—and the difference, 16 points, remained the same.
+
+That led the researchers to conclude that there could not be any other answer: Racism was the primary driver.
+
+Yet another finding drove home that conclusion more clearly. “If racial animus is the primary reason why HBCU-issued bonds are harder to place,” the researchers wrote, “then these frictions should be magnified in states where anti-Black racial resentment is most severe.” And sure enough, by separating out black colleges in Alabama, Mississippi, and Louisiana, the researchers found that the markup rates for HBCUs were 30 points higher than non-HBCUs in those three states, nearly triple the 11-point difference elsewhere in the country.
+
+Black colleges have a few options to get around this. The federal government has a program—the HBCU Capital Financing Program—that provides low-cost loans to the institutions, but it has its fair share of problems. The researchers offer a handful of policy fixes: Giving incentives to out-of-state investors for buying the bonds, or, perhaps, exempting HBCU bonds from all taxes, which would make them more appetizing for potential investors.
+
+Whether those recommendations will be taken seriously is unclear, but what is clear is that the factors driving difficulties for black people in financial markets aren’t sparing black colleges.

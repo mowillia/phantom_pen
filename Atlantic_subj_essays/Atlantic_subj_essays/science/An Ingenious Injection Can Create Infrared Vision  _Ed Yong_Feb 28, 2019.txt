@@ -1,0 +1,33 @@
+The list of animals that can see infrared light, which lies just beyond the red part of the rainbow, is very small. It includes vipers and pythons, whose faces have infrared-detecting pits wired to the visual centers in their brain. It includes a few freshwater fish such as carp and tilapia. It includes salmon, but only when they swim back into rivers from the sea, and only after dramatically retooling the chemistry of their eyes. It includes bullfrogs, but only in the bottom halves of their eyes. It does not include humans, unless we wear special goggles or are exposed to specific kinds of laser pulses. And it doesn’t include mice.
+
+Except, that is, for those in Tian Xue’s lab at the University of Science and Technology of China.
+
+Xue and his colleagues injected the eyes of mice with nanoparticles that were designed to stick to the light-detecting cells in the rodents’ retinas. These particles convert incoming infrared light (that the cells cannot naturally detect) into plain old green light (that they very much can). It’s as if Xue implanted thousands of tiny infrared goggles inside the rodents’ eyes. With their technologically augmented retinas, the mice could respond to infrared light that would otherwise have been invisible to them.
+
+It’s an impressive example of using technology to expand an animal’s “umwelt”—the thin sliver of reality that it’s capable of perceiving. But as far as infrared vision goes, it’s a bit of a cheat. The mice aren’t seeing in infrared; they’re seeing infrared information that’s been changed into a more perceptible form.
+
+But “science has always worked to convert invisible information into the range we can perceive,” says David Eagleman, a neuroscientist from Stanford University. “This is what microscopes and telescopes do: changing the very small or very distant into a form we can digest with our eyes. But instead of building a large piece of equipment to do the conversion, these investigators engineered a microscopic solution, directly mating technology to biology.”
+
+“I love this stuff,” he adds. “It’s wonderfully clever.”
+
+The nanoparticles that Xue used were originally developed for a completely different reason. Fourteen years ago, researchers figured out a way of infusing neurons with light-sensitive molecules, allowing them to control these cells with flashes of light. This technique, known as optogenetics, paved the way for many powerful studies, allowing neuroscientists to precisely manipulate the brains of living animals. It also holds promise for treating several brain diseases.
+
+But there’s a catch: Optogenetics relies on molecules that are triggered by blue or yellow light, both of which are blocked by skin and muscle. To deliver that light into an animal’s brain, researchers must use either invasive optic fibers or implanted LEDs. They could dispense with these cumbersome devices if they simply made optogenetics compatible with infrared light, which more easily penetrates through flesh.
+
+Gang Han from the University of Massachusetts Medical School managed to do that by creating a range of nanoparticles that absorb infrared and emit visible light. And while talking to Xue, his colleague who studies mouse vision, Han wondered, “What would happen if we inject these into a mouse’s eye?”
+
+First, Han bolstered his particles with a protein called ConA, which helps them adhere to the light-detecting cells of the retina. When injected, they formed an even and lasting layer over the cells. And when Xue’s team then shone an infrared beam into the rodent’s eyes, their pupils constricted—a subconscious reaction that clearly showed that they could see the light.
+
+Next, the team put the mice into a pair of linked chambers—one dark and one bathed in infrared. Normal rodents can’t tell the difference between these spaces, and spend equal amounts of time in each. But to the altered individuals, the infrared chamber was bright and off-putting; they spent most of their time in the dark space instead.
+
+Finally, the team plopped the mice into a flooded, Y-shaped arena. The two prongs of the Y displayed different patterns of light—say, a triangle or a circle—and one of these indicated the presence of a hidden platform upon which the mice could rest. If the patterns were in infrared, the altered rodents would choose the right prong, but their normal peers would not.
+
+This isn’t the only way to make mice see infrared: A different team tried in 2013 by implanting detectors in the foreheads of rats and wiring these up to the part of their brain that deals with touch. But this is arguably a simpler approach. Would it work in humans? Before anyone even considers that, the team would have to address several issues, says Lan Yue, an ophthalmologist at the University of Southern California. First, infrared light is low in energy, and the nanoparticles need a lot of it to produce a detectable amount of green light. That’s not a problem for small mouse eyes, but in larger human ones, the particles might only work when infrared levels are unreasonably bright.
+
+Second, although the particles didn’t seem to harm the mice, the team will need to work out how long they stay in the eye, whether they get absorbed by the retina, whether they end up in other organs, and whether they have any long-term side effects. Finally, given how the particles work, it’s unlikely that users will be able to tell the difference between “infrared” and normal green. “It’ll be interesting to see whether it’s possible to produce conscious infrared vision while avoiding confusion with visible vision,” Yue says.
+
+Indeed, why would you want to? The team have filed a patent based on their work, which they say could “pave the way for critical civilian and military applications.” Still, it’s hard to shake the feeling that this is all a cute gimmick. In what situations would altering someone’s retina be better than just … giving that person a set of night-vision goggles?
+
+“Goggles need batteries and they’re very heavy,” Han counters. “They’re also saturated by daylight, whereas our technique is compatible with all-day uses.” Also, he adds, other people can obviously see you wearing them. Someone with temporary infrared vision might be able to spy more covertly. “Maybe you could have a nanoparticle eye drop that allows you to see specific patterns that only you can see,” he says.
+
+You, and any viper, that is. The infrared vision of these snakes “is much more sensitive than what we can achieve,” Han says. Even with fancy nanoparticles, it’s still hard for us to truly bring one animal into the umwelt of another.

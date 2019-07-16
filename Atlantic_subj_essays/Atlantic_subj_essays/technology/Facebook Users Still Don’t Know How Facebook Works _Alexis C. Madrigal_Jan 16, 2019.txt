@@ -1,0 +1,17 @@
+After all the scandals and hubbub and congressional testimony and mea culpas in Facebook’s nearly 15 years of existence, one would think that its users would have a pretty firm grasp on how the business works.
+
+Surely, users know that Facebook uses information about their behaviors and friendships to deduce a constantly updating list of their interests. This detailed information about people constitutes Facebook’s competitive advantage: If it knows what people like, it can put ads in front of them that are likely to result in purchases.
+
+But, no—a new Pew study indicates that after all this time, a large majority of users still don’t know that Facebook compiles this kind of information.
+
+Pew researchers called up almost a thousand Americans and asked them if they knew about the list of “traits and interests” that Facebook keeps for almost all active users. The company provides users easy access to it—you can see your own list here—yet 74 percent of respondents to the survey said they did not know about the list’s existence.
+
+Furthermore, 51 percent of those surveyed said they were “not comfortable with Facebook compiling this information.”
+
+This survey might help explain why old news like the Cambridge Analytica scandal could command such massive attention last year. There are still literally hundreds of millions of users domestically and abroad who use Facebook the product, but don’t understand the way Facebook the company slices up their data to make them better advertising targets.
+
+Facebook has 242 million North American users, and if 50 percent of them would feel uncomfortable with Facebook’s core business practice, then that’s a lot of potentially angry people.
+
+And if that’s the case, just wait until they find out how location data is used or how custom audiences work, or that any company that has lured you to its website or collected your email somehow can retarget you with ads.
+
+“We want people to understand how our ad settings and controls work. That means better ads for people,” Facebook’s Joe Osborne said in an emailed statement. “While we and the rest of the online ad industry need to do more to educate people on how interest-based advertising works and how we protect people’s information, we welcome conversations about transparency and control.”

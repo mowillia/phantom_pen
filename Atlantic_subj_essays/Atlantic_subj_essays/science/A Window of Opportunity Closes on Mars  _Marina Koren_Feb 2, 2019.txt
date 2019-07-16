@@ -1,0 +1,57 @@
+The rovers moved like migratory birds.
+
+Opportunity and Spirit arrived on Mars within days of each other, at different locations along the planet’s equator, in January 2004, equipped with instruments to study the rust-colored soil. During the Martian winter, engineers directed the rovers to north-facing slopes, so that their solar panels could soak up as much sunlight as possible each day. When one of Spirit’s wheels stopped working, it kept going by driving backwards, dragging the defunct wheel behind it.
+
+But in 2009, the rover’s wheels broke through some crust and slipped into a sand pit. Engineers tried maneuvering the wheels this way and that, but the rover was stuck. For the first time, Spirit couldn’t make its way to a sunny slope.
+
+“We saw it coming,” Steve Squyres, the principal investigator for the NASA mission, told me. “I knew from day one, if Spirit has to spend a winter on flat ground, that was going to be Spirit’s last winter.”
+
+Spirit entered hibernation mode and never woke up. The mission was declared over more than a year after the rover’s last message to Earth and months of attempts to restore contact.
+
+Now it could be Opportunity’s turn. The rover hasn’t called home in 237 days.
+
+Last June, an enormous storm swept across the planet, clogging the atmosphere with sunlight-blocking dust, and the rover, unable to charge its batteries in the darkness, slipped into a deep sleep.
+
+“I haven’t given up yet,” Squyres said.
+
+But the end seems closer now than before. The team has attempted to contact Opportunity more than 600 times since it stopped communicating with Earth last June. At NASA, engineers operate in a realm with the motto “Failure is not an option,” and the agency has a long record of successfully repairing and reviving missions, from Apollo capsules to robotic probes. But the silence feels heavier with each passing day.
+
+Dust storms are common during Martian summer, and Opportunity, about the size of a golf cart, had weathered a similar tempest about a decade earlier.
+
+This time, as the Martian sky darkened, the rover automatically shut off nearly all functions to preserve energy. Engineers suspected that when the storm passed, Opportunity would recharge and awaken with a chirp sent back to Earth. But the skies cleared in September, and the rover didn’t wake up.
+
+The team was not deterred. A season known for dust devils would soon begin on Mars. Perhaps Opportunity’s solar panels were coated in a thick layer of dust, and the wind gusts would wipe it away. But that season ends soon, and Opportunity remains silent.
+
+Last week, NASA’s Jet Propulsion Laboratory, which operates Opportunity, announced that engineers would send a new set of commands to the rover in the next several weeks. The instructions assume some worst-case scenarios for the rover’s systems. “We have not exhausted all the possibilities yet, but we’ve exhausted quite a few of them,” Squyres said.
+
+I asked Squyres whether the team had any more ideas for how to command the rover awake, in case their latest strategy doesn’t work. “No,” he said.
+
+After that, the final call regarding Opportunity’s fate is up to NASA leadership. If the news is bad, the Opportunity team will join a grim club in space exploration: engineers and scientists who have said goodbye to spacecraft after years, sometimes decades, of effort and devotion. Some have known when the end would come, even deliberately planned for it. Others had no warning. In either case, letting go is painful.
+
+The attempts to communicate, the wait, the uncertainty—these can be excruciating when the loss is unexpected, as Jim Spann, a chief scientist at NASA’s Marshall Space Flight Center, knows. In 2005, Spann was working on a spacecraft called IMAGE, or Imager for Magnetopause-to-Aurora Global Exploration, when it suddenly stopped talking to Earth.
+
+Its stewards, stunned, scrambled to troubleshoot. String after string of commands went unanswered. After a year of silence from IMAGE, NASA concluded that it had been knocked out by the cosmic radiation that permeates space. Its hardware had suffered a particularly direct and unlucky hit.
+
+The team remained hopeful. They waited for a solar eclipse in 2007, when IMAGE would be in Earth’s shadow. The spacecraft was designed to reset its computers when its solar-powered battery drained, and perhaps some time in darkness would help. But it didn’t work. “It took me a while to be able to say, ‘Okay, I’m going to close the door on that and work on the next thing,’” Spann says.
+
+The team took some comfort in the knowledge that IMAGE had exceeded expectations. The spacecraft had performed so well after its first two years in orbit that NASA decided to extend the mission. “You’re sitting on maybe, hopefully, years of data that needs work, so that’s what you’re going to do, is just go focus on the data,” says Thom Moore, a scientist at NASA’s Goddard Space Flight Center, who worked on the mission.
+
+Julie Webster knew exactly when her spacecraft would die, seven whole years in advance. Like all spacecraft, Cassini launched to Saturn with a finite amount of fuel. In 2010, Webster, the operations manager, and her colleagues mapped out its final years around the ringed planet. Webster was responsible for flying Cassini and, when the time came, crashing it into Saturn’s atmosphere. The loss didn’t sink in until then.
+
+“I never know exactly how I’m going to feel about something until I get there,” Webster says. “When it was over, the whole team went around in a funk for about six months. It was just like, Oh my God, oh my God, it’s over.”
+
+Webster has bid farewell to other spacecraft in her career, and her reaction has depended on the circumstances of their demise. She wasn’t too torn up about the Magellan spacecraft, a mission launched in 1989 to map the surface of Venus. Magellan was scraped together using spare parts from several other NASA missions, and Webster said team members wore the spacecraft out trying to get as much data as they could. “We were always trying to keep it going, so by the time it was ready to go, it was really ready to go,” Webster says.
+
+The loss of Mars Observer, on the other hand, was traumatic. Engineers lost contact with the spacecraft just three days before it was scheduled to arrive on Mars in 1993. Investigators believe that an explosion in the hardware spun the probe out of control, but no one knows for sure what happened. Webster says it still hurts to talk about Mars Observer.
+
+When a mission ends, scientists and engineers part with more than their spacecraft. They move on to new jobs, on new missions, and their camaraderie, sharpened over years of late nights and stressful moments, dissipates. The mission, vivid and urgent in their mind for so long, fades into a fuzzy memory. And sometimes, even then, it’s still not over.
+
+Last year, IMAGE came back.
+
+An amateur astronomer scanning the skies for radio transmissions detected something broadcasting at the same frequency that IMAGE once used. The former members of the mission, now scattered across different programs, confirmed the signal. After 13 years, IMAGE was awake and calling home.
+
+The data revealed that IMAGE was, miraculously, in good health. Its stewards were overjoyed. But they soon realized that the spacecraft could only receive commands, not act on them. Engineers marked their calendars for upcoming solar eclipses, hoping, as they did years earlier, that a dose of darkness could restart the system.
+
+IMAGE emerged from the most recent eclipse, in mid-January, in the same state. “A successful and lasting recovery is probably unlikely,” says Rick Burley, the engineer leading the recovery effort. Now, more than a decade after the first goodbye, the IMAGE team faces another.
+
+Opportunity and Spirit were never meant to live long lives—they were designed to last just three months. Their years-long sojourns across the Martian surface have produced a rich catalog of data that scientists never imagined. But their minders have also had plenty of time to become attached. If Opportunity remains silent, the time will have come to mourn its end. No delight in discovery comes without some pain.

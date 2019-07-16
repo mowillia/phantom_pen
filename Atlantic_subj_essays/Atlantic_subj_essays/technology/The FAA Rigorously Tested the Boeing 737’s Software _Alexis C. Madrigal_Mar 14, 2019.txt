@@ -1,0 +1,33 @@
+Two Boeing 737 Max 8 airplanes have crashed under similar circumstances in the past six months, one in October in Indonesia and the other in Ethiopia last week. These were new planes, and both had a control system installed that has been implicated in the Indonesian crash, and that might have played a role in the most recent disaster.
+
+The system, known as the Maneuvering Characteristics Augmentation System (MCAS), has one very specific purpose. When flying in manual mode, the MCAS uses data from an “angle of attack” sensor to push the nose of the plane down if the plane’s orientation seems to be approaching the point when the plane would stall, which is a very dangerous condition. The software was designed to compensate for a new instability that resulted from some small physical-design modifications.
+
+If the MCAS malfunctions, there is a procedure to cut the software out of the loop. But it requires throwing a separate switch, not merely pulling up on the plane’s control stick. If the switch isn’t flipped, the MCAS will keep nosing the plane down after five seconds. Back in November, as pilots and airline-industry observers mulled over the Indonesian crash, they fingered this “counterintuitive” system as part of the problem. Leeham, an aerospace news service, also noted that the novel behavior of the MCAS “was described nowhere” in the aircraft’s or pilot’s manual. This was a problem, Leeham wrote, because pilots had been told that an earlier version of the 737 and the Max 8 were the same, and could be flown interchangeably.
+
+Only after the Lion Air crash did Boeing put out an advisory about the software. My colleague James Fallows has noted that American pilots have also experienced the problem.
+
+What makes the situation troubling, whether or not the system is ultimately implicated in the Ethiopian Air tragedy, is that the problems that could result from this system are not impossible to foresee.
+
+The MCAS relies on sensors that can derive the angle of attack, which a Boeing publication notes is a very complex measurement. Erroneous or mismatched readings could lead to serious trouble. And that’s not normally how the software systems installed on planes work.
+
+Once the problems with the system came to light last year, Southwest almost immediately took steps to address the problem and Boeing announced an update  to the MCAS system, which the company had been planning with the Federal Aviation Administration.
+
+“The FAA says it anticipates mandating this software enhancement with an Airworthiness Directive no later than April,” Boeing said. “We have worked with the FAA in development of this software enhancement.”
+
+So, upon review, the FAA and Boeing decided that a software update should be mandatory for the plane. This kind of post-facto decision making would not be surprising in most other realms of software development. After all, Apple has issued five iOS updates since October.
+
+The FAA has extremely strict regulations. This makes sense: It regulates tubes full of people flying in the sky, and any problems could be catastrophic. The stakes are higher than they are with, say, an iPhone app. Every component of every plane must go through a certification process, which MCAS did.
+
+As planes have become much more dependent on computers over the past few decades, the industry is facing the tricky problem of how to certify these systems—and how to train pilots to handle their increasingly inscrutable failures. The FAA runs the Aircraft Certification Service, which “is concerned with the approval of software and airborne electronic hardware for airborne systems (e.g., autopilots, flight controls, engine controls).” It’s important to understand that aircraft makers don’t submit a form to check a box; the FAA is deeply involved.
+
+My colleague James Somers described precisely how software is evaluated under this safety regime. “The agency mandates that every requirement for a piece of safety-critical software be traceable to the lines of code that implement it, and vice versa,” Somers wrote. “So every time a line of code changes, it must be retraced to the corresponding requirement in the design document, and you must be able to demonstrate that the code actually satisfies the requirement.”
+
+In the United States, the current process has worked remarkably well. Across all the millions of flights by American airliners, there was exactly one passenger death from 2010 to 2019.
+
+At the same time, as the pilot Mac McClellan points out, the new flying machine increasingly removes “the pilot as a critical part of the system and relies on multiple computers to handle failures.” While pilots are still trained to handle all manner of flight failures, they just don’t have to with the big planes, which create triply redundant systems to ensure the safety of passengers, no matter what the pilots do. That’s why McClellan’s post is provocatively titled “Can Boeing Trust Pilots?”
+
+One way to see the MCAS problem is that the system took too much control from the pilots, exacerbated by Boeing’s lack of communication about its behavior. But another way, McClellan suggests, is to say that the software relied too much on pilot action, and in that case, the problem is that the MCAS was not designed for triply redundant automatic operation.
+
+So much remains to be seen about the two crashes and the 737 Max 8. The planes are being grounded across the world, even here in the United States, where authorities had held out. And now the workhorse of the American commercial-airline industry is about to come under increased scrutiny.
+
+If this problem—which everyone now acknowledges is a problem, whether or not it contributed to the Ethiopian crash—could sneak through the FAA’s testing, what other surprises might lurk in the software?

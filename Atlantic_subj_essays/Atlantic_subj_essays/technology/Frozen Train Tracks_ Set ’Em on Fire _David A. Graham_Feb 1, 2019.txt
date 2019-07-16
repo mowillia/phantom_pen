@@ -1,0 +1,33 @@
+As if the horrors of the polar vortex were not already enough—temperatures that look like typos, Canada Goose robbers, and something called frost quakes—the nation’s railroad system took a turn for the apocalyptic this week, too. Rails broke in three different places between Baltimore and Washington on Thursday, causing  severe delays. Amtrak canceled dozens of trains passing through Chicago, and viral videos appeared to show commuter tracks in the city on fire.
+
+Of course, the tracks themselves were not burning—they are made out of steel, prized for its tendency to rarely go up in flames. But the sight is still dramatic. The videos of the fires in Chicago this week show flames smoldering in patches of melted snow around the tracks. Another clip, from 2017, shows a commuter train trundling through flames, like a deleted scene from a lesser Nicolas Cage action flick. Either way, it looks dangerous and certainly backwards.
+
+In fact, it’s neither. Look through old coverage and you’ll find stories like these spanning years of cold snaps. Fires have been employed on railroads—and remained the preferred fix for many a winter hazard—for most of their roughly two-century history.
+
+While railroads have developed impressive tools for dealing with snow on the tracks, extreme temperatures remain a challenge. Though steel is flame-resistant, it’s subject to cold, which can jam up railroads’ many moving parts.
+
+When cold weather does wreak havoc on railroads, lighting fires on train tracks can serve a couple of uses. One is to thaw the switches that determine which track a train goes down, which is what Metra, the Chicagoland commuter-rail authority, said was going on this week. Switches are moving parts, and if ice gets into them, they can freeze in place. There are various types of switch heaters, which might use electric current or gas to melt ice—or even an open gas flame, which is what’s appearing in the Metra videos. Where there aren’t switch heaters, crews might use temporary torchlike devices with a flame, the railroad equivalent of the smudge pots farmers use to keep citrus groves and apple orchards from freezing on cold nights.
+
+
+
+
+
+“When these types of open-flame heaters are used, part of the protocol is to notify local fire departments that these heaters have been deployed,” Christopher P. L. Barkan, director of the Rail Transportation and Engineering Center at the University of Illinois at Urbana-Champaign, wrote in an email. “That way firefighters don’t respond to fire reports and come out and douse the fire in water, which in cold weather would produce a lot of ice that would exacerbate the problem of freezing up the switches.”
+
+Some of the other flaming-railroad videos that have been floating around show something different—something more related to the breaks that caused commuting havoc in Maryland.
+
+Like any other piece of metal, rails expand and contract with heat and cold. “When you weld rail and track, you’re locking the length of the rail in place,” said Allan Zarembski, director of the Railway Engineering and Safety Program at the University of Delaware. “The colder it gets, the more the rail wants to shrink, but it can’t.”
+
+Because of that potential for swelling and shrinkage, when railroad companies lay track, they do so at a “neutral temperature”—something comfortably within the range of temperatures wherever it’s being laid. In Chicago, Zarembski guessed that might be around 70 degrees Fahrenheit. Under federal rules, railroads keep a record of the neutral temperature of each section of rail when it’s laid. Most of the time, that’s the end of the story. If, say, the temperature drops to zero, the rail can handle the change in temperature. But big drops in temperature, like 40 below zero, stress the steel.
+
+With such a 110-degree difference between the neutral temperature and the cold air, “We’re probably looking at several hundred thousand pounds of force,” Zarembski said. “A couple things can happen. If there are joints, it shears the bolts off. The joint bars fall off. You have this big gap in the track. In the worst case, you can actually break a rail”—exactly what happened in Maryland.
+
+
+
+
+
+Why doesn’t this happen all the time in, say, Alaska, or northern Canada, or Siberia? The answer comes back to the neutral temperature, which is set lower in colder places. Having records of laying temperature for each section also means that when a big change in temperature occurs, maintenance crews know where to look for problems.
+
+Railroads have had to grapple with preventing pull-aparts for roughly as long as railroads have existed. They use a variety of tricks to prevent the problem, many of which resemble the switch-heating strategies, but over longer stretches of track. A railroad can bring in specialized propane heaters to keep the tracks cozy. It can run an electric current through the rail. But these approaches can be expensive, and most of the time they’re unnecessary. When they’re unavailable or impractical, or just in a pinch, many crews turn to a time-tested method, such as setting a gasoline-soaked rope on fire next to the track. In the event that prevention doesn’t work, and the tracks do pull apart, crews might use a similar trick, or a specialized product like a Fire Snake, to raise the temperature of the rail for repairs.
+
+“You have to make sure you don’t set the ties on fire, but you’re not going to metallurgically damage the rail,” Zarembski said. “The computer may tell you what to do, but when you get out on the railroad, you have to do it the old-fashioned way.”

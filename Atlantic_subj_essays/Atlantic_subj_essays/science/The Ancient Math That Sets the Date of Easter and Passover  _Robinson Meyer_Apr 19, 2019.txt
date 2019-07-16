@@ -1,0 +1,41 @@
+Let’s get some things straight.
+
+Passover is a springtime Jewish festival celebrating the early Israelites’ exodus from Egypt and freedom from slavery. Jews observe it by hosting a ritual dinner, called a seder, and then by abstaining from eating all leavened bread for about a week. (Some of us abstain from some other stuff, too.) Instead, we eat matzo, a thin, unleavened cracker.
+
+Easter is a springtime Christian holiday celebrating the resurrection of Jesus Christ and freedom from sin and death. It is preceded by a series of holidays commemorating Jesus’s path to the cross. One of these holidays is Maundy Thursday, which, aside from being a great name for a holiday, is a remembrance of the Last Supper, which was a seder. In the United States, many Christians observe Easter by attending a ritual meal between breakfast and lunch, called a brunch.
+
+These holidays have a lot in common: They share themes of liberation and triumph; they both involve buying a lot of eggs; they were both a pretty big deal for Jesus. This year, they also overlap. Passover’s week-long festival begins on the night of April 19, while Easter falls on Sunday, April 21. And this makes sense: In the Gospels, the existential drama of Easter happens against the backdrop of Passover. Yet about 15 percent of the time, the two holidays actually occur a month apart.
+
+What causes this mismatch? There are two ways of answering this question. The first is that there’s a basic misalignment between the Christian and the Jewish festival calendars. Both holidays are supposed to fall on, or near, a full moon in the spring. Passover always begins on the 15th day of the Hebrew month of Nisan. Because the Hebrew months are pegged directly to the lunar cycle, the 15th day of Nisan is always a full moon.
+
+For a time, early Christians used the Jewish calendar as a reference, celebrating Easter on the first Sunday after Nisan 15. But at the First Council of Nicaea in A.D. 325, the Church decided to set its own date for Easter, independent of the Jewish reckoning. Today most Christian communities celebrate Easter on the first Sunday after the first full moon after March 21. But sometimes this full moon isn’t the same as the Jewish one.
+
+And here arises the second, deeper answer. The lunar mismatch occurs because both calendars must grapple with the same underlying problem: A lunar year is not the same length as a full solar year. In fact, nothing is exactly the same length as a solar year, because not all solar years are the same length. This challenge ails not only both religious calendars, but also every human attempt at timekeeping on Earth.
+
+Allow Benjamin Dreyfus to explain. A professor of physics at George Mason University, he runs the Hebrew Calendar Facts page on Facebook.
+
+“The Hebrew calendar uses lunar months, and they’re about 29 or 30 days each. If you have 12 of those months, it adds up to 354 days,” Dreyfus told me. But that’s about 11 days too short: A solar year is about 365.2425 days.
+
+If left unaddressed, this would quickly cause the Hebrew calendar to drift out of sync with the solar calendar, violating the biblical commandment to celebrate Passover during the spring. The Hebrew calendar resolves this tension by periodically adding an extra month to the calendar.
+
+Two thousand years ago, this decision was made on the fly, almost Groundhog Day–style. During the month of Adar (which directly precedes the Passover month of Nisan), the ancient rabbinical court would decide if it was springy enough outside for Passover. If spring seemed to be on track, Nisan could occur. But if it wasn’t warm enough outside yet, the rabbis would tack on another month of Adar. They called this leap month Adar II.
+
+Around the third century of the Common Era, this observational system was replaced with a fixed calendar. The Hebrew calendar now adds a leap month seven years out of every 19. (Or, more exactly, Adar II is now added in the third, sixth, eighth, 11th, 14th, 17th, and 19th years of the cycle.)
+
+“It works out so that over the course of 19 years, that comes out almost to the length of the solar years, ” Dreyfus said. “But it doesn’t work perfectly. The Jewish calendar drifts about one day later every 200 years, and so far there isn’t any mechanism to correct that.”
+
+Right now, that means Passover falls a month later than Easter three times in every 19-year cycle. But the gap is slowly growing. “In about 6,000 years, they’ll be fully out of sync if nothing is done to correct the Jewish calendar. But right now there’s nobody who has the authority to do that for the Jewish world. There’s no pope or anything,” Dreyfus said.
+
+This problem—that 12 lunar months does not add up to a full solar year—also ails the Gregorian calendar, the calendar system now used by most of the world. First proclaimed by Pope Gregory XIII, it uses a standard 365-day year most of the time. But about 24 times a century, it adds a leap day on February 29. This nearly, but not totally, brings the calendar year in sync with the solar year.
+
+Today Roman Catholics and most Protestant traditions now celebrate Easter after March 21 on the Gregorian calendar. But the Eastern Orthodox Church uses the older version of that calendar, known as the Julian, to determine the date of Easter and other festivals. This year, Orthodox Easter is April 28.
+
+Yet the Gregorian isn’t perfect. In fact, it still requires regular tweaks by hand. There is still a high rabbinical court of sorts that adjudicates the Gregorian calendar every year, deciding whether it should be adjusted to better match reality—except today the court is staffed not by rabbis, but by physicists. No solar year, remember, is the same length: Thanks to tiny wobbles in Earth’s orbit, some years are a second or two longer or shorter than others. So every year, the International Earth Rotation and Reference Systems Service announces whether to add a leap second in order to align Earth time with solar time. (The United States officially opposes this practice.)
+
+The three calendars occasionally line up in strange ways. In 2018 and 2019, the first night of Passover fell on Good Friday. This won’t happen twice in a row again until 2113 and 2114, according to Dreyfus.
+
+And as it happens, the first night of Passover can never fall on Maundy Thursday, even though that holiday commemorates a seder. That’s because Passover can never begin on Thursday, ever. “The calendar is rigged so that [seder] can fall only on certain days of the week,” Dreyfus told me. “If Passover started Thursday night, it would push Rosh Hashanah the following year to start on Saturday night.” And neither Rosh Hashanah nor Yom Kippur, the two High Holidays of the Jewish year, can fall the day after Shabbat.
+
+(What’s up with maundy, by the way? Despite its contemporary-sounding construction, maundy is derived from an Old French word referring to Jesus’s new command at the Last Supper “to love your neighbor as I have loved you.” The Latin word for “commandment” is mandatum, which emerged from several hundred years of medieval Europe’s linguistic spin cycle as maundy.)
+
+I imagine that for most Americans, the occasional mismatch between Easter and Passover is a curiosity, an oddity of religious history. But for people like me—Jews who attend an extended family’s Easter brunch—it is a matter of supreme importance. Consider the traditional foods served at that Christian ritual meal—the poached eggs, the toast with jam, the make-your-own waffle. All the really good ones, alas, have leavening in them, and thus we can only consume them three years out of every 19. Freedom from slavery and a nice family brunch are joyous enough, of course. But freedom from slavery, brunch with family, and permission to eat pancakes? As we say, Dayenu. 

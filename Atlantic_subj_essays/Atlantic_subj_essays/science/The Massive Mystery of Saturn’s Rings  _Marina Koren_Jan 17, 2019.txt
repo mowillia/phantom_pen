@@ -1,0 +1,33 @@
+Saturn has confounded scientists since Galileo, who found that the planet was “not alone,” as he put it. “I do not know what to say in a case so surprising, so unlooked-for, and so novel,” he wrote. He didn’t realize it then, but he had seen the planet’s rings, a cosmic garland of icy material.
+
+From Earth, the rings look solid, but up close, they are translucent bands made of countless particles, mostly ice, some rock. Some are no larger than a grain of sugar, others as enormous as mountains. Around and around they go, held in place by a delicate balance between Saturn’s gravity and their orbiting speed, which pulls them out toward space.
+
+Scientists got their best look at the planet nearly 400 years after Galileo’s discovery, using a NASA spacecraft called Cassini. Cassini spent 13 years looping around Saturn until, in September 2017, it ran out of fuel and engineers deliberately plunged it into the planet, destroying it. More than a year later, scientists are still sorting through the data from its final moments, hoping to extract answers to the many questions that remain about Saturn.
+
+The latest findings, published Thursday in a study in Science, answer a fundamental but surprisingly evasive question: How much stuff is actually in those stunning rings? Estimates of the mass of the rings have varied wildly for decades, starting with the twin Voyager spacecraft, which whizzed by Saturn in the late 1970s and early 1980s on their way through the solar system. Even Cassini, nestled inside Saturn’s orbit, couldn’t provide accurate measurements until the very end.
+
+For most of its life, Cassini’s orbit was outside both Saturn and its rings. “You got a combined mass of Saturn plus the rings, and there was really no way to separate it out,” says Linda Spilker, the lead scientist for the Cassini mission, who was not involved in the latest research. “Here was our first chance.”
+
+In its last maneuvers, Cassini wove in and out of Saturn’s rings. The spacecraft was jostled by the gravity of the bands, as well as powerful winds emanating from deep within the planet’s atmosphere. Scientists used the data produced by these effects to calculate the mass of the rings. They say that the mass is about 40 percent that of Mimas, a moon of Saturn, which is about 2,000 times as small as Earth’s moon.
+
+In more earthly terms, the rings are about half the mass of the entire Antarctic ice shelf, spread across a surface area 80 times that of Earth.
+
+“It is the most accurate measurement of the rings of Saturn,” says Bonnie Buratti, a planetary scientist at NASA’s Jet Propulsion Laboratory who worked on the Cassini mission but who was not involved in the study. “The error margins are kind of pretty big—there’s about a 25 percent, almost 30 percent uncertainty—but it’s way more accurate than anything we’ve had before.”
+
+The new estimate helps to answer another Saturnian question that has puzzled scientists: How old are the rings? For decades, the scientific community was split into two camps. One believed that the ring system formed when Saturn did, 4.6 billion years ago, when the solar system as we know it emerged from swirling clouds of dust left over from the fiery birth of the sun. The other suggested the rings were a youthful feature, formed only 100 million years ago, when dinosaurs walked the Earth.
+
+The latest research bolsters the case for a more recent origin. According to current models, the more massive the rings, the older they must be, and vice versa. The new study suggests that the rings are less massive than scientists suspected, which means they’re also younger. The study authors say their new estimate, combined with previous research, suggests the rings are 10 million to 100 million years old.
+
+There’s plenty of wiggle room in that range. Other analyses focused on the margins of error in Cassini data suggest that parts of the ring system may be as old as 1.5 billion years.
+
+Still, most scientists now agree that the rings did not form alongside Saturn. This leads us to yet another unresolved question: Where did the rings come from? A primordial origin story would have been a very convenient one: The young solar system was a chaotic mess of flying debris, and it would have been possible for Saturn to lasso some of it into a lasting orbit.
+
+Scientists now suspect the rings are the fragmented bits of a cosmic interloper. A moon, a comet, or an asteroid must have strayed too close to the planet. Trapped between two gravitational forces—one tugging it toward Saturn, and the other drawing it away—the object broke into shards. Over time, the pieces flattened out into a delicate disk. “It’s like a graveyard spread around the planet,” says James O’Donoghue, a scientist at NASA’s Goddard Space Flight Center, who studies the Saturn system.
+
+To truly probe the rings’ origins, scientists could use another Cassini. “If money was of no object—and it is a big object—you could send a probe over there and excavate a bit of the rings,” O’Donoghue said. “You could pick up the boulders and look inside them and really narrow down the composition.”
+
+The youthfulness of the rings raises yet another question, Spilker said. “Were there other ring systems, perhaps that were older and then just, over time, slowly disappeared?” she said. If that’s right, the one we see now could be only the latest in a series of ring systems, the most recent victim of Saturn’s massive pull.
+
+As majestic and eternal as they seem now, Saturn’s rings are constantly shedding material. Sunlight and other cosmic effects can transform idle, icy debris into electrically charged particles. In their new state, the particles are less able to resist the tug of Saturn’s gravity and become swept into its atmosphere, where they vaporize, “raining” water onto the planet. According to O’Donoghue’s research, this process dumps as much as 4,400 pounds of water onto Saturn every second. He predicts the rings will vanish in 300 million years.
+
+If the thought of Saturn losing its trademark feature is disappointing, consider that there are others out there. Not just Jupiter, Uranus, and Neptune, which have very thin rings of their own, though they pale in comparison to the grandeur of Saturn’s. If there’s one thing that the study of exoplanets—planets beyond our solar system—has taught us, it’s that our planets aren’t special. Buratti is convinced that someday, with telescope technology powerful enough, we’ll make out the curves of the rings around a distant planet, in another solar system. There are other Earths, other Jupiters, other Neptunes, a cornucopia of rocky and gaseous planets coasting through the cosmos. Surely there must be other Saturns, too.

@@ -1,0 +1,25 @@
+The first thing you should know is that the DNA-test results everyone got in this study were fake.
+
+That was on purpose. Over the course of a year, psychologists at Stanford University recruited 223 participants for a study that would help scientists create personalized nutrition and exercise programs—or so they were told. What the two researchers, Brad Turnwald and Alia Crum, most wanted to investigate was how the participants would react after they took DNA tests and learned their genetic propensities for exercise and diet.
+
+Others have studied how a DNA test can motivate people to change their lifestyle—or not—but Turnwald and Crum had something deeper in mind. Could learning the results of DNA tests change not just behavior but the body itself, at a molecular level?
+
+To find out, they came up with a somewhat devious approach. The placebo effect, for comparison, is rooted in physiology: When someone takes a sugar pill and reports less pain, his or her brain is actually releasing natural painkillers called endorphins. Perhaps something similar happens when you find out about your genes.
+
+The Stanford team devised two experiments. About half of the participants got a result—a fake one—for a gene linked to exercise, then had to run on a treadmill. The other half got a result for a gene linked to hunger, then had to drink a 480-calorie smoothie. Those told they had the “worse” version of the genes quit running earlier and reported feeling hungrier than those told they had the “better” version of the genes. Curiously, even their lung function and hunger-hormone levels appeared to change.
+
+“I’m not all that surprised at the results,” says Steven Heine, a psychologist at the University of British Columbia who was not involved with the study. Heine studies how people react to DNA-test results, and he says they tend to interpret genetic information “in very deterministic ways.”
+
+At the same time, it’s getting easier and easier to buy a DNA kit online. The Food and Drug Administration regulates tests like those from 23andMe that give information about specific disease risks, but “wellness” DNA tests are nebulous and far less regulated. The tests might promise a diet or exercise plan tailored to your genes, but there isn’t much evidence that DNA-based plans are better for losing weight, since genes explain only a tiny bit of the variation in body mass from person to person.
+
+Turnwald and Crum, in their study, decided to straight-up give participants a random genetic result. Considering the deception involved, Turnwald says, they didn’t want to deliver a made-up genetic risk for diseases such as Alzheimer’s or cancer, but they did want to pick something meaningful. They settled on obesity and selected two genes: CREB1, which is linked to aerobic-exercise capacity, and FTO, which is linked to hunger cues.
+
+The team also consulted with Stanford’s institutional-review board, which oversees all human-subjects research, on the ethics of its research plan. Participants ultimately had to come in three times: to get a DNA test, to do an initial treadmill or smoothie test, and then to get their fake DNA-test results and immediately redo their treadmill or smoothie test. At the end of the third visit, the team revealed the true nature of the study to the participants and gave them the option of finding out their real DNA-test results.
+
+Compared with their initial baseline tests, people who were told they had the high-risk version of CREB1 ran for less time than before, and people who were told they had the protective version of FTO reported being less hungry than before. The team didn’t rely just on these self-reported measures. The people who ran on treadmills wore masks measuring the oxygen and carbon dioxide in their breaths. The people who drank smoothies had their blood drawn to test for hunger-hormone levels. The participants’ bodies agreed with their perceptions of fatigue and hunger.
+
+If these effects persist over time, the genetic information could end up being a self-fulfilling prophecy. The participants were never deceived for more than an hour, though, which limits the conclusions of the experiment. “This was a very short-term experiment,” says Eric Topol, a cardiologist and geneticist at the Scripps Research Institute. He adds that the field is moving away from single-gene analyses toward polygenic risk scores, which look at the effect of thousands of different genes. A large ongoing study in Finland is finding that a polygenic risk score for heart disease can in fact motivate people to lose weight and quit smoking.
+
+Before embarking on this study, both Turnwald and Crum took a DNA test to experience it themselves. Crum found out that she has the protective form of the exercise gene and the high-risk form of the hunger gene. “I was not surprised about either of those and sort of found myself being like, ‘Oh yeah, I’m an athlete and a runner because I have this gene,’ and ‘Oh, that’s why I’m so hungry.’”
+
+But, she added, “does this just make sense to me, or am I making it make sense?”

@@ -1,0 +1,39 @@
+Updated at 1:18 p.m. ET on April 12, 2019.
+
+The malfunction happened just a few miles from the surface.
+
+The spacecraft had spent days orbiting the moon and, before that, about a month and a half traveling the 4 million miles from Earth. Back home, its creators sat tense in a control room as they waited for the spacecraft—the product of years of effort and engineering—to land on the terrain.
+
+“We’ve passed the point of no return,” said Opher Doron, who leads the space division at Israel Aerospace Industries, the country’s aerospace manufacturer, as the spacecraft pushed itself out of orbit on Thursday. “We’re in the landing process.”
+
+The descent seemed to be going smoothly. And then: “We seem to have a problem with our main engine,” Doron said.“We are resetting the spacecraft to try to enable the engine.”
+
+The landing sequence was preprogrammed. This was about the most they could try, and it appeared to work. “We have the main engine back on,” Doron said a few seconds later. Then, another voice in the control room: “But it’s not. No, no.”
+
+Engineers lost communication with the spacecraft. Designed to touch down gently on the moon, it crashed instead.
+
+Many spacecraft have gone to the moon in the past 60 years, some carrying people, but this was unlike the rest in one distinct way. If the spacecraft, named Beresheet—Hebrew for “in the beginning,” the opening of the Book of Genesis—had landed, it would have become the first spacecraft built by a private organization, not a national government, to touch the moon. And Israel, the home of the nonprofit group, SpaceIL, would have become the fourth nation—after the former Soviet Union, the United States, and China—to put something on Earth’s cratered companion. (Israel still joins a different space club, as the seventh nation to orbit the moon.)
+
+“Well, we didn’t make it, but we definitely tried,” says Morris Kahn, the billionaire entrepreneur who funded the effort. “And I think the achievement of getting to where we got is really tremendous. I think we can be proud.”
+
+Before anticipation morphed into mourning, Beresheet sent one final photograph back to Earth: a close-up of the surface of the moon, the jagged terrain illuminated in the sunlight, almost the color of sand, specked with craters filled with shadows.
+
+“I was shaken,” Yoav Landsman, the deputy mission director and an engineer at SpaceIL, told me after the crash. “It was very hard for me.”
+
+“Space is hard,” people will say, an axiom that brings little comfort, at least in the moment when a beloved spacecraft smashes down. There are enough triumphs these days that the failures seem especially jarring, almost hard to believe. Hours after Beresheet sent its final transmission, SpaceX’s Falcon Heavy, the most powerful rocket in the world, launched for the second time, hurling a commercial satellite into orbit and pirouetting a trio of boosters back to Earth. (SpaceX even launched Beresheet itself, in February, on its Falcon 9 rocket.) Only a few months ago, China successfully landed a spacecraft on the far side of the moon, a feat no one had ever attempted.
+
+The Beresheet mission arose from a global Google-sponsored competition that challenged privately funded teams to develop, launch, and land a rover on the moon, with a $20 million prize if it worked. More than 30 teams entered the contest in 2007. A decade later, five remained, but everyone was behind schedule. Last year, when it became clear that no one would meet a 2018 deadline, the competition was canceled. As Beresheet wound its way to the moon, the foundation behind the effort announced that SpaceIL would get $1 million if the team could stick the landing. After the crash, the funders said that SpaceIL would still receive the prize.
+
+Space is hard, and more people than ever before have chosen to face down the challenge. For decades, only governments launched stuff into space, from spy satellites to Golden Records to blue-eyed men with buzz cuts. Now the work is done by private entities such as SpaceX, and they get to decide what goes up. Sometimes it’s a red Tesla convertible. Other times it’s a moon lander from a nonprofit. And other spacecraft—landers and rovers—are on their way; commercial companies around the world are working on missions to the moon at a pace not seen since the Apollo era.
+
+Few had imagined this future even a decade ago. Now commercial rockets and payloads seem rather ordinary, and governments are paying private companies to do the job they used to do.
+
+Still, achievements in space by private groups are celebrated as wins for the country that hosts them. That’s especially true in Israel, a country dubbed “start-up paradise” for its population’s entrepreneurialism. Tel Aviv, where SpaceIL is based, has the highest number of start-ups per capita in the world. Years after the space race, landings on other worlds, whether on the moon or on Mars, are still celebrated as national achievements at home and broadcast as displays of prowess to the rest of the world.
+
+On Friday, SpaceIL released a preliminary assessment for the failure. Beresheet had been in good health when it began its descent to the moon. “We performed a lot of health checks,” Landsman said.
+
+The spacecraft experienced a “technical issue” when it was just 8.7 miles above the lunar surface. The glitch caused its main engine to malfunction. “Without the main engine working properly, it was impossible to stop Beresheet’s velocity,” SpaceIL said in a statement. Mission control commanded the spacecraft’s computers to restart, and the engine came back. But it was too late for the thrust to slow down the spacecraft. When mission control lost communication, Beresheet was 492 feet from the ground. It was traveling at about 311 miles an hour. A crash was inevitable.
+
+“We don’t know exactly what happened,” Landsman said. He suspects that the fault was not with the engine, but with some kind of electrical problem.
+
+Beresheet will remain on the moon forever, its pieces scattered across the dust. The impact might have even carved a small crater into the surface. The spacecraft joins countless other artificial bits and pieces on the moon, silent signs of humankind’s desire to explore the closest world to our own. More than half a century ago, the kind of crash Beresheet experienced was actually cause for celebration. In 1959, the Soviet Union launched Luna 2, a round spacecraft with instruments to measure radiation around the moon. As it approached the surface, communication was lost. Mission control erupted in cheers. This was the very beginning of space exploration, and the point was to get to the moon first, even if it meant smashing into the surface. The definition of success is different now.

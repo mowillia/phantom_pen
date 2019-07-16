@@ -1,0 +1,47 @@
+The smoke was visible for miles.
+
+The day, April 20, was sunny on the Florida coast, with few clouds. The plumes, thick and glowing orange, rose over the horizon and crawled across the sky. Beachgoers stopped to stare. A photographer for Florida Today, on assignment to cover a surf festival, turned the lens away from the waves and snapped some pictures.
+
+The ashy clouds were coming from Cape Canaveral. The only time you want to see smoke wafting from that vicinity, the site of historic space launches, is after a successful liftoff—and there were no rockets in the sky that day.
+
+The smoke turned out to be from a failed test of a SpaceX spacecraft designed to carry humans to orbit. Strapped to a test stand so it couldn’t fly away, the capsule had ignited its engines. “The initial tests completed successfully, but the final test resulted in an anomaly on the test stand,” SpaceX said in a statement at the time.
+
+The smoke suggested an outcome more serious than an “anomaly”—like a full-blown explosion. But SpaceX wouldn’t say anything else.
+
+A day later, a grainy video, which looked like a recording of a screen, appeared on Twitter. The footage showed what appeared to be the SpaceX capsule, known as Dragon, on the test stand.
+
+For about 10 seconds, everything is still. And then, suddenly, there’s an explosion, and the whole thing is engulfed in flames. Off camera, people exclaim in shock and swear. (No one was near the capsule, so there were no injuries.)
+
+SpaceX declined to verify the authenticity of the video. But this week, a NASA contractor that supports launch operations in Florida sent an internal email warning its employees that they can be fired if they share the video. The message, reported by the Orlando Sentinel, confirmed that the footage was real.
+
+More than a week after the explosion, SpaceX remains silent about the incident. At this moment, even an “anomaly” in its test capsule should rattle the engineers, astronauts, and administrators invested in Dragon’s success. SpaceX was well on its way to launching American astronauts into space, a historic first in U.S. spaceflight history.
+
+“Unless something goes wrong, I would think that we’ll be flying hopefully this year, this summer,” Elon Musk, the company’s founder and CEO, said last month.
+
+Barely two months ago, the same capsule was docked to the International Space Station, circling Earth. It arrived without people—this was only its first flight, after all—but plenty of fresh supplies, and the astronauts on the station opened the hatches and floated in. Several days later, the Dragon returned to Earth and parachuted to the Atlantic Ocean, ready for more tests, in preparation for a flight with people on board.
+
+No NASA astronauts have launched from American soil since 2011, in the final flight of the space-shuttle program, an illustrious but expensive 30-year effort. In the years since, the United States has relied on its former space rival, Russia, to transport astronauts to and from the International Space Station. This arrangement was never meant to be NASA’s only option, or to last as long as it has. The George W. Bush administration directed NASA to develop a transportation system to replace the shuttles, but the Obama administration canceled the project, citing ballooning budgets and schedule delays.
+
+So instead of making its own systems, NASA hired someone else to do it. In 2014, the agency awarded billion-dollar contracts to SpaceX and Boeing to build astronaut-transportation systems. NASA would pay to use them, but at a significantly lower rate than the Russians charge.
+
+At the start of this year, SpaceX had made the most progress. Spectators and press flocked to Florida for the Dragon’s first flight in March. A pair of NASA astronauts, already in training for the crewed mission, chatted with reporters, eager to suit up and fly. “I’m a little emotionally exhausted,” Musk told reporters soon after the successful launch. “Because that was super stressful. But it worked—so far.” The company was on a high.
+
+Now it’s investigating a fiery spacecraft failure that could severely set back its efforts. NASA, which is aiding the investigation, says it has “full confidence” in SpaceX, but doesn’t know yet how the incident will affect its schedules.
+
+SpaceX has shown that it can rebound fairly quickly after fiery setbacks. In 2015, a Falcon 9 carrying supplies to the International Space Station exploded minutes after launch; another rocket flew about six months later and executed, for the first time, a maneuver that SpaceX has now perfected, landing a booster vertically on the ground. In 2016, a Falcon 9 went up in flames on the launchpad as it fueled up for an engine test; another rocket launched successfully four months later, and a Falcon 9 hasn’t malfunctioned since.
+
+But the previous failures, while devastating, destroyed only space-station supplies and science experiments. Soon SpaceX is supposed to carry far more precious cargo. The failure occurred during a test of a very important system: the Dragon’s escape system. The capsule is designed to hurl itself from the rocket in the event of a rocket malfunction or another emergency. To push off, the Dragon fires a series of engines called SuperDracos. SpaceX had planned to conduct an in-flight demonstration of this test in June.
+
+It’s not known whether the capsule, itself a test version, is salvageable or completely lost. SpaceX has other capsules “in various stages of production and testing,” according to a spokesperson, but did not say how far along they are.
+
+In a rare moment of reticence, Musk has not yet publicly addressed the incident. It could be that the entrepreneur has enough on his plate; he spent the weekend of the spacecraft failure tweeting about Tesla, and last week reached an agreement with the U.S. Securities and Exchange Commission in a legal standoff involving the electric-car company. Federal regulators won’t go after Musk if he tweets something about SpaceX, which is not public, but NASA might, as Musk is likely well aware. He has gotten into some trouble with the agency’s leadership before.
+
+The lack of public details—even any acknowledgment of the smoke—has irked some, including the staff of the editorial board at the Orlando Sentinel, which regularly covers space activities along Florida’s shores, also known as the Space Coast. In a biting editorial published last week, the paper lambasted SpaceX’s response, comparing the company’s relative silence to the days and weeks after the Challenger shuttle disaster in 1986, when “NASA officials circled the wagons, dispensing little information and giving the appearance the agency had something to hide.”
+
+“The secretive aspects of Elon Musk’s ventures is fine when he’s spending his own money (or investors’ money) to build electric cars or bore tunnels through the ground,” the Sentinel wrote. “It’s not fine when the public is bankrolling his efforts, as it is with SpaceX’s crewed spaceflight program.”
+
+The comparison to Challenger—an explosion that killed five NASA astronauts and two civilians—is certainly extreme, perhaps even inappropriate. But SpaceX should expect to be more transparent about its work for NASA, especially as it nears the finish line. Unlike its other projects, such as the Falcon 9 and Falcon Heavy rockets, the astronaut capsule is a taxpayer-funded effort. Yes, investigations take time. No one expects a full-blown explanation a week after the fact. But the public deserves some more openness, such as confirmation of a fire, or even a simple acknowledgment of the smoke over Florida’s coast.
+
+The same standard goes for Boeing (and for all the NASA contractors, for that matter). Boeing discovered a propellant leak in its astronaut capsule, the Starliner, during a test of its escape system last June. Boeing told The Washington Post it was “confident we found the cause,” but disclosed no information beyond that. There were no scathing editorials about that, but the circumstances of the SpaceX incident are different; Starliner has never flown to space, and there was no video footage of the capsule on fire.
+
+The clip of the Dragon spacecraft allegedly blowing up is painful to watch. It is a fiery reminder of the difficulties of engineering and the stakes of exploration. SpaceX understands these well, but this effort is different from the rest of its portfolio. The company has taken on a job historically done by the government, which means absorbing the cultural sentiment that comes with it. The first SpaceX launch of American astronauts will be celebrated not only as a win for the commercial space agency, but also as a national achievement, a dazzling showing of American ability. A lack of transparency, a frequent hallmark of private technology companies, won’t work here.

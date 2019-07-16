@@ -1,0 +1,47 @@
+NASA has spent the past decade working on the world’s most powerful rocket. The Space Launch System will stand taller than the Statue of Liberty. It will be capable of lifting more than 200,000 pounds into space. It’s designed to launch American astronauts toward the moon once again.
+
+The SLS is supposed to fly for the first time in June 2020. NASA plans to launch an empty crew capsule on a trip around the moon and back, an important test before putting people on board. But the rocket isn’t ready.
+
+“We’re now understanding better how difficult this project is,” Jim Bridenstine, the NASA administrator, told Congress, which controls the agency’s budget, this week. “And it is going to take some additional time.”
+
+Bridenstine seemed to be setting up another disappointing delay, ready to reassure lawmakers with a new date for the inaugural flight of the record-breaking rocket. Instead, he said NASA might scrap its current plan and use a different rocket altogether.
+
+Officials will now consider using a rocket from a commercial U.S. company, not a federal agency, to launch the Orion capsule on a three-week journey around the moon.
+
+The announcement marks a stunning reversal in long-term strategy for the space agency. NASA has already spent billions of dollars to develop the SLS and prepare the rocket to carry the capsule to space. Under this plan, the agency would presumably pay a company to do the job. Donald Trump’s administration wants to get NASA to the moon next summer, and that appears to take precedent over how it gets there.
+
+“We have amazing capability that exists right now that we can use off the shelf in order to accomplish this objective,” Bridenstine said.
+
+A return to the moon has been a top priority for NASA since President Trump was elected, and the Space Launch System is key to the effort. The Trump administration wants to use the rocket to help build a floating lunar outpost, the equivalent of a little International Space Station around the moon, and it wants construction completed by 2024.
+
+But the SLS program, established during Barack Obama’s administration, is running behind schedule and over budget. The office of NASA’s inspector general has criticized NASA and Boeing, the rocket’s main contractor, over their management and performance, predicted more delays, and even questioned whether the entire effort is sustainable.
+
+NASA has a long history of being late, including on some of its most high-profile missions, such as the Hubble Space Telescope and the Mars Curiosity rover. According to government auditors, the agency’s major projects experienced average launch delays of 12 months in 2018, the worst in a decade. Some degree of delay is certainly expected, considering the nature of the work; when your job is to try something no one else has ever done before, in outer space, it’s difficult to estimate how long it will take.
+
+But engineering challenges are only part of the equation. NASA tends to set overly ambitious deadlines, a habit forged in the days of the Apollo era, when budgets and schedules were secondary concerns to success. When the payoff was beating the Soviets to the moon, lawmakers ultimately accepted these pitfalls.
+
+This kind of culture might have been sustainable if NASA’s budget continued to grow, or even remained steady, in the years since the Apollo program, but it has shrunk instead. (The president’s budget proposal for NASA, released days ago, included a 17 percent cut in funding for SLS.) Add the effects of rotating casts in Washington throughout the years, featuring players with their own ideas about what NASA should do, and you’ve got a recipe for not getting much done on time.
+
+Bridenstine said the moon mission would require a heavy-lift vehicle, a type of powerful rocket capable of lifting something into orbit above Earth. The administrator didn’t say which rockets the agency would consider, but he has options. There’s the Delta IV Heavy, built by the United Launch Alliance, a joint venture of Boeing and Lockheed Martin, the contractor for the capsule. This mammoth rocket launched the Orion capsule into orbit for a quick, four-hour test in 2014. And then there’s the Falcon Heavy, even more powerful, from Elon Musk’s SpaceX, which flew for the first time last year.
+
+SpaceX seems like a natural fit for this endeavor. The company is currently building a rocket-and-capsule combo designed to reach the moon in 2023, and a Japanese billionaire has already bought a ticket for as many as eight passengers. Musk has spent years saying that someone should have built a base on the moon by now. He said it again less than two weeks ago, and Bridenstine was literally sitting next to him. “I hope we go back to the moon soon,” Musk said. “We should have a base on the moon, like a permanently occupied human base on the moon.”
+
+And yet SpaceX has been conspicuously absent from the Trump administration’s plans for lunar exploration. NASA and SpaceX already have a solid working relationship—Bridenstine and Musk even posed for a selfie recently, wearing matching hard hats before an important SpaceX launch. But though NASA has solicited proposals from U.S. space companies for rover and lander concepts, as well as hardware for the proposed lunar outposts, SpaceX’s name hasn’t come up, at least not publicly. (SpaceX did not respond to a request for comment about the announcement.) Bridenstine did celebrate the company’s successful launch to the International Space Station during his Congress appearance this week, and for him, a private company’s triumphs in space could still count as a victory for American innovation and industriousness. These achievements also make it difficult, or at least uncomfortable, for NASA to tout costly programs when commercial companies are doing similar work for less.
+
+Trump himself has picked up on that. “We’re letting them use the Kennedy Space Center for a fee and, you know, rich guys, they love rocket ships,” Trump said last year, after the Falcon Heavy blasted off from a launchpad in Cape Canaveral that NASA leases to SpaceX. “That’s better than us paying for them.” He went on to say that NASA would probably have run through “40, 50 times” the money to achieve the same goal.
+
+The president’s remarks seem eerily portentous now.
+
+The news came as a surprise, including to the very engineers developing the Orion capsule. A spokesperson for Lockheed Martin says NASA told them about the potential change a few days ago, and added that the company is “committed to this goal.” But it appears that some employees weren’t in the loop.
+
+“Completely changing the mission would invalidate tons of work already done,” says an engineer who works for Lockheed Martin, who requested anonymity because he was not authorized to speak with the press. “Pretty irritating that I have been busting my ass for a couple of weeks on some close-out analysis for [the first SLS flight] that directly pertains to SLS, only for the administrator to drop this bomb.”
+
+The administrator’s proposed plan would require more work for Orion engineers, he said, which could lead to even more delays.
+
+The SLS could have taken the Orion crew capsule directly to the moon. No commercial rocket is powerful enough to get that far, so Bridenstine has proposed breaking the mission into two launches. The first would deliver the capsule and its service module, supplied by the European Space Agency, which provides the electricity, propulsion, temperature regulation, and other important features. The second would deliver a smaller rocket equipped with an engine that can be used in space. The spacecraft and the rocket would join together, and the engine would fire to boost them all toward the moon.
+
+NASA has completed such complicated unions in the past, but the current design for Orion doesn’t accommodate it. “Between now and June of 2020, we would have to make that a reality,” Bridenstine said.
+
+“The integration challenges are significant,” the Coalition for Deep Space Exploration, an industry group that represents Boeing and other aerospace companies, said in a statement. “It is also clear that this approach would require additional funding, since the idea is to undertake both this mission and to continue development of the SLS apace.”
+
+Bridenstine said that he remains committed to supporting the development of the SLS for future missions, including a crewed visit to the moon. No commercial rocket is certified to transport humans, and companies would need to undergo rigorous reviews and testing from NASA if they wanted to do it. But all missions to space, whether they carry a Tesla or an astronaut, start with a rocket—and it really helps to have one if you’re raring to fly.

@@ -1,0 +1,31 @@
+A peacock’s tail is so ostentatious that you could easily miss other parts of its anatomy that, on any other bird, would be unmissable. On the heads of both male and female peafowl, there’s a crest of stiff, spatula-like feathers that resemble the helmet of a Roman centurion. It’s a flamboyant, standout trait that, under the circumstances, is just another decoration among many equally eye-catching ones.
+
+But Suzanne Amador Kane, a physicist from Haverford College, has found that the crest is much more than a mere adornment. It’s also a sensor. Its feathers are tuned to vibrate at the exact same frequencies at which a displaying peacock rattles his tail. When a male shows off his trademark fan, the female he’s courting doesn’t just see him. She also feels him, in her head.
+
+When Kane’s collaborator Roslyn Dakin first studied peafowl crests in 2011, she thought they might act as a signal. By looking at their length, thickness, or color, other peafowl could potentially judge the health or attractiveness of potential mates. But when Dakin analyzed the crests, she found that they’re not varied enough to be a reliable signal. “We couldn’t figure out a function for them,” says Kane.
+
+Then they heard about the auklets.
+
+Auklets are bizarre, puffin-like seabirds that nest in huge colonies, sound like trumpets, and smell like tangerines. Their heads are topped with striking, forward-facing ponytails that scientists had long seen as sexual ornaments: The bigger the crest, the sexier the auklet. But in 2010, Sampath Seneviratne and Ian Jones showed that the crests also act like a rat’s whiskers. The auklets use them to sense the walls of the rocky crevices in which they nest; when Seneviratne and Jones taped down these feathers, the birds were more likely to bonk their heads.
+
+After Kane read about this discovery, “the next time I looked at peafowl crests, I saw them very differently,” she says. Peafowl don’t live in rocky crevices, so their crests are clearly not collision detectors. But perhaps, Kane reasoned, they could be vibration­ detectors. When male peacocks fan out their tails, they also shake them at high speeds—about 26 times a second. This creates a stunning visual illusion in which their eyespots seem to hover against a shimmering background. It also creates a rattling noise, and a wave of pressure that could conceivably vibrate the crest of a watching female.
+
+To test this idea, Kane and her colleague Daniel Van Beveren acquired several peafowl crests from online vendors and zoos. “A lot of the specimens I got in very strange ways,” says Kane. “One bird was a zoo peacock that had the bad luck to fly into the polar-bear enclosure.”
+
+On closer inspection, the team found that the crest has the right equipment to act as a sensor. At the base of each plume, there’s a tiny companion feather called a filoplume. These are also found in other birds, and they’re known to be mechanical sensors: Something shakes the big feather, the big feather nudges the filoplume, and the filoplume triggers a nerve cell.
+
+Next, the team mounted the crests on mechanical shakers and showed that the constituent feathers resonate when shaken 26 times a second—the exact frequency at which displaying peacocks shake their tail feathers. Only the crest feathers behave like this; when the team tested feathers from other peafowl body parts, or from other big-crested birds, none of them resonated at that precise frequency.
+
+Kane was astonished. “Something the length of a peacock tail feather should have a much different resonant frequency to these tiny crest feathers,” she says. “It’s as if you had a bass that sounded like a violin. It just can’t be a coincidence.”
+
+As a final test of the sensor hypothesis, the team used speakers to play various noises at the crest feathers. White noise did nothing. Pop songs, such as “Staying Alive” by the Bee Gees, had little effect. But a recording of an actual peacock’s tail-rattle made them vibrate.
+
+“The study is rigorous,” says Gail Patricelli, an evolutionary biologist from the University of California at Davis, but “there is still a great deal we don’t know.” For example, “given that peafowl have ears that can hear across a wide range of frequencies, what’s the advantage of having this extra low-frequency channel for communication? Perhaps males and females use it as a private channel that doesn’t attract the attention of predators.”
+
+If that’s the case, “what are they saying to each other?” Patricelli adds. “I’m big and healthy? I’m sexy? Or both? I’m imagining that males who are able to cause the feathers on a female’s head to literally vibrate may have had a significant advantage in sexiness!”
+
+And don’t forget the peahens, says Kane. “There’s a long-standing idea males are the ones who are communicating, but if you actually observe them, the females frequently do these displays to each other, to the males, and to their young,” she says. “They could be taking part in the mating displays. Or issuing threats. Or encouraging the young to do mating displays.”
+
+To better understand the significance of these vibrations, Kane wants to film the crests of living peafowl to see if they actually shake in response to each other’s displays. That’s easier said than done, since both the displaying bird and the watching one move around a lot during courtship. To begin, the team might blindfold peafowl to see whether they react to waves of air that mimic a rattling tail. They could also change the crest’s resonant frequency by stiffening it with varnish, then see whether a peafowl reacts differently to a tail display.
+
+Kane also wants to study other birds, whose larger crests might be easier for a camera to follow. At least 35 candidate species have flexible crests and some kind of shaking display. These include the secretary bird (a “ninja eagle on stilts”), the Victoria crowned pigeon (a giant blue dove with a feather-duster head), the Himalayan monal (an acid-trip pheasant), and the hoatzin (a prehistoric-looking punk rocker that smells of cow dung). Perhaps these species, though already dramatic and eye-catching, are also walking around with secret sense organs, hidden in plain sight.

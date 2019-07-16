@@ -1,0 +1,42 @@
+Of all the videos posted to YouTube, there is one that the platform recommends more than any other right now, according to a Pew Research study published Wednesday. That video is called “Bath Song | +More Nursery Rhymes & Kids Songs - Cocomelon (ABCkidTV).” YouTube recommended it more than 650 times among the 696,468 suggestions that Pew tracked, substantially more than the second-place finisher: the video for Maroon 5’s “Girls Like You” featuring Cardi B.
+
+The new study took 174,117 random walks through the YouTube universe. It used software to generate the hundreds of thousands of suggestions by selecting a random video to start and then automatically picking from among the top five videos that were recommended afterward. A recommended video was selected four times in sequence for each YouTube journey. It’s a fascinating, if not complete, methodology for exploring one of the world’s most important algorithmic systems, and one that’s remained largely opaque to researchers, let alone its users.
+
+Kids’ videos dominated the 10-most-recommended posts. “Bath Song” was joined by “Learn Colors with Spiderman 3D w Trucks Cars Surprise Toys Play Doh for Children,” “Wheels on the Bus | +More Nursery Rhymes & Kids Songs - Cocomelon (ABCkidTV),” and “Learn Shapes with Police Truck - Rectangle Tyres Assemby - Cartoon Animation for Children.” All are keyword-salad video titles that, apparently, make sense to the algorithm, if not to parents. Zoomed in close, the recommendations look strange. Why should the algorithm favor these particular videos out of all the kid content on YouTube?
+
+But zoomed out, at the level YouTube is probably more interested in, the rough edges get ironed out. Among the top 50 recommendations, 43 of them were music videos (14), kids’ stuff (11), TV competitions (11), or life hacks (7).
+
+YouTube wants to recommend things people will like, and the clearest signal of that is whether other people liked them. Pew found that 64 percent of recommendations went to videos with more than a million views. The 50 videos that YouTube recommended most often had been viewed an average of 456 million times each. Popularity begets popularity, at least in the case of users (or bots, as here) that YouTube doesn’t know much about.
+
+On the other hand, YouTube has said in previous work describing its algorithm that users like fresher content, all else being equal. But it takes time for a post to build huge numbers of views and signal to the algorithm that it’s worth promoting. So, the challenge becomes how to recommend “new videos that users want to watch” when those videos are new to the system and low in views. (Finding fresh, potentially hot videos is important, YouTube researchers have written, for “propagating viral content.”)
+
+Pew’s research reflects this: About 5 percent of the recommendations went to videos with fewer than 50,000 views. The system learns from a video’s early performance, and if it does well, views can grow rapidly. In one case, a highly recommended kids’ video went from 34,000 views when Pew first encountered it in July to 30 million in August.
+
+The behavior of the system was explicable in a few other ways, too, especially as it adapted to making more clicks inside YouTube’s system. First, as Pew’s software made choices, the system selected longer videos. It’s as if the software recognizes that the user is going to be around for a while, and starts to serve up longer fare. Second, it also began to recommend more popular videos regardless of how popular the starting video was.
+
+These conditions were almost certainly not hard coded into the algorithmic decision making. Like most of the Google sister companies, YouTube uses deep-learning neural networks, a kind of software that retunes its outputs based on the data fed into it. It’s not that a YouTube engineer said, “Show people kids’ videos that are progressively longer and more popular,” but rather that the system statistically deduced that this would optimize along all the dimensions YouTube desires.
+
+Pew’s work has important limitations. YouTube heavily personalizes recommendations based on a user’s history, which is impossible to simulate across the board. What Pew tested for are the recommendations YouTube would serve to an anonymous user. Most YouTube users, though, are logged in and receive recommendations based on their viewing history. Nick Seaver, an anthropologist who studies recommender systems at Tufts University, said that the study assumes that an anonymous user generates a kind of “baseline” that personalization would merely modify around the edges.
+
+“I don’t think that’s a reasonable premise, given how personalization works,” Seaver said.
+
+Second, more than 70 percent of the videos that YouTube recommended showed up on the list only once. It’s impossible to examine how hundreds of thousands of videos connect to each first random video when there are such limited data about each one.
+
+So the Pew research leaves some crucial questions unanswered. People want to know if YouTube regularly radicalizes people with its recommendations, as the scholar Zeynep Tufekci has suggested. This study suggests that YouTube pushes an anonymous user toward more popular, not more fringe, content. But that might not hold for a regular YouTube user with a real viewing history, Seaver said.
+
+“This study is in no way counterevidence to Tufekci’s argument about radicalization, even though it shows a push to popularity rather than a push to fringe, because that is exactly what would be changed by personalization,” he said.
+
+By way of example, a viral Twitter thread by the MSNBC host Chris Hayes several weeks ago demonstrated what could happen if you searched YouTube for information about the Federal Reserve.
+
+My favorite example of how informationally toxic YouTube's algorithm is this:
+Imagine you're high school freshman and got a school assignment about the Federal Reserve.
+
+The nature of YouTube’s personalization make its real recommendations exceedingly difficult to track quantitatively. It’s certainly possible to fall into some crazy YouTube rabbit holes, but how often YouTube itself leads one to them is still a hotly debated question.
+
+As it relates to children, the question becomes: How often does YouTube lead a child from a PBS video to something inappropriate? Eighty percent of parents told Pew that they at least occasionally let their children watch YouTube, and of them, more than 60 percent said that their child “encountered content on YouTube that they felt was unsuitable for children.”
+
+For my November magazine story about children’s YouTube, the company’s answer to these kinds of troubling suggestions was that YouTube isn’t for kids. Children, they told me, should be using only the YouTube Kids app, which has been built as a safe space for them. And they stuck to this line around the Pew study, saying, “Protecting kids and families has always been a top priority for us. Because YouTube is not for children, we’ve invested significantly in the creation of the YouTube Kids app to offer an alternative specifically designed for children.”
+
+YouTube has posted a sign outside the bar that says it’s not for kids and points to the playground next door, but then they serve anyone who comes in. Is that enough, given how little we know about how their system works?
+
+Even if we as a society decide it isn’t, the question remains: Who could make YouTube do anything more to keep kids out?

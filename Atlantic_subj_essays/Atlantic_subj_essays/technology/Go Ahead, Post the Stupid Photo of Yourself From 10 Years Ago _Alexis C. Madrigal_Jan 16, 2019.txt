@@ -1,0 +1,30 @@
+Do you want the good news or the bad news first?
+
+Okay, bad news. Everything you do on the internet is tracked. Your information streams into massive databases that are then linked to one another. At least several companies have good models of your social networks, purchasing behavior, and, yes, your face. Your face 10 years ago and your face today.
+
+Ten years ago, Facebook already had 15 billion photos in its database. As you uploaded pictures and tagged friends and added date and location data, the software got really, really good at recognizing people’s faces. This facial-recognition capability is mirrored at other companies—and some, such as Amazon, sell it to whoever wants it. They do all this to more effectively show you things you are likely to buy, in the form of advertisements in a feed or product recommendations. That’s literally how the internet works, and it goes to the very core of the new economy, as many smart people have been telling us for years, most recently Harvard Business School’s Shoshana Zuboff in her new book, The Age of Surveillance Capitalism.
+
+Whew, okay. Now that we’ve gotten that out of the way, let’s talk about the #10yearchallenge, which has swept through Facebook (and Instagram) users. The deal is: You post a photo from 10 years ago and one from now. It’s like viewing a painting of Cronus eating his children, but online.
+
+At first it was all a game. Ha ha! Everyone is getting older!
+
+But then our current reality began to sink in. Kate O’Neill, the founder of a tech-consulting firm, posted what she described in a later op-ed for Wired as a “sarcastic tweet.”
+
+Me 10 years ago: probably would have played along with the profile picture aging meme going around on Facebook and Instagram
+Me now: ponders how all this data could be mined to train facial recognition algorithms on age progression and age recognition
+
+O’Neill’s larger point is the same as the one above: “Humans are the richest data sources for most of the technology emerging in the world,” she writes. “We should know this, and proceed with due diligence and sophistication.”
+
+No doubt.
+
+But here’s that good news I promised: Whatever bad scenario these new photos could be used to support … has probably already happened. Facebook isn’t building an age-progression machine-learning system; it almost certainly already has one. (Perhaps this is not good news.)
+
+Researchers have been working hard on “age-invariant facial recognition” for years now, building a variety of datasets such as MORPH to help them do the work. To O’Neill’s point, these data sets are usually quite small, but that’s what academics generally have to work with. And still, there has been tremendous technical progress. For example, for a biometric security system using 16 years of photos, “the average subject can still be correctly verified at a false accept rate (FAR) of 0.01%.”
+
+But consider a platform that has access to many orders of magnitude more photos, as well as the most cutting-edge machine-learning systems and unending computation. I would bet that Facebook’s systems go far beyond what O’Neill is suggesting. Facebook wants to do age-invariant facial recognition from all kinds of crazy angles and in video. Two frontal head shots is a task that their artificial-intelligence experts have almost certainly already solved.
+
+You’re not sticking it to the companies by refraining from this particular behavior. And the idea that you could prevent Facebook from modeling how you’ve aged or will age is downright misleading.
+
+Another way of putting it: There isn’t some global corporate conspiracy to get you to post a photo of yourself from the old days and today. There has been a global corporate conspiracy to get you to post everything about yourself, continuously, for the past 15 years. Which many of us have done, providing the vast data sets that companies have already trained their neural networks with. If you think that not posting these two photos does anything to surveillance capitalism or the platforms that succeed through it, that’s just not right.
+
+And, geez, it’s hard out there. If people derive some tiny measure of pleasure from seeing themselves and their friends back when they had hair and plump cheeks, then … I can’t find it within myself to tell them: No, this one sliver of the problem of our time is just too much.

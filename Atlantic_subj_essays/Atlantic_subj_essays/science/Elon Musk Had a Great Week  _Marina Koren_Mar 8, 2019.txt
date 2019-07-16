@@ -1,0 +1,47 @@
+Elon Musk can exhale.
+
+The entrepreneur has been on edge since SpaceX launched a spacecraft to the International Space Station last weekend. The launch went smoothly, the Falcon 9 rocket lighting up the night sky like a flare in the darkness. And SpaceX spacecraft have visited the space station more than a dozen times before, to deliver supplies and science instruments to the astronauts on board. But this mission was unlike the others.
+
+The spacecraft that launched on Saturday was designed to carry humans.
+
+No people were on board, but SpaceX needed to prove the mission would work. NASA gave the company a billion-dollar contract to design, build, and test a new transportation system capable of carrying its astronauts to and from humankind’s sole outpost in space. The United States hasn’t launched astronauts from American soil since the space-shuttle program ended, in 2011. NASA now relies on Russia’s launch capabilities, but wants to use American companies for all its astronaut travel needs instead.
+
+The launch was the beginning of a days-long mission, punctuated by risky and unprecedented maneuvers, that SpaceX needed to execute to show the U.S. government that someday very soon the company can send people to space and bring them home.
+
+“To be frank, I’m a little emotionally exhausted,” Musk told reporters on Saturday, after the Falcon 9 blasted off and deposited the spacecraft into orbit. “Because that was super stressful. But it worked—so far. We have to dock with station; we have to come back. But so far, it’s worked.”
+
+And now it’s over.
+
+The spacecraft, named Dragon, returned to Earth on Friday morning and splashed down in the Atlantic Ocean. A quartet of bulbous, orange-and-white parachutes eased its descent to the water off the coast of Florida, against a sky of fleecy white clouds. The capsule, slightly charred from the fiery plunge through the planet’s atmosphere, bobbed as a pair of speedboats moved toward it.
+
+NASA and SpaceX will now review data from the mission, including from Ripley, the sole passenger, a mannequin outfitted with sensors that will show what the experience might be like for human beings. The first astronauts to fly on the Dragon have been selected, and they’re already in training. SpaceX still has more hurdles to clear, including a test of the Dragon’s launch-abort system, designed to hurl the capsule away from a malfunctioning rocket to safety. If these boxes are checked, NASA astronauts may launch in a Dragon capsule as soon as this summer.
+
+The successful return of the Dragon marks the beginning of a new era in American spaceflight.
+
+For decades, the business of sending people fell solely within the purview of the U.S. government, starting with Project Mercury in the 1960s and ending with the space-shuttle program, which transported astronauts for 30 years before folding under the burden of a high price tag and safety concerns.
+
+The government has paid private aerospace companies to build the hardware for its programs, but it has never handed over the responsibility of reaching space to the extent it could now. NASA awarded a similar billion-dollar contract to Boeing, a longtime aerospace contractor, to develop its own transportation system alongside SpaceX. The hope is that both companies will take over the job of delivering astronauts to the International Space Station, and NASA will pay them to do it.
+
+“This is an amazing achievement in American history,” Jim Bridenstine, the NASA administrator, said after the Dragon dropped into the ocean.
+
+The splashdown is a significant achievement for SpaceX too. The company, founded in 2002, has mastered delivering a variety of payloads to space—commercial satellites, top-secret missions, even a lander bound for the moon. It has cemented its rule in the realm of reusable rockets, perfecting a complicated maneuver that returns rocket boosters to Earth, landing them on the ground or on a ship off the Atlantic coast, to be refurbished and flown again. Last year, it launched more than 20 rockets into space. The roar of rocket engines on the beaches of Florida, the site of historic NASA launches, blends into the usual noise.
+
+It wasn’t so long ago that SpaceX was in a precarious place. In the summer of 2015, a Falcon 9 exploded about two minutes into its flight, destroying 4,000 pounds of food, supplies, and science experiments headed to the International Space Station. In fall 2016, a Falcon 9 exploded on the launchpad while being fueled for a routine engine test. The rocket and its payload, an Israeli communications satellite, went up in flames. SpaceX returned to flight in 2017 and has launched dozens of missions without incident since, including a captivating inaugural flight of its monster rocket, the Falcon Heavy.
+
+The successful mission means SpaceX has edged out Boeing in the effort to send NASA astronauts to space. Both companies have faced schedule delays and technical issues—some of which haven’t yet been resolved—since receiving their NASA contracts in 2014. Officials at both companies have publicly resisted describing the program as a race. That’s a smart public-relations move; even a hint of competition among the contractors risks the perception that SpaceX and Boeing are putting speed over safety. But SpaceX can privately bask in the glow of beating a longtime NASA contractor to a big milestone.
+
+SpaceX stands to receive more than bragging rights and revenue. If the company launches astronauts to space and returns them home safely, it would garner the prestige of restoring human spaceflight to American soil.
+
+The mission began with a nighttime launch from Kennedy Space Center, where SpaceX leases a NASA launchpad that saw the launches of Apollo missions, shuttle flights, and Skylab, the country’s short-lived space station. The Dragon spacecraft reached the space station a day later and docked to a port, using a new approach that relied on the capsule’s autonomous software to guide it to the right place. Engineers on the ground held their breath as the Dragon neared; an accidental collision could put the spacecraft, the station, or both in danger.
+
+The Dragon stuck the docking. After some checks and inspections, the crew on board the station opened the hatches and floated inside. It was a strange scene: There was Ripley the mannequin, clad in SpaceX’s futuristic-looking spacesuit and motorcycle-style helmet, and then there were the astronauts, dressed casually in polo shirts, having recently finished their lunch.
+
+The Dragon arrived with about 400 pounds of cargo on board, which the crew eventually unloaded and returned with items ready to go back to Earth. In the early hours of Friday morning, the spacecraft detached and prepared to leave the station’s orbit, more than 250 miles above Earth.
+
+Musk worried most about this part. Unlike other versions of the Dragon, designed to carry only cargo, the crew-friendly capsule has a more asymmetrical shape, which leaves it more vulnerable to tumbling as it passes through the Earth’s atmosphere. On top of that, the mushroom-cap parachutes had never been used before, and there was a chance that they wouldn’t deploy properly. “Hypersonic reentry is probably my biggest concern,” Musk said last week.
+
+The sight of the splashdown recalled the heyday of American human spaceflight in the 1960s and 1970s, when Apollo capsules parachuted down the same way. The space shuttle, which started flying in the 1980s, returned to Earth like an airplane on a runway. It’s been decades since a capsule designed to carry humans was seen falling from the sky above American shores.
+
+“Early Dragon 1 had a window on the side, and this was clearly a hint to everybody that we wanted to fly humans into space,” Hans Koenigsmann, SpaceX’s vice president for build and flight reliability, said before the launch. “We want to do this. This is our goal; this is why we are actually here. So clearly this is super important for us and incredible.”
+
+Perhaps the next time Dragon flies, there will be someone taking in the view.

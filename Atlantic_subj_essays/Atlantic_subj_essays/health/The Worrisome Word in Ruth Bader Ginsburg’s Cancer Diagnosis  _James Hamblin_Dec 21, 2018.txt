@@ -1,0 +1,29 @@
+On Friday, surgeons in New York removed the lower lobe of Justice Ruth Bader Ginsburg’s left lung. According to a statement from the Supreme Court, two nodules—which had been discovered in a CT scan after Ginsburg broke three ribs last month—were determined to be malignant.
+
+Images before the surgery showed no evidence of cancer elsewhere in her body, and doctors at Memorial Sloan Kettering Cancer Center reported that there was “no evidence of any remaining disease” after the procedure. According to the statement, no further treatment is planned.
+
+What does this mean?
+
+First, there’s a mandatory caveat in any such circumstance: A prognosis is impossible even for Ginsburg’s doctors to predict perfectly, and very limited information has been made public. Nevertheless, Ginsburg is a public figure whose health status is of particular consequence to American citizens, and readers of the Supreme Court’s statement are likely to draw conclusions. It is possible to add some context to the statement and to determine that this is neither a clean bill of health nor a clear sign of imminent peril.
+
+After the news, I tweeted: “If you’re 85 and you break a rib and get a CT, the radiologist will very likely find pulmonary nodules. Most aren’t removed. Since hers are now out and there’s apparently no evidence of metastatic disease, the primary issue is recovery from the procedure.”
+
+Most readers took this as good news. Though I didn’t mean to imply that she’s cleared. It’s true that nodules are very common—and a nodule is different from a mass, the distinction being the size. A nodule is, by definition, fewer than 3 centimeters (around an inch) in diameter. These two nodules are now gone, and there are apparently no others remaining.
+
+But the word that makes the statement more complicated and concerning is two.
+
+Pulmonary nodules are indeed extremely common, and most are benign. To find two malignant nodules in a person who smokes would not be especially surprising. However, if you have two separate malignant nodules in your lung and you do not smoke, doctors worry that this means they represent metastatic disease from a cancer somewhere else.
+
+This is especially true if the patient has a history of cancer, as Ginsburg does. She had early-stage colon and pancreatic cancers removed in 1999 and 2009, respectively. 
+
+Lung nodules are generally removed when they are deemed suspicious for malignancy, meaning they either showed signs of growth or were not seen on prior oncologic screening. “Growing pulmonary nodules can be primary lung cancers, and synchronous ones do appear,” says Howard Forman, a radiologist and professor at Yale. “But in a patient with two primary known malignancies, we would need to know the pathology of the nodules before believing she is cured.”
+
+The pathology report can tell us if the malignant cells are lung cancer—meaning a rare case of two simultaneous new lung cancers in a nonsmoker—or if they represent a recurrence of metastatic colon or pancreatic cancer, or if they are of some other origin. If this is the case, it would raise concern that although current scans showed no evidence of metastatic disease elsewhere, there could be yet-undetectable cancer cells already seeded in Ginsburg’s body.
+
+The fact that the statement says the nodules are indeed malignant means that at least a preliminary pathology report has been done, but this crucial detail—what type of malignancy?—was either unclear or withheld from the statement. It reads only: “According to the thoracic surgeon, Valerie W. Rusch, MD, FACS, both nodules removed during surgery were found to be malignant on initial pathology evaluation.” (I emailed Rusch, who told me, “We have no additional information on the pathology at the present time.”)
+
+“It all depends on the pathology report,” says the pathologist Anirban Maitra, the scientific director of the Ahmed Center for Pancreatic Cancer Research at MD Anderson Cancer Center. “Cancer in the lung is not the same as primary lung cancer, especially in a person with a history of colon and pancreatic cancer. Right now it’s best for the medical community to wait for more details.”
+
+“They might need to run special stains to distinguish lung versus colon versus pancreatic,” Maitra adds. “That could take a couple days and may or may not be conclusive.”
+
+In any case, expect that Ginsburg will be monitored closely in coming years for metastatic disease. In the immediate term, recovery from a lobectomy can be a significant undertaking for an 85-year-old, and that is indeed the relevant health issue for the foreseeable future.

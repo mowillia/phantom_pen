@@ -1,0 +1,33 @@
+A three-person crew has successfully launched to space and toward the International Space Station, about two months after a similar attempt failed and subjected the crew to a nerve-racking emergency landing back on Earth.
+
+Three crew members—Oleg Kononenko of Russia, Anne McClain of the United States, and David Saint-Jacques of Canada—squeezed into a capsule at the Baikonur Cosmodrome, a Russian launch facility in Kazakhstan, on Monday. The view from inside the capsule showed the astronauts stone-faced in their white spacesuits, waiting for the countdown. A plush raccoon hung over one of their heads; the toy was brought to serve as a “zero-gravity indicator,” and show the crew, who were tightly secured to their seats, when the capsule reached weightlessness.
+
+The capsule, perched atop a rocket, lifted off at about 6:31 a.m. ET, timed precisely for a long-distance alignment between the cosmodrome and the space station. About 10 minutes later, the crew was safely in orbit. The launch system, known as Soyuz, had completed all the necessary maneuvers to leave Earth, including shedding the rocket booster that had caused trouble in the last flight.
+
+The launch is the first leg in a lengthy and complex journey. The crew will coast for six hours and circle Earth four times before the capsule nears the ISS and docks. Three other astronauts, already on board the station, will greet them.
+
+One of them, Alexander Gerst of Germany, captured the view of the Soyuz launch from the station:
+
+Congratulations to the Russian Space Agency @roscosmos and all international partners for a flawless launch of #SoyuzMS11. And welcome to space, @Astro_DavidS, @AstroAnnimal and Oleg! #Exp57 #Exp58 #Horizons pic.twitter.com/rzEjtm2PcO
+
+While the crew still has a ways to go, a successful launch is a relief after the failed attempt in October. The capsule, carrying one American and one Russian, successfully lifted off from the cosmodrome and began its ascent toward the edge of space. But a few minutes into the flight, emergency lights lit up and alarms began to blare inside the capsule. The capsule fired its engines and shoved itself away from the rocket.
+
+NASA’s administrator, Jim Bridenstine, said communication was lost briefly between Russian mission control and the capsule during the emergency landing. “Might have been as many as five minutes, but it seemed like it was forever—it seemed like it just kept going on and on,” Bridenstine said. It was long enough for him to wonder what he would have to say if the flight ended in tragedy.
+
+The capsule eventually parachuted to the ground. The crew was shaken—the unexpected descent subjected them to a crush of seven times the force of gravity—but unharmed. They returned home.
+
+The incident marked the first launch failure of a crewed Soyuz mission in 35 years. It also presented an unsettling possibility for the ISS. The three people on board at the time—Gerst, Serena Auñón-Chancellor of the U.S., and Sergey Prokopyev of Russia—were scheduled to return to Earth in early December. The members of the aborted launch, Nick Hague of the U.S. and Alexey Ovchinin of Russia, were supposed to be on board to see them off. If the three space travelers returned home before another crew went up, the ISS would be unoccupied for the first time in 18 years. With Monday’s launch, that scenario has been avoided; instead, the two crews will share the ISS for a couple of weeks before Gerst, Auñón-Chancellor, and Prokopyev head home.
+
+Officials at Roscosmos, the Russian space agency, eventually traced the launch failure to the Soyuz’s boosters, which help propel the capsule into orbit before falling away one by one. Officials said a faulty sensor on one of the boosters prevented the hardware from cleanly separating. Instead, the booster struck the main rocket, and the impact produced enough of a jolt to trigger the Soyuz system’s automatic abort sequence.
+
+Roscosmos said the sensor glitch originated during manufacturing, and vowed to inspect all versions of its Soyuz system. Before Monday’s flight, the agency conducted four successful uncrewed fights with various configurations of the Soyuz system, including the same one that malfunctioned in October. Bridenstine and other NASA officials have repeatedly said they believe the Soyuz system is safe. “It really is one of the most resilient and capable human launch capabilities that has ever existed,” Bridenstine said in October.
+
+It’s also the only option. The Soyuz program is currently the only operational astronaut-transportation system in the world. American astronauts began flying on the Soyuz in 2003, when the U.S. space-shuttle program was put on hold after the Columbia disaster. naSA shifted exclusively to Soyuz use in 2011, after the American program ended altogether. Today, the U.S. government pays about $70 million to $80 million per ticket.
+
+Since the space shuttle was retired, an American reliance on Russian transportation has agitated lawmakers in Congress, who hold the purse strings for NASA. naSA, in response, has repeatedly promised an American-built launch system.
+
+In 2014, the space agency gave SpaceX and Boeing several billion dollars to develop systems to ferry American astronauts to the ISS. Both companies have made significant progress, but the efforts have experienced multiple delays and currently face safety reviews of workplace culture, influenced, in part, by several tragedies in NASA’s history. Bridenstine said last week that his decision to order the reviews at both companies was influenced by his reading of investigation reports of the Apollo 1 fire and the Challenger and Columbia disasters. (SpaceX CEO Elon Musk’s very public use of marijuana also factored into this thinking.)
+
+“Every single one of those accidents had a number of complications. Of course, the technological piece was a big piece of it. [But] the other question that always comes up was: What was the culture of NASA?” Bridenstine said. “What was the culture of our contractors, and were there people that were raising a red flag that we didn’t listen to, and ultimately did that culture contribute to the failure and, in those cases, to disaster?”
+
+SpaceX and Boeing can’t fly astronauts until they successfully demonstrate uncrewed flights. Those flights are expected in early 2019, but the timelines have already been slipping. naSA officials say they will keep using the Soyuz system until early 2020. But if neither company is ready to launch astronauts to space by then, the U.S. will need to buy even more rides on the Soyuz.

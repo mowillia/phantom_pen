@@ -1,0 +1,37 @@
+Cancer cells grow in distinctive patterns that defy normal limitations.
+
+That growth activity requires energy, and so cancer cells metabolize nutrients in different ways from the healthy cells around them. In an attempt to kill the tumor without killing the normally functioning cells, chemotherapy drugs target these pathways inside of cancer cells. This is notoriously difficult, expensive, and prone to toxic side effects that account for much of the suffering associated with the disease.
+
+Now doctors are starting to think more about specific nutrients that feed tumor cells. That is, how what we eat affects how cancers grow—and whether there are ways to potentially “starve” cancer cells without leaving a person undernourished, or even hungry.
+
+“For a long time, the prevailing thought was that altered metabolism in cancer cells was the result of genes and mutations that determined metabolism,” says Jason Locasale, a cancer biologist at Duke University. “Now, as we know, it’s a complex interaction of environment and genes, and one of the major factors at play is nutrition.”
+
+The importance of nutrition has long been accepted for conditions such as diabetes and hypertension, diagnoses that come with well-known dietary prescriptions. Even the most commonly used drug in type 2 diabetes, metformin, has been found in clinical trials to be inferior to diet and exercise. Cell biologists like Locasale see extending that line of thinking to cancer as a logical step, because at the cellular level, cancer is also a disease of metabolic pathways.
+
+Suggesting that people fast or starve themselves to kill a tumor has been the domain of dubious and exaggerated claims over the years, and that is not the suggestion now. In recent trials, metabolic pathways have been targeted though various approaches to changing what people eat. Some research has involved minimizing sugar intake. Indeed, some cancer cells metabolize glucose at higher than normal levels (to support the process of aerobic glycolysis), and depleting their access to sugar can slow growth.
+
+Last year, Siddhartha Mukherjee, the Columbia University researcher and author of The Emperor of All Maladies, and his colleagues found that at least one particular chemotherapy drug can be made more effective by combining its use with eating a low-sugar, protein-and-fat-heavy “ketogenic” diet. In a paper in Nature, the researchers suggest that the effect was related to decreasing the levels of insulin that the pancreas releases into the blood in response to eating.
+
+Around the same time, an international team of researchers concluded in the journal Science Signaling that “only some cancer cells are acutely sensitive to glucose withdrawal, and the underlying mechanism of this selective sensitivity is unclear.” In other words, a low-sugar diet could help combat some cancers, but it’s certainly not as simple as Cancers eat sugar, so low sugar stops cancer.
+
+While the sugar-and-insulin angle has shown promise, more of the research has focused on dietary protein—or, specifically, individual amino acids that make up that protein. Studies have shown that the restriction of the amino acids serine and glycine can modulate cancer outcomes. According to a 2018 study in Nature, the chemotherapy drug methotrexate is affected by the amino acid histidine. Another, asparagine, is involved in the progression of breast cancer metastasis.
+
+The most interest has gone to methionine, which is found in high levels in eggs and red meat. In 2018, a review of existing evidence from the Rutgers Cancer Institute of New Jersey deemed restricting methionine “a promising anti-tumor strategy.” That promise has also shown itself in brain tumors and melanomas, as the UC San Diego surgeon Robert Hoffman detailed in February. Methionine is made in normal cells—out of homocysteine, folate, and vitamin B12. However, many types of cancer cells lack the enzyme that makes cellular manufacturing of methionine possible. So they require extra methionine from outside the body—via food we eat—for survival. Cut off that supply, and it should help to slow the tumor without starving the person.
+
+This month, Locasale and his colleagues at Duke released findings showing that restricting methionine decreased tumor growth in mice and human subjects. Locasale’s particular area of research, known as metabolomics, uses enormous data sets to quantify metabolic activity. This allows the controversial field of nutrition research to operate with new levels of precision, where specific metabolic pathways can be monitored. Most nutrition research relies on self-reported data, in which people who say they eat almonds are found to have lower rates of some sort of cancer, and the best we can do is assume these two things are related. Locasale’s paper, by contrast, is full of complex statistical calculus involving “Euclidian distances” and “multidimensional scaling.”
+
+“That’s, uh, yeah,” he attempted to patiently explain. “It’s basically saying we can quantify what’s happening in the cells.”
+
+What really complicates the picture for Locasale is that the closest thing to a methionine-restricted diet is, in practice, a vegan diet. This would seem to be at odds with the cancer-fighting effects reported by Mukherjee and colleagues involving a “ketogenic” diet. But contrary to the dietary wars that plague the pages of popular media, Mukherjee was supportive of Locasale’s investigation. “More evidence about the fascinating connection between diet and cancer,” he tweeted of the Duke study. “It’s not ‘starving’ the cancer, but rather finding precise vulnerabilities that make metabolic therapies feasible.”
+
+And so now I have begun referring to food as metabolic therapy.
+
+Because cancer is a term that encapsulates many different diseases—with different changes in different metabolic pathways in different cells in different parts of the body—no single metabolic therapy is right for every person. What makes one cancer grow more slowly could conceivably hasten another. Just as avoiding excessive sugar is crucial for people with diabetes, lest they lose their vision and feet, sugar can save the life of a person with critical hypoglycemia.
+
+In 2017, I reported on a provocative study of vitamin B12 supplements, which can prevent anemia in people who don’t get enough through food. In excessive amounts, though, using these supplements was associated with higher rates of lung cancer. Again, this seemed to be by way of a metabolic pathway that fuels the tumor cells.
+
+Nutrients or vitamins are not simply good or bad, cancer-causing or cancer-fighting. If a book or blog recommends a single “cancer diet”—or even a supplement that promises to fight cancer—beware. It could end up making things worse. Especially if there is a person on the cover in a white coat with arms folded, and with teeth that look like they have never been used.
+
+For now, unless an oncologist has advised a specific diet tailored to your specific tumor, the most common recommendation is to eat a generally healthy diet. None of this challenges the principle that staying well nourished is part of a healthy approach to any disease; and there is no evidence that overall starvation is good or even safe. But focusing on specific patterns of eating will likely be part of many cancer-treatment guidelines in coming years.
+
+Food is medicine—or metabolic therapy. And no metabolic therapy is good or bad for everyone in every condition.

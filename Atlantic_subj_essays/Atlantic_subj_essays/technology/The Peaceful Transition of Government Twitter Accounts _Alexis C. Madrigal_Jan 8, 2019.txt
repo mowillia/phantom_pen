@@ -1,0 +1,28 @@
+The various committees of the House of Representatives are strange, human institutions. They are staffed by whoever holds the majority, which, since January of 2011, had been the Republicans, but is now the Democrats.
+
+And with that change, the committees must deal with important business, such as establishing new chairpeople, deciding on organizing principles, and … handling the committee Twitter account.
+
+The journalist Dave Levitan spotted a wrinkle in this Twitter handover process. For eight years, the Republicans ran the @HouseScience account. During that time, it accumulated a lot of followers (168,000) as Twitter grew into a mainstream service. Meanwhile, the Democrats had their own minority account—@SciCmteDems, which was clearly the Democrats and not an organ of the government—which accumulated almost 150,000 fewer followers.
+
+Now, come 2019, what should happen? You might say that the new Democratic majority would take over the @HouseScience page, with all its followers. That’s what happened to the @POTUS account during the Obama digital transition. The content was moved to @POTUS44, but the followers went with the presidential account.
+
+In the House Science committee case, that’s not what happened. Only the name @HouseScience went to the Democrats, replacing their old handle, @SciCmteDems, while the House Science Republicans went with @HouseScienceGOP, and kept all the account’s followers. As Levitan put it, “How is that fair?”
+
+At first, it might seem like yet another bit of partisan infighting, something you’d find under the definition of “petty.” But it turns out that the transition was peaceful, a committee staffer told me. The incoming Democratic majority didn’t want the audience that the Republicans had developed over the years. And furthermore, Twitter existed back in 2011, and during that changeover, the parties had enacted the swap in the same way. So, in a technical sense, it was fair.
+
+Many other committees have adopted a similar method. They’re following the House Administration Committee’s very general guidance on how to deal with the digital switchover:
+
+The URL name for an official website located in the HOUSE.GOV domain or name of a profile, page, channel, or similar presence on a third party site may not:
+        1. Be a slogan.
+        2. Imply in any manner that the House endorses or favors any specific commercial product, commodity, or service.
+        3. Be deceptive and must accurately represent the Committee.
+
+In this case, setting up the majority, which runs the committee, with the main account name is seen as “accurately represent[ing] the Committee” on the third-party site of Twitter.
+
+There’s some logic behind followers staying attached to the party rather than the account name, too. On social-media services, the ratio of engagement is an important factor in how popular a tweet becomes, and a Democratic majority tweeting to a Republican audience (or vice versa) might not find a lot of willing listeners, likers, and retweeters.
+
+On the other hand, it stands to reason that many Americans followed @HouseScience not because of the partisan content that ran on the feed, but merely because they were unfamiliar with House rules and simply thought of it as a way of knowing when committee hearings might be. There’s no way to disambiguate those two groups, though, and so the Republicans will take both with them.
+
+Furthermore, with most social networks, there is a growth phase during which accounts add followers with ease, and then there is the rest of the time. For Twitter, that growth phase is long over. It is an accident of history that the Republicans were in power when Twitter was experiencing its most consequential period, and that contingency has created a information distribution advantage for them.
+
+But that’s assuming differences in the audience for a House committee Twitter account even matters, which remains an open question.

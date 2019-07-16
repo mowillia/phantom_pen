@@ -1,0 +1,49 @@
+The cover illustration of The New Yorker’s March 29, 1976, issue depicted a “view of the world from 9th Avenue,” starring a massive Manhattan that dwarfed not only other U.S. cities but entire countries, reducing the Pacific Ocean to a band of water not much wider across than the Hudson River.
+
+But New Yorkers aren’t the only ones with a skewed perception of scale or an idiosyncratic sense of geography and place. Humans and other animals behave in ways that suggest they’re mapping out their view of the world by emphasizing the information they find valuable.
+
+Two studies appearing in Science last week show how deep that bias runs. Both research teams observed how the neurons that compile mental maps of physical space reprogram themselves to better reflect our experiences, activities, and priorities. The findings also offer evidence for a link that other scientists have started to uncover: The brain’s way of encoding positional information might extend to the way it organizes volumes of other information to be navigated, including varieties of sounds and abstract concepts such as social hierarchy.
+
+To help mammals keep track of where they are within their physical surroundings, their brains have developed two types of specialized cells. Place cells in the hippocampus fire when an animal is in a particular location—for example, near a recognizable landmark. Grid cells in the entorhinal cortex, a region that abuts the hippocampus, fire when the animal passes through some set of positions arranged like the vertices of a hexagon; collectively, these hexagons overlap to tile over a terrain, like a grid (hence the neurons’ name).
+
+Both kinds of cells “remap” when an animal enters a new environment, and the place cells were known to remap when key features in an environment changed. But grid cells were supposed to be more consistent: Their striking mathematical organization was widely believed to generate a precise coordinate system that didn’t vary over time or with new circumstances. It seemed to provide a static metric of Euclidean space that could be useful for navigation even in the absence of external cues. When the scientists who discovered the neurons were awarded the Nobel Prize in 2014, the grid cells were popularly described as “the brain’s inner GPS.”
+
+Typically, experiments designed to study grid-cell activity involve an animal foraging randomly in a box or a similar artificial environment. But Lisa Giocomo, a neurobiologist at Stanford University, was curious about whether something different might happen in the wild, where animals search for food more strategically, with specific goals and motivations in mind. There, for instance, they might use information from previous experiences to guide their search. Could these factors influence that “GPS” signal in the entorhinal cortex and connect it to something more than position alone?
+
+The findings that Giocomo and her colleagues have now reported in Science point to exactly that conclusion: Having a goal seems to affect how the brain encodes its spatial environment, and possibly much more.
+
+Giocomo’s team recorded the neuronal activity in the entorhinal cortex of rats as they ran through a testing environment, searching for randomly placed food. Then the team ran the experiment again—but only after training the rats to sometimes associate a particular spot in the environment with a large food reward.
+
+That training seemingly altered the firing pattern of the rats’ grid cells: The neurons fired closer to the reward location, shrinking the spacing of the navigational grid around that position like water swirling down a drain. The overall orientation, or tilt, of the grid also rotated, as if responding to an entirely different spatial context. (Other types of cells in the same brain region, such as “head direction” cells that fire in response to where the rat is facing, also rotated.)
+
+“All those changes combined really indicate that the entorhinal cortex is generating a completely different map of this space,” Giocomo says. “The goal of the behavioral task, or potentially the behavioral state of the animal, really is enough to drive a completely new map of the same spatial location.”
+
+Moreover, the team found that the grid cells fired more often when the animal was near the reward location. It seemed that the entorhinal cortex was representing that one small sliver of space more faithfully, more precisely, than the rest of the area—presumably to make finding future rewards more efficient. “The rat could then possibly navigate to that location a little bit more easily by changing its representation,” says Manu Madhav, a postdoctoral fellow at Johns Hopkins University who was not involved with the study.
+
+Meanwhile, across the ocean at the Institute of Science and Technology Austria, the lab group of the neuroscientist Jozsef Csicsvari took a deeper look at this change in representation as it happened. The scientists trained rats on a platform with holes into which rewards could be placed. First the rats foraged on a board without any rewards; then they were trained to find three rewards in specific locations; finally, they were sent off again on a board with no rewards.
+
+Like Giocomo’s group, Csicsvari’s found that the reward-training experience deformed the rats’ grid maps. The grid cells had shifted their firing targets to positions closer to where the rewards had been—and the closer their targets had initially been to the rewarded spots, the more they had moved. The perfect hexagonal tiling array described by the discoverers of grid cells didn’t look so perfect anymore.
+
+Furthermore, when the rats were first learning about the presence of new rewards in their environment, Csicsvari’s team observed a “flickering” transition between the two map representations—as if the rats’ brains were bouncing back and forth between the maps until they became accustomed to the presence of the rewards, rather than simply transforming steadily from one grid to the other.
+
+It all suggests “that actual grid cells are supporting much more than only Euclidean space. They’re supporting information about goals, for one,” says Charlotte Boccara of the University of Oslo, who was a postdoctoral fellow in Csicsvari’s lab during the study. “And that brings us to: What are grid cells?”
+
+Rather than organizing space, “they really seem to be about the organization of memory.”
+
+Imagine, Giocomo says, that during the winter, a mouse has to forage for whatever nuts and berries it can find. It has a cognitive map of the parts of the forest where it might find some. Then, one summer, the mouse stumbles across a huge patch of strawberries. “It could be advantageous for it to have a completely different map ... that highlights or overrepresents that patch of strawberries,” Giocomo says.
+
+Or just think about how we remember places in our own lives: We know, for instance, exactly where to find our home and workplace, but not the precise locations of every store, park, and road we pass daily between the two. “An organism has a sense of what things matter or don’t, and that overlays its sense of where things are in the world,” says Loren Frank, a neuroscientist at the University of California at San Francisco, who did not participate in either study. It’s been a misunderstanding to think that the brain has a representation of space that is “pure” and uncontaminated by considerations of relevance or reward, he added. “These things are really intimately tied together” and can’t be so neatly divorced.
+
+This also implies that how we form memories—and which memories we form—depends on what we’re trying to do. Not all memories, locations, and experiences are created equal (or at least they’re not encoded that way).
+
+Therein lies the flaw in comparing the entorhinal map to a GPS or other navigational tool. “Google doesn’t pull up a different map for me if I’m headed to Starbucks, versus if I’m going out for a walk,” Giocomo says.
+
+She wants to investigate what happens in the presence of punishments instead of rewards, and what happens when the rat’s motivations change—if it’s not hungry during the task, for instance. “This work opens up a whole new territory, in terms of considering what cues are capable of driving new maps of a space,” she says.
+
+A greater appreciation of the plasticity of the entorhinal cortex could help researchers understand the remapping that happens (or fails to happen) as a result of aging, neurological disease, and drug addiction. It could also reveal a much vaster repertoire of behaviors, beyond simple navigation, that this brain system might be encoding. “The entorhinal cortex is playing a much larger role in the intersection of space and memory than we previously thought,” Giocomo says.
+
+Because spaces are easy to measure, Boccara suggests, identifying the function of grid-cell activity in codifying spatial relationships was relatively straightforward. “But actually, it could be doing much, much more,” she says. The coding properties in the entorhinal cortex change based on what the animal is doing rather than just where it is. Regardless of whether the challenge is to navigate a physical space or a mental “landscape” of abstract thoughts or sensory experiences, “the code seems to alter to fit that space, to make the task in that space easier,” Madhav says.
+
+When it comes to grid cells, then, “our first definition was quite rigid, as first definitions tend to be,” Boccara says. But that viewpoint might have outlived its usefulness. Perhaps it’s finally time to move on.
+
+This post appears courtesy of Quanta Magazine.

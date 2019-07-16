@@ -1,0 +1,47 @@
+The year is 2055, and climate change has fully set in. Months-long heat waves regularly kill infants and the elderly, and food shortages are testing governments on every continent. While the world is finally reducing its carbon emissions, the cuts aren’t happening fast enough, and scientists say Earth will keep rapidly warming for at least another century.
+
+To stave off a crisis, China and the United States jointly propose an audacious scheme: They will inject sulfate aerosols into the high atmosphere to dim the sun’s rays, as happens naturally after a huge volcanic eruption. The two countries say the plan will restore order and lower the planet’s fever. But critics assert that the aerosols will distort the planet’s climate even further, weakening the monsoon and setting off droughts across Asia and Africa.
+
+The scenario may sound like science fiction, but the debate over the prudence of this technique—called solar geo-engineering—has already begun.
+
+On Monday, a new paper from a team of researchers claimed that it is possible to dim the sky in such a way that no region of the planet will be made significantly worse. No major land area will face more intense temperature, precipitation, or drought extremes under a specific solar geo-engineering scenario than would occur instead under climate change, the paper asserts.
+
+“That’s stunning. If it’s really true, it’s a huge deal,” says David Keith, an author of the paper and a professor of applied physics at Harvard. The study, which relies on a relatively rosy and moderate geo-engineering scenario, was co-authored by several widely recognized climate scientists who had never published on the topic before: Kerry Emanuel, an MIT professor who specializes in tropical cyclones, and Gabriel Vecchi, a geoscience professor at Princeton.
+
+Keith believes that these optimistic early results should justify the establishment of a new international research program on solar geo-engineering.
+
+Yet the paper, published in Nature Climate Change, has already been criticized by those who worry that geo-engineering researchers are moving too fast and overselling the still-notional technology. They also fret that optimistic talk of geo-engineering could discourage the public from embracing emissions cuts.
+
+“They are desperately trying to conjure demand for their research topic, but I think they’re hamstringing themselves over the long term by overclaiming,” said Jane Flegal, a climate-policy researcher and an adjunct faculty member at Arizona State University, in a message. She worried that the study’s cheerful conclusion downplays the chance that geo-engineering will require economic or political trade-offs.
+
+“I don’t think it is correct to imply that geo-engineering is a good or safe idea,” said Alan Robock, a professor of environmental sciences at Rutgers, in an email. He questioned how the study used computer climate models—that is, its authors did not simulate solar geo-engineering by modeling volcanic aerosols in the high atmosphere. Instead, they told the computer model to reduce the strength of the sun’s rays, a sort of brute-force proxy for geo-engineering. “And there is no way to do what they modeled, as we cannot turn down the sun,” Robock said.
+
+Keith and his colleagues acknowledge some of these criticisms in the paper. Simulating geo-engineering by turning down the sun in models is “a very widely used technique,” he told me. It allows easier comparison between different computer models that may use varying processes to simulate high-atmospheric aerosols.
+
+The new paper does not investigate whether solar geo-engineering could restore the climate to pre-global-warming levels. (Right now, the only way to avoid climate change altogether is to cut emissions.) The new paper asks instead whether geo-engineering could essentially cut the dangers of climate change in half. It uses high-resolution climate models, including one developed by the National Oceanic and Atmospheric Administration, to compare two different scenarios: one where atmospheric carbon levels have doubled above preindustrial levels and geo-engineering is not used, and another where they have doubled, but geo-engineering is used.
+
+In every region of the world, the study found, temperatures grew less extreme with geo-engineering. And while geo-engineering disturbed the climate of some regions in new but small ways, it overall reduced the effects of climate change in places it was worst. “Those regions experiencing the greatest climate change are the most likely to see it reduced by [solar geo-engineering],” the study says.
+
+There are many asterisks here. The study focuses on very vast regions: One of its areas encompasses the entire Pacific coast of South America; another includes almost all of Pakistan, India, and Bangladesh. It also does not study the lines on the planet that may matter far more: national borders. Even if rainfall remained constant in each of the studied regions, it could still cause conflict by shifting from one country to another, disrupting agriculture and water supplies. The study cannot examine that possibility.
+
+The study also examines a form of unadulterated climate change that will likely be easier than what we are on track for: It uses a scenario that assumes carbon-dioxide levels will sit at about 560 parts per million, but even some moderate scenarios assume they will pass that point in the middle of the century. (The absolute worst-case scenario projects 1370 parts per million by 2100.)
+
+“I am not saying that we know solar geo-engineering reduces risk,” Keith said. He acknowledged that the paper presents idealized risks, and those may be wrong. But the paper also, he said, makes “the most important case that solar geo-engineering could be really useful.”
+
+“It’s important to keep in mind that this study actually tells us very little about the feasibility of the idea of geo-engineering,” Flegal said. “It is reasonable to ask whether we expect the real world to behave like these models. [And] even if the real world behaved like these models, it is not clear to me that we should expect that this research will inform ‘rational’ decision making in this domain.”
+
+“People’s experience of climate is not entirely driven by physical climate variables,” she added. “It is mediated by all sorts of other cultural, political, social, and economic factors.” In other words, even if solar geo-engineering didn’t cause a particularly bad weather outcome, people may still blame it.
+
+While scientists have long hypothesized about the role of solar geo-engineering, serious researchers avoided the topic for all of the 20th century. That changed 13 years ago, when the Dutch chemist Paul Crutzen, a recipient of the Nobel Prize, called for a new program of “active scientific research” into the technique. Since then, governments and philanthropists have begun funding programs on the topic.
+
+“There’s much more interest among really senior science-policy leaders than there used to be,” said Keith. In 2017, during President Barack Obama’s final days in office, the White House proposed a multiyear, comprehensive investigation into the topic. The National Academies of Science, Engineering, and Medicine also recently formed a committee to study it.
+
+But the topic has not yet been subject to widespread study across many institutions. It also poses a dilemma for environmental organizations. While some major green groups have tepidly endorsed geo-engineering research, a tweet-length endorsement of the technology by President Donald Trump—or any antagonistic leader using it as an excuse to avoid cutting emissions—would immediately force them to retract their support.
+
+“Solar geo-engineering has been fairly critiqued as this clique,” Keith said. Only a small number of scientists have spent time on the topic, “and I’m one of them. People could easily write this off and say, ‘Well, it’s Keith, so he knows the answer before we start.’” This is why he was so pleased that Vecchi and Emanuel also worked on the study.
+
+In Keith’s view, more researchers of their caliber should be involved in geo-engineering research. “We need to get beyond a few researchers doing this as a hobby, which is what’s happening now, and move to a serious international program with democratic controls and open-access research,” he said.
+
+And he was clear: The results don’t yet justify actually trying out solar geo-engineering on the planet. “Deployment would be ridiculous,” he said. It would also be impossible; there is still no way to seed sulfate into the high atmosphere. Robock, who is skeptical of the approach, said that some proposals to do so could cost $50 billion to $200 billion a year.
+
+“Everybody wants to leap to an answer, ‘Should we do it or not?’ But we need some humility,” said Keith, who is 55. “Our generation, people my age, are not making this decision. It’s going to be our kids, maybe in 20 years, who make a serious decision about solar geo-engineering. We can’t bind their hands one way or another. And if we maintain the existing taboo and have no research on it, they’ll still have to make decisions.”

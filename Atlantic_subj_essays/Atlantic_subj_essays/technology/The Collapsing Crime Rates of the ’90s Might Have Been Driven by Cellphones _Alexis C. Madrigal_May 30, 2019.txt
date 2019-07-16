@@ -1,0 +1,42 @@
+It’s practically an American pastime to blame cellphones for all sorts of societal problems, from distracted parents to faltering democracies. But the devices might have also delivered a social silver lining: a de-escalation of the gang turf wars that tore up cities in the 1980s.
+
+The intriguing new theory suggests that the arrival of mobile phones made holding territory less important, which reduced intergang conflict and lowered profits from drug sales.
+
+Lena Edlund, a Columbia University economist,  and Cecilia Machado, of the Getulio Vargas Foundation, lay out the data in a new National Bureau of Economic Research working paper. They estimate that the diffusion of phones could explain 19 to 29 percent of the decline in homicides seen from 1990 to 2000.
+
+“The cellphones changed how drugs were dealt,” Edlund told me. In the ’80s, turf-based drug sales generated violence as gangs attacked and defended territory, and also allowed those who controlled the block to keep profits high.
+
+The cellphone broke the link, the paper claims, between turf and selling drugs. “It’s not that people don’t sell or do drugs anymore,” Edlund explained to me, “but the relationship between that and violence is different.”
+
+Edlund and Machado used Federal Communications Commission data on cellular-infrastructure deployment and matched it against the FBI’s (admittedly spotty) database on homicides across the country. They demonstrated a negative relationship that was even stronger for black and Latino populations. The title of their paper suggests that a crucial aspect of understanding declining crime has been hiding in plain sight for years: “It’s the Phone, Stupid: Mobiles and Murder.”
+
+Their theory is the latest entry in a series of attempts to explain the components of the long-term decline in crime that began in the early 1990s. The rise and fall of crime in the late 20th century (and into the 21st) is one of the great mysteries of social science. No one has come up with an explanation that fully—and incontestably—accounts for the falling crime rates. Many have tried, and shown substantial initial results, only to have their findings disputed.
+
+Edlund and Machado are not the first to suggest that phones could have played a role in the decline. Among others, the criminologists Erin Orrick and Alex Piquero were able to show that property crime fell as cellphone-ownership rates climbed. The first paper on the cellphone-crime link suggested that phones were an “underappreciated” crime deterrent, as mobile communications allow illegal behavior to be reported more easily and quickly.
+
+But cellphones are far from the only possible explanation. Any measurement that was going up in the ’90s correlates with the decline of violence. Thus, there are probably too many theories out there, each with limited explanatory power. One commonsense argument that’s been made is that certain police tactics (say, stop-and-frisk or the “broken windows” approach) or the explosion of incarceration rates must have been responsible for the decline, but most careful reviews have found little evidence to suggest that they had more than a marginal impact.
+
+The University of New Haven criminologist Maria Tcherni-Buzzeo published a review of the contending theories in 2018 that found no fewer than 24 different explanations for why crime began a multi-decade decline in the early 1990s, through economic times good and bad, in different countries and cities, under draconian policing regimes and more progressive ones.
+
+Every theory has its proponents and detractors. For example, the economists Steven Levitt and John Donohue proposed (and doubled down on) the idea that legalizing abortion reduced crime rates by cutting down on the number of unwanted pregnancies and children born into situations that make them more likely to fall into criminal life. Tcherni-Buzzeo described the theory as “thoroughly debunked by empirical research” in a 2018 book chapter looking at the theories behind the crime decline. Yet Levitt and Donohue’s most recent research, published as a working paper this month, contends they were even more right all along than they’d thought, and that the “cumulative impact of legalized abortion on crime is roughly 45 percent, accounting for a very substantial portion of the roughly 50–55 percent overall decline from the peak of crime in the early 1990s.”
+
+That paper led the Harvard sociologist Robert Sampson to joke with me, “This seems to be the month for economists overclaiming on crime.” (Levitt did not respond to my request for an interview.)
+
+Several people whom I asked to review Edlund and Machado’s paper thought the size of the effect was probably too large. “It is not inconceivable that their theory was a contributing factor, but 20–30 percent seems like a lot,” said Inimai Chettiar, the director of the Brennan Center’s Justice Program, which did a large-scale review of the crime decline several years ago. For the period from 1990 to 1999, the Brennan Center found that all the following factors combined explained only about a quarter of the drop: increased incarceration, increased police numbers, aging population, growth in income, decreased alcohol consumption, and unemployment. They also concluded that the decrease in environmental lead exposure and crack use and the increase in abortions “possibly” had some effect.
+
+The University of Leeds criminologist Graham Farrell, who is closely associated with the hypothesis that better security technology is the primary cause of the crime decline, also took issue with some of the paper’s data analysis. “At first glance, it seems to be that antenna [density] increased mostly after homicide already declined,” he wrote to me in an email.
+
+The data that the economists presented don’t match the chronology of the decline of homicides, especially considering that their proxy variable—how many antennas were up—would almost certainly precede cellphone usage by some period of time. The timing, he said, is “not even close.”
+
+So many of the theories have what Farrell called “initial plausibility,” and data can be marshaled to support them. But when critics reanalyze the discovery, they find holes. The data don’t hold up across time, across cities, or across countries. The problem is analogous to something like dark energy in physics—a sort of unexplained, unseen material that confounds the calculations of different branches of the social sciences.
+
+Of course, with every failure, the payoff of finding the one true explanation grows larger. If there even is one.
+
+“On a football field, I have 11 players. For Tom Brady to hit his receiver down the field, in stride, everything has to go right. Eleven players have to do something specifically,” the University of Texas at Dallas criminologist Alex Piquero told me. “Who made the play? Was it the left guard or the wide receiver? All of those things had to happen.”
+
+None of this, however, explains the wild discrepancies that remain between city homicide rates. Piquero pointed to Chicago and Houston as highly comparable cities, and yet Chicago’s murder rate has been double Houston’s in some recent years (like 2017).
+
+While most of the researchers above have focused narrowly on the 1990s crime decline, Tcherni-Buzzeo has a different temporal perspective. In her review paper, she showed a broader pattern of centuries of declining human violence. From that view, all the ways the entire world has changed can be summed to more peace, and the real aberration was the spike in crime from the 1960s through the 1980s.
+
+“Maybe we should be trying to figure out what contributed to the temporary increase, because the decline seems to be the underlying trend,” she said.
+

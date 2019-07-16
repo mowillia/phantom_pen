@@ -1,0 +1,37 @@
+Recently, a user of an online forum for science-fiction writing posed an intriguing question to the rest of the community. In the user’s imaginary world, spiders rule the planet. The arachnids have grown intelligent enough to build a spacefaring empire, and they need space suits to travel into space. So, then: “How to design a space suit for an arachnid?”
+
+The inquiry made me giggle. It reminded me of those silly thought experiments involving animals and garments, such as the long-running debate over how a dog would wear pants. I scrolled down, anticipating some funny responses.
+
+But there was none of that. The people on this forum were serious, and they were serious about spider space suits.
+
+“Terrestrial spiders breathe via almost all of their body. They don’t have particularly dedicated airways or efficient circulatory systems and as such are used to being surrounded by air in order to get enough oxygen into their vital organs,” one user wrote. “You need to keep a flow of air between the suit and the spider or they will suffer from the equivalent of hypoxia.”
+
+“Have an enclosed pod that the spider can sit inside with legs folded and have mechanical arms/legs that support the pod and allow it to walk around,” someone else suggested.
+
+“Are the suits needed for short space walks or would the [spiders] be wearing them semi-permanently?” another user asked. “This will determine if the suit needs air, heat, and durability to elements.”
+
+The suggestions went on, and in great detail. Users discussed all aspects of spider physiology, from exoskeletons and joint movement to respiratory and circulatory systems. They wondered which space-suit designs would provide the many-limbed creatures with maximum mobility and comfort. One user even suggested that the spiders take some anti-nausea drugs while in zero gravity, as astronauts do.
+
+The discussion now resembled something other than the dog-in-pants scenario: the very real conversations, decades ago, between engineers and scientists about how to make space suits for human beings. Those deliberations were not so different from the ones in the science-fiction forum, because they were both trying to answer the same question: How do you keep something designed to live on Earth alive in space?
+
+In the United States in the 1960s, the space-suit business was booming. NASA was in the market for a variety of outfits for its first classes of astronauts, for use inside and outside space capsules and, eventually, on the surface of the moon.  
+
+According to ILC Dover, the Delaware-based company that designed the iconic Apollo space suits worn by Neil Armstrong and Buzz Aldrin, engineers put different fabrics through rigorous tests to find those that would protect wearers from the extreme conditions of space. They exposed them to sweltering heat and bone-chilling cold, and folded and creased them every which way, bending them at each joint to see how the material would hold up.
+
+Engineers also had to figure out how to prevent conditions inside the space suit from killing the wearer. They needed life-support systems that would circulate oxygen throughout the suit, and remove excess heat and carbon dioxide and eject them into space. If temperatures in the suit rose, astronauts could become dehydrated. If exhaled carbon dioxide accumulated, they could die.
+
+On top of that, engineers had to determine exactly how much life support astronauts would need. “At the start of 1962, a significant challenge to the development of the Apollo [ Extravehicular Mobility Unit] was lack of a detailed understanding of the metabolic performance requirements of a man in a suit,” according to NASA. “No one in the U.S. space community knew the correct requirements.”
+
+Decades after humans proved that they could survive in space with the right outfit, engineers are still working on space-suit designs. Boeing and SpaceX, which are expected to launch American astronauts to low-Earth orbit next year as part of a NASA program, have spent the past several years designing space suits of their own. Both are pressurized suits designed for the in-flight experience, not space walks. Boeing’s cobalt-blue suit comes with a zipper down the back for entry; a soft, hoodlike helmet; and footwear that resembles sneakers, a departure from the traditional, bulky boots of the past. SpaceX’s white-and-black space-suit design resembles that of a Power Ranger or Stormtrooper suit, with tall, rain boot–like shoes and a traditional, motorcycle-esque helmet.
+
+Others are thinking beyond the space above Earth. In 2015, NASA announced the development of a suit for Mars, known as the Z-2. Engineers began by turning to earlier designs for inspiration. “We start by testing those suits and understanding the different features,” Lindsay Aitchison, a space-suit engineer at NASA’s Johnson Space Center, explained to Mental Floss in 2014. “What type of shoulder works best for what type of activity, different designs of the hips and boots and the style of entry. Do you want to have a zipper? All those things.”
+
+But the Martian environment presents new challenges. Mars astronauts will need hardy space suits capable of protecting them from space radiation and winds carrying tiny dust particles that could scratch helmets or slice into the suit fabric. The suits that astronauts use today to maneuver outside the International Space Station aren’t especially bendy; astronauts “walk” with their hands, pulling themselves along railings and handholds protruding from the station. Mars suits will have to be flexible enough to allow astronauts to walk around, kneel down to collect samples, raise their arms in the air to wave to their fellow travelers, climb in and out of rovers, and so on. The soles of their shoes will resemble hiking shoes, made for traversing rugged terrain.
+
+The whole getup will have to be as lightweight as possible. The weight of space suits and life-support systems matters less in low-gravity environments, such as on the moon or around the space station. The complete space-shuttle suit, for example, weighed a whopping 310 pounds, but weightlessness removed the burden. While the gravity on Mars is just 38 percent that of Earth’s, astronauts will still feel some of the weight of a 300-pound space suit on their body.
+
+Engineers will have to make some aesthetic considerations, too. Aitchison, the space-suit engineer, has suggested adorning flashy, bioluminescent stripes of different colors to Martian space suits, so that astronauts can tell who’s who when they’re out and about at night.
+
+In a strange convergence of human and spider anatomy, an engineer at Lockheed Martin, a frequent NASA contractor, has even suggested that Mars astronauts could wear eight-legged, rocket-powered space suits and crawl and hop across the surface of some of the planet’s moons.
+
+In any case, fictional, sapient spiders, like humans, will have to contend with a multitude of factors to keep their space travelers healthy and alive. At least we only have to worry about four limbs.

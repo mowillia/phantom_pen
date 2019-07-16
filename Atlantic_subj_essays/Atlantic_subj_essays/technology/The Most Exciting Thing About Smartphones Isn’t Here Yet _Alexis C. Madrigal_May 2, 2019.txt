@@ -1,0 +1,41 @@
+The truth is, it’s a boring time for smartphones. Most of the huge camera and qualitative improvements of the early years have leveled off. iOS and Android are basically equal ecosystems. Mobile networks are now fast enough to do most of the stuff you want to do most of the time. The top three carriers—AT&T, Verizon, and T-Mobile—all offer very similar levels of service. Verizon has consistently been slightly better, according to the most rigorous testing, but it’s pretty close for most people. The most popular apps (YouTube, Instagram, WhatsApp, etc.) have been around for years.
+
+Not that phones aren’t amazing technological products and the networks that serve them incredible systems, but the devices are what they are now: beautiful glass rectangles with a thick, invisible tether to the cloud.
+
+The true technological leap over the next few years is supposed to come from the network technology, the vaunted 5G. 5G is the wireless industry’s designation of a packet of new systems that promise to make the internet on your phone work like a wired fiber-optic connection. Instead of bandwidth that reaches 10 or 20 megabytes a second, you might get 200 or even 500 megabytes, enough to stream 4K video.
+
+Simply put, 5G is the future of using your phone. It’s also at the heart of a massive struggle between the biggest phone makers in the world. Building its infrastructure is a geopolitical flash point, with American strategists begging other countries not to use the Chinese company Huawei’s equipment. American intelligence services have long maintained that Huawei has a compromising relationship with Chinese authorities, so installing the company’s hardware would give the country a backdoor pass. The new capacity could give all governments (and the hackers who love and hate them) scary new capabilities: A more connected world is also a more surveilled, hackable world.
+
+The major carriers have built test 5G networks in some cities, and a few devices support them. But 5G is supposed to coalesce into a service people actually use late this year at the earliest, and more likely in 2020 or 2021. It uses new frequencies that my iPhone cannot even pick up.
+
+So, last week, when I was driving along Highway 13 in Oakland, California, I could not help but notice a new AT&T network appear: 5GE. Look it up on the internet and you find AT&T calling it “our first step on the road to 5G.” I went back up to the area where I’d seen the network and got onto it again, but a series of speed tests in different locations showed slower speeds than what I get in the flatlands on AT&T’s LTE network. Some writers covering the telecom industry have called 5GE “bullshit”; others, “just marketing.”  
+
+To hear AT&T explain it, the company sees 5G as a kind of rolling transition, hence the network name: 5G Evolution. 5G networks will require great fiber-optic backbones, lots of new spectrum, and denser webs of towers, among other improvements. In areas where AT&T has made upgrades that will set up the switch to 5G over the coming years, it has decided to “highlight to our customers where improvements have already been made,” as Gordon Mansfield, AT&T’s VP of converged access and device design, put it.
+
+But 5GE is not true 5G. It’s a rebranding of the existing 4G LTE network that AT&T has made on its path to real 5G rollouts. These updates have allowed AT&T to close the speed lead that Verizon had opened up over the past half decade, but they do not mean that the future of wireless has already arrived quietly in your pocket. While some 5G deployments will be built over the top of existing LTE infrastructure, and while LTE has evolved (to LTE Advanced), 4 is not 5.
+
+Not surprisingly, many other companies working on 5G networks are furious with AT&T for what they see as muddying the waters around 5G.
+
+“We’ve been deploying LTE Advanced for years, and that’s what ‘5GE’ is,” said a Verizon spokesperson, Howie Waterman, before noting that Verizon had launched this kind of service in 1,500 markets to AT&T’s 400.
+
+A huge consortium of wireless companies, including AT&T, around the world worked on 5G technical standards for years before coming to a series of working agreements (it’s complicated). To these companies, only services that meet all those standards should be called 5G. And most important, true 5G would require using the new parts of the spectrum that provide massive new bandwidth and nearly no delay between asking the network for something and receiving it (low latency).
+
+In 2011, during the last network transition, a similar fracas went down with T-Mobile and AT&T redefining what they were going to call “4G.” But the stakes are much higher this time around. 4G networks began to launch in late 2010, back when few people still had high-end smartphones. Nearly a decade on, the smartphone—along with the panoply of services provided through and on top of them—is ubiquitous.
+
+Now, while everyone is using the network, the carriers must invest many billions of dollars in building out a new network of equipment—the base stations located in cell towers—precisely as they push everyone to upgrade to new 5G-capable phones.
+
+Creating this new capability will push the wireless internet into uncharted territory. “There are greater challenges for the service providers. I’m not doubting their capabilities, but they need to do things differently,” says one longtime wireless veteran, Markku Toiviainen. He’s the head of industry business development at Keysight Technologies, which provides widely used mobile testing equipment. “They need to understand how the signals behave and move in different kinds of environments,” he says.
+
+The issue is basic to the physics of the spectrum portions that 5G will be employing. The fantastic 5G speeds require higher-frequency, shorter-wavelength signals. And the shorter the wavelength, the more likely it is to be blocked by obstacles in the world. (Think of the range of AM’s longer radio signals versus FM’s shorter ones.) “If there is a tree between the antenna and the smartphone, already that can affect what kind of signal the smartphone is getting,” Toiviainen says. “The normal rules are not really valid anymore.”
+
+Because of this kind of problem (thanks for nothing, trees), the carriers will need a much denser grid of base stations to actually achieve good coverage. But how, precisely, to arrange them remains an open question. It’s not an easy thing to simulate, so they have to roll out small networks and test extensively.
+
+For these reasons, among others, Toiviainen sees the move from 4G to 5G as “a much bigger change than in transitioning from 3G to 4G.”
+
+And when it’s done, it’s not clear what your average cellphone user would do with wireless internet that fast. “Already 4G delivers a quite nice user experience to the consumer today,” Toiviainen says. If I can already stream video on a 100MB 4G LTE connection, do I care if I can now stream 4K video? It’s a bit like the TV upgrade cycle. The jump from standard definition to 1080p is huge. The move from 1080p to 4K is a nice-to-have, but not life-changing, upgrade.
+
+Yet nearly all the mobile-associated companies—led by Qualcomm and Huawei—are pushing to accelerate the rollout of the technology in one great coordinated device-network wave. That’s because the carriers must match the demand for 5G speeds with the supply of 5G capabilities. If it gets out of whack, they could literally go out of business. If they overbuild the network without users, they can’t make back their money. If they under-build, their competitors could take market share and their users might experience terrible service.
+
+Ideally, they’d like a broader set of customers than smartphone users. So the companies behind 5G are also flaunting many other applications for these networks, from emergency services to autonomous vehicles to every kind of “internet of things” gadget.
+
+The future of nearly every major phone maker, equipment maker, and carrier, along with many other businesses, rides on what happens with 5G. The coming year will see a massive ramp-up in marketing and journalism about the new standard. But for now, if you look down at your phone and see 5GE, just know that it’s less a new capability, and more an omen of what’s to come.

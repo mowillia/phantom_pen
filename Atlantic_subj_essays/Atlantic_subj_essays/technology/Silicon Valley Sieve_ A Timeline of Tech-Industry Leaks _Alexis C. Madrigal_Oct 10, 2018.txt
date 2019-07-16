@@ -1,0 +1,81 @@
+Google has sprung yet another leak about its secret plans to build a Chinese-government-friendly search engine, apparently in contradiction to the company’s public statements about the possibility.
+
+It’s just the latest piece of unauthorized information to escape from the tech industry’s increasingly polarized and disgruntled employees. But just a few years ago, tech companies such as Facebook were famously leakproof. “Unlike tech companies such as Apple and Snapchat, which keep employees in the dark about projects and ambitions, Facebook routinely shares all kinds of secrets with all of its workers at Friday afternoon Q&A sessions that Zuckerberg has been running for a decade,” Recode wrote in January 2017. “What’s most surprising: Almost none of it leaks out.”
+
+Back then, the companies took different tacks in controlling leaks—Google and Facebook were famously transparent, Apple and Snap famously closed—but all their strategies were effective. Tech rarely leaked. It was considered a coup to get an early product photo, let alone controversial or deep information about the workings of the world’s most powerful companies. There was one very clear-cut way to lose your job in tech: talk to a reporter. Sources were understandably skittish.
+
+Fast-forward a year and a half, and the trickle of information has become a flood. Dozens of leaks from just about every major tech company have brought an incredible amount of new information into the public realm. The companies continue to hunt the leakers, but they keep delivering information to journalists.
+
+What changed? It probably wasn’t the election of Donald Trump, but that certainly heightened the contradictions of the tech industry. After all, nationalist populism contravenes the well-established global cosmopolitanism that’s endemic in Silicon Valley. The tech companies purport to be politically neutral platforms for all voices, but most of their employees are left leaning. At Facebook, Twitter, Google, and elsewhere, employees started to ask, Do tech platforms have to help people who hated everything they stood for? Should they?
+
+These debates, in their many manifestations, appear to have cracked open the worker-management wall of secrecy that used to keep corporate information in. Now right-wing leakers go to Breitbart or Fox, and left-wing leakers go to BuzzFeed, The Intercept, or Gizmodo. It’s impossible to quantify the number of leaks that emanated from the tech industry before and after the campaign and election of Trump, but anyone who has covered the industry would attest that the number of significant leaks from employees in technology companies has increased since the campaign and subsequent election of Trump. As this timeline of widely publicized leaks of the past two and a half years or so shows, once the rank-and-file employees began to talk, the high-note oratory of their bosses began to seem meretricious. Many of these employees seemed to realize, to their horror, that they worked for companies that were more like other companies than they were not. And now the tech industry leaks, just like everyone else, but juicier.
+
+October 9, 2018, Google to The Intercept: Employees leak a July 2018 talk by the search-engine head, Ben Gomes, about the company’s Dragonfly effort in China. The transcript appears to contradict congressional testimony that Google gave, as well as a public statement by Gomes.
+
+September 26, 2018, Amazon to Gizmodo: Amazon employees leak an anti-union video being circulated to team leaders at Whole Foods.
+
+September 12, 2018, Google to Breitbart: An anonymous source sends Breitbart a video of Google executives reacting to the 2016 presidential election.
+
+September 10, 2018, Google to Fox: An unnamed source leaks an email to Tucker Carlson in which Google’s head of multicultural marketing describes the company’s efforts to help Latino voters get to the polls.
+
+August 23, 2018, Facebook to Motherboard: Sources give “hundreds of pages of leaked content-moderation training documents and internal emails” to Motherboard’s Jason Koebler and Joseph Cox.
+
+August 17, 2018, Google to The New York Times: Some Google employee feeds the Times’ Kate Conger lines from a talk that Sundar Pichai was giving about the Dragonfly project. Conger tweets them, leading one Googler to say “Fuck you” on the open mic, which was also leaked.
+
+August 8, 2018, Twitter to BuzzFeed: A source leaks Charlie Warzel an internal email about the company’s Alex Jones policy. He tweeted it.
+
+August 1, 2018, Google to The Intercept: Internal documents leaked by employees reveal the existence of Dragonfly, Google’s secret effort to create a search engine that complies with the Chinese government’s requirements to censor sensitive topics.
+
+July 22, 2018, Tesla to The Wall Street Journal: A memo stating that the company was looking to get some money back from suppliers finds its way to the Journal.
+
+July 18, 2018, Facebook to Motherboard: A source leaks “internal Facebook documents” that showed the company had developed a threshold for when to ban pages.
+
+June 22, 2018, Netflix to The Hollywood Reporter: A leaked internal memo reveals that Netflix had fired Jonathan Friedland, the company’s chief communications officer, over his “descriptive use of the N-word” in a PR meeting. Friedland reportedly used the slur on a second occasion, while speaking with “Black employees in HR who were trying to help him deal with the original offense.”
+
+June 18, 2018, Tesla to CNBC: CNBC obtains an internal email Elon Musk sent to employees referencing sabotage by a former employee.
+
+June 13, 2018, Amazon to Business Insider: Audio leaks to Business Insider of Whole Foods CEO John Mackey trash talking Amazon and saying that he was “not afraid to get fired.”
+
+May 29, 2018, Facebook to Motherboard: A source leaks training manuals that detail how Facebook moderates white supremacists and other hate groups.
+
+April 13, 2018, Apple to Bloomberg: In a memo posted to Apple’s internal blog, the company offers statistics on incidents of employee leaks and enforcement, and reminds workers of the dangers of leaking. From the memo: “In 2017, Apple caught 29 leakers. 12 of those were arrested.”
+
+March 29, 2018, Facebook to BuzzFeed: A former employee surfaces a post by longtime executive Andrew Bosworth titled “The Ugly” about the costs and necessity of Facebook’s continued growth. It references the company’s “questionable contact importing practices” as well as “the work we will likely have to do in China some day.” The unvarnished view of the company’s rapaciousness had been posted to an internal message board a year before, but had only circulated internally. The next day, Facebook employees leak the discussion about Bosworth’s memo to The Verge.
+
+March 15, 2018, Amazon to Reuters: Leaked documents show Amazon Prime’s numbers and detail its subscriber-acquisition strategy.
+
+March 7, 2018, Snap. Inc. to Cheddar: A leaked email from Snap’s senior vice president of engineering reveals plans to lay off 120 employees (10 percent of Snap’s engineering department). Snap publicly confirms the layoffs the next day.
+
+March 6, 2018, Google to Gizmodo: Employees leak internal discussions at Google about the company’s work developing AI to help Department of Defense drones classify images.
+
+February 7, 2018, Apple to GitHub: The portion of iPhone source code critical to iOS start-up, known as iBoot, is published anonymously on GitHub. Within a day, it is removed after a copyright takedown request from Apple.
+
+January 19, 2018, Snap Inc. to Cheddar: Cheddar receives an internal email to Snap employees threatening them with jail time for leaking company information. The email was sent the day before The Daily Beast published an article on leaked Snap user data.
+
+August 23, 2017, Uber to Axios: The company’s detailed financial information is leaked first to Axios and then to The Wall Street Journal.
+
+August 5, 2017, Google to Gizmodo: James Damore’s infamous anti-diversity memo, “Google’s Ideological Echo Chamber,” is leaked to Kate Conger.
+
+June 28, 2017, Facebook to ProPublica: ProPublica obtains a cache of documents relating to Facebook’s content-moderation policies.
+
+June 20, 2017, Apple to The Outline: The publication obtains an “internal briefing” about how to stop leakers at the company.
+
+May 21, 2017, Facebook to The Guardian: A Facebook employee or contractor leaks “100 internal training manuals, spreadsheets, and flowcharts” detailing the company’s content-moderation policies.
+
+March 16, 2017, Uber to Recode: Documents showing the problems that Uber’s self-driving-car efforts were having find their way to Johana Bhuiyan.
+
+March 3, 2017, Uber to The New York Times: Documents leaked to Mike Isaac reveal the existence of Greyball, software that Uber built to deceive authorities around the world who attempted to regulate the company.
+
+November 14, 2016, Facebook to BuzzFeed: Employees reveal to Sheera Frenkel that they had established a secret internal task force to battle fake news.
+
+May 9, 2016, Facebook to Gizmodo: A former journalist working at Facebook leaks that the company’s “trending topics” moderators “suppressed news stories of interest to conservative readers.”
+
+May 3, 2016, Facebook to Gizmodo: Former journalists working as contractors at Facebook reveal how the app’s “trending topics” module functioned.
+
+April 29, 2016, Google to New Scientist: New Scientist obtains a copy of the agreement between the British National Health Service and the Google AI subsidiary DeepMind.
+
+April 19, 2016, Google to Recode: Employees leak memes they’d made of Tony Fadell, founder of Nest, who some sources said clashed with Google’s culture. Fadell’s defense of himself is leaked, too.
+
+April 15, 2016, Facebook to Gizmodo: A source leaks an internal Facebook poll that was used to determine which questions Mark Zuckerberg would be asked at an employee meeting. One question that received substantial support was “What responsibility does Facebook have to help prevent President Trump in 2017?”
+
+Additional reporting contributed by Haley Weiss.

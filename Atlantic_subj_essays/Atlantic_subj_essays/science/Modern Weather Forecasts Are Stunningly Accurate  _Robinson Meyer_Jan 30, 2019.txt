@@ -1,0 +1,35 @@
+As the sun rose on Wednesday, 26 million Americans peered out their windows onto a land chilled to 20 degrees Fahrenheit below zero. And that’s when the air was still: When the wind picked up, as it did from Chicago to the Dakotas, it could feel like it was 50 below. Boiling water tossed from a pot turned into a cloud of snow before it could hit the ground.
+
+The experience was half Uz, half Oz. But had Dorothy’s house been relocated to Mount Everest, not Munchkinland, her journey still would have been more pleasant than many midwesterners’ Wednesdays. They spent the day essentially shut down, as hundreds of schools, offices, universities, and even an ice castle closed. The National Weather Service advised against “talking” or “taking deep breaths” outside so as to keep delicate lung tissue from freezing on contact.
+
+The vortex was felt nearly across the entire continent. As many as 225 million Americans—from Alabama to Nevada—could have started their 8 a.m. commute in below-freezing temperatures. 
+
+It is dangerous, record-breaking, can’t-look-away weather. Yet this cold snap’s arrival was preceded by a marvel so spectacular that we hardly noticed it: It was correctly predicted. As early as a month ago, forecasters knew that colder-than-average weather would likely strike North America this month; a week ago, computer models spit out some of the same figures that appeared on thermometers today.
+
+Meteorologists have never gotten a shiny magazine cover or a brooding Aaron Sorkin film, and the weather-research hub of Norman, Oklahoma, is rarely mentioned in the same breath as Palo Alto. But over the past few decades, scientists have gotten significantly—even staggeringly—better at predicting the weather.
+
+How much better? “A modern five-day forecast is as accurate as a one-day forecast was in 1980,” says a new paper, published last week in the journal Science. “Useful forecasts now reach nine to 10 days into the future.”
+
+The paper is a birthday present from meteorology to itself: The American Meteorological Society turns 100 this year. But it also acts as a good report card on how far weather prediction has come.
+
+“Modern 72-hour predictions of hurricane tracks are more accurate than 24-hour forecasts were 40 years ago,” the authors write. The federal government now predicts storm surge, stream level, and the likelihood of drought. It has also gotten better at talking about its forecasts: As I wrote in 2017, the National Weather Service has dropped professional jargon in favor of clear, direct, and everyday language.
+
+“Everybody’s improving, and they’re improving a lot,” says Richard Alley, an author of the paper and a geoscientist at Penn State.
+
+With the current polar vortex, the first signs came almost a month in advance. On the final day of 2018, scientists detected what they call a “sudden stratospheric warming event,” high above the North Pole. The stratosphere, a layer of air about 20 miles above the surface, was being rocked by waves of warm air from below.
+
+“What happens in the Arctic does not stay in the Arctic,” warned the meteorologist Andrew Freedman at the time. “Sudden stratospheric warming events are known to affect the weather in the U.S. and Europe on a time delay.” The next 60 days would probably be colder than average, he said.
+
+By January 20, much of North America hit its first cold snap of the season. Then, a week ago, the European weather model began to project that a dangerous air mass would descend over the central United States. “It’s safe to say that the [European] weather model cannot get any colder for the Midwest,” said the meteorologist Ryan Maue on Twitter. “Wind chills would be in the -40 degree to -50 degree Fahrenheit range as well. This would be bad … but hopefully the model moderates.”
+
+The model barely budged. On Wednesday morning, Minneapolis recorded a wind chill of 52 degrees below zero.
+
+This kind of pattern—where a seasonal climatic projection (“It will be colder than average at the end of the month”) precedes a definite week-ahead forecast (“It will be 40 degrees below zero on Tuesday”)—will become more common in the years to come. Meteorologists are increasingly uniting weather models and climate models, allowing them to project the general contours of a season as it begins.
+
+“The conventional wisdom was that weather prediction would saturate after a week or so” because the atmosphere is chaotic, Antonio Busalacchi, the president of the University Corporation for Atmospheric Research, told me. But “new areas of forecasting … really take an Earth-systems-science approach. It’s no longer just [modeling] the atmosphere by itself.”
+
+Understanding months-long events like El Niño, for instance, has allowed meteorologists to go beyond the seven-day forecast. Alley, the Penn State professor, says that he is awed by the new models. Well-studied features of Earth’s climate—like the temperate Gulf Stream in the Atlantic Ocean—emerge in computer models, even though developers have written code that only mimics basic physics. “You translate Newtonian physics into a sphere and get Coriolis [force],” he says. “There’s no line in the code that says, Please make a Gulf Stream. But it is the physics of the Earth, so when you spin it up, the Gulf Stream appears because it has to.”
+
+We are now surrounded by the products of these miraculous models. In 2009, a back-of-the-envelope study estimated that U.S. adults check the weather forecast about 300 billion times per year. Perhaps in all that checking we have forgotten how strange the forecast is, how almost supernatural it is that people can describe the weather before it happens. More than 1,000 years ago, the Spanish archbishop Agobard of Lyon argued that no witch could control the weather because only God could understand it. “Man does not know the paths of the clouds, nor their perfect knowledges,” he wrote. He cited the Book of Job for authority, which asks: “Dost thou know when God … caused the light of his cloud to shine? Dost thou know the balancings of the clouds … ?”
+
+It’s no slight to any whirlwind—arctic, divine, or otherwise—to point out that Americans now certainly do know the balancings of the clouds. There is a basic-cable channel devoted to the topic.

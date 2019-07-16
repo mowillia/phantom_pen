@@ -1,0 +1,71 @@
+Two days after her annual mammogram in 2018, Keely Aarnes got the call every woman dreads. She needed to return to the imaging center for another mammogram and an ultrasound. She might want to bring a family member along. “Of course, now I’m freaking out,” Aarnes says. “You go from zero to 60 in two seconds.”
+
+Aarnes returned to the imaging center and underwent the additional scans. She says the radiologist came into the room to discuss a potential abnormality—maybe nothing serious but, without a baseline image to compare, it was hard to know. Aarnes protested that she had, in fact, received two earlier mammograms at that imaging center in previous years. But the radiologist said no earlier radiology records for Aarnes were on file.
+
+“In that moment, I knew exactly what happened,” Aarnes says. Without her complete records, according to Aarnes, the radiologist didn’t realize that Aarnes had a benign abnormality—something so well documented in her medical history that Aarnes had not thought to mention it.
+
+Aarnes escaped the incident with an unnecessary jolt of radiation and an insurance hassle when her health plan rejected the claim for the extra images. At least she didn’t lose a healthy kidney.
+
+That’s what happened to a patient at Saint Vincent Hospital in Worcester, Massachusetts, in 2016. Two patients with the same name had kidney scans on the same day; their records got mixed up, prompting one of the patients to be misdiagnosed with a large tumor that required kidney removal. After the incident, the hospital said it was working to implement “additional verification steps” to prevent similar mix-ups in the future.
+
+These aren’t strange outliers; they are the everyday world of health care. Patient matching—accurately matching patients to their medical records—bedevils every hospital, doctor’s office, laboratory, and other health-care facility, risking patient safety and wasting money on unnecessary tests and procedures. There are two kinds of matching problems. The most dangerous is when records for different patients are mistakenly combined when, for example, two patients have similar names, leading to unnecessary kidney removals and other horrors. Much more common is the creation of so-called duplicate records for a single patient. That’s when Johnathan Michael Smith—known to his friends as Mike—is identified as Johnathan M. Smith in his primary-care doctor’s electronic health record; as Mike Smith in the cardiologist’s record; as Jonathan M. Smithe at the allergist’s office; and as Johna Smith at the laboratory.
+
+That mishmash is a symptom of America’s decentralized health-care system, in which facilities make up their own rules for how to collect patient demographics, such as name, date of birth, and address. The seriousness of the patient-match problem has come into focus with the advent of electronic health records (or EHRs), which, theoretically, should allow any physician to see Smith’s full medical history on the computer screen. Fixing the problem will require thousands of hospitals, physician’s offices, laboratories, and other facilities to agree on how Johnathan Michael Smith is identified. Without a centralized authority, this has proved impossible so far.
+
+The federal government, courtesy of the Health Information Technology for Economic and Clinical Health Act of 2009, spent more than $30 billion to incentivize physicians and hospitals to adopt electronic medical records. But each facility chose its own EHR vendor, the vendors were not required to use a standard format for collecting patient information, and each hospital or doctor’s office could choose which information it wanted to collect.
+
+In the half century since EHR technology tiptoed into health care, hospitals and doctors have used hundreds of vendors, each of which is constantly updating its technology, thereby creating new opportunities for inconsistencies. Today, on average, 18 percent of patient records within organizations are duplicates, according to a 2018 survey conducted by Black Book Market Research. And the match rates between organizations—for example, between a doctor’s office and the hospital—can be extremely low. Even when organizations share the same EHR vendor, variable data-entry protocols between organizations can drop match rates to as low as 50 percent.
+
+That means physicians are often unaware of information that patients assume they know: test results, diagnoses, medications, and more. When the Pew Charitable Trusts recruited consumers to participate in focus groups about patient matching, most were unaware that the problem even exists. But they quickly grasped how dangerous the situation can be, says Ben Moscovitch, Pew’s project director for health information technology.
+
+“The patients that we spoke to in our focus groups indicated that they wanted this problem solved,” he says.
+
+On its face, patient matching seems like a simple problem to fix, until you look closely.
+
+One root problem is that the health-care industry has been consolidating for years, and the pace of mergers is only speeding up. Take the example of Northwell Health. Already the largest health-care provider in New York State, Northwell is growing rapidly through acquisitions. Every time the system adds a new hospital, its medical records are integrated—and duplicates proliferate. Is the Raj Patel treated at the newly acquired hospital the same Raj Patel already on file at Northwell?
+
+Meanwhile, Northwell’s 23 hospitals and more than 700 clinics are creating new duplicate records every day. Anywhere from 70,000 to 100,000 people seek care at one of its facilities each month, and busy registrars often scramble to keep up. “When you get a very common name like Smith, Gonzalez, Rodriguez, Miller, you’ll call that patient up in the system and you’ll literally get 50 of them,” says Frank Danza, the senior vice president for revenue-cycle management at the health system. “Rather than try to figure out which of those 50 is the right one, [the registrar] will create a new case, knowing that there’s a way to reconcile it later on.”
+
+He’s not exaggerating. In 2016, Harris Health System in Houston reported that it had 2,488 records with the name Maria Garcia; of those, 231 shared the same birth date, suggesting that some of them refer to the same individual. But if those records have different addresses or telephone numbers, who can be sure? Harris also found nearly 250,000 cases in which two or more patients have the same first and last name; more than 76,000 times in which five or more patients share a first and last name; and nearly 70,000 instances of two or more patients sharing a first name, last name, and date of birth.
+
+In that head-spinning milieu, the College of Health Care Information Management Executives, the professional organization for chief information officers in the health-care industry, launched the National Patient ID Challenge in 2015, offering a $1 million prize to anyone who could develop a software tool that could match patient records with 100 percent accuracy. More than 350 individuals and teams registered to compete; more than two years later, the challenge was abandoned without a winner.
+
+Although 100 percent accuracy might be impossible, there are ways to improve the patient-match rate substantially, Moscovitch says. For example, hospitals could use data from outside sources—post-office change-of-address forms, for example—to help sort out records that appear to be duplicates. Or patients could receive a text message that would require a response, thereby verifying that a medical record is linked to the right person.
+
+Pew did a deep dive into these and other potential solutions. Its finding: None of the ideas is as easy as it looks at first glance.
+
+“All the opportunities we examined to address matching have benefits and drawbacks—and none of the opportunities alone can solve this problem,” Moscovitch says.
+
+Pew’s favorite idea is one that has been often suggested but never implemented nationwide: data standardization. If all health-care organizations collected certain pieces of demographic data in a uniform way, patient-match rates would increase significantly. Just a little bit of standardization could go a long way, according to Pew’s research. For example, if every facility recorded patient last names and addresses according to U.S. Postal Service standards (AVE instead of AV or AVENUE; LN instead of LANE), match rates would improve by more than 10 percent.
+
+Pew is also digging deeper into another idea: iris scans or some other unique identifier. It’s a more complicated fix that would take a lot of time to figure out and implement, but it could be worth the effort. “Overwhelmingly, the patients in our focus groups indicated that biometrics would be their preferred way to have their records matched,” Moscovitch says.
+
+In fact, a unique patient identifier—a single number, possibly linked to an iris scan or other biometric, that distinguishes one Liu Wang from every other Liu Wang in the country—might be the most logical solution to the problem. John Halamka, the chief information officer at Beth Israel Deaconess Medical Center, rattles off countries that have figured out a way to make that work: India, Israel, South Africa, and others.
+
+In Norway, each person is assigned an 11-digit number at birth. For example, 01-12-99-551-31 specifies a man born on January 12, 1899, who was the 55th person born in Norway that day. That number is used for many purposes, such as paying taxes, opening a bank account, or keeping track of all the individual’s medical diagnoses, procedures, and interactions with the health-care system throughout her lifetime.
+
+“In the rest of the world, it’s ‘How could you possibly coordinate someone’s care if you didn’t have a unique identifier?’” Halamka says.
+
+In the United States, however, it is essentially against the law for the government to invest in a unique health identifier. Although the Health Insurance Portability and Accountability Act required the adoption of such an identifier, Congress later squashed that idea, citing a risk to patient privacy.
+
+That prohibition is still in place, but in a bipartisan spending bill in 2017, Congress acknowledged that patient matching is a serious problem, and encouraged the Department of Health and Human Services to work with the private sector to figure out a fix. Some Congress members are expressing support for a unique identifier, and the government is peeking into the idea a bit. Considering the current political climate, however, Halamka isn’t getting his hopes up.
+
+“The idea that you could get the electorate to believe in having a government-assigned number to track you is just not a politically tenable idea in the U.S.,” he says. “We’re just too darned committed to our freedom.”
+
+Maybe not everybody. Two states, Nevada and Minnesota, have laws allowing the use of patient identifiers within their state borders. And Halamka thinks a voluntary unique-identifier program for individuals who want to make sure their medical records are matched is worth exploring.
+
+The next best idea, in his view, is a nationwide patient-matching strategy that gets hospitals, physicians, information-technology vendors, and everyone else approaching the issue in the same way.
+
+While they are waiting for a nationwide strategy, individual health systems are trying to fix their own patient-match problems.
+
+A little more than a year ago, Northwell had a list of 220,000 possible duplicate records and was creating about 700 possible duplicates a day. “We were taking on water and we were sinking,” says Keely Aarnes, the associate vice president of revenue-cycle management at Northwell. (Yes, Aarnes, the victim of the patient-matching fail at the radiology center, is an expert in patient-matching both personally and professionally.)
+
+In 2016, she led Northwell’s attack on that towering pile of possible duplicates, starting with a manual review of the “no-brainers”—duplicates that were obviously for the same person but needed someone to take a close look before hitting the merge key. To keep the backlog from rebuilding, the health system introduced “probabilistic matching,” checking newly created records against the 6 million patients in Northwell’s master patient index. Is Mary Smith who lives at 231 Crest Wood Ave. the same as Mary Smith who lives at 231 Crestwood?
+
+Next, Northwell introduced “referential matching,” in which patient records are matched against a proprietary database that includes identity information from cable companies, the U.S. Postal Service, and so forth for 350 million people dating back three decades.
+
+Most recently, Northwell started testing an artificial-intelligence technology that takes photos of patients and uses iris recognition to match them to their records. Harris Health System has also introduced biometric technology, in the form of palm-vein scans. Ideally, this will help ensure that all Maria Garcias are properly matched to their medical records—at least until they need to visit a different health system.
+
+
+
+This post appears courtesy of Undark Magazine.

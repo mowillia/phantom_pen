@@ -1,0 +1,19 @@
+The tech entrepreneur Ross McNutt wants to spend three years recording outdoor human movements in a major U.S. city, KMOX news radio reports. 
+
+If that sounds too dystopian to be real, you’re behind the times. McNutt, who runs Persistent Surveillance Systems, was inspired by his stint in the Air Force tracking Iraqi insurgents. He tested mass-surveillance technology over Compton, California, in 2012. In 2016, the company flew over Baltimore, feeding information to police for months (without telling city leaders or residents) while demonstrating how the technology works to the FBI and Secret Service.
+
+The goal is noble: to reduce violent crime.
+
+There’s really no telling whether surveillance of this sort has already been conducted over your community as private and government entities experiment with it. If I could afford the hardware, I could legally surveil all of Los Angeles just for kicks.
+
+And now a billionaire donor wants to help Persistent Surveillance Systems to monitor the residents of an entire high-crime municipality for an extended period of time––McNutt told KMOX that it may be Baltimore, St. Louis, or Chicago.
+
+McNutt’s technology is straightforward: A fixed-wing plane outfitted with high-resolution video cameras circles for hours on end, recording everything in large swaths of a city. One can later “rewind” the footage, zoom in anywhere, and see exactly where a person came from before or went after perpetrating a robbery or drive-by shooting … or visiting an AA meeting, a psychiatrist’s office, a gun store, an abortion provider, a battered-women’s shelter, or an HIV clinic. On the day of a protest, participants could be tracked back to their homes.
+
+In the timely new book Eyes in the Sky: The Secret Rise of Gorgon Stare and How It Will Watch Us All, the author Arthur Holland Michel talks with people working on this category of technology and concludes, “Someday, most major developed cities in the world will live under the unblinking gaze of some form of wide-area surveillance.”
+
+At first, he says, the sheer amount of data will make it impossible for humans in any city to examine everything that is captured on video. But efforts are under way to use machine learning and artificial intelligence to “understand” more. “If a camera that watches a whole city is smart enough to track and understand every target simultaneously,” he writes, “it really can be said to be all-seeing.”  
+
+The trajectory of this technology in the U.S. is still unwritten. It may depend on everything from public opinion to Fourth Amendment jurisprudence to restrictions that policy makers impose before wide-area surveillance is entrenched.
+
+According to KMOX, McNutt plans to consult with city leaders before starting his planned three-year project somewhere. Did his company retain video of the Baltimore officials who could approve or thwart its return? I’d wonder if I were them.

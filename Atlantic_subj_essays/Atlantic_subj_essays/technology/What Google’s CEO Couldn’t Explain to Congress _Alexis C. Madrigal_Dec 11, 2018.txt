@@ -1,0 +1,49 @@
+The parade of Silicon Valley figures to Capitol Hill continued today when Sundar Pichai, the CEO of Google, the core of the Alphabet holding company, went before the House Judiciary Committee.
+
+Like every other tech-company hearing, it was more hackneyed than illuminating, more painful than inspiring. Pichai is a polished executive who rose through Google’s ranks. He is not a boy king like Mark Zuckerberg or Jack Dorsey. You knew he’d do the hard work of preparing. It seemed likely he’d sail through the hearing.
+
+Yet as the hearing got under way, Pichai struggled to make sense of the questions that lawmakers put to him. Even friendly Democratic queries asking him to explain how search-engine rankings worked were met with hesitation and stilted rhetoric. If a rep said a keyword he was prepared for, he gave a scripted response, even if it was only sort of responsive.
+
+Part of the problem seemed to be that the Republican questioning came from so far outside the technocratic norms fostered at Google, a place where data rules. On the Hill, Republicans threw anecdotes about their searches at Pichai and asked him to explain what they had already determined was Google’s bias. “There are a lot of people who think what I’m saying is happening,” said Representative Steve Chabot, “and I think it’s happening.” Chabot may have been certain, but to a Googler, that is not evidence.
+
+Pichai never punched back when conservatives came at him. In the fieriest episode, Representative Jim Jordan forcefully questioned Pichai about a post-election memo from Eliana Murillo, the multicultural-marketing manager, concerning the company’s efforts to turn out Latino voters. In it, Murillo states, “We kept our Google efforts non-partisan and followed our company’s protocols for the elections strategy,” and goes on to explain, “We also supported partners like Voto Latino to pay for rides to the polls in key states (silent donation).” Jordan focused on Murillo’s use of the phrase “key states”—which he took to mean battleground states. In the face of the attack, Pichai faltered. He didn’t offer an alternative explanation of what the “key states” might be, such as states with large Latino populations. Instead, he referred to his employee’s own words as “allegations” and did not directly refute Jordan’s exasperated suggestion that Murillo lied in the memo.
+
+Google’s admittedly liberal employees, Republicans said, must, somehow, be tinkering with search rankings. “You’re so surrounded by liberality that hates conservatism, hates people who really love our Constitution and the freedoms it has afforded to people like you,” Representative Louie Gohmert of Texas told Pichai. “You don’t even recognize it. You’re like a blind man who doesn’t even know what light looks like.”
+
+Gohmert ran out of time before Pichai could answer. But he did get to respond to Representative Steve King’s questioning about the effect of Google employees’ generally liberal political leanings on search rankings.
+
+“Congressman, it’s an important question,” Pichai said, “but the way we rank our results is essentially on user feedback, and that’s what drives the iterative loop.”
+
+This is, more or less, true. It’s not the whole story, because Google uses a variety of factors, especially with news stories. But what people click on in search results—as well as their subsequent behavior—drives what the search engine shows to that user and others. Or, as my colleague Ian Bogost put it, “for Google, everything is a popularity contest.”
+
+King ignored the answer and went on to push for Google engineers’ social media to be examined and Google’s algorithms to be published, before threatening much more substantial regulation up to the “Teddy Roosevelt” antitrust option, then asking Pichai why a mean message about King showed up on his granddaughter’s iPhone, which is made by Apple.
+
+“Congressman, iPhone is made by a different company, and so, you know, I mean—” Pichai began.
+
+“It could have been an Android,” King replied, holding up a phone. “It was a hand-me-down of some kind.”
+
+“Uh, you know, I’m happy to follow up with you to understand the specifics,” Pichai said. “There may have been an app being used which had a notification, but I’m happy to understand it better and clarify it for you.”
+
+It was the kind of borderline-surreal, mostly useless exchange that typified the hearing. Serious issues with Google’s practices around the world got very short shrift. Democrats and Republicans alike tried to ask questions about Google’s prospective plans to build a censored version of its search engine that could be deployed in China. But none of them made use of the reported details about what’s known as Project Dragonfly, and Pichai answered their general queries simply: “We have no plans to launch in China,” he said.
+
+In response to privacy queries, he noted that Google valued privacy and had a variety of settings. Every abstract criticism could find no purchase on the executive or the company.
+
+And it’s not as if there aren’t real issues with Google’s role in the public sphere. Republicans concerns might have presented in an anecdotal, scattershot way, rife with grievance politics, but our now-cybernetic political system has real problems.
+
+Power has been concentrated in systems that few understand, and even fewer can explain. Opaque machines, built by a tiny number of humans, generate the informational landscape for everyone else. The fallback position for technology companies is that, as Pichai said over and over, they build “neutral” systems designed to deliver “relevant” results that are “useful” to users.
+
+But if my scare quotes don’t make it obvious: These are not uncontested concepts, nor do they mean the same things to everyone. Google’s system is not “neutral,” and the system’s structure—relying on hundreds of types of data—does not map onto the House Republicans’ perceived victimization.
+
+For example, House Republicans seemed to argue that if the outcomes of Google search results for political topics did not include an equal number of links to “right wing” and “left wing” publications, then that was unfair, and possibly open to governmental redress.
+
+Google, on the other hand, has said there are rules to rankings, and then different publications, sites, and stories are given attention according to their merits on that scale. Should a 14-source New York Times story published an hour ago be ranked lower than a Breitbart aggregation about the same topic published yesterday? Or, in reverse, should a Huffington Post write-through of a Wall Street Journal investigation get preferential treatment?
+
+As I’ve put it before: “[Google search results] might not be a ‘free’ marketplace of ideas, but it is a marketplace with fairly well-known and nonpartisan rules. If right-wing sites aren’t winning there, maybe Google isn’t the problem.”
+
+Here’s what Pichai cannot say: The “mainstream media” are far better resourced, and their ideals of informational quality are much closer to the ones that Google’s machine rankings prefer. Mainstream media organizations have tens of thousands of skilled journalists. The organizations that Republicans compare The New York Times to are a fraction of the size, have far less training in the field, and often don’t even aspire to journalistic norms. The right-wing-media ecosystem has grown tremendously, but—with important exceptions—not through the kind of fact-based reporting that mainstream media have long valued.
+
+Without the ability to simply lay that out, for obvious political reasons, Pichai could not realistically respond to the Republican attacks.
+
+While Republicans looked for a simple and dumb conspiracy of Googlers plotting against them, Google’s actual unrivaled corporate power—and halting attempts at creating principles to wield it—went nearly undiscussed. Serious policy changes barely got a breath of mention, in part because what would small-government, free-market ideology say the federal government should do to Google anyway?
+
+So another day, another hearing, another lost opportunity to truly reckon with the power of the tech companies in everyday life, in the United States and abroad.

@@ -1,0 +1,53 @@
+Self-driving cars are coming. Tech giants such as Uber and Alphabet have bet on it, as have old-school car manufacturers such as Ford and General Motors. But even as Google’s sister company Waymo prepares to launch its self-driving-car service and automakers prototype vehicles with various levels of artificial intelligence, there are some who believe that the autonomous future has been oversold—that even if driverless cars are coming, it won’t be as fast, or as smooth, as we’ve been led to think. The skeptics come from different disciplines inside and out of the technology and automotive industries, and each has a different bear case against self-driving cars. Add them up and you have a guide to all the ways our autonomous future might not materialize.
+
+Bear Case 1: They Won’t Work Until Cars Are as Smart as Humans
+
+Computers have nowhere near human intelligence. On individual tasks, such as playing Go or identifying some objects in a picture, they can outperform humans, but that skill does not generalize. Proponents of autonomous cars tend to see driving as more like Go: a task that can be accomplished with a far-lower-than-human understanding of the world. But in a duo of essays in 2017, Rodney Brooks, a legendary roboticist and artificial-intelligence researcher who directed the MIT Computer Science and Artificial Intelligence Laboratory for a decade, argued against the short-term viability of self-driving cars based on the sheer number of “edge cases,” i.e., unusual circumstances, they’d have to handle.
+
+“Even with an appropriate set of guiding principles, there are going to be a lot of perceptual challenges … that are way beyond those that current developers have solved with deep learning networks, and perhaps a lot more automated reasoning than any AI systems have so far been expected to demonstrate,” he wrote. “I suspect that to get this right we will end up wanting our cars to be as intelligent as a human, in order to handle all the edge cases appropriately. ”
+
+He still believes that self-driving cars will one day come to supplant human drivers. “Human driving will probably disappear in the lifetimes of many people reading this,” he wrote. “But it is not going to all happen in the blink of an eye.”
+
+Bear Case 2: They Won’t Work, Because They’ll Get Hacked
+
+Every other computer thing occasionally gets hacked, so it’s a near-certainty that self-driving cars will be hacked, too. The question is whether that intrusion—or the fear of it— will be sufficient to delay or even halt the introduction of autonomous vehicles.
+
+The transportation reporter and self-driving car skeptic Christian Wolmar once asked a self-driving-car security specialist named Tim Mackey to lay out the problem. Mackey “believes there will be a seminal event that will stop all the players in the industry in their tracks,” Wolmar wrote. ‘‘We have had it in other areas of computing, such as the big-data hacks and security lapses and it will happen in relation to autonomous cars.” Cars, even ones that don’t drive themselves, have already proved vulnerable to hackers.
+
+The obvious counterargument is that data lapses, hacking, identity theft, and a whole lot of other things have done basically nothing to slow down the consumer internet. A lot of people see these problems and shrug. However, the physical danger that cars pose is far greater, and maybe the norms developed for robots will be different from those prevalent on the internet, legally and otherwise, as the University of Washington legal scholar Ryan Calo has argued.
+
+Bear Case 3: They Won’t Work as a Transportation Service
+
+Right now most companies working on self-driving cars are working on them as the prelude to a self-driving-car service. So you wouldn’t own your car; you’d just get rides from a fleet of robo-cars maintained by Waymo or Uber or Lyft. One reason for that is the current transportation-service companies can’t seem to find their way to profitability. In fact, they keep losing insane amounts of money. Take the driver out of the equation and maybe all of that money saved would put them in the black. At the same time, the equipment that’s mounted on self-driving cars to allow them to adequately convert physical reality into data is extremely expensive. Consumer vehicles with all those lasers and computers on board would be prohibitively expensive. On top of that, the question of calibrating and maintaining all that equipment would be entrusted to people like me, who don’t wash their car for months at a time.
+
+Put these factors together and the first step in fully autonomous vehicles that most companies are betting on is to sell robo-car service, not robo-cars.
+
+There is a simple rejoinder to why this might not work. George Hotz, who is himself attempting to build a DIY driving device, has a funny line that sums it up. “They already have this product, it’s called Uber, it works pretty good,” Hotz told The Verge. And what is a robo-car ride if not “a worse Uber”?
+
+Bear Case 4: They Won’t Work, Because You Can’t Prove They’re Safe 
+
+Commercial airplanes rely heavily on autopilot, but the autopilot software is considered provably safe because it does not rely on machine-learning algorithms. Such algorithms are harder to test because they rely on statistical techniques that are not deterministic. Several engineers have questioned how self-driving systems based on machine learning could be rigorously screened. “Most people, when they talk about safety, it’s ‘Try not to hit something,’” Phil Koopman, who studies self-driving-car safety at Carnegie Mellon University, told Wired this year. “In the software-safety world, that’s just basic functionality. Real safety is, ‘Does it really work?’ Safety is about the one kid the software might have missed, not about the 99 it didn’t.”
+
+Regulators will ultimately decide if the evidence that self-driving-car companies such as Waymo have compiled of safe operation on roads and in simulations meets some threshold of safety. More deaths caused by autonomous vehicles, such as an Uber’s killing of Elaine Herzberg, seem likely to drive that threshold higher.
+
+Koopman, for one, thinks that new global standards like the ones we have for aviation are needed before self-driving cars can really get on the road, which one imagines would slow down the adoption of the cars worldwide.
+
+Bear Case 5: They’ll Work, But Not Anytime Soon 
+
+Last year, Ford announced plans to invest $1 billion in Argo AI, a self-driving-car company. So it was somewhat surprising when Argo’s CEO, Bryan Salesky, posted a pessimistic note about autonomous vehicles on Medium shortly after. “We’re still very much in the early days of making self-driving cars a reality,” he wrote. “Those who think fully self-driving vehicles will be ubiquitous on city streets months from now or even in a few years are not well connected to the state of the art or committed to the safe deployment of the technology.”
+
+In truth, that’s the timeline the less aggressive carmakers have put forth. Most companies expect some version of self-driving cars in the 2020s, but when within the decade is where the disagreement lies.
+
+Bear Case 6: Self-Driving Cars Will Mostly Mean Computer-Assisted Drivers
+
+While Waymo and a few other companies are committed to fully driverless cars or nothing, most major carmakers plan to offer increasing levels of autonomy, bit by bit. That’s GM’s play with the Cadillac Super Cruise. Daimler, Nissan, and Toyota are targeting the early 2020s for incremental autonomy.
+
+Waymo’s leadership and Aurora’s Chris Urmson worry that disastrous scenarios lie down this path. A car that advertises itself as self-driving “should never require the person in the driver’s seat to drive. That hand back [from machine to human] is the hard part,” Urmson told me last year. “If you want to drive and enjoy driving, God bless you, go have fun, do it. But if you don’t want to drive, it’s not okay for the car to say, ‘I really need you in this moment to do that.’”
+
+Bear Case 7: Self-Driving Cars Will Work, But Make Traffic and Emissions Worse
+
+And finally, what if self-driving works, technically, but the system it creates only “solve[s] the problem of ‘I live in a wealthy suburb but have a horrible car commute and don’t want to drive anymore but also hate trains and buses,’” as the climate advocate Matt Lewis put it. That’s what University of California at Davis researchers warn could happen if people don’t use (electric-powered) self-driving services and instead own (gasoline-powered) self-driving cars. “Sprawl would continue to grow as people seek more affordable housing in the suburbs or the countryside, since they’ll be able to work or sleep in the car on their commute,” the scenario unfolds. Public transportation could spiral downward as ride-hailing services take share from the common infrastructure.
+
+And that’s not an unlikely scenario based on current technological and market trends. “Left to the market and individual choice, the likely outcome is more vehicles, more driving and a slow transition to electric cars,” wrote Dan Sperling, the director of the UC Davis Institute of Transportation Studies, in his 2018 book, Three Revolutions: Steering Automated, Shared, and Electric Vehicles to a Better Future.
+
+It would certainly be a cruel twist if self-driving cars managed to save lives on the road while contributing to climate catastrophe. But if the past few years of internet history have taught us anything, any technology as powerful and society-shaping as autonomous vehicles will certainly have unintended consequences. And skeptics might just have a handle on what those could be.

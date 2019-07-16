@@ -1,0 +1,67 @@
+In 2001, Alice Gorman returned home after a long day of work, grabbed a cold beer, and settled into a chair on the veranda of her house in Australia. She lifted her head and stared at the night sky. Countless milky-white stars glittered in the velvety darkness. Her mind began to churn.
+
+“I just started to think about the fact that there’s a lot of space junk up there, and wondered what its heritage value was,” Gorman recalls.
+
+It sounds like an unusual thought, but not for Gorman. Gorman is an archaeologist. Her job is to examine artifacts and determine their place in human history. Earlier that day, Gorman had been at a field site in Queensland, inspecting millennia-old relics used by Aboriginal peoples.
+
+After that evening on the veranda, Gorman began researching the heap of objects people have lofted above Earth—satellites, telescopes, space stations. She read about gravity and the natural forces that engineers use to deliver objects to space and keep them there. Perhaps, she wondered, the products of the space age deserve the same kind of care and commemoration as relics of the ancient past. Perhaps they, too, could be preserved in thoughtfully curated museum exhibits—not on Earth, but right there in space.
+
+Imagine that experience: Future generations, equipped with advanced spacefaring technology, blast off from the planet and head toward an abandoned space station. Their spaceships, propelled by fuel we can only imagine and coated in radiation-blocking material we can’t yet design, match the speed of the spacecraft and sidle up to it. The smooth voice of a museum curator fills the capsule. The passengers listen as she speaks, retelling the story of the space station, the nations that built it, and what happened to them all those years ago.
+
+When the tour is over, the sightseers zip over to a museum building floating nearby, dock their spacecraft, and clamber inside. They grab a cup of hot chocolate from the café and browse the gift shop, wondering which trinket—space junk fragment?—will best commemorate their experience.
+
+As it happens, commercial companies around the world are actively thinking about how to manage the thousands of objects in low-Earth orbit. In September, a British satellite unleashed a net and snared a piece of space debris 180 miles above Earth, the first demonstration of its kind. The goal of such technology is to remove defunct hardware and reduce the risk of collisions between objects, which produce even more debris. But the technique could be reconfigured to protect objects instead. Future satellites could capture aging spacecraft and then drag them up into higher orbits, where the pull of Earth’s gravity is weaker. There they will stay, safe from a fiery plunge into the planet’s atmosphere, until we develop the technology to visit them.
+
+Unlike Earth, outer space is quite good at preserving human-made objects. It has no humid air to warp materials or encourage mold, no threats of natural disasters or accidental fires, no pesky teenagers to scribble graffiti.
+
+Sure, cosmic radiation—the unseen, constant barrage of energetic particles from the sun and beyond—can degrade even the hardiest metals after long-term exposure. Strikes from micrometeoroids, tiny space rocks that travel at high speeds, can also pack a punch. But the cosmic damage to spacecraft is minimal. After all, they were built to withstand the extreme conditions of space.
+
+But before we can think about building space museums, we should determine which of these objects we actually want to preserve.
+
+There are a few obvious candidates: the Hubble Space Telescope, which has spent nearly three decades peering into the far reaches of the universe and returning exquisite photographs of the first stars and galaxies. The Kepler telescope, which found thousands of planets, including some that could support life, beyond our solar system, before it ran out of fuel last month. The International Space Station, humankind’s home away from home, which may someday be abandoned and crashed into the ocean, like other space stations that ran their course.
+
+The ISS is a particularly interesting artifact; it will be remembered not only as a masterpiece of engineering, but as a rare symbol of cooperation among rival spacefaring nations.
+
+“I think historians might look back at the post–Cold War era and look at the ISS and say, you know what, actually that was a pretty amazing thing they managed to make happen,” says Stuart Eves, an engineer and an advocate for the creation of space museums. Eves previously worked at Surrey Satellite Technology, the company that manufactured the satellite that lassoed space debris earlier this fall.
+
+The list should also include the earliest versions of the satellite technology that the world relies on today. There’s Vanguard 1, the first solar-powered satellite, launched in 1958. Telstar 1, the first active telecommunications satellite, in 1962. Syncom 3, the first of hundreds of communications satellites, which thrilled Americans when it brought the Tokyo Summer Olympics to their televisions, in 1964.
+
+Eves likened the narrative of these advancements to museum exhibits of early transportation. “You can visit terrestrial, conventional museums and you can see old cars, planes, trains, boats,” he says. “It would be a real shame if some of the really iconic spacecraft that have contributed enormously didn’t have some sort of permanent record.”
+
+It’s too late for some objects, such as Sputnik, the first-ever satellite in space, which plummeted back to Earth several months after the Soviets launched it in 1957. But many historic firsts are still ahead; Bangladesh launched its first satellite just this year.
+
+The moon offers a cornucopia of artifacts for space archaeologists to consider. Tranquility Base, the site of the Apollo landing, is akin to the slab of 3.7-million-year-old volcanic ash in Laetoli, Tanzania, that preserved the footprints of early humans who stood upright and walked on both legs, says Michelle Hanlon, the co-founder of For All Moonkind, a volunteer organization of lawyers who specialize in space law. Tranquility Base is the “cradle of our spacefaring civilization,” Hanlon says.
+
+According to a NASA catalog, dozens of human-made objects from the Apollo era remain, from scientific equipment and batteries to nail clippers and “defecation collection devices.” In the last decade, China, India, Japan, and a consortium of European nations have sent spacecraft to the moon and deliberately crashed them into the surface when their missions ended, scattering pieces of hardware across the regolith.
+
+Under current regulations, a space museum brimming with relics from different cultures would be nearly impossible.
+
+According to the United Nations Outer Space Treaty, the international principles that have governed the use of space since the late 1960s, space is for everyone. “Outer space, including the moon and other celestial bodies, is not subject to national appropriation by claim of sovereignty, by means of use or occupation, or by any other means,” the accord states. On top of that, all objects sent into space remain the property of the nations that launched them. On top of that, as the number of objects in low-Earth orbit swelled in the last decade, UN officials began advising satellite operators to dispose of their satellites after 25 years.
+
+Some groups, like For All Moonkind, are trying to foster some agreement in the space community. Hanlon and her team of space lawyers have spent the past year lobbying lawmakers and CEOs alike about the need for a global treaty on space heritage. So far, she has received formal or verbal reassurances from several commercial companies seeking to send robotic missions to the moon in the next few years because, well, could you imagine if one of them crash-landed on Neil Armstrong’s footprints? The effort has been less successful with national governments, Hanlon says.
+
+“We haven’t agreed to a space treaty since the ’60s, so it’s not going to be easy,” she says. “Ultimately, we would see a convention on universal heritage and outer space, something that can travel with us as we become a truly spacefaring species.”
+
+Let’s say Hanlon gets her wish, and the technology required to assemble the first space museum, at long last, exists. How would we build one?
+
+The easiest location may be the moon, where artifacts are not hurtling through space at 17,500 miles per hour. Hanlon envisions an extensive cable-car system that transports tourists across historic sites, from the site of Luna 2, the Soviet spacecraft that landed in 1959, to assorted Apollo bases established in the 1960s and 1970s. “There’s no danger of contaminating or disrupting the site at all, because you’re floating over it,” Hanlon says.
+
+An off-world museum presents bigger challenges. In the space above Earth, curators must contend with some significant natural forces. Home to a range of objects from communications and military satellites to the ISS and Hubble, this region is not a perfect vacuum. Low-Earth orbit contains enough air particles to produce some drag and slow down objects. Over time, the atmospheric drag can reduce the speed so much that the objects begin to feel the tug of Earth’s gravity.
+
+Left untouched, these objects will drift closer and closer to the planet until they hit the atmosphere and burn up. Some spacecraft, such as the ISS, can periodically lift themselves to higher altitudes, but many satellites lack the propulsion systems to do the same. Eventually, most of what goes up must come down.
+
+To avoid this fiery fate, satellites could latch onto aging spacecraft and drag them into higher orbits, extending their lifetimes by hundreds of years. Future generations, equipped with more advanced spaceships, could hop from one object to another, like a space safari. Perhaps, when they reach a long-empty ISS, they could step inside. Eves, the satellite engineer, imagines curators installing long plastic tubes that unfurl throughout the station like tentacles. Tourists would glide through and inspect the provincial habitat that kept their ancestors alive in space. And keeping visitors confined to tubes would eliminate the need for a Please don’t touch sign.
+
+For a more conventional museum arrangement, satellites could herd spacecraft into specific locations in space known as Lagrange points, where natural forces cooperate to keep objects in stable orbits. Engineers have already used one of these points, known as L2, located about a million miles from Earth. In 2001, NASA launched a probe designed to study the leftover radiation from the Big Bang to this spot. The spacecraft kept its back to the sun and its front to deep space, a configuration that provided an unobscured view of the cosmos. The James Webb Space Telescope, the scientific successor to Hubble, will reside in L2 when it launches in 2021.
+
+Objects in L2 would be safe from Earth’s gravitational tugs. Curators could group artifacts here based on certain themes and eras, or lump everything all together.
+
+Gorman, the space archaeologist, says she has mixed feelings about this kind of organization. It forces curators to decide whether they want to protect artifacts where they are, as they would with an ancient monument on Earth, or install them in a museum exhibit far from their original homes. “If you take Vanguard 1 out of its orbit, then you’ve taken away something from its cultural value,” she says.
+
+The clustering of spacecraft at distant points could have a rather unusual effect on the space environment. The fewer objects in orbit around Earth, the smaller the risk of collisions. Space museums may find support among researchers who believe this region is growing dangerously crowded.
+
+“One big collision at geostationary orbit could actually inconvenience us enormously,” says Brian Weeden, a space-policy expert at the Secure World Foundation, a nonprofit group that promotes peaceful uses of space. “The case for curating some of the old satellites would actually perhaps alleviate that problem a little.”
+
+Regardless of location, Gorman thinks space museums shouldn’t charge admission. “By the time you’ve been able to afford to go up into space and visit the museum orbit or the actual spacecraft, you’ve probably already spent a reasonable amount of money,” she says. “It’s a bit more like a national park—once you get to the park, you don’t have to pay more money to experience the landscape.” As for how the museums will make a profit with this business model—well, that’s less fun to daydream about.
+
+If the idea of a space museum still seems too unrealistic, consider that humankind went from launching its first satellite into the space above Earth to landing a rover on Mars in just 40 years. Perhaps in the next 40 years, humans will find themselves surrounded by favorable conditions for space travel—money, political will, and technology—and, at last, leave the comfort of the planet’s orbit to travel across the solar system. Maybe on their way out, astronauts will swing by the local museum, located a million miles from Earth. They’ll take a quick spin through an exhibit or two, buy some chalky astronaut ice cream, and blast off into the unknown, taking with them the memory of the ancient spacecraft that paved the way for their own.

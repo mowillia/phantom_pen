@@ -1,0 +1,104 @@
+There was a time when Facebook was small. After all, it only existed in one place on Earth: Harvard University, where Mark Zuckerberg was a sophomore. He lived in Kirkland House, a square of brick buildings arranged around a courtyard, one side hemmed in by JFK Street. For all the tendrils that Facebook now has snaked across the globe, it feels strange that one can pinpoint the moment it all began: 6 p.m. on February 4, 2004, as the temperature dipped below freezing on another day in Cambridge.
+
+Within weeks, the social network would spread across the school; within months, the Ivy League. High schoolers arrived the next year, then college students across the globe, and finally anyone who wanted to in September 2006. Four years after it was founded, Facebook hit 100 million users. Four years after that, 1 billion. Now 2 billion people use Facebook every month. That’s 500 million more users than the total number of personal computers in use around the globe.
+
+Sarah Goodin was there in Kirkland House too. She was a sophomore like Zuckerberg, and friends with Chris Hughes, another one of the site’s co-founders. So, shortly after it launched, Zuckerberg emailed her and asked her to try his new thing. As far as anyone can tell, she was the 15th total user. “Supposedly, I am the first woman on Facebook,” Goodin, now an exhibit developer and interactive designer at the California Academy of Sciences, told me.
+
+She can’t quite remember her first impression of the site. “It was kind of a nonevent. He made this kind of stuff and we were buddies ... so, I thought, I’ll try it,” she said. “I don’t remember the time I first logged in being like, Oh, wow!”
+
+But something did happen. She got a bunch of her friends to sign up. I don’t know for sure, but she was probably how I ended up on Facebook, because I, too, was in Kirkland House and was friends with Sarah Goodin.
+
+There was no photo sharing, no News Feed, no apps, no games, no events. TheFacebook, in those first few months, was merely a database of profile pages of other people at Harvard. It combined the insularity and intimacy of an elite college with the user-generated network-effect frenzy of what was just beginning to be called Web 2.0. I’d been on the internet for more than 10 years at that point, and I’d never seen anything spread like that, not even Harvard’s anonymously run local file-sharing movie server, Llama, or its other, less couth file-sharing server, which distributed porn. TheFacebook conquered Harvard immediately and completely, and then it did precisely the same thing over and over again, whether it was with fishermen in Tamil Nadu or bus drivers in Ontario or high schoolers in Sarasota. Everything about Facebook has changed from then to now, except Mark Zuckerberg and the network’s ability to spread.
+
+Let’s stipulate that TheFacebook’s origins are contested by multiple people—famously, the Winklevosses, and less famously, Aaron Greenspan, another Harvard programmer. Local bulletin-board systems (BBSs) and early blogging approximated some of its pleasures. AOL Instant Messenger buddy lists and status updates made a kind of ambient social awareness de rigueur for young people in the late ’90s and early ’00s. Online communities—from The WELL to BlackPlanet to SixDegrees to Friendster to Myspace—predated Facebook by years. And competing systems existed at other universities, including Greenspan’s houseSYSTEM at Harvard and Columbia’s CUCommunity. To take a line from Mark Zuckerberg’s IM conversation with Greenspan discussing his dispute with the Winklevosses: “apparently the winklevoss twins are spreading that i took the idea for thefacebook from them,” he wrote, “as if there was an idea haha.”
+
+And that’s actually right: The idea of the social network clearly was not important. Its features (profiles, statuses, a photo) were basically generic—implemented by scores of other companies—by the time the site was founded. What mattered about TheFacebook was how it worked, which is to say, how it made its users feel and behave.
+
+Fifteen years later, Harvard students and faculty still remember those early months watching the new network generate a new kind of reality, one where your online activity became permanently entangled with your offline self, where a relationship wasn’t real unless it was posted to Facebook, where everyone was assumed to have an online presence.
+
+This was the epicenter, even if we had no idea how big the quake would be.
+
+The computer-science professor Harry Lewis was Harvard College’s dean from 1995 until June 2003. He’d had Mark Zuckerberg in class, and had seen the young man’s attempts to build interesting things on the web. In late January 2004, a few days before Facebook was incorporated, he received an email from Zuckerberg. The subject line was “6 Degrees to Harry Lewis.”
+Zuckerberg had scraped the Harvard Crimson archives and created a network map connecting people who’d been mentioned together in Crimson stories. As Lewis was the dean, he appeared in the paper more than anyone else. So, Zuckerberg wanted to know, would it be okay if he starred as the central node in this network, so anyone could see how they were connected to Lewis?
+
+“I had a very interesting reaction,” Lewis told me recently. “I told him, ‘It’s all public information, but there is somehow a point at which aggregation of too much public information begins to feel like an invasion of privacy.’ So ‘invasion of privacy’ was actually in the very first email that I wrote to Mark Zuckerberg in 2004 in response to the first glimpse of the prototype.”
+
+Lewis liked Zuckerberg. “I wrote back, ‘Sure, what the hell, seems harmless,’” he said. “And then I went on and nudged him, in true professorial style, about the inconsistencies and things that looked like bugs and [how] he hadn’t implemented each thing correctly.”
+
+“Six Degrees to Harry Lewis” was a toy, but Zuckerberg was already looking at doing something real. What he decided to do was incredibly simple: make an online version of Harvard’s paper Facebooks, most famously the one handed to all incoming students, the Freshman Register, a book containing photos of one’s classmates along with their dorm residences—called “houses” at Harvard—and high schools. Other attempts had been made at creating an online version of it, one by Greenspan and others within individual houses.
+
+Charlie Cheever was one of the first Harvard alumni to join TheFacebook, and eventually one of its key early employees. By 2004, he’d already graduated and gone to work at Amazon in Seattle. But he’d worked on the Crimson website while in school and still read the paper, which announced that the site had launched. Why was he reading the old school paper? “It’s hard to remember this, but there just wasn’t really a lot of stuff on the internet.”
+
+But now there was TheFacebook. “You could edit your profile yourself, and the whole school was on it,” Cheever says. Instead of reading the pages of the paper, you could read the pages of your classmates. And that was what people did, clicking through profile after profile.
+
+TheFacebook was a stunningly simple product. “It was really just a directory,” recalled Meagan Marks, another Harvard student who became an early Facebook employee in 2006. “Before [October 2005], you could only even have one picture.”
+
+“There was the physical Facebook,” Goodin said. “This was an enhanced digital version of that. People understood the utility of a Facebook. That core functionality enabled it to spread, and the more that it spread, the more that it was capable of spreading.”
+
+So what did people do now that they had the long-awaited online Facebook? Most of the people I talked with couldn’t really remember. “I don’t remember anything like ‘I’m going on Facebook to do this,’” Teddy Wright, another Kirkland resident, who is now a teaching associate at the University of Washington School of Social Work, told me.
+
+“I remember staring at Facebook in my Harvard dorm room on my giant laptop (before wifi was widespread, back when you still had to be plugged into an Ethernet cable to get online) totally perplexed as to why this site was appealing,” Laura Weidman Powers wrote in an email to me.
+
+Mostly, it seems, people went on Facebook to do nothing. But it was the best way of doing nothing.
+
+They also poked people, which no one ever understood, even way back at the beginning. “My friends and I poked each other a few times to see what the appeal was, and I never got it,” said Weidman Powers, who went on to co-found Code 2040, a nonprofit dedicated to diversifying the technology industry. “However, I do have a friend who met his wife via Facebook poke, so go figure.”
+
+By far the most cited common use was to check on someone’s relationship status, which now suddenly posed a new problem for couples. Defining or ending a relationship meant choosing a new answer in a dropdown; one of life’s enduring human messes now required an answer that a computer could understand.
+
+But there were two features, long since disappeared or buried in obscurity, that were themselves useful, and that hinted at the power the data underlying the service could hold. The first was that you could see who else was in your classes. A new information layer now sat over the top of every class you were in. See someone interesting? Need help with homework? Now there was an entirely new route to reaching people you had class with. The second was that if you listed a band name—for example, Godspeed You! Black Emperor—as an interest in your profile, and then clicked on the link that generated, you would see everyone who had listed that as a favorite band. Any book or movie or artist suddenly had a visible network of people attached to it. “It struck me as a very efficient way to find communities of common interest around these pretty quickly, and this was a novel and very useful feature,” John Norvell, an anthropologist who was teaching at Harvard that year, wrote in an email.
+
+And if you think about how Instagram hashtags work now, it’s not too far off from that very early vision. Courses showed the power that layering Facebook on top of existing real-life groups of people could have. And the other feature showed an enduring truth about social media: Liking certain cultural products and hobbies put you in a particular social grouping, according to the machine, if nothing else.
+
+Norvell ended up thinking a lot about TheFacebook that year, as he’d just developed a new course called “Life Online,” which he taught for the first time the very semester TheFacebook launched. He lurked on the site and watched his students take to it.
+
+“Facebook seemed to take over so fast,” Norvell said. “Expressions like ‘a relationship isn’t official until it’s Facebook official’ started to be heard right away.”
+
+Heather Horn, now an editor at The New Republic, was an incoming freshman in the fall of 2004. Many of her classmates had signed up over the summer, so they never experienced a day on campus without Facebook. “Pretty continually through the next four years, I had people berate me that my three-year, rock-solid relationship wasn’t listed on Facebook,” Horn told me. “I remember my roommate’s boyfriend thought I must not be serious about my boyfriend, if he wasn’t listed on Facebook. I remember thinking that was just bananas.”
+
+Of course, then as now, the romantic possibilities of TheFacebook were not limited to merely listing or checking a relationship status. Most people’s stories about the early service revolve around what Wright called “the flirtation machine.” People were thirsty, and here was the perfect blue oasis. “Facebook seemed like someone had taken the high-school game of deciphering people’s mental statuses and crush pursuits from AOL instant-messaging statuses and said, ‘How do we make this bigger and more all-encompassing?’” Horn said.
+
+How exactly to approach someone on Facebook, though, was not entirely settled. Katie Zacarian was a senior who would go on to work at Facebook. She remembered a roommate calling her in to look at her computer screen. A fellow student had sent a message to her that said something like “Hey, you’re cute. Would you like to meet up?” But who was this guy? Nobody knew him. “We pored over his profile to [try] to figure out who he was and where she could have possibly collided with him on campus,” Zacarian, now an environmental-conservation technologist, said. “Being asked out by someone you’d never met nor ever seen in person was completely new to us ... In February 2004, it was hard for us to believe that a photo and a few things you wrote about yourself would prompt a guy to ask you out and, at first, seemed sort of weird.” (In the end, the roommate and messenger had a single, awkward date.)
+
+Though cruising classmates was an embarrassingly common pursuit, TheFacebook wasn’t all dating. Norvell, one of the few faculty members with a profile in the early months, observed all kinds of interesting behavior from the students in and outside his classes.
+
+“I remember that people took Facebook features like ‘liking’ and the various components of the profile back then to do creative and funny things with them, tons of inside jokes and multiple layers of irony,” Norvell recalled. “My own students wrote whole papers on what a ‘like’ could mean. I think all that took the Facebook developers by surprise, and they struggled to keep up with it. They expected much more literal uses.”
+
+In other words, the culture of TheFacebook exploded in technicolor.
+
+Thirteen days (13!) after launch, the future New Yorker editor Amelia Lester began a Crimson column about TheFacebook, joking, “For the uninitiated—all three of you ...” She then went on to detail a remarkably complete critique that could be applied to Instagram 2019 as well as TheFacebook 2004: “Just about every profile is a carefully constructed artifice, a kind of pixelated Platonic ideal of our messy, all-too organic real-life selves who don’t have perfect hair and don’t spend their weekends snuggling up with the latest Garcia Marquez.”
+
+In a sense, everybody became Harry Lewis, the central node in the network. Facebook induced new behaviors along with the new pressures on the self. People became addicted, thirsted for the most friends possible, registered wry criticisms about the meaning of “friending,” and conscientiously objected to joining.
+
+And if it’s hard to peg real three-dimensional people as one thing or another, TheFacebook not only made this possible, it practically required it. “Online social networks prove endlessly fascinating as long as I continue to subconsciously sort everyone I know into neat little categories,” Lester wrote.
+
+But if the downsides of this new thing were obvious to the critical eye, what made people keep coming back and back and back? Lester had a theory there, too. “There are plenty of other primal instincts evident at work here: an element of wanting to belong, a dash of vanity and more than a little voyeurism probably go a long way in explaining most addictions (mine included),” she wrote. “But most of all it’s about performing—striking a pose, as Madonna might put it, and letting the world know why we’re important individuals. In short, it’s what Harvard students do best. And that’s why, wildly misleading photos aside, it would be difficult if not near-impossible to go cold turkey in the face of thefacebook.com.”
+
+As Lester’s column implies, within weeks, Facebook’s first users had—like water rushing down a hill—come to occupy every position that it was possible to have on TheFacebook. So many of the behaviors that have come to dominate social media were visible right then, in miniature. Weeks in, Goodin noted, there were already “the ironic users,” who gave funny answers to the profile prompts and listed themselves as married to friends or roommates.
+
+Almost everyone I talked with had a hard time remembering how the world was before this all happened. In particular, there is so much information about real people online now. Back then, information that linked a real physical person with their digital manifestations was sparse.
+
+“That was really the first time that people ever made an account with their real name on it,” Cheever says. Before TheFacebook, “pretty much everything was like ‘Username: mds416.’ It was considered unsafe to use your real name. Cybervillains would come to your house and kidnap you.”
+
+But TheFacebook borrowed some of the intimacy of the college environment to make this fairly radical step away from privacy feel safe. So people at Harvard, and then elsewhere, started giving more and more of themselves to the web.
+
+“We were so open. For a while, anybody who ever went to Harvard could see whatever I posted,” said Natalie Bruss, a partner at the venture firm Fifth Wall, who was also in Zuckerberg’s class.
+
+And so it went from school to school, establishing a new norm of how to be on the internet that was firmly enmeshed with how to be in college. An early marketing innovation, according to Marks, was that the company’s founders created demand at a school before launching there. “It meant people were dying to be on Facebook, so it launched with this high density, and that brought all this engagement early on,” she said.
+
+A launch of TheFacebook created a frenzy. Who had time to think about the theoretical relationship between one’s online persona and the offline self? Later, there would be the real-names policy and Cambridge Analytica and the creeping understanding that we have all given the most sophisticated advertising mechanisms in the history of the world all the information they need to sell us things. Kids would get smart and switch back to usernames and private, ephemeral messaging platforms. A new, savvier generation is creating new norms. That’s good, but that’s not the same thing as returning to the world I took for granted until February of my senior year.
+
+To watch these dynamics play out on ever-larger scales has been disorienting. The world should not be this perfectly fractal. And normally, it is too huge to comprehend: the millions of ways to live and talk and eat, the forgotten corners, deserts, farmers, bayou dwellers, towers in Singapore, welders in Accra, vaqueros, fly-fishing guides, hole-punch manufacturers, rare-earth-mineral-mining children, chocolatiers, shamans, and painters. But with Facebook, my dorm became coextensive with the world. This whole jumble of 2 billion people share something now, this thing called Facebook. There is almost nowhere on Earth that you can definitively say: There is no Facebook here and Facebook has changed nothing. Even the uncontacted indigenous people of the Amazon have gone viral.
+
+I have wondered through the years whether another group of people could have accomplished this so quickly and so thoroughly. Was Mark Zuckerberg the only person who would have made this particular mark in the world?
+
+And should I have seen it in him? When I was passing him on the way to a late-night bagel or some popcorn chicken, should he have glowed, predestined, charmed?
+
+He really was just a guy. Cheever, a serious ultimate-Frisbee player, tells a funny story about Zuckerberg. He had met a great ultimate-Frisbee player, Mark Zuckerman, whom he wanted on the team, but at a tournament, Mark Zuckerberg signed up to play too. It was a windy day, and as Zuckerberg warmed up with a teammate, a gust of wind sent a Frisbee crashing into his nose. Bleeding, the poor freshman had to be driven to the hospital.
+
+“So for two years of my life, anytime someone said ‘Mark Zuckerberg,’ I thought, Do you mean bizarro Mark Zuckerman? He was a joke character,” he said. “Then all of a sudden, here he is appearing in my Crimson newspaper.”
+
+And that’s probably the best way to explain how watching Facebook take over the world feels to me. One minute, people are sending jokes about pokes and making detailed Friendster comparisons. The next, the thing has become central to all information flow and geopolitics.
+
+“I often think about, you know, obviously Mark didn’t know it was gonna go this way. I still have his business card, from when his title was ‘I’m CEO, Bitch,’” said Goodin, the first woman on Facebook. “What’s weird is that it seemed like this kind of fun thing, and all of a sudden it’s a utility and it’s warped into something else that is not that great because of the way it has transformed social interaction.”
+
+If it feels like a discontinuity, however, one thing has been constant from February 4, 2004, to today: Nothing in the world is better at getting people to put their selves on the internet. And there’s nothing more interesting than other people.

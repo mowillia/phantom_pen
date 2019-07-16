@@ -1,0 +1,31 @@
+The problem began mysteriously. I switched on my Samsung Smart TV to watch the Warriors game, and after about 20 seconds, the CBS News app switched itself on for a few seconds in a small rectangle in the upper left corner. Then my TV crashed, which is a thing TVs can do now, and the screen went dark.
+
+This was particularly confusing because I’d never watched the CBS News app. I’d never installed the app, nor did I even know it was on my TV.
+
+I tried the obvious things. I turned off the TV and turned it back on. Same problem. Unplugged, replugged. Happened again. Reset the cable box just to try it. Again. Made the sign of the cross. Checked for software updates for the television. Threw my phone. Screamed into the abyss. But. It. Just. Kept. Happening.
+
+Finally, I turned to the consumer micro-solidarity available in the support forums. Based on the outraged responses of other Samsung TV owners, the issue began sometime in September. No one knows how to fix it. And because of a deal that Samsung struck with app makers, you can’t delete the app from your own TV.
+
+Welcome to the exciting new world of cord cutting! In order to provide the beloved over-the-top experience—or OTT, as it’s known in industry parlance—televisions must now connect to the internet, run apps, and act as platforms for video services such as Netflix, Hulu, Prime Video, YouTube, and the forthcoming Disney+. Instead of watching through a specialized second box, like Apple TV or Roku, just hit three buttons and you’re watching Octonauts.
+
+Analysts estimate that smart TVs now make up about 70 percent of all new TV sales. The television is no longer a mere display​​​​​​, but a full-fledged computer, for good and for ill. And what is a computer now? On the one hand, it’s something companies sell to consumers for money. But after you’ve purchased an internet-connected device of any kind, it begins to generate information that the company can use itself or sell to third parties. Earlier this month, Vizio’s chief technology officer, Bill Baxter, told The Verge that the reason his company can sell TVs so cheaply now is that it makes up the money by selling bits of data and access to your TV after you purchase it. Baxter called this “post-purchase monetization.”
+
+“This is a cutthroat industry,” he said. “It’s a 6-percent-margin industry, right? … The greater strategy is I really don’t need to make money off of the TV.”
+
+This is why your TV was so cheap. But it also changes the relationship the TV makers have with their customers. Consumers are no longer their sole revenue stream, but one among several. CBS and Netflix are more important to their business success than you are.
+
+Mix in two other new problems.
+
+First, TV makers didn’t need “customer support” before in the way that, say, Comcast did and does. If your TV was broken, it needed a physical repair, not digital support. Call a guy.
+
+Second, smart-TV app development is a lot more complicated than making software for phones. Dozens of companies provide TVs with their software now. My Samsung, for example, uses the Tizen operating system, which is a form of Linux and related to a bunch of other pieces of software you’ve never heard of: MeeGo, LiMo, SLP, and Bada.
+
+Of course, my particular problem is not with the technology of Tizen; the rest of the apps work just fine. So, as one Samsung support person suggested, “you will want to contact the CBS All Access developers for assistance.”
+
+This response caused a chorus of boos from people on the forums because of the fact that Samsung itself prevents users from deleting the app, thanks to a business relationship with CBS. “Respectfully, that’s a ridiculous and completely unacceptable response. As other users experiencing this issue have already noted, if the issue is an application that is forced upon owners of Samsung Smart TVs that cannot be removed/deleted, then this is absolutely Samsung’s responsibility to address and resolve,” one frustrated owner said. “The company has now been on notice of the issue for months, and apparently done nothing.”
+
+Besides, there is no direct way to get in touch with the app’s developers. It’s not clear from the public record whether CBS developed the app in-house or outsourced it to a developer. Neither Samsung nor CBS responded to requests for an interview. 
+
+So now, like many other people, every single time I turn on my television, no matter what I try to watch, the CBS News app takes over, and I have to turn the TV off and on a bunch of times before I can actually watch something. All because, years ago, without really thinking about it, I opted into a crazy system, one that changed the nature of how I own my television.
+
+It’s mine, but not completely, pretty much like everything else that connects to or lives on the internet. This is all clearly laid out in section 5.4 of the terms and conditions. “Certain Services may automatically download and install updates from time to time from Samsung,” it states. “Such updates may be in various forms, including bug fixes, enhanced or new functions or features, new software modules and completely new versions.” As long as everything works, no one notices the TV has become something else. And that includes the companies.

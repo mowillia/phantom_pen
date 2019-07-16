@@ -1,0 +1,35 @@
+Because we’ve been sitting on the same rock for thousands of years, sometimes our language can tend to be a little Earth-centric. The word earthquake, for example, feels universal, as if it can be applied to any shaking ground. But zoom out beyond our tectonic plates, and the vocabulary shifts.
+
+Mars, for instance, has marsquakes.
+
+They sound too silly to be real, as if a Netflix show about future Mars settlements made up a scary natural disaster. But tremors on Mars are a thing, and right now scientists believe they have detected a quake on Mars for the first time.
+
+Scientists know this because they sent a seismometer to our planetary neighbor. The instrument arrived last year, on board a NASA lander called InSight. The seismometer, small and dome-shaped, has sat on the brick-colored surface since, waiting for hints of movement below the surface. On April 6, it caught something, a “quiet but distinct” signal, scientists said. A rumble from the depths.
+
+“We’ve been waiting months for our first marsquake,” Philippe Lognonné, a geophysicist at the Institute of Earth Physics of Paris who leads the seismometer team, said in a statement this week.
+
+Scientists have suspected for decades that they’d find this phenomenon if they had the right tools to look. Unlike Earth, Mars lacks tectonic plates that glide over its mantle, jostling the ground when they touch. But like Earth, Mars has three distinct layers—a rocky crust, a mantle, and a metal core—and it’s still cooling from its fiery formation out of a primordial cloud of cosmic dust. Even now, billions of years later, heat radiates from its center and can be strong enough to crack the surface and escape. The fracturing sends seismic waves streaming in all directions.
+
+Marsquakes can help scientists study the interior of the planet. Seismic waves move like beams of light in a hall of mirrors; as they propagate throughout the planet, they bounce around. Different materials redirect the waves in different ways. Data from seismometers allow scientists to track the zigzagging of the waves and determine the composition of the stuff they strike.
+
+While scientists are thrilled about the detection, they wish the rumble were stronger. The quake measured about 2.5 on the Richter scale, too weak to draw a path within the depths. If a tremor like that happened on Earth, you wouldn’t feel it. If you were standing next to the InSight lander at the moment of detection, you wouldn’t know either. “We are waiting for the big, big one,” says David Mimoun, a scientist at France’s Higher Institute of Aeronautics and Space and a member of the seismometer team. Researchers expect to detect dozens more, some as powerful as 5.5 magnitude.
+
+The marsquake provided some information about the lander’s surroundings, though. It lasted 15 minutes, a relatively long time for such a weak rumble. This suggests that the ground beneath the InSight lander doesn’t have much water, which is known to exist on Mars mostly as ice. “When there is water, it dampens the quake,” Mimoun says.
+
+Some of the earliest missions to Mars sought to find evidence of marsquakes. A pair of Viking landers touched down on the surface in the 1970s with seismometers in tow. But the instruments were mounted on the spacecraft rather than set on the ground, and only one actually worked. Under these circumstances, it was difficult to tell whether rumblings originated from the depths or from the hardware shuddering against a strong wind. In 1976, a seismometer on one of the landers felt some shaking on a not-too-windy day. But the spacecraft recorded measurements of the wind speed only 20 minutes before the mysterious rumbling and 45 minutes after. Scientists couldn’t rule out a wind gust in that missing window.
+
+This time, they’re more certain. With the seismometer firmly on the ground, it’s easier to pick out the gusts from the tremors. “We’ve seen a lot of wind previously, and we know that this is something different,” says Ingrid Daubar, a scientist at NASA’s Jet Propulsion Laboratory and a member of the InSight team.
+
+While scientists have ruled out wind as a potential cause, they haven’t fully investigated the possibility of a meteor impact, which can cause the surface to rumble. Daubar says the team will compare images of the InSight lander’s surroundings from before and after the detection and look for evidence of any fresh craters.
+
+Earth and Mars share their shaky properties with another celestial body: the moon. During the 1970s, seismometers placed on the lunar surface by Apollo astronauts detected hundreds of moonquakes. Some reached a magnitude of 5.5. Scientists suspect several sources, including churning in the moon’s interior caused by Earth’s gravitational tug.
+
+Back on Earth, NASA has converted the latest Mars crackling into audio:
+
+
+
+
+
+First, there’s a low, steady hum, the voice of the wind sweeping across the surface. Then, something higher pitched and urgent—the quake. At the end, the whirring of the lander’s robotic arm, maneuvering to take pictures of the scene.
+
+The sound of the quake is the big draw here. But it’s the noise of the robotic arm, a hollow cooing, that is my favorite. To hear the vibrations of a quake on another planet is a beguiling experience. But the sound of the delicate movements of the machine that captured them, that humankind somehow managed to dream up and deliver to Mars in one piece, is somehow a little sweeter.

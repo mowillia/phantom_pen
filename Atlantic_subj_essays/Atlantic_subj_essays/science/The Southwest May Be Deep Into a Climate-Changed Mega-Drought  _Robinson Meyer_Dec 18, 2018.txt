@@ -1,0 +1,33 @@
+Every so often, the American West seems to lurch into something called a “mega-drought.” The rains falter, the rivers wither, and the forests become tinder boxes waiting for a spark. Mega-droughts are notoriously hard to study—the last one happened in the 16th century—but what we do know is worrisome. In the 1540s, a few wet years in the middle of a mega-drought may have triggered one of the worst disease epidemics ever recorded.
+
+According to research unveiled last week, mega-droughts may no longer be history. On Thursday, a team of climate scientists argued that the American West may currently be experiencing its first mega-drought in more than 500 years. A record-breaking period of aridity set in around the year 2000 and continues to this day, they said.
+
+“The last 19 years have been equivalent to the worst 19 years of the worst mega-droughts on record,” said Park Williams, a professor of bioclimatology at Columbia University, at a presentation of the work. Only three recent mega-droughts—in the late 800s, the mid-1100s, and the late 1500s—were worse than the current period, he added.
+
+Climate change seems to be driving a good chunk of the problem. “The current drought is substantially worse than it would have been without global warming,” Williams said. The drought was 62 percent more severe than it would have been, he said, due to human-caused climate change.*
+
+Williams presented the results to a standing-room-only session at the American Geophysical Union’s fall meeting, the year’s largest planetary-science conference. The work has not yet been peer-reviewed. While it’s a common practice to share preliminary work at a scientific meeting, Williams didn’t comment directly for this article; academic norms discourage researchers from publicly discussing a study before its formal publication.
+
+But other scientists told me that the work makes sense, saying it was “quite plausible” that the American Southwest is in a mega-drought right now. And no matter what, it’s clear that the region is in the middle of a far-reaching climatic transformation.
+
+“The definition of mega-drought technically is open to debate,” said Jonathan Overpeck, a climate scientist at the University of Michigan. Two decades ago, he and the climate scientist Connie Woodhouse coined the term mega-drought in a paper, specifying that such a drought must last 20 years or more.
+
+“The drought in the Southwest is now in its 19th year. So it’s right on the cusp of technically being a mega-drought,” Overpeck told me.
+
+The current drought is “relentless,” he said, with consequences that reverberate across the West. “It’s reflected in the levels of Lake Mead and Lake Powell, the two largest reservoirs in our country … You see it in the way the forests are outright dying in some places, in big insect outbreaks as [plants] are weakened by a lack of moisture in the soil, in more catastrophic wildfires. There’s a lot of signs this drought is unusual.”
+
+He said that two different events seem to be driving the crisis. First, the region is receiving less rain than normal. Second, the Southwest as a whole is systematically warming up and drying out. It’s becoming a more desertlike place, a process that scientists call aridification. “Most of the work points to aridification being dominant” in driving the modern drought, Overpeck said.
+
+The new work from Williams and his colleagues may support the same idea. They began by looking at the climatic record preserved in tens of thousands of tree rings across the American West. By using a simple form of machine learning on that data and calibrating it to modern weather records they pieced together the past 1,200 years of soil moisture in the West. (Williams’s team includes Ed Cook, who practically invented the modern study of tree rings.)
+
+Consulting this record, they found that the current drought does not perfectly resemble historic mega-droughts. While previous droughts were concentrated in just one or two places in the West, the current drought covers almost half of the country. Climate models suggest that this huge territorial extent may be caused by the extreme heat and dry air that’s plagued western states in the past few decades. “What may have just been a drought in the Southwest is now a drought across the entire study region,” Williams said at the conference.
+
+Scientists have long suspected that aridification could cause problems across the West—mega-droughts included. Two years ago, a paper in Science Advances warned—with 99 percent certainty—that a southwestern mega-drought would occur by 2100 if greenhouse-gas emissions continued to balloon through the next several decades. In another paper, Williams and some of his same colleagues found that increased heat in the West has exploded the size of wildfires since the mid-1980s.
+
+But Williams believes that climate change is not solely to blame. “The current drought would have been occurring anyway without global warming, but it would only have been the eighth- or ninth-worst on record,” he said. Instead, it’s the fourth-worst in the past 1,200 years.
+
+Woodhouse, who coined the term mega-drought with Overpeck, told me that this effect may be the most important finding of the new paper. “The current 19-year period is different [from] 19-year periods in the past for the simple reason that it is occurring under warmer temperatures,” she said in an email. “In essence, a garden-variety drought (in terms of precipitation deficits) + warming = a much more severe drought.”
+
+Overpeck agreed. “The warming is having a huge effect—a huge effect on water resources and a huge effect on forests,” he said. “People knew there would be an effect, but we didn’t know it would come this big, and this fast.” 
+
+* This article previously misstated the amount by which human-caused climate change worsened the current drought.

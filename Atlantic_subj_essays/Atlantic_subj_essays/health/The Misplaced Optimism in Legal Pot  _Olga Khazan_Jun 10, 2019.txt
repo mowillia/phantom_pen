@@ -1,0 +1,21 @@
+Nearly five years ago, a team of researchers performing a study on medical cannabis came to a startling conclusion: The 13 states that had legalized medical marijuana had a 25 percent lower rate of opioid mortality than those that hadn’t.
+
+The study wasn’t designed to find an explanation for the trend, but the authors speculated that, perhaps, some chronic-pain patients who otherwise would have gotten hooked on prescription painkillers were instead choosing medical cannabis.
+
+The paper, which I covered at the time, launched hopes that medical marijuana could help fight the opioid epidemic. If more people used the less addictive and less harmful pot instead of opioids, the thinking went, deaths might abate.
+
+But a new paper, published today in the Proceedings of the National Academy of Sciences, throws cold water on that dream. A new set of researchers replicated part of the 2014 study’s findings: That is, from 1999 to 2010, it’s true that the introduction of medical-marijuana laws was associated with a decline in opioid-overdose deaths. But when the researchers included states that introduced laws between 2010 and 2017, the direction of the relationship reversed. Instead of a reduction in opioid overdoses, medical marijuana was associated with a 23 percent increase in overdose deaths.
+
+“If you believed the results of the first study, it’s hard to argue that you don’t believe the results of the second one, since the methods are the same,” says Chelsea Shover, a postdoctoral researcher at Stanford University and an author of the new PNAS study.
+
+Why did such similar methods produce such a starkly different result? For one thing, at the time of the first study, only 13 states allowed medical cannabis, and they were mostly in the American West, where the opioid epidemic was slow to take hold, Shover says. But by 2017, 47 states had a medical-cannabis law, and the opioid epidemic had touched pretty much every corner of the country. The nature of the epidemic also changed, as deaths from heroin and fentanyl overtook deaths from prescription opioids. The second study therefore included a much bigger sample of states, facing a different—and more severe—crisis.
+
+To Shover, the fact that the relationship between cannabis and opioids flipped suggests that the two substances didn’t have much to do with each other to begin with. “I think the reason the association is changing is that it’s not causal,” she says. “It would be wonderful if it was true that passing a medical-cannabis law could prevent deaths from opioid overdose, but the evidence doesn’t seem to support that.”
+
+A researcher behind the original study, Chinazo Cunningham, didn’t dispute the new findings. Cunningham, who is a physician and professor at the Albert Einstein College of Medicine, told me, “Certainly cannabis is not a silver bullet. It’s not going to fix the opioid epidemic.”
+
+But Cunningham said there’s still hope that cannabis can play a role in pain management. She pointed out that clinical research has shown cannabis can reduce pain, and still other studies besides her 2014 paper suggest that the ready availability of marijuana is associated with a reduction in opioid-overdose deaths.
+
+Both researchers agree that these conflicting findings cry out for more research on medical marijuana. Because the drug is illegal, it’s been hard for scientists to carefully study its effects on patients in a rigorous way, which is why they must rely on natural experiments such as the staggered implementation of cannabis laws. More studies would help scientists understand exactly how, if at all, cannabis can help with chronic pain and help people avoid addictive painkillers.
+
+“When we have any sort of conflicting data like this, we need to be able to do randomized trials of cannabis,” Cunningham said. “And with the federal government’s policies, that’s nearly impossible to do.”

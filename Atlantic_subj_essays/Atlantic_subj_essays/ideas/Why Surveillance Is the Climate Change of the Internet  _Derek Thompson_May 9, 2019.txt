@@ -1,0 +1,37 @@
+
+
+Subscribe to Crazy/Genius: Apple Podcasts | Spotify | Stitcher | Google Play
+
+If you have a hard time understanding the meaning of privacy and the scale of digital surveillance in the modern age—and let’s face it, who doesn’t?—consider a toy named Cayla.
+
+Cayla is a doll with long hair, a tiny denim jacket, and little pink shoes. She also comes with a microphone, a Bluetooth app, and built-in voice-recognition technology. My Friend Cayla, as the product is called, can introduce herself and suggest fun activities. The label on her box reads “She has millions of things to say!” And she does. But who is she talking to?
+
+Could it be the CIA? Several years ago, consumer groups discovered that when somebody asks Cayla a question, the dialogue is stored on a server owned by Nuance Communications. That firm sold “voice biometric data” to the military and intelligence agencies. After discovering the privacy concerns surrounding My Friend Cayla in 2017, the German government banned the doll. (It is still available for purchase in the United States.)
+
+This story isn’t unique, says Shoshana Zuboff, the author of The Age of Surveillance Capitalism. It is just another example of how invisible “supply chains” create marketplaces out of behavioral data. A chunk of dialogue from a child’s playtime travels to a server. The data are shared with a third party, which can sell them to yet another organization. Neither the child nor the parents will ever fully know where the data are going, or for what purposes.
+
+Does that mean little girls and boys are doing implicit labor for national intelligence agencies? Zuboff rejected that framing. “There is an important distinction to be made between labor and raw material,” she says. These children are not working. They are merely living, and their lives are being strip-mined for data, as an elephant might be harvested for its ivory.
+
+“What are we in this equation?” Zuboff asks. “We are not the ivory. We are not what is poached. We are the carcass that is left behind.”
+
+How the hell did we create this world? And what, if anything, can we do to get out of it? That’s the central question in the latest episode of Crazy/Genius, The Atlantic’s technology podcast, produced by Jesse Brenneman and Patricia Yacob. The episode kicks off Season 3: Unbreak the Internet. (Subscribe here.)
+
+Privacy was scarcely an issue in the United States until the late 19th century, which saw an explosion in communication technology—such as the telegraph, the telephone, and cheap cameras. Instant photos and wired communications brought tech into our personal space, and rapid urbanization brought other people into our personal space. It was an age of nascent paranoia, as people feared that once-private interactions were open to nosy neighbors. Americans didn’t realize they valued privacy until modernity made it nearly impossible to be alone.
+
+In the mid-1900s, Americans’ privacy fears shifted from the local to the national level. As the federal government marshaled technology to expand its powers, the public feared wiretapping, McCarthyism, and the atmosphere of surveillance that George Orwell described well enough to make his surname a useful adjective. Not all these fears were rational. In the 1940s, two bus riders in Washington, D.C., sued the local government for piping in Muzak on the bus’s loudspeakers, claiming that it infringed on their right to be left alone. Shockingly, the case made it all the way to the Supreme Court; less shockingly, they lost. But the lawsuit serves as a cartoonish reminder of that age’s very real anxieties: The public so feared the overreach of government that some considered soft jazz on public transit a constitutional infringement.
+
+In the 19th century, privacy was about protection from people. In the 20th century, it was about protection from government. In the 21st century, it’s about protection from a new class of corporate giants that Zuboff calls “surveillance capitalists.” Companies such as Google, Facebook, and Amazon have amassed combined valuations in the trillions of dollars by building empires of omniscience. These firms know our deepest fears, our best friends, and our favorite toilet paper. Armed with such godlike powers, they can … well, what can they do? We’re not exactly sure.
+
+“I think privacy is the wrong way to describe the issue we face in a world of pervasive unregulated data collection,” says Julia Angwin, a longtime investigative reporter. She prefers another term: data pollution.
+
+“I’ve long felt that the issue we call privacy is very similar to the issue we call environmentalism,” she says. “It’s pervasive. It’s invisible. Attribution is hard. Even if you get cancer, you don’t know if it’s from that chemical plant down the road. Living in a world where all of your data is collected and swept up in these dragnets all the time and will be used against you in a way that you will probably never be able to trace and you will never know about it feels like that same type of collective harm.”
+
+The metaphor—privacy infringement as environmental calamity—perfectly fits the most famous privacy breakdown of the past five years. In 2016, Cambridge Analytica, a political-consulting firm working with the Trump campaign, invited Facebook users to fill out a personality quiz. Then they took the data from that quiz to build psychological profiles of voters, whom they targeted with Facebook ads. These ads were designed to energize Donald Trump supporters and discourage Hillary Clinton voters.
+
+“You could make an argument: Oh, these people’s quiz data was taken, and then they were vulnerable to all this propaganda!” Angwin says. “But if you talk to those particular people, they’re probably fine with how they voted. The harm was not individual. The harm was to our understanding of fair elections.”
+
+Cambridge Analytica’s “consulting” work was not like an individual wiretap, or an individual eavesdrop. It was like a climate-related superstorm—a collective and diffuse crisis, caused by innumerable data emissions, which struck at the existential heart of the country. Surveillance is the climate change of the internet.
+
+Democracy requires the informed participation of adult citizens. Surveillance capitalism demands the uninformed half-consent of consumers pressing “Okay!” on privacy disclosures they cannot possibly read or understand. These companies harvest behavior for their own ends, or share it with companies we haven’t heard of, for purposes we can’t imagine, and yet promise: You have nothing to worry about!
+
+But American democracy, and other collective institutions vulnerable to mass surveillance, will surely weather more “extreme data events” in the near future.

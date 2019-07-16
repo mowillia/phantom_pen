@@ -1,0 +1,39 @@
+Up on the International Space Station, the United States controls one half, and Russia controls the other half. Like the U.S., Russia has one of its astronauts on board right now, and as a rule, 250 miles above Earth, collaboration is synonymous with consensus. But recently, as the U.S. prepared to launch a new and somewhat risky mission, Russia hesitated before deciding whether it would endorse the project.
+
+The cargo mission is expected to leave Earth this weekend. A rocket will lift off from historic Cape Canaveral, in Florida, and propel a capsule loaded with supplies toward the ISS. After the capsule arrives, astronauts on board the station will unpack the shipment, replace it with items to return home, and seal the capsule back up. Once the capsule detaches, it will fall into the planet’s atmosphere and splash into the Atlantic Ocean.
+
+The mission, scheduled to launch in the very early hours of Saturday morning, is a decisive moment for the American space program. If the voyage goes well, the next time the capsule launches to space, it will carry more precious cargo: people.
+
+In 2014, the agency awarded two companies, SpaceX and Boeing, multibillion-dollar contracts to build the next generation of astronaut transportation. The United States has relied on Russia to launch its astronauts to space since its space shuttles stopped flying in 2011, after three decades of operations. As the shuttles began new lives as museum displays, NASA turned to the private sector for help. Now the first test run of this new era has arrived.
+
+“We’re ready to fly,” Kathy Lueders, the NASA manager of the program, said at a press conference last week.
+
+Russia, on the other hand, wasn’t so sure.
+
+The United States and Russia work together on the ISS, along with 13 other countries. They share information on station operations, including the particulars of the SpaceX mission. Last week, NASA officials said that, while they had cleared SpaceX for launch, their counterparts at Roscosmos, the Russian space agency, had a “dissenting opinion.”
+
+The disagreement centered on the SpaceX capsule’s approach to the ISS. Spacecraft that connect with the station are equipped with flight software that can prevent dangerous accidents. European, Japanese, and other spacecraft that previously have rendezvoused with the ISS carry independent systems designed to kick in if their primary computers fail. The backups would take over and maneuver the spacecraft away from the ISS to avoid a collision.
+
+The SpaceX capsule, known as Crew Dragon, doesn’t have this configuration. Instead, it relies on redundant systems in its main computer system.
+
+NASA officials said this configuration is sufficient, while Russian officials weren’t sold. The apprehension is understandable. A bungled approach could put the capsule, the ISS, or both at risk.
+
+“The ISS still has three people on board, and so this vehicle coming up to the ISS for the first time has to work,” Kirk Shireman, the manager of the International Space Station program, said last week. “It has to work. This time up here and the people who worked around the country to make this successful are very much aware of that.”
+
+Russia took a few days to consider NASA’s reasoning. On Wednesday, just days before blastoff, Roscosmos formally agreed to proceed with the launch and docking, Shireman tells The Atlantic.
+
+The docking maneuver is new for SpaceX. The company regularly delivers cargo to the ISS on another spacecraft, Dragon 1. As the capsule approaches, a powerful robotic arm on the station reaches out and grabs it. Success is not guaranteed. In 2017, an approaching Dragon detected an error and automatically aborted the attempt just three-quarters of a mile away from the ISS. The capsule docked successfully in a second attempt the following day.
+
+Unlike its counterpart, Crew Dragon will greet the station by locking up to a brand-new adapter—a metallic ring more than five feet across—that SpaceX itself actually delivered in 2016. (Boeing’s uncrewed capsule, Starliner, is expected to complete the same mission in April.) If Crew Dragon sticks the docking, it will become the first commercially built spacecraft designed to carry humans to join with the ISS.
+
+Bill Gerstenmaier, the associate administrator for NASA’s human-exploration division, said Roscosmos broached the subject in December, but admitted he “wasn’t diligent enough to stay in touch with them” over the 35-day government shutdown that kept 95 percent of NASA’s workforce from their jobs. As the historic launch approached, Gerstenmaier renewed discussions.
+
+“One of the actions that I assigned the team was to go look a little more rigorously at some of the fault detection, identification, and responses to various failures … to make sure the computers do all the right things, that we don’t get in a situation where the vehicle goes dead or dormant and then just continues its approach and just collides with station,” he said.
+
+Even before they received Russia’s blessing, NASA officials seemed confident the opposition wouldn’t hold up the launch. But whether the U.S. agency would have moved ahead if Roscosmos decided to push back is unclear. The nations have shared their high-flying home for nearly 20 years. American astronauts and Russian cosmonauts share meals and tedious housekeeping duties like vacuuming. When the SpaceX capsule arrives at the station this weekend, they will work together to greet it.
+
+But the partnership has not been free of tension, thanks to political matters back on Earth. Even now, the relationship between the leaders of the space agencies isn’t perfect. Last fall, Jim Bridenstine, the NASA administrator, visited Russia at the invitation of Dmitry Rogozin, the head of Roscosmos. Bridenstine tried to reciprocate in January, but he withdrew his offer after some members of Congress argued that Rogozin, a Putin ally who is under sanctions by the U.S. government, shouldn’t set foot on U.S soil. Rogozin was reportedly displeased with the reversal.
+
+There’s even been some awkwardness between Rogozin and Elon Musk, the founder of SpaceX. Last week, Rogozin told Russian media that he doesn’t believe SpaceX can build better rocket engines than Russia can. “Musk is not a technical expert in this matter,” Rogozin said. “He just doesn’t understand what this is about.” Musk responded on Twitter: “I have been chief engineer/designer at SpaceX from day 1.”
+
+Despite some stormy exchanges, the weather forecast in Cape Canaveral looks good for a launch on Saturday so far.

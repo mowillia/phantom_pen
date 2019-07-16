@@ -1,0 +1,31 @@
+Working the night shift can be pretty boring, even if you’re a telescope. You stare at the same section of sky for hours. Every night, you take in light from the same distant points in the abyss. There’s that asteroid you observed last night, and the night before that, and before that. The job, as important as it is, can be pretty tedious.
+
+But sometimes the universe sends a little excitement—a cosmic phenomenon astronomers have explored only with theoretical models.
+
+One night in June of last year, a telescope in Hawaii captured something noteworthy in its nightly scan. A luminous dot appeared where nothing had been before, as if someone had switched on a light. A message immediately went out on the Astronomer’s Telegram, an alert system for astronomers around the world.
+
+A scramble ensued. There’s no guarantee unexpected objects in the night sky will stick around. Astronomers directed telescopes of all kinds at the point of light, observing the target in every wavelength of the electromagnetic spectrum, from optical light to invisible X-rays. Early data revealed the light originated outside the Milky Way galaxy, from a small, nearby galaxy about 200 million light-years away. (Yes, this is actually considered nearby in cosmic standards.)
+
+At first, the gleaming object looked like it could be a supernova, a cataclysmic explosion that marks the end of a star. Stars, as immutable as they may seem to us, blazing brightly in the night sky, can die. The process is ferocious and quick: The star, after millions and millions of years of existence, runs out of the fuel that produces its brilliant light. Its core shrinks, heats up, and then collapses, sending stellar material hurtling across space. The resulting glow briefly outshines whole galaxies before fading away.
+
+Telescopes have observed supernovae before. But this one?
+
+“It was very clear that it was not a normal supernova,” says Raffaella Margutti, an astrophysicist at Northwestern University, one of the many scientists who followed the mystery object, known as AT2018cow.
+
+The alleged supernova was dozens of times as bright as any supernova on record. It reached its peak luminosity in two days and faded after 16 days. This, on the vast timescales of the universe, is extremely fast—faster than astronomers had ever seen.
+
+According to current understanding in astronomy, this scenario should not be possible. The brightest supernovae usually come from the deaths of the biggest stars. These are slow affairs: The more material a dying star expels, the longer it takes for the afterglow of the explosion to reach its peak radiance. How could the mystery explosion flare so brightly and fade so quickly?
+
+“It’s weird to see something that’s bright and evolving fast,” explains Iair Arcavi, an astronomer at Las Cumbres Observatory, a global network of ground-based telescopes. “It’s kind of a contradiction.”
+
+When astronomers took a closer look at telescope data, they saw an unusual excess of X-rays. “Our first reaction, when we got that data, was maybe we made some mistake, because we’ve never seen that,” Margutti said. It meant that, deep in the core of the explosion, there was a source of X-rays so persistent that it would shine through the material surrounding it.
+
+That gave the astronomers a clue about what they could be looking at. Almost all massive stars are thought to produce new astrophysical objects when they die—either a black hole or a neutron star. Black holes are invisible maws that gobble any material—gas, dust, entire stars—that comes near. Neutron stars are fast-spinning cores of tightly packed neutrons, the stripped-down versions of their progenitors. Both are extremely dense objects capable of violently whisking surrounding material. Margutti and her colleagues suspect that, in this case, those effects were enough to produce an unusually radiant light show.
+
+The telescope, they’ve concluded, had captured the creation of a brand-new astrophysical object, either a black hole or a neutron star, for the first time.
+
+The cosmic explosion has faded from the view of most telescopes, and the telescope in Hawaii now awaits the appearance of the next surprising pinprick of light. That’s what cosmic explosions beyond the galaxy will always look like to us, regardless of their record-breaking radiance. For now, astronomers continue to pore over the data from AT2018cow; Margutti and an international team of scientists published their report about the object this week.
+
+They remain mesmerized by the event’s unusual characteristics—the fierceness of the glow, the speed with which it vanished, the X-rays that illuminated what remained at the core.
+
+“Any one of them on their own would be completely unprecedented, but any two of them together—and certainly all of them together—are unlike anything we’ve ever seen before,” said Daniel Perley, an astrophysicist at Liverpool John Moores University.

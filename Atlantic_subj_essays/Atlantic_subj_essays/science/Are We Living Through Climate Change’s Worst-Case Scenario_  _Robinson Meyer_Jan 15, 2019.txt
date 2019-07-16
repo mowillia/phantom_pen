@@ -1,0 +1,39 @@
+The year 2018 was not an easy one for planet Earth.
+
+Sure, wind and solar energy kept getting cheaper, and an electric car became America’s best-selling luxury vehicle. But the most important metric of climatic health—the amount of heat-trapping gas entering the atmosphere—got suddenly and shockingly worse.
+
+In the United States, carbon emissions leapt back up, making their largest year-over-year increase since the end of the Great Recession. This matched the trend across the globe. According to two major studies, greenhouse-gas emissions worldwide shot up in 2018—accelerating like a “speeding freight train,” as one scientist put it.
+
+U.S. emissions do remain 11 percent below their 2007 peak, but that is one of the few bright spots in the data. Global emissions are now higher than ever. And the 2018 statistics are all the more dismal because greenhouse-gas emissions had previously seemed to be slowing or even declining, both in the United States and around the world.
+
+Many economists expect carbon emissions to drop somewhat throughout the next few decades. But maybe they won’t. If 2018 is any indication, meekly positive energy trends will not handily reduce emissions, even in developed economies like the United States. It raises a bleak question: Are we currently on the worst-case scenario for climate change?
+
+“We’re actually a lot closer than we should be; I can say that with confidence,” says Rob Jackson, an Earth scientist at Stanford and the chair of the Global Carbon Project, which leads the research tracking worldwide emissions levels.
+
+When climate scientists want to tell a story about the future of the planet, they use a set of four standard scenarios called “representative concentration pathways,” or RCPs. RCPs are ubiquitous in climate science, appearing in virtually any study that uses climate models to investigate the 21st century. They’ve popped up in research about subjects as disparate as southwestern mega-droughts, future immigration flows to Europe, and poor nighttime sleep quality.
+
+Each RCP is assigned a number that describes how the climate will fare in the year 2100. Generally, a higher RCP number describes a scarier fate: It means that humanity emitted more carbon dioxide into the atmosphere during the 21st century, further warming the planet and acidifying the ocean.  The best-case scenario is called RCP 2.6. The worst case is RCP 8.5.
+
+“God help us if 8.5 turns out to be the right scenario,” Jackson told me. Under RCP 8.5, the world’s average temperature would rise by 4.9 degrees Celsius, or nearly 9 degrees Fahrenheit. “That’s an inconceivable increase for global temperatures—especially when we think about them being global average temperatures,” he said. “Temperatures will be even higher in the northern latitudes, and higher over land than over the ocean.”
+
+This scenario could still be in the planet’s future, according to Zeke Hausfather, an analyst and climate scientist at Berkeley Earth. Since 2005, total global greenhouse-gas emissions have most closely tracked the RCP 8.5 scenario, he says. “There may be good reasons to be skeptical of RCP 8.5’s late-century values, but observations to-date don’t really give us grounds to exclude it,” he recently wrote.
+
+Even if we avoid RCP 8.5, the less dramatic possibilities still could lead to catastrophic warming. Jackson, the Stanford professor, warned that every emissions scenario that meets the Paris Agreement’s 2-degree Celsius “goal” assumes that humanity will soon develop technology to remove carbon directly from the atmosphere. Such technology has never existed at industrial scales.
+
+“Even some [of the scenarios] for 3 degrees Celsius assume that at some point in the next 50 years, we will have large-scale industrial activities to remove greenhouse gases from the atmosphere,” he said. “It’s a very dangerous game, I think. We’re assuming that this thing we can’t do today will somehow be possible and cheaper in the future. I believe in tech, but I don’t believe in magic.”
+
+Yet not all data suggest that we’re doomed to RCP 8.5 or equivalent amounts of warming, Hausfather cautions. If you look only at pollution from fossil-fuel burning—and not from land-use events like deforestation—then humanity’s recent record trends closer to RCP 4.5.
+
+That’s good news, but only by comparison: RCP 4.5 still forecasts that global temperatures will rise by 2.4 degrees Celsius, enough to kill off nearly every coral reef and soar past the 2-degree target set out in the Paris Agreement on climate change.
+
+There are a few reasons it’s hard to say which RCP comes closest to our reality. First, most of the RCPs tell roughly the same story about global emissions until about 2025 or 2030. Second, the RCPs describe emissions across the entire sweep of the 21st century—and the century mostly hasn’t happened yet. Trying to pick the most likely RCP in 2018 is a bit like trying to predict the precise depth of late-night snowfall at 4:32 a.m.
+
+The RCP 8.5 scenario may also become less likely in years to come, even if major polluters like the United States, China, and India never pass muscular climate policy. RCP 8.5 says that the global coal industry will eventually become seven times bigger than it is today. “It’s tough to claim that … that is a business-as-usual world,” Hausfather says. “It’s certainly a possible world, but we also live in a world today where solar is increasingly cheaper than coal.”
+
+That’s part of the reason the Intergovernmental Panel on Climate Change will soon expand its list of standard scenarios. Its next major synthesis report, due to be published in 2021, will replace RCPs with five “socioeconomic pathways” that allow for a broader range of futures.
+
+Jackson urged caution. “We don’t know yet what scenario we’re on,” he said. “I think most climate scientists will tell you that we’re below the 8.5 scenario. But every year that emissions increase like they have this year, it makes the 8.5 scenario more plausible.”
+
+Jackson published his first academic paper in 1989, just a year after the NASA scientist James Hansen first warned Congress that global warming had begun in earnest. I asked whether he thought actual emissions would ever come close to RCP 8.5. 
+
+“It’s nuts,” he said. “But I used to think a lot of things were nuts that turned out not to be nuts.”

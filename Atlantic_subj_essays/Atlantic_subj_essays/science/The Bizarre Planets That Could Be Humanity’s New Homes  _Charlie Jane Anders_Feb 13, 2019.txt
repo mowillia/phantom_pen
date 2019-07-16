@@ -1,0 +1,47 @@
+Imagine going to live on a planet where the sun never moves in the sky. No sunrise, no sunset.
+
+Several years ago, I became obsessed with tidally locked planets. The notion of a world permanently caught between two extremes—with one half always illuminated, the other always in the dark—took hold of my imagination. I realized that planets like these were the surest bet in the search for Earth-like places that our descendants could settle on. Worlds of eternal darkness and never-ending sunlight could be the future of the human race—if we’re serious about living in other solar systems.
+
+Astronomers believe that most of the planets in our galaxy that have Earth-like temperatures are likely to be tidally locked. Because their orbital period is the same as their period of rotation, these planets will always present the same face to their sun—just as we always see the same side of the moon, as it orbits Earth.
+
+And the reason for this glut of tidally locked worlds is pretty simple. Up to three-quarters of suns in our galaxy are red dwarfs, or “M-dwarfs,” smaller and cooler than our sun. Any planet orbiting one of these M-dwarfs would need to be much closer to its star to support human life—as close as Mercury is to our sun. And at that distance, the star’s gravity would pull it into a tidally locked orbit.
+
+For example, astronomers recently discovered seven Earth-size planets in the habitable zone of the TRAPPIST-1 system, all of which are likely to be tidally locked.
+
+My obsession with these planets led to my new novel, The City in the Middle of the Night. To picture all their strange geological features and weird knock-on effects, I talked to Lindy Elkins-Tanton, the director of the School of Earth and Space Exploration at Arizona State University, as well as other scientists studying them, and I read as much of the latest research as I could. More than anything else, I became captivated by trying to imagine what it would be like for people living on a planet where the sky never changes.
+
+For now, talking about these planets means indulging in speculation—which is the perfect situation for a science-fiction writer. But we are learning enough about the dynamics of tidally locked worlds to start to understand how they would work, and what kind of civilization we could build there.
+
+The first question: Where would humans settle on a tidally locked planet? When I started working on my book, the clearest answer appeared to be the terminator, the strip of twilight between the dayside and the nightside. “That might be the Goldilocks zone,” neither too hot nor too cold, but stuck “between eternal dusk and eternal dawn,” says Daniel Angerhausen, an astrophysicist at the Center for Space and Habitability at Bern University.
+
+In the terminator zone, Angerhausen suggests, humans might be able to generate geothermal energy, using cold water from the nightside and hot water from the dayside in “some kind of thermal reactor.”
+
+To have access to liquid water on a tidally locked world, you need a system to cool down the dayside and heat up the nightside, says Ludmila Carone of the Max Planck Institute for Astronomy. Otherwise, all the liquid might become tied up in ice on the nightside, or worse yet, the atmosphere itself could get frozen in the dark.
+
+“The habitability of these planets hinges very strongly on how well you can transport heat,” Carone says. Her computer models show that a tidally locked planet might have two strong wind jets, one in each hemisphere, that might act a bit like the jet stream here on Earth. But if the planet is too close to the sun, it might have only one wind jet, directly over the part closest to the sun. In that scenario, heat could be trapped on the dayside.
+
+Even a relatively modest temperature differential (say, 50 degrees Fahrenheit) between the two sides could make these planets harder to live on. A comfortably mild climate on the dayside might still leave the nightside cold enough to freeze water, according to Laura Kreidberg, a junior fellow at Harvard University who studies the atmospheres of exoplanets. “Could all the planet’s water freeze out on the nightside? We don’t yet know,” she says. Ocean currents could help transport heat, too, but those effects depend on how much water the planet has to begin with and where the continents are.
+
+One possible scenario for a tidally locked planet is what’s known as the “eyeball Earth” model, in which a planet starts out entirely covered with ice—which then melts on the side facing the sun. To an observer from space, this could look like an eyeball, explains Angerhausen. Or, with an ocean that transports enough heat, you could end up with a lobster-shaped ocean surrounded by ice.
+
+In the most extreme scenarios, the heat on the light side becomes so extreme that water can’t exist. But with enough of a temperature difference, it can re-form on the nightside.
+
+That’s what happens on a tidally locked planet called WASP-103b, a “hot Jupiter”–type world. According to Vivien Parmentier at Aix Marseille University, an author (along with Kreidberg) on a recent study of WASP-103b, water molecules are destroyed on the dayside of the planet, only to drift back to the nightside and recombine into water molecules that form clouds ... and then the process repeats.
+
+Beyond the problems with finding liquid water, a tidally locked world around a red dwarf could have other issues, says Carone. Red dwarfs are “notoriously temperamental” and tend to go through long phases in which they flare up and eject material into space.
+
+These flare-ups could heat the atmosphere of a planet in the habitable zone, while the star could also eject material that strips away the atmosphere. This happened to Earth early on, when our original atmosphere was torn away from us. Afterward, Earth “sweated out” another atmosphere from trapped carbon dioxide. But on a tidally locked world, a violent-enough solar disruption could get rid of a second atmosphere, too.
+
+Even with an atmosphere, the dayside of the planet could be exposed to deadly radiation, says Parmentier. The light from a red dwarf wouldn’t provide enough of the UV wavelengths needed to make ozone—so this planet, unlike Earth, might not have an ozone layer. (In my novel, direct sunlight isn’t just too hot; it actually causes nasty burns, so people have to stay in the shade.)
+
+Any humans living on the planet would also need to eat and breathe, and the physicists Joseph Gale and Amri Wandel of Hebrew University have been studying whether plant life could survive the flares and radiation exposure. At first, plants might evolve in the ocean to take advantage of the protective layer of water. But eventually, if the star became less violent, the planet could develop an atmosphere thick enough to allow plants to grow on land. Gale and Wandel have also calculated that there would probably be enough light in the visible spectrum to allow normal photosynthesis.
+
+With an atmosphere that could sustain life, though, there would also be air currents strong enough to cool the planet’s dayside. The temperature might end up being about the same as in Earth’s tropical regions. An atmosphere could also help create a layer of cloud that would serve as a permanent sun shade. As scientists such as Carone have been making computer models of tidally locked worlds, they increasingly believe humans could live outside the terminator region.
+
+Adiv Paradise, a Ph.D. student in astronomy and astrophysics at the University of Toronto, has a guess at what that could look like: People might live on the dayside, but would need to construct mining and pipeline operations to bring ice over from the nightside. A lot depends on how bad the radiation bombardment on the dayside might be. Paradise also thinks people could learn to live on the frozen nightside: “I’m from Minnesota. People manage to live in all sorts of places astronomers would describe as ‘not habitable.’”
+
+The biggest challenge for humans living in a tidally locked world, says Paradise, could be the very different sky. If they lived on the dayside, they might “lose all knowledge of the universe,” because they would never see the stars. Their perception of the passage of time would also be altered, because “nothing in the sky would ever change.”
+
+Inspired by these concerns, in The City in the Middle of the Night, I created two different human societies with wildly divergent approaches to the problem of circadian rhythms and the passage of time. And my human settlers definitely take advantage of the temperature differentials to create geothermal power, as Angerhausen suggests. Still, my tidally locked world didn’t reflect these more recent computer models and ended up being a little more fanciful in some of the details. There’s always a trade-off between scientific accuracy and storytelling, and in some ways, I may have ended up writing a bit of an exoplanet fable.
+
+But I wanted to help people imagine the strangeness, terror, and splendor of inhabiting a planet that orbits an alien star. I believe that novels about tidally locked worlds will become a fast-growing subgenre as we make more discoveries and gather more observational data. There are so many great stories to be told about visiting these worlds of never-ending sunlight and darkness. And dreaming about life on another planet is a way of thinking about our own place in the universe, as humans, both now and in the millennia to come.

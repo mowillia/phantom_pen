@@ -1,0 +1,89 @@
+In August, Elon Musk suggested on Twitter that he was considering taking Tesla, his publicly traded electric-car company, private. The tweet took many by surprise, including regulators at the U.S. Securities and Exchange Commission, who responded by suing Musk, accusing the entrepreneur of misleading investors and agitating financial markets. The two sides eventually reached a settlement that required, among other things, that Musk give up his role as chairman of Tesla’s board of directors to another board member. Musk still remains the company’s CEO, but the message from regulators was clear: Someone else should share his grip on the reins at Tesla.
+
+Musk seems to resent the new oversight. In a CBS News interview that aired on Sunday, Lesley Stahl asked Musk whether he thought the new chair, Robyn Denholm, a telecommunications executive, was brought in “to kind of watch over you, like a babysitter.”
+
+“It’s not realistic in the sense that I am the largest shareholder in the company,” Musk responded. “And I can just call for a shareholder vote and get anything done that I want.”
+
+The shake-up of Tesla’s leadership is probably a good thing, according to Hamish McKenzie, a journalist who worked at Tesla between 2014 and 2015, as a writer in the company’s communications division. “I think it’s probably a good thing for him to be the CEO of Tesla, the visionary who everyone rallies around,” McKenzie said in a recent interview. “But it’s probably good he doesn’t have full power at the top of the board of directors, and that that seat is going to someone who is more of a steady tech executive with years of experience and has a little bit of independence.”
+
+McKenzie is the author of a new book about Tesla and other electric-car start-ups, Insane Mode: How Elon Musk’s Tesla Sparked an Electric Revolution to End the Age of Oil. McKenzie chronicles the rise of Tesla and other electric-car start-ups brewing in other parts of the world, especially China. “I think that people underestimate just how quickly electric cars are going to be mainstream and what a massive effect on the world energy economy that’s going to have,” he said.
+
+I spoke with McKenzie about Musk, Tesla, and the moment in American history that could have put the country on the road toward electric cars more than 100 years ago. Our conversation has been edited for length and clarity.
+
+Marina Koren: So what led you to call the book Insane Mode?
+
+Hamish McKenzie: “Insane mode” was a feature on the dual-motor, all-wheel drive of the Model S, which came out in late 2014. That car has three modes: normal, sport, or, if you want to get acceleration that would take the car from zero to 60 miles per hour in 3.2 seconds, which would give you this kind of roller coaster rush, that was called “insane mode.” It was a name that Elon Musk came up with, and I think it was very fitting with his personality and the fun he likes to take in naming things. But it’s also representative of the way that company operates, in this constant, frenetic drive to push forward and accelerate the industry and get its product to market and into people’s hands.
+
+Koren: Is “insane mode” representative of the actual factory floor at Tesla, too?
+
+McKenzie: Arguably. It depends on your view of what insane means. I think so, because you look at things that Tesla is doing to try and ramp up its manufacturing to meet its really aggressive targets. They’re trying to get to this point where they can make 1,000 Model 3s a day, and they’re very close to it—they’re already making 5,000 a week—but the way they get to that is through doing unconventional things, like constructing a temporary structure, essentially a glorified tent, where they put another production line underneath. Things like Elon Musk taking a sleeping bag to the factory floor so he can be constantly monitoring how they’re building this thing. Because they’re still building these production lines at the same time as trying to churn out so many cars at once. It’s not stable by any means, and I think “insane” would be, to some people, a fair description.
+
+Koren: What was it like to work at Tesla?
+
+McKenzie: It was exhilarating. It was full of challenges, and I think people have written extensively about some of the corporate-culture problems that Tesla has to overcome. There’s certainly challenges. But it was an all-hands-on-deck mentality, and that would produce interesting times. I’d just say it was a fun ride.
+
+Koren: What were some of those challenges?
+
+McKenzie: I can’t actually go into detail about anything I experienced personally at the company, but if you look around at what the reporting is on challenges that Tesla faces, I think one of them is staff turnover. They’ve lost a lot of great people. It’s a big company, so you can argue that, yeah, a company of that size is going to lose great people. But you could say they lost some great people, or maybe they got rid of the great people.
+
+It has to be a challenge for them, especially as other exciting electric-car start-ups are coming on the scene and other tech companies, like Apple and Google, are pushing into autonomous driving and competing for talent. I think Tesla should be concerned.
+
+Koren: You can’t describe your own personal experiences. Did you sign a nondisclosure agreement when you left?
+
+McKenzie: When I joined the company, I signed an NDA. It does constrain me.
+
+Koren: Did you feel that constraint while working on the book?
+
+McKenzie: What I had to do is make a decision to not write the book in that way. I keep myself very editorially distant from Tesla. Instead of bringing to bear the personal view of what it’s like to work inside the company, I wanted to keep the focus instead on what I felt was the more important story, which is that it started this larger transition from fossil fuels to electric transport. I didn’t want it to be just the inside Tesla story. I wanted it to be: This is what Tesla started, and this is where it spread, and now look what’s happening.
+
+Koren: Can you describe any of your interactions with him?
+
+McKenzie: My personal experiences with Elon outside of working for Tesla have been pretty mixed. Before joining the company, I had some really delightful interactions with him where I found him charming, inspiring, intelligent, friendly, and a good listener. Since leaving the company, I’ve had some unpleasant interactions with him. Someone with his combination of character traits—you’re always going to get the good with the bad, and I think someone who’s achieving on that level, you can expect the goods and the bads to be pretty extreme.
+
+Koren: What were those negative experiences?
+
+McKenzie: Oh, I’m not going to talk about that, sorry.
+
+Koren: So your book explores a time long before Elon Musk, during the early history of the American automotive industry. Back then, in the early 1900s, it wasn’t yet clear that gasoline-powered vehicles were going to become the dominant transportation. Can you say more about that moment?
+
+McKenzie: It was just happenstance that we ended up with an entire automotive industry based only on the internal combustion engine. Thomas Edison and Henry Ford were planning to work on electric cars together, with Edison being responsible for the batteries and Ford being responsible for the investment and manufacturing. And it looked like this was going to be the real thing. Edison had designed prototypes of vehicles that had a lot of range. They could go something like 80 miles on a single charge, driving about 70 miles an hour.
+
+But Edison couldn’t perfect the batteries, and around the same time, Charles Kettering perfected the electric starter motor for gasoline vehicles so that they didn’t have to be hand-cranked to get started. That was just a massive advantage for internal-combustion-engine cars. It was a more practical choice for Ford to go with that option instead of electric. That was followed by an oil boom in Texas that made gasoline more abundant in the U.S. So we’ve got a world of gasoline vehicles instead of electric vehicles, but it was a close call. The world could have looked very different if Edison had only perfected those batteries.
+
+Koren: I’m imagining an episode of The Twilight Zone where we drop Elon Musk into early 20th-century America. What would that be like?
+
+McKenzie: It would probably look like what it looked like, because I think Elon Musk and Thomas Edison were similar personalities and similar in their drive to change the world with their inventions and the belief that they could do it.
+
+Koren: So Edison might have also operated in insane mode?
+
+McKenzie: I think he did. If you look at quotes from him at the time about how hard he worked and how many hours he thought was necessary for a productive work life, I think he said something like 100 hours a week. I think there were similar reports about how difficult a guy he was to work with, and there were also lots of bold promises and sometimes not quite delivering on those bold promises. People remember him mostly for his achievements, and not the things that failed.
+
+Koren: What did you think of Musk’s recent tweet about his companies, that “nobody ever changed the world on 40 hours a week”?
+
+McKenzie: He’s been saying that sort of stuff for a long time. I think it’s largely for marketing purposes, to try to attract talent, or in his mind, the right sort of talent, the people willing to buy into this idea of putting your blood, sweat, and tears into something bigger than yourself.  But I don’t think there’s anything in the science that supports that notion. I think people need sleep and rest, so I take a pretty cynical view of those sorts of comments. Henry Ford came up with the 40-hour workweek. I don’t even know why we should take for granted that 40 is the right number.
+
+Koren: Your book relies heavily on news coverage of Tesla over the last decade, but you leave out some news reports in the last few years that have suggested some grueling work conditions for employees or unfair labor practices. Is that part of the story of Tesla?
+
+McKenzie: Yeah, it wasn’t intentional. It’s just that all these things happened in a short period of time since I had completed the manuscript and before the book could go on sale. But the things you mentioned, they all seem to be a function of the way the company operates. That’s a byproduct of insane mode that is really negative, and Tesla should do all it can to grow up in those areas and act more responsibly and respond to the criticism not defensively, but productively. If you’re going to be this big mission-driven company that wants to do something great for the world, they need to not only treat their employees well, but be seen to treat their employees well.
+
+Koren: You write that a common line of criticism from naysayers is that Tesla hasn’t yet mastered manufacturing. Has it?
+
+McKenzie: Quite certainly it hasn’t mastered it. It’s getting a lot better very fast, and that rate of improvement should concern all those people who think they can relax because manufacturing is going to be Tesla’s ultimate downfall. But it’s a young company, and it’s a very young company in automotive terms. It only produced the first car it has ever made, fully on its own, six years ago. Until this year, it’s only been doing tens of thousands of cars each year, which is tiny in the larger scheme of things, compared to other automakers. And so to go from this company that is trying to produce hundreds of thousands of cars a year, and later millions of cars a year, that’s a massive challenge. Tesla is still learning how to do it, and so I think it’s to be expected that they would have faced a lot of problems. And I don’t think those problems are completely over.
+
+Koren: Where do you see Tesla in 10 years?
+
+McKenzie: It’s either dead completely, or it’s an arm of Apple or Google or Amazon. But if it can continue to not die—which I think has been its number one quality in its life so far, despite all the things it has come up against—Tesla could be a giant energy company, with half its business in mass-manufacturing good electric cars that, by that point, are largely autonomous, and half of its revenue coming from mass-scale energy-storage systems that help make solar and wind power more reliable.
+
+I don’t want to sound too boosterish, but as long as Tesla can be alive in 10 years and roughly heading toward these goals that Elon Musk has set for it, it could well be a trillion-dollar company. But that proviso of not dying is a pretty big one. There are so many challenges it has to overcome, and it needs a little bit more stability to be able to get to this point, where it can be reliably profitable and stable as a place to work.
+
+Koren: Did the legal standoff between the SEC and Elon change your thinking about where the company is headed?
+
+McKenzie: No, not really. I think it’s probably a good thing in the long run for Elon not to be the chairman of Tesla. I think it’s probably a good thing for him to be the CEO of Tesla, the visionary who everyone rallies around. But it’s probably good he doesn’t have full power at the top of the board of directors, and that that seat is going to someone who is more of a steady tech executive with years of experience and has a little bit of independence.
+
+Koren: Why do you say that?
+
+McKenzie: It’s not so much that it’s personally about him. I think it’s a bad idea to consolidate that much power in a single figure for a company as complicated and important as Tesla. Tesla’s operating in insane mode, and that has a lot of benefits and some negatives, and a lot of the reason it’s operating in insane mode can be traced back to Elon Musk. But it can’t stay, and should not stay, in insane mode forever. I think it needs to get to some sort of lightly wild mode. You need to get to some point where it can balance its audacious goals and achievements and ways of operating with steadiness that doesn’t upset shareholders or employees as much, or doesn’t draw these massive headlines that change financial fortunes within the space of a minute.
+
+Koren:  You’ve put in a reservation for a Model 3 of your own. Have you gotten it yet?
+
+McKenzie: I’ve still got the reservation. I’m waiting for the $35,000 version of the Model 3. I can’t afford this current version, which has a starting price of $46,000. They’re a bit behind on their promises on when their $35,000 version will be available, so [I’m] just holding out for that. Elon said it should be within six months, but you always add a bit of salt to his predictions.

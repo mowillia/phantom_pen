@@ -1,0 +1,26 @@
+Today, the most geopolitically significant technology spat in the world ratcheted up a few notches.
+The Department of Justice unsealed two separate court cases against Huawei, the world’s largest telecommunications company, which is headquartered in China. One indictment accused Huawei and the company’s CFO, Meng Wanzhou, of creating a “fraudulent financial scheme” that allowed the company to sell technology to Iran, breaking U.S. sanctions. The other newly unsealed indictment documents the 2012 theft of trade secrets from T-Mobile that took the form of designing and operating a phone-testing robot called Tappy.
+
+The current Huawei saga has all the trappings of a Cold War espionage thriller, but reengineered for our current moment. Instead of Russia, it’s China. Instead of arms, it’s mobile technology. Instead of Iran, it’s … no, it’s still Iran, actually.
+
+Americans are generally unfamiliar with Huawei because the U.S. government has tried to keep the company out of the market. Around the world, however, Huawei and a few Western companies are vying to become the preferred backbone of the world’s wireless infrastructure. It’s a huge business, and it’s core to every country’s national security. American officials have long argued that, if push came to shove, Huawei would bend to the needs and desires of the Chinese government, not its customers in other countries.
+
+This particular moment is also significant because the new generation of mobile infrastructure—termed 5G—is due to be built out over the next few years. A relatively small group of companies can provide the technology to do 5G, and Huawei is globally competitive, especially given that many countries could see American companies as equally entangled with the nation’s national-security apparatus as Huawei is with China’s.
+
+Even without American business, Huawei has grown tremendously in size and influence. American officials are working their hardest to keep Huawei out of its allies’ networks, but the company is “flourishing in Europe.”
+
+The U.S. government has a long-expressed distaste for the Chinese telecom giant. In 2005, a congressional report averred that “industrial espionage is an active tool of China’s strategy for technological development.” In 2009, congressional opposition scuttled a proposed deal between Huawei and the American networking company 3Com. The year 2010 saw Sprint Nextel refuse bids from Huawei and ZTE, another Chinese tech company. And in 2012, a different congressional report recommended that American telecom companies refrain from buying equipment from Huawei because of national-security risks. Huawei, for its part, has denied being a tool of the Chinese government.
+
+“Unfortunately, over the past 10 years, as we have been investing in the United States, we have encountered a number of misperceptions that some hold about Huawei,” the company wrote in a 2011 open letter. “These include unfounded and unproven claims of ‘close connections with the Chinese military,’ ‘disputes over intellectual property rights,’ ‘allegations of financial support from the Chinese government,’ and ‘threats to the national security of the United States.’”
+
+At the same time, the ongoing trade war with China adds weight to every China-related action by the Donald Trump administration.
+
+In early December 2018, Canadian officials detained the Huawei CFO, who is also the company founder’s daughter. The U.S. is pressing to extradite her on fraud charges related to misrepresentations she allegedly made about Skycom, a company that the U.S. says Huawei secretly operated in Iran as a subsidiary, to financial institutions. That’s created a three-way diplomatic incident with the Canadian and Chinese governments.
+
+The indictment regarding Tappy is less complex. According to the legal document, the Huawei China engineers who are building a similar robot straightforwardly asked Huawei USA engineers working with T-Mobile to gather detailed information all the way down to the “shape, diameter, and hardness” of the little tip that Tappy used to simulate fingers touching phones. After many different entreaties, they eventually smuggled a robot arm out of a T-Mobile facility, then returned it, and allegedly faked an investigation into the incident.
+
+To announce the newly available indictments, a coterie of Trump administration officials each took turns slapping at Huawei in a press conference in Washington. “These cases make clear that, as a country, we have to carefully consider the risk that companies like Huawei pose if we’re going to allow them into our telecommunications infrastructure,” Acting Attorney General Matt Whitaker said.
+
+Democratic Senator Mark Warner of Virginia immediately and firmly endorsed the new tough line. “There is ample evidence to suggest that no major Chinese company is independent of the Chinese government and Communist Party—and Huawei, which China’s government and military tout as a ‘national champion,’ is no exception,” he said in a statement. “It has been clear for some time that Huawei poses a threat to our national security, and I applaud the Trump Administration for taking steps to finally hold the company accountable.”
+
+In 2019, mobile technology cannot be disentangled from national security, and the ramifications of that will continue to reverberate throughout the world.

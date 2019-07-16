@@ -1,0 +1,69 @@
+When Max Vest shook hands with the host of his Miami Airbnb back in January, the man introduced himself as Ralph—even though “Ray” was the name he’d used in all their prior communication.
+
+This was the first and only indication that something was wrong. But his host had a great rating on the home-sharing site, and many of the comments mentioned how friendly and accommodating he was. So Vest, a children’s-camp director from Gainesville, Florida, didn’t think much of the discrepancy and settled into the two-bedroom, two-bathroom apartment he’d be sharing with Ralph—or was it Ray?—and his girlfriend for the next five days. At about 8 or 9 p.m., he went out for dinner; by the time he got home, his hosts had gone to bed in the room adjacent to his, and he prepared to do the same.
+
+That was when he saw the light. Two small, black, rectangular boxes were stacked next to an outlet on the far side of the guest room, both facing the bed. From afar, they looked like phone chargers. But when Vest got closer, he realized they were cameras, and they were recording.
+
+He quickly got dressed, grabbed his belongings, and pocketed the cameras’ memory cards as evidence. Then panic set in: It was almost midnight, and he was alone in the home of someone whose name he didn’t even know, apparently being recorded. What’s more, his host could have been watching as he discovered the cameras.
+
+“I didn’t know if I was being watched live,” Vest told me in January. “What I’ve found since is that [the cameras] record to a memory card, but they can also stream live. The host could’ve been watching. Anybody could have been watching.” (The company denied The Atlantic’s, and Vest’s, requests for Ralph’s full name and identity, citing its privacy policy.)
+
+Vest was afraid of what might happen if Ralph saw him leave. “I know what he had [at] stake by being caught,” Vest said. But he managed to leave the apartment without incident, get in his car, and make two phone calls—one to his wife, and one to Airbnb’s safety team.
+
+The company refunded Vest’s money, paid for a hotel room for the night, and eventually removed the host from the site. But Vest alleges that Airbnb made several missteps in the run-up to, and subsequent investigation of, his stay with Ralph. He has retained counsel and informed Airbnb that he is considering filing a civil suit against it under Florida’s Deceptive and Unfair Trade Practices Act. He says the company should have flagged his host sooner for the name discrepancy and the fact that he did not have his landlord’s permission to rent out the property, which is in violation of Airbnb’s terms of service. He also alleges that Airbnb mistreated him during its investigation, and that it should have done more to support him as he reached out to law enforcement. (A representative for Airbnb declined to comment on the specifics of Vest’s allegations.)
+
+In emails reviewed by The Atlantic, Airbnb told Vest that the company is taking his case “extremely seriously” and that guest safety is its “top priority.” But Vest says he feels Airbnb treated him as a frustrated guest when he feels he was the victim of a crime.
+
+“This wasn’t [just] a negative experience,” he said. “This was a criminal act.”
+
+Airbnb’s rules allow cameras outdoors and in living rooms and common areas, but never in bathrooms or anywhere guests plan to sleep, including rooms with foldout beds. Starting in early 2018, Airbnb added another layer of disclosure: If hosts indicate they have cameras anywhere on their property, guests receive a pop-up informing them where the cameras are located and where they are aimed. To book the property, the guests must click “agree,” indicating that they’re aware of the cameras and consent to being filmed.
+
+Of course, hosts have plenty of reason to train cameras on the homes they rent out to strangers. They can catch guests who attempt to steal, or who trash the place, or who initially say they’re traveling alone, then show up to a property with five people.
+
+A representative for Airbnb’s Trust & Safety communications department told me the company tries to filter out hosts who may attempt to surveil guests by matching them against sex-offender and felony databases. The company also uses risk scores to flag suspicious behavior, in addition to reviewing and booting hosts with consistently poor scores.
+
+If a guest contacts Airbnb’s Trust & Safety team with a complaint about a camera, employees offer new accommodations if necessary and open an investigation into the host. In a statement, an Airbnb representative said, “The safety of our community—both online and offline—is our priority, which is why we take reports of privacy violations very seriously and employ sophisticated technologies to help prevent bad actors from using our platform in the first place.”
+
+But four guests who found cameras in their rentals told The Atlantic the company has inconsistently applied its own rules when investigating their claims, providing them with incorrect information and making recommendations that they say risked putting them in harm’s way.
+
+“There have been super terrible examples of privacy violations by AirBnB hosts, e.g., people have found cameras hidden in alarm clocks in their bedrooms,” wrote Jeff Bigham, a computer-science professor at Carnegie Mellon whose claim was initially denied after he reported cameras in his rental. “I feel like our experience is in some ways more insidious. If you find a truly hidden camera in your bedroom or bathroom, Airbnb will support you. If you find an undisclosed camera in the private living room, Airbnb will not support you.”
+
+In January, Bigham discovered cameras in his rental that he says were never disclosed. After he reached out to the Trust & Safety team, representatives told him he and his family had in fact consented to the cameras because they were visibly displayed in photos on the listing. After Bigham’s blog post on the ordeal went viral, Airbnb apologized and refunded his money.
+
+But Bigham says customer-service representatives for Airbnb twice sided against him before reversing their original decision, and only after his blog post was widely shared online.
+
+“No one really seems to know what they’re doing,” Bigham said in an email. “And it seems like it’s only going to get worse.”
+
+In a statement, Airbnb said: “We have apologized to Mr. Bigham and fully refunded him for his stay. We require hosts to clearly disclose any security cameras in writing on their listings and we have strict standards governing surveillance devices in listings. This host has been removed from our community.”
+
+Bigham had to rely on social-media visibility to settle his case, but he had crucial evidence: photos of the cameras and proof he never agreed to them. Airbnb says that’s usually enough. During investigations, guests usually have to submit photos of the cameras or recording devices, which Airbnb employees then confirm with hosts. Hosts have a clear financial stake in defending against these claims and are temporarily suspended during investigations. A representative for Airbnb told me it isn’t company policy to tell guests to reach out to hosts. Emails reviewed by The Atlantic tell a different story.
+
+Noelle De Guzman, a trainer and fitness blogger in Manila, reported finding cameras in her Airbnb while traveling with her family over New Year’s. Emails between her and Airbnb representatives show that the company informed her host he was being investigated and told her she must reach out to the host herself to clarify whether the cameras were in use—a violation of the company’s own policy.
+
+Airbnb also told Vest to interact with his host after discovering a camera. In his haste in leaving the apartment that night, Vest left with Ralph’s house keys. In emails Vest shared with The Atlantic, a member of the Trust & Safety team told him he had to return the keys—even though Airbnb had suspended Ralph and begun investigating the complaint. Vest worried that returning to Ralph’s house would prompt a confrontation.
+
+“That told me that they weren’t taking this seriously,” he said. “[Returning his keys] shouldn’t be on the top of their list.”
+
+When Vest found the cameras that night, he had no idea what type they were or whether they were streaming live to his host or saving to the memory cards. Airbnb makes no restrictions on the type of equipment or streaming and storage devices hosts can use—a potential problem for guests as home surveillance cameras get smaller, cheaper, and more advanced.
+
+Alfie Day told me he found a camera in his rental’s living room while he and his girlfriend were visiting his brother in Bulgaria. Day works in IT, so he performed an Nmap scan to learn more about the devices in the home. He discovered that the host had installed a type of camera that could be remotely controlled to pan, tilt, and zoom in on anything it sees. The expanded field of view meant that while the camera was in the living room, it could discreetly follow guests from room to room. The scan also revealed that the camera had a high-capacity storage system that lets users share very large files quickly across the same network.
+
+Day credits Airbnb’s Trust & Safety customer service for responding quickly and carefully, but he still wonders what happened to the video footage. It could theoretically be stored on the device, saved to the host’s cloud account, sent to a shared network for other users to watch, or uploaded to any illicit site, living forever outside Airbnb’s control.
+
+In 2015, Airbnb settled a civil suit brought by a German woman who discovered hidden cameras while staying at a rental in California in 2013. As part of her case against the company, she argued that she now fears that “images of her exist in electronic form and could make their way onto the Internet or some other medium.”
+
+Airbnb declined to comment on the record about the details of the allegations by Vest, De Guzman, and Day.
+
+Vest thought that by taking the memory cards from Ralph’s home with him, he could take back the recorded footage before it was uploaded elsewhere. But leaving with the cards created another problem.
+
+Like many other businesses in the so-called sharing economy, Airbnb is a middleman. It does not own its rental properties or employ its hosts; the innovation that propelled it to a $31 billion valuation was organizing, branding, and putting a professional sheen on the idea of sleeping in a stranger’s home. But even though guests book and pay through Airbnb’s interface—and even though people don’t describe their vacation lodgings by saying they’re “staying with a guy named Ralph”—Airbnb is just a broker. The company imposes rules, mostly to comply with local tax and housing regulations, but company rules don’t supersede local laws, even if guests assume they will. This makes for all kinds of tension, especially when something goes wrong.
+
+Vest told me that when he tried to file a police report with the Miami Police Department, the officers questioned Vest in return, accusing him of theft, because he had taken Ralph’s keys and memory cards when he left the house that night.
+
+Vest explained to the police that no, he hadn’t just stumbled across cameras in someone’s home and stolen their property—he’d been the victim of a crime. The officers didn’t see it that way. Ralph may have violated Airbnb’s rules, but the police don’t enforce Airbnb’s terms of service. In their eyes, Ralph was a homeowner, with every right to have cameras in his own home. Vest, meanwhile, had admitted to taking Ralph’s property without his consent or knowledge.
+
+A spokesperson for the Miami PD couldn’t confirm or deny Vest’s account, noting only that the case is still under investigation by the department’s Special Victims Unit. The police have not formally brought criminal charges against the homeowner, Vest, or Airbnb. According to Vest, the police told him that they’d found footage of past guests, but none of Vest, and that they’re working to identify and contact past guests who appear in the footage. But there’s virtually no way to tell whether the footage is already online somewhere. Airbnb says it is working with law enforcement, both in Vest’s case and whenever guests file police reports.
+
+Vest is relieved that the police are investigating, but he still feels Airbnb should have done more.
+
+“When something like this happens, they need to really be serious about the consequences,” Vest said of the company. “Just removing a listing—it doesn’t really send a message.”

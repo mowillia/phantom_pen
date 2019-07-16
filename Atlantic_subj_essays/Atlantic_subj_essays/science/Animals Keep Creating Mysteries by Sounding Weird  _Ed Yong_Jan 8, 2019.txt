@@ -1,0 +1,35 @@
+In late 2016, American diplomats living in Cuba started hearing a strange noise in their homes. It was high-pitched, deafening, and persistent—and no one could work out where it was coming from.
+
+In the following years, the mystery ballooned into an international incident. Many of the diplomats experienced dizziness, insomnia, hearing loss, and other troubling symptoms. A team from the University of Pennsylvania examined 21 affected people and concluded that they had “sustained injury to widespread brain networks,” based on evidence that other neurologists said was “almost unbelievably flimsy.” Donald Trump, without evidence, accused Cuba of being responsible. Various parties argued that the strange noise was the result of a sonic weapon, a microwave attack, or malfunctioning eavesdropping equipment.
+
+But when the biologist Alexander Stubbs heard a recording, uploaded by the Associated Press, he heard not mechanical bugs, but biological ones. He realized that the noise sounded like the insects he used to hear while doing fieldwork in the Caribbean.
+
+Together with Fernando Montealegre-Z, an expert on entomological acoustics, Stubbs scoured an online database of insect recordings. As first reported by Carl Zimmer in The New York Times, they found that one species—the Indies short-tailed cricket—makes a call that’s indistinguishable from the enigmatic Cuban recording. The duo have written a paper that describes their findings and are set to submit it to a journal for formal peer review.
+
+After analyzing similar recordings, the Cuban government had also pointed its finger at crickets. But they blamed the wrong species—one whose song sounds very different, even to untrained ears. By contrast, the song of the Indies short-tailed cricket matches the Cuban noise in several telltale ways. Both are loudest at a frequency of 7 kilohertz, roughly an octave beyond the highest notes on a piano. Both consist of pulses that repeat 180 times a second. In both, each pulse consists of 30 oscillations, which become slightly lower in pitch as they die away.
+
+Only one thing didn’t match: The pulses in the AP recording were more erratic and variable than those of most insects. But that, Stubbs thinks, is because the cricket’s call was probably echoing off the surfaces of an indoor space, creating several sound streams that interfered with one another. When he played and recorded the cricket’s call indoors, the result matched the Cuban noise even more closely.
+
+Cricket behavior could also help explain another mysterious detail of the Cuban incidents: Several diplomats claimed that the sound abruptly stopped when they entered a room or moved around. That’s “consistent with an insect stopping a call when threatened,” Stubbs and Montealegre-Z write.
+
+Of course, the diplomats could have been attacked in some other way. Or their symptoms might be the result of a mass psychosomatic illness. Diplomats in China also reported mysterious sounds and symptoms, still unexplained. But for now it seems that the noise at the heart of the Cuban incidents probably has a benign origin.
+
+Somewhat ironically, one of the first diplomats to hear the noise was tantalizingly close to the right answer. As reported by ProPublica, he blamed cicadas (which are not crickets, but do also sing). “Cicadas don’t sound like that,” his neighbor reportedly said. “It’s too mechanical-sounding.” But the Indies short-tailed cricket is no ordinary singing insect. It has the fastest pulse-repetition rate of any cricket in the Caribbean or North America. Have a listen. It sounds pretty mechanical!
+
+The cricket story reminds me of a very similar saga: the Sausalito hum. Back in the 1980s, just across the bay from San Francisco, the people of Sausalito were kept awake by a loud, rumbling hum, which reverberated through the walls of their expensive houseboats. Some thought it was effluent being pumped from a sewage pipe. Others blamed a cable recently laid by an electric company. Yet others suspected Russian submarines.
+
+But John McCosker from the California Academy of Sciences eventually showed that the hum was the love song of the male plainfin midshipman—a type of toadfish. These fish attract females by vibrating their swim bladder, the same organ that keeps them afloat, to produce an extremely loud noise that sounds more like a foghorn than a fish. When many males sing en masse, the ruckus can be heard on land, in Sausalito, Seattle, Southampton, and everywhere else that toadfish are found.
+
+
+
+
+
+Here are puffins, sounding like chainsaws.
+
+Cheetahs chirp, koalas and alligators bellow, barn owls make ungodly screeches, ptarmigans sound like cartoon characters.
+
+Our unfamiliarity with these calls is a boon for moviemakers, who can blend the vocal stylings of actual creatures into the calls of imagined ones. To make the hoots and rasps of the Velociraptors in Jurassic Park, sound technicians mixed together cranes, geese, dolphins (that’s the scream), walruses, and ... er ... tortoises having sex. Here, incidentally, is what mating tortoises sound like:
+
+Underwater, animal noises get even stranger. Although Jacques Cousteau once described the ocean as a “silent world,” it is anything but. That gentle, low hum is the sound of billions of migrating fish and jellyfish, moving up and down the water column to feed. Those crackling pops are made by the oversize claws of snapping shrimp, or perhaps by parrotfish as they crunch through coral. A few years ago, the marine biologist Denise Risch showed that the mysterious “bio-duck,” a quacking noise first heard by submarine sonar operators in the 1960s, is actually produced by the minke whale.
+
+The bio-duck, the Sausalito hum, and the Cuban “sonic attack” all represent collisions between our limited experience of nature’s soundscape and its full, clamorous extent—grunts, wails, thrums, mechanical whirrs. We grow up listening to the barks and meows of pets, the moos and oinks of Old MacDonald’s farm, and the tweets and chirps of dawn choruses. As long as our conception of natural noises is based on only this thin sliver of species, perfectly standard animal noises will continue to sound like news to us—even if they’re not so mysterious after all.

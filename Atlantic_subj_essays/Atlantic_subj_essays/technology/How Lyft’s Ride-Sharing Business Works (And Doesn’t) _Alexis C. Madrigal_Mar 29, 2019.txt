@@ -1,0 +1,29 @@
+Lyft became a public company today, valued at about $24 billion, which is a lot for a company that’s never made money, might never make money, and in fact lost nearly a billion dollars last year. As the company itself noted in its SEC filing, “We have incurred net losses each year since our inception and we may not be able to achieve or maintain profitability in the future.”
+
+So why are investors big and small pouring money into Lyft? Here’s how the business looks on paper.
+
+First, the United States really only has two ride-sharing players—Uber, the clear leader, and Lyft, the clear No. 2. In addition, Lyft has been growing quickly and taking market share from Uber. The company says it had 39 percent of the market in December 2018, up from 22 percent two years before.
+
+Second, Lyft may be losing huge amounts of money, but it’s still growing revenue faster than it is growing costs. In particular, three numbers are going up: the total number of riders, the number of rides per rider, and the revenue per rider. To an optimist, more people appear to be using Lyft’s services, and when they do, over time, they use them for more and longer rides.
+
+At the same time, according to Ali Mogharabi, an equity analyst at Morningstar, various costs—for sales and marketing, for the tech required to run the core business, and for business expenses such as payment processing—are going down as volume grows.
+
+Assuming all these trends continue—that Lyft can continue to close in on Uber as it grows revenue and shrinks costs—the company will cross into profitability sometime in the early 2020s.
+
+But still, that’s a lot of assumptions. Lyft reports two different numbers, “bookings”—which is the total amount of money flowing through its system—and revenue, which is the money that actually lands in Lyft’s accounts. The difference between the two numbers is driver pay. In 2018, Lyft had $8.1 billion in bookings. Drivers got $5.9 billion. Lyft got $2.2 billion.
+
+One way to drive more revenue is to take a bigger cut of the bookings, and that’s something that Lyft has been doing, increasing its take from 18 percent in 2016 to 27 percent in 2018.
+
+But you can’t do that forever. It’s a two-sided market: Lyft needs drivers to have enough cars on the road to meet rider demand. Pay is the key lever in getting people out on the road driving in general, and for Lyft (not Uber) in particular. If Lyft raises its cut so much that drivers defect, the thinking goes, wait times will go up and riders will defect too.
+
+The other big cost factor is sales and marketing. Lyft and Uber are locked in a brutal competition for riders and drivers, which means they have to spend a lot to enter new markets and maintain their old ones. For Lyft to become profitable, it will almost certainly have to cut its marketing costs relative to its growth in revenue.
+
+Lyft has another huge cost that has been under-covered in the press: insurance. Ride-sharing companies need to offer good insurance to protect drivers, but that’s expensive. Something like 29 cents of every dollar that Lyft brings in as revenue is spent on insurance—and it’s not a fixed cost, either. The more rides Lyft does, the more it has to spend on insurance. And it’s possible that as Lyft has to scramble to find more drivers, it will end up paying more out in claims to inexperienced or bad drivers.
+
+“We believe insurance is a critical value proposition in recruiting drivers,” says Rohit Kulkarni, the head of research for SharesPost, where he focuses on private tech growth companies. “However, recent trends indicate that insurance costs have risen due to higher frequency of claims and accidents.”
+
+What’s fascinating about Lyft is that it has not proved that it can make money with its core service. The business is dependent on the subsidy that investors have been willing to provide riders. And even if it zeroed its sales and marketing expenses, it still wouldn’t be profitable. It’s also not hard to imagine that the company might enter a damaging price war with Uber and have to eat the lower revenue to keep drivers on the road. And on and on, not even touching on the regulatory risks that the company might face in important cities, states, or countries. Each line of the company’s financial statements represents a complicated balancing act.
+
+But who wants to miss out on owning a piece of the ride-sharing duopoly, especially when there is almost certainly going to be consolidation of the business around the globe? As it turns out, SoftBank, the massive Japanese firm funneling hundreds of billions of dollars into technology companies, just so happens to have a finger in most pies, Kulkarni told me. “We believe SoftBank can bring order to chaos in ride-sharing,” he said. “We estimate that SoftBank is a 10-percent-plus shareholder in four out of the top five global ride-sharing companies.”
+
+As the world has seen with the internet platforms, there won’t be many winners, but the jackpot will be huge.

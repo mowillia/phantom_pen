@@ -1,0 +1,38 @@
+At the darkest points in the universe, their boundaries perilous and invisible, space warps. In a black hole, the force of gravity is so strong that anything that comes near, whether a puff of cosmic dust or an entire blazing star, is swallowed and devoured. The light sinks past a point of no return and into an unknown realm that can only be imagined.
+
+Black holes sound like an invention of science fiction, but they’re as real as the stars and planets and moons—they’re everywhere, millions and millions of them scattered across the cosmos. Mysterious as they are, they can be found.
+
+Astronomers have detected black holes in the whirling movements of stars and spinning rings of gas and dust that coalesce around a seemingly empty spot in space. They have detected them in bright beacons of ejected particles, the cosmic burps of a hearty meal. They have even detected them in gravitational waves, the faint ripples that distort the very makeup of space and time when two black holes collide.
+
+But no one’s ever really seen a black hole—until now.
+Astronomers on Wednesday released the first direct image of a black hole, pieced together from observations by telescopes around the world.
+
+“We have seen what we thought was unseeable,” says Shep Doeleman, an astronomer at the Harvard-Smithsonian Center for Astrophysics and the head of the effort, known as the Event Horizon Telescope.
+
+The black hole resides at the center of a galaxy known as Messier 87, named for the 18th-century French astronomer who discovered it. Messier is one of the biggest nearby galaxies. The black hole at its center has a mass 6.5 billion times that of the sun.
+
+The photographic evidence of a long-unseen cosmic force is an extraordinary achievement in science. Messier 87 is located about 55 million light-years from Earth. The electromagnetic radiation there—the kinds of signals scientists seek to detect—took a very long time to reach the planet, longer than any human beings have been around. By the time it arrived, they had figured out how to peer back into the depths and snap a picture.
+
+Exciting as it is, the photo actually doesn’t capture the black hole itself, nor its interior. Astronomers aimed their telescopes at the event horizon, the invisible boundary thought to surround all black holes. When something crosses this barrier, it doesn’t come back. In the photos, the event horizon has cast a shadow on the bright, hot gas swirling at the galactic center. Just before the cosmic material crosses over, it heats up and glows. The black hole appears in silhouette, a slightly elongated ball, ringed by a halo of fire.
+
+If the photo looks fuzzy around the edges, consider the size of the shadow. Heino Falcke, one of the astronomers involved in the effort, predicted that from here, the shadow of the black hole inside Messier 87 would be 20 to 40 microarcseconds across. All you need to know about microarcseconds is that 10 of them are equivalent to the size of a coin on the moon, viewed from Earth.
+
+These scales made black holes elusive. As massive as they are, as strong as their pull can be, not so long ago, they were enigmatic enough that plenty of scientists didn’t think they even existed.
+
+The modern theory of black holes has its beginnings, as many wonders of gravity do, with Albert Einstein and his general-relativity equations, published in 1915, which described gravity as a distortion of space and time. The physicist Karl Schwarzschild ran with Einstein’s equations and came up with an idea of his own: Based on the principles of general relativity, matter could become squeezed into a tiny point of infinite density, a locus known as a singularity. The singularity would warp the space around it, creating a spherical region with an invisible barrier, from which nothing could escape.
+
+Einstein actually resisted the idea, but the evidence piled up. In the 1930s, the astrophysicist Subrahmanyan Chandrasekhar, just 19 years old at the time, upended theories about star formation with his mathematical calculations showing that some massive stars collapse into dense, light-trapping objects—when they run out of fuel and die. The term black hole entered the literature in the late 1960s, just a few years before astronomers found their first evidence of one, in the early 1970s, in the constellation Cygnus. Before the decade was over, astronomers detected a radio signal coming from the supermassive black hole at the center of our very own galaxy, known as Sagittarius A* (pronounced as “a-star”).
+
+“We’ve been studying black holes so long that sometimes it’s easy to forget that none of us has actually seen one,” says France Córdova, the director of the National Science Foundation, which funded the effort. The Event Horizon Telescope is actually 10 telescopes, sprinkled across four continents in the United States, Mexico, Chile, Spain, and Antarctica, and designed to scan the cosmos in radio waves. For a few days in April 2017, the observatories studied the skies in tandem, creating a gargantuan telescope nearly the size of the planet.
+
+The scale of the observations produced a ridiculous amount of data: more than 1,000 hard drives’ worth. Researchers spent months analyzing the data, searching for a signal in the noise, and then stitched it together to create a single, composite photo.
+
+“This is the strongest evidence we have to date of the existence of black holes,” Doeleman says.
+
+Although Einstein’s theories led to the discovery of black holes, scientists still debate whether the rules of general relativity apply there, under extreme conditions that aren’t found anywhere else in the universe. So far, untested bits of theory are starting to check out: The shadow of the event horizon is, as anticipated, spherical.
+
+“The theory not only predicts the existence of a shadow, indicating a point of no return, but also what size and shape that shadow should have,” says Feryal Özel, an astrophysicist at the University of Arizona and a member of the project. “We’ve been able to carry out the first test of that.”
+
+This is the closest that astronomers have come—and might ever come—to perhaps the most mysterious objects in the universe. Scientists are still grappling with what may be happening inside, in the unknowable depths. Much as they’d like to, they can’t stick their heads in for a peek. At the event horizon, just beneath the fiery edges, the fierce gravitational tug of the black hole stretches matter like taffy. “When you pass through the event horizon, you wouldn’t really feel it,” Sera Markoff, an astrophysicist at the University of Amsterdam and a member of the Event Horizon Telescope team, once told me. “You wouldn’t get shredded until much farther in.”
+
+Safer to watch from a distance, where the abyss—law-defying, mind-bending, relentless—can be captured in a collection of pixels.

@@ -1,0 +1,65 @@
+The Trump administration’s new policies on college sexual misconduct, spearheaded by Education Secretary Betsy DeVos, could drastically change how administrators handle sexual assault on campus. Under a draft version of the proposed rules, published on Wednesday by The New York Times, colleges and universities would be held responsible for far fewer incidents, legally exempt from investigating, for example, any assaults not reported to the school official designated to deal with these cases, and any that take place outside of school grounds. The alleged victim could also have to prove his or her case by the “clear and convincing” standard of evidence, as opposed to the lower “preponderance of the evidence” standard required by the Obama administration.
+
+Plenty of schools will probably maintain the same, more stringent Title IX policies they had under Obama, at least at first. Wary of the optics of appearing soft on sexual assault, they’ll likely keep investigating off-campus incidents, and assume broad responsibility for Title IX violations, says Erin Buzuvis, a law professor at Western New England University who specializes in Title IX.* But eventually, Buzuvis expects schools to loosen up—if not in their written policies, at least in how they enforce them. “Now a university could, without fear of liability from the courts or the government, drastically decrease its overall attention to sexual misconduct.”
+
+The proposed rules, once officially released, will have to go through a lengthy process before they’re approved, but if they hew closely to the interim guidance the administration introduced last fall and the proposed regulation reported by the Times, they could dramatically change the landscape of campus sexual-assault investigations.
+
+So, what could the new rules look like in practice? Let's examine a hypothetical scenario where a  student is assaulted at a college party after these proposed rules take effect. Here’s what might happen next:
+
+If the party is on campus
+
+The university is required to investigate the allegation, provided that the alleged victim reports to the correct administrative official.
+
+If the party is off campus
+
+The college is not legally required to investigate. Spaces that fall outside university jurisdiction under DeVos’s new rules include off-campus housing, off-campus fraternity houses, and local bars and restaurants. Under the Obama administration guidance, schools were expected to investigate any assault that occurred between two students, regardless of where the assault took place.
+
+Many—if not most—incidents of campus sexual assault and harassment occur off campus, says Sage Carson, a manager at the nonprofit Know Your IX. Eighty-seven percent of U.S. college students live outside campus bounds, and it’s common for assaults to take place in a student’s place of residence. Accusers at community colleges, where, in most cases, all students live off-campus, will be particularly affected by this clause in DeVos’s rules.
+
+If the alleged victim reports the incident to “an official who has the authority to institute corrective measures” 
+
+The university becomes legally “accountable” for the complaint, and is required to look into it. At this point, the alleged victim can either drop the complaint, enter into an informal mediation process with the alleged perpetrator, or start a formal disciplinary process.
+
+If they do not report to “an official who has the authority to institute corrective measures”
+
+The university is not required to investigate. It’s not yet entirely clear which campus administrators, and possibly professors, would qualify as officials with this kind of authority—and how, or if, the university would convey that information to students. If the alleged victim reports the incident to the residential advisor in their dormitory, a peer sexual-assault advocate, or another school employee who is not a designated “official,” the university bears no responsibility for the complaint. Under Obama-era guidance, a school had a responsibility to look into an alleged incident of sexual abuse if the institution knew, or reasonably should have known, about the allegation. That meant that if an alleged victim reported to an RA, the school was usually on the hook.
+
+“Schools are being given a path to cover up sexual assault and sexual abuse, simply by saying it’s the survivor’s fault for not telling the right person,” says Carson. She cites Michigan State’s investigation into Larry Nassar as an example. In that case, she told me, several victims reported the abuse to coaches employed by MSU. Under this new rule, those employees would have no responsibility to relay what they heard to other university administrators.
+
+If the alleged victim decides to move forward with a formal disciplinary process 
+
+The disciplinary process varies from institution to institution. Some universities have a process where an investigator—typically an internal official—is appointed to try to determine what happened. Other institutions have an investigator gather evidence and have so-called hearing panels review the evidence and reach a final decision on whether a student is guilty or not.
+
+Under the Obama administration's guidance, if an accuser could prove with a “preponderance of evidence” that the assault happened and that the accused committed the act, that was enough to prove guilt. But due-process advocates argued that was too low of a standard and could potentially let wrongful accusations slip through the cracks. They argued that the evidence needed to be “clear and convincing,” which is a higher standard of proof. The Trump administration allows institutions to choose what standard they will use—as long as it's consistently applied.
+
+If they decide not to move forward with a formal disciplinary process
+
+The Title IX coordinator would have to decide whether they could honor the student’s request, essentially, of confidentiality, Scott Schneider, a higher education lawyer at Husch-Blackwell, told me. The school may feel it has an obligation to act on any sexual-misconduct accusations, even if the student changes their mind about wanting to pursue a formal inquiry. If the coordinator decides that they cannot honor that request, then the disciplinary process will go forward.
+
+If the alleged victim agrees to be cross-examined by the accused 
+
+Under the new rules, the accused would be able to request to directly question the accuser, as part of the disciplinary proceeding. If the accuser agrees to that, they would also have the ability to cross-examine the accused, and the adjudication process would move forward.
+
+If the alleged victim does not agree to be cross-examined by the accused
+
+The accuser would likely drop their case, Carson told me, and the disciplinary process would end. The possibility of a direct confrontation with the accused in a disciplinary proceeding, deemed “inappropriate” by the Obama administration, is what “victims fear most” about the process, according to Carson. “That’s not because they’re worried about someone getting to the truth, but because they are so afraid of the power that the abuser holds over them,” Carson says.
+
+If the accused is found guilty 
+
+The accused might appeal the decision, if the school allows it. Schools are not required to allow students to appeal a guilty decision. However, under the now-rescinded Obama-administration guidance the college had to allow both the accused and accusers to appeal, or neither. The interim guidance from the Department of Education stipulates that an institution may allow appeals just for the accused, and a final rule is likely to reflect that interim standard—though it is unlikely that many colleges would limit the appeals if they offered them. The end result would vary on a case-by-case basis, but if the accused loses an appeal, they could face any number of punishments up to being kicked out of school.
+
+If the accused is not found guilty
+
+Depending on a university’s policy, the accuser can choose to appeal the decision.
+
+If the accused decides to appeal the decision 
+
+The information goes to a university leader, typically in the Office of the President, who will review the all of the documents related to the investigation and issue a final verdict. If, upon reaching a final decision, the accused is still unhappy with the decision, they can sue the university. And that’s where things could get interesting, Schneider says, because the new regulation, after the department’s rulemaking process, will essentially have the force of law. And it will be something that judges consider when deciding whether an institution violated Title IX.
+
+If the accused decides not to appeal the decision 
+
+The case is over.
+
+The proposed rule is expected to be officially announced in September, and after it is introduced, it will likely take months—or even a year—to be finalized. But the Trump administration has already signaled to schools that things are changing, and that knowledge will likely begin to shape how they think about their long-term approach toward sexual misconduct on their campuses.
+
+* This article originally misstated Erin Buzuvis’s university affiliation. We regret the error.
