@@ -12,9 +12,7 @@ from bs4 import BeautifulSoup
 import numpy as np
 import pandas as pd
 import time
-import textwrap
 import os
-import regex as re
 
 import pandas as pd
 
@@ -266,5 +264,3 @@ for m in range(1,15):
 
       with open(gdrive_dir +tag+"/"+new_file_name+".txt", 'w') as f:
         f.write(final_article)
-
-k
