@@ -7,21 +7,12 @@ Original file is located at
     https://colab.research.google.com/drive/1ajw7QNYP-QT9RQV4MkBquosIIc9MMpCi
 """
 
-!pip install regex
-
-!pip install regex
-
 import requests
 from bs4 import BeautifulSoup
 import numpy as np
 import pandas as pd
-import requests
-import time
-import textwrap
 import os
-import regex as re
 
-"""import pandas as pd"""
 
 # Run this cell to mount your Google Drive.
 from google.colab import drive
