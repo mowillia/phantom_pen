@@ -1,0 +1,53 @@
+What is bitcoin? An investment? A technology? A bubble? What is even happening?
+
+All of these questions seem like reasonable ones to ask, as its price has surged and plummeted. Bitcoin is many things: a proxy for more stable units like the dollar and the euro, a speculative investment, a payments mechanism, a means of hiding transactions from various governments and tax collectors, and a monetary innovation that might legitimately transform the world.
+
+Yet cryptocurrencies, such as bitcoin, are also a bubbly, frothy, and overhyped phenomenon—a latter-day version of a penny stock, boosted by drug dealers, digital evangelists, Wall Street types, and a large twinset of Harvard rowers. Sure, sophisticated investors are pouring money in. But neophyte investors are charging bitcoins to their credit cards. A company called Long Island Iced Tea, purveyor of virgin lemonades and steeped drinks, added “blockchain” to its name and saw its stock price jump as much as 500 percent. Companies are raising vast sums on the public markets via initial coin offerings. The prices of various currencies are spiraling around like a loose tab of acid lost in a dust storm at Burning Man. It is getting weird out there.
+
+Regulators are taking notice, concerned that beside the explosion of legitimate investment in digital currencies lurks a whole lot of old-fashioned consumer fraud, self-dealing, market manipulation, and false advertising. Among them is Joseph Borg, the director of the state of Alabama’s securities commission, who recently voiced his concern that people were mortgaging their homes to get in on the hype. I spoke with him as the price of bitcoin was in the midst of plummeting 30 percent in a day, to a point at which it still would have grown tenfold in a year. The interview that follows has been lightly edited for clarity.  
+
+Annie Lowrey: What’s your 50,000-foot view on what’s been happening with bitcoin?
+
+Joseph Borg: From our office’s point of view, we have money transmitters and securities. If bitcoin is being used as a transmission vehicle for money, those businesses have to be licensed. We’re concerned about encryption, how they’re transmitting money, the security of wallets, that kind of thing. It’s just like Western Union. If you’re sending money via Western Union from New York to California, they have to be licensed to transmit the money. But they’re not creating the money. That’s one aspect.
+
+The whole cryptocurrency area is getting looked at closely by regulators, for that money-transmitter aspect. There’s a group that’s come up with a cryptocurrency-transmission law to be used as a model. We’re studying that, and New York has been pushing out some regulations on cryptocurrency as well. But it’s such a new phenomenon. And any time you have regulators looking at something new, we’re behind the curve. The folks who developed it understand it and we have to learn it.
+
+Lowrey: Got it, so that’s one side—the money-moving side.
+
+Borg: Right, then there’s the securities side. We’re concerned about the companies doing initial coin offerings. We’re also concerned about the companies using bitcoin as a basis for people to speculate, or creating technology off of the blockchain. They’re raising money to develop other companies, raising money to get into business. That’s an investment, not a money-transmission business.
+
+Right now, my message is: This is just like the dot-com bubble, tulips in the 1600s, and oil and gas speculation. Things get to be a mania. The retail market gets hits with advertisements and media pitches: You’re going to miss out on the next Microsoft! You’ve got to get in now, because it’s going up and up and up! It’s the same sort of thing that you see in any type of mania. When oil was $4 a gallon, everyone was pitching this new technology to drill old oil wells, that kind of stuff.
+
+The difference with the cryptocurrencies, the bitcoin mania, is that the technology ramps up quicker and so the mania goes faster. The mania on oil and gas took two years—this is taking two months. It’s tech-driven and instant.
+
+Lowrey: But the mania is the same?
+
+Borg: You just go do a Google search for “make money on bitcoin.” It’s page after page of it, hyping it to the whole retail market. Bitcoin’s making new millionaires! Get in before it’s too late!
+
+The thing is that the market has done well, but the average Main Street–type person hasn’t participated in it. They got burned by the micro-cap stocks in the 2000s, then burned by foreclosures and the real-estate collapse. They’re concerned about Washington deregulating everything, and Social Security going broke, and health-care costs going up. And they haven’t had a salary increase in years.
+
+You’ve got a family making $60,000, $100,000 a year. They don’t have a lot of money for retirement. Then, someone comes along and says, “Make $13,000 in 24 hours, guaranteed!”—got to get the “guaranteed” part in there. It’s like you’ve got a fuel pump at a pump station, where the pump is stuck and the fuel is spilling out all over the street. And there’s people lighting matches. And someone says, well, let’s pour more fuel on it!
+
+At some point, there’s going to be a huge correction, when the bubble breaks. I can’t tell you when that would be. It could go on for a while. There’s a lag time between when people invest and when they realized they got duped. We’re in the middle of the frenzy. It’s going to be 24 months, maybe longer, before we know. Sometimes it’s 8 or 10 years.
+
+Lowrey: Are there people you’re especially worried about, in terms of getting ripped off?
+
+Borg: Well, if these folks are seniors, often we don’t even hear about it because they’re embarrassed. They figure if they let people know, the family will figure that they cannot handle their affairs anymore. Seniors will tell us, “I lost the money. I got taken. But my kids would say I cannot manage things anymore if I told them that.” They don’t want to lose their way of life.  However, I don’t think there are a whole lot of seniors invested in this.
+
+Lowrey: Who is, then? Because that matters a lot for who would get hurt by a collapse.
+
+Borg: The way I hear about it is that we do 80 to 90 public events a year. We talk a lot about protecting people from fraud, and I’ll ask people if they’ve heard of bitcoin or invested in bitcoin. If I ask, “Do you know what a bitcoin is?,” four or five hands out of 60 go up. And maybe two or four are invested. I’ll follow up during a break, when we’re serving lunch or breakfast. I’ll say, “This is risky stuff!” That’s a good way to hear about the exposure.
+
+Most folks are doing it out of savings, maybe by selling off part of a mutual fund. They aren’t betting everything on it. A few said they took $10,000 out on credit cards to buy bitcoin. Some took out $10,000 in a home equity line of credit. That’s like a credit card on steroids, a second mortgage.
+
+Lowrey: Right, your home is at risk if you can’t pay it back. I guess the question is whether these people can be said to know what they’re doing, and if they’re being exposed to fraud.  
+
+Borg: Remember back in the dot-com era, that ad with that orange-haired kid telling the CEO to buy Kmart stock? Or there would be ladies at the social club playing canasta, talking about how they bought this or that mutual fund and made $300 in four hours? The water-cooler conversation at the office went from football and baseball to what so-and-so bought today—that kind of hype.
+
+Now, with cryptocurrency, the numbers are higher, the technology is quicker, and instead of television commercials, it’s all done on your phone. It’s a frenzy. But it’s not as big as it was back then.
+
+Lowrey: Part of what matters is who’s distributing what money to whom. If it’s all fairly rich people, maybe you’d worry less about that as a regulator.
+
+Borg: The bigger it gets, the more the pool widens out. People say everybody loses in a Ponzi scheme, but that’s not true! The bigger it gets, you have more winners and more losers. At some point, we’re going to run out of folks willing to pay $19,000 for a bitcoin. Then, we’ll see.
+
+We’re not saying bitcoin is illegal or bad, or that cryptocurrency is bad. We’re saying, don’t misunderstand what it is. Don’t, because of the hype, talk yourself into putting yourself at risk of losing your house. I always say, if you want to invest in this, ask yourself if you would take $10,000 and put it on black in Las Vegas. If you would, maybe invest in bitcoin.

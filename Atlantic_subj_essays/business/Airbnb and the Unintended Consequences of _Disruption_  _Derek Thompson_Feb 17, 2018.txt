@@ -1,0 +1,39 @@
+The U.S economy is in the midst of a wrenching technological transformation that is fundamentally changing the way people sleep, work, eat, shop, love, read, and interact.
+
+At least, that’s one interpretation.
+
+A second story of this age of technological transformation says that it’s mostly a facade—that the last 30 years have been a productivity bust and little has changed in everyday life, aside from the way everyone reads and watches videos. People wanted flying cars and got Netflix binges instead.
+
+Let’s call these the Disrupt Story and the Dud Story of technology. When a new company, app, or platform emerges, it’s common for analysts to divide into camps—Disrupt vs. Dud—with some yelping that the new thing will change everything and others yawning with the expectation that traditionalism will win out.
+
+But both stories often fail to capture the way that new tech actually works—and the unexpected ways it can change not only its competitors but also its entire marketplace.
+
+Consider Airbnb. Like some of the most exciting start-ups of this century, Airbnb is a new kind of “aggregation” platform. It’s a portal that connects producers and consumers in the marketplace for accommodations—like Facebook does for content, or Amazon for commerce, or Uber for driving.
+
+Five years ago, the Disrupt Story went that Airbnb was going to challenge hoteliers and maybe even make their business obsolete, as young people ditched Marriotts and Hiltons for the empty beds of strangers. Since then, Airbnb has enjoyed one of the more magical runs of any company founded in the 21st century. With a $31 billion private valuation, it’s the second-biggest “start-up” (if that label even still applies) in the country, after Uber. Its annual revenues are doubling by the year.
+
+So, naturally, the hotel business is in a state of wretched suffering—yes? Quite the opposite. Last year was the best year ever for hotel occupancy in the United States. The stock prices for the major hoteliers Marriott and Hilton are both up more than 40 percent in the last 12 months.
+
+Airbnb is a transformative travel business. But most people failed to predict the thing it would transform—for good and bad.
+
+Let’s review what the market for accommodations looked like before Airbnb came along. Most vacation rentals were in empty second homes, often in beach, resort, and ski towns; renting them meant knowing an owner personally or working through a local agency. Meanwhile, most brand-name hotels in major U.S. cities were (and still are) near business centers, where locals might work, but rarely sleep, wake, and wander around.
+
+Airbnb’s great contribution was to allow travelers to live as locals do—in the busy downtown residential areas, near the best restaurants, bars, and other local hangouts. Business travelers might prefer the amenities of a hotel. But what Airbnb offered was a superior simulacra of the local experience for leisure travelers—for an affordable price, which happened to support some local dwellers’ income.
+
+Airbnb’s business took off among a particular demographic—young, urban, and relatively well off. Half of Airbnb’s bookings are made by Millennials, or those under 35 years old, and most of them are for leisure rather than business, according to the research firm MoffettNathanson. Airbnb has left an impressive mark on the way people travel to big cities: The share of American travelers using “private accommodations” like Airbnb quadrupled between 2010 and 2015, according to MoffettNathanson.
+
+Percentage of U.S. Travelers Using Private Accommodations
+
+So how did all of this new business not hurt hotel bookings?
+
+First, business travelers still prefer hotels; more than 90 percent of Airbnb’s business is in personal tourism. Second, if it weren’t for Airbnb, travelers might be suffering through a terrible squeeze in hotel space. The construction pipeline of new hotels plunged after the Great Recession. As the economy recovered and travel picked up, it seemed inevitable that the prices of scarce hotel rooms in major U.S. cities were set to soar. But they didn’t. Airbnb-listed rooms vastly expanded the supply of beds for travelers—tourists and business travelers alike—to lie in. With the explosion of the private accommodations market, rooms opened up and hotel prices stayed down.
+
+So far, this sounds like a wonderful transformation: Airbnb expanded the availability of beds for visitors, gave young tourists a more authentic taste of their urban destination, and kept prices down for all travelers.
+
+But Airbnb's success also encouraged dubious behavior on the part of “commercial” power users—property owners who listed downtown units (especially second residences) all year long, as if they were hotel rooms. Why would would that be a problem? Open apartments occupied for much of the year by Airbnb-using travelers reduce the number of available homes to people who want to move into that building. High demand, plus lower supply, leads to higher prices. Several studies—including research from Harvard, MIT, UCLA, USC, and the University of Massachusetts Boston—have come to the same conclusion: Airbnb altogether drives up the price of rent in many neighborhoods. (It’s only fair to point out that some of the most strident conclusions came from studies sponsored by the hotel industry.)
+
+When I asked Airbnb about these claims, a spokesperson pushed back against them in several ways, arguing that the company doesn't have a wider effect on rental prices. First, he said the vast majority of Airbnb’s users are merely renting out primary residences rather than filling otherwise vacant units with tourists. Second, he said Airbnb has worked with several cities to write rules that crack down on commercial users who try to turn their secondary residences into ersatz hotel rooms.
+
+Indeed, Airbnb doesn't account for enough downtown housing to be the major driver of rising rents in major metro areas. But the basic economics is relatively straightforward. Airbnb isn’t just competing with hotels for travelers. It is often competing with locals for space. The company has shifted the burden of rising prices in crowded downtown areas from travelers to residents—pushing down prices for hotel rooms, while raising rents for city dwellers. Was that Airbnb’s intent? Almost certainly not. But that is the outcome, anyway, and it is a meaningful—even, yes, disruptive—one.
+
+This outcome fits neither the Disrupt Story nor the Dud Story. Airbnb lowered prices for tourists, supplemented the income of renters, and simply made travel to major cities more fun. But upon inspection, it shares some things in common with more-controversial companies—albeit with less grave implications. Facebook and Twitter design for attention, but incidentally encourage mendacious outrage and trolling. eBay and Amazon design for open marketplaces, but incidentally encourage the frenzied resale of bulk-ordered toys around Christmas. Airbnb was supposed to challenge hotels by letting tourists pay renters. But its platform is unwittingly producing a subsidy of tourists, paid for by nonparticipating urban dwellers, who bear the cost of higher rental prices. Like just about every story these days about revolutionary tech platforms, Airbnb is a story both of democratized access to commerce and the unintended consequences of those democratizing efforts, even when they succeed on their own terms.

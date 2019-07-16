@@ -1,0 +1,73 @@
+A bar of gold. A disk of iron. A chain of beads. A card of plastic. A slip of cotton-linen paper. These things are worthless. One cannot eat them, or drink them, or use them as a blanket. But they are valuable, too. Their value comes from the simplest thing. People believe they are money, and so they are.
+
+If every currency is a consensual delusion, then bitcoin, a digital cryptocurrency that changes hands over the internet, feels more like a consensual hallucination on psychedelic drugs. The concept of bitcoin was born in a detailed white paper published in late 2008 by a pseudonymous “Satoshi Nakamoto.” By 2013, one bitcoin was worth $12. As of this writing, it’s worth more than $10,000. Its value has doubled in the last two months alone. For any currency’s value to increase by 100 percent in eight weeks is, to use a technical term, bonkers. If the Japanese yen or American dollar did the same, their economies would plunge into an infernal deflationary spiral.
+
+Throughout history, currency has taken one of two forms: physical assets, like gold or beads, and fiat currency, like government-backed paper and coins. Bitcoin and its brethren introduce a third category: digital currencies that run on a combination of game theory, economics, and cryptography—thus, cryptocurrencies. If all money is the sharing of an illusion, bitcoin wants to build a better way to share it.
+
+Like many people, I’ve long regarded bitcoin’s rise with both wonder and confusion.  To help me make sense of it, I started calling cryptocurrency experts and academics to ask, is bitcoin just a dumb bubble, like 17th-century tulip bulbs? An investment hedge, like gold? A currency, like dollars? The answers I got weren’t satisfyingly unanimous. I heard “all of the above” and “none of the above” and “nobody knows for sure, yet.”
+
+Toward a More Perfect Money
+
+What’s wrong with dollars, anyway? If you ask me, very little. I like my credit card. I don’t even mind cash.
+
+But to others, the dollar’s dangers are glaringly obvious: a single omnipotent entity, the federal government, strictly controlling money supply and the rules that govern it. Some worry that the creation of too many dollars will lead to out-of-control inflation. “Cypherpunks have dreamed of fully decentralized electronic payment systems for decades” that would allay these concerns, writes Timothy Lee, a senior tech-policy reporter at Ars Technica who has long been on the bitcoin beat. Most digital-currency ideas, however, had the same tragic flaw—replicability. Just about everything that exists online (think text, photos, or files) can be copied. Fear of rampant counterfeiting would spell death for a digital currency.
+
+Bitcoin solved this problem with the blockchain, an online ledger that records and validates all peer-to-peer payments to eliminate double-spending. For those inclined to less-than-legal behavior, it helps that the blockchain encrypts transactions to provide anonymity. The payment network is maintained by bitcoin “miners,” a decentralized group of individuals with powerful computers that approve transactions and are rewarded with new bitcoins for their work. The total possible supply of bitcoin in the world is capped. Thus, bitcoin solves both of the cryptopunk money problems—the blockchain thwarts centralization, and the planned scarcity of bitcoins checks inflation.
+
+The blockchain is an ingenious and potentially transformative technology. People like Marc Andreessen, the well-known venture capitalist, have predicted that it could become the scaffolding of the entire economy, like the internet. Here’s a taste of the transformative vision from an interview Andreessen held with The Washington Post:
+
+Digital stocks. Digital equities. Digital fundraising for companies. Digital bonds. Digital contracts, digital keys, digital title, who owns what—digital title to your house, to your car … You’ve got digital voting, digital contracts, digital signatures … And then every aspect of financial services: insurance contracts, insurance derivatives, currency exchange, remittance—on and on and on.
+
+Nobody knows for sure whether the blockchain will transform the economy of the future, as Andreessen foresees. What’s clearer, however, is that it has not transformed the economy of today. While the number of bitcoin transactions is growing every year, it’s nothing close to a mass-market consumer technology, like Google, or Netflix, or even PayPal. Bitcoin remains cumbersome to use (the typical transaction can take up to 10 minutes) and the price is extremely volatile. It is, for now, a frankly terrible currency built on top of a potential transformative technology.
+
+Which leads to perhaps the most obvious question: If bitcoin appears to have flopped as a mass-market currency, why has it so suddenly succeeded as an investment vehicle?
+
+Up, Up, and Away
+
+There are countless theories about why bitcoin’s valuation has gone berserk. But for the purpose of time and sanity, let’s reduce them to four mega-arguments.
+
+1. Venture capital (and a green light from the feds) got the ball rolling.
+
+For the first five years of bitcoin’s existence, venture capital’s interest in bitcoin-related products and companies was minimal. After all, the very idea of cryptocurrency was infamous for its association with online black markets like Silk Road, where criminals used digital tokens to anonymously sell drugs and other illegal stuff. (In fact, one could argue that bitcoin’s rising valuation is just a bet that its most dubious uses—say, avoiding taxes or laundering money—will keep rising.) It seemed for a while that the U.S. government might try to crush the ostensible competitor of the almighty dollar.
+
+But in November 2013, shortly after the FBI shut down Silk Road, several senators praised bitcoin and other virtual currencies at an official hearing as “legitimate financial services.” Senatorial droning on C-SPAN doesn’t always move markets. But when it does, it really does. The value of bitcoin tripled within the month to $900, and venture capital got its green light. VC investments in bitcoin rose from nearly nothing in 2012 to $400 million in 2014 and $600 million in 2016. Bitcoin didn’t yet have an obvious mainstream purpose. But it had something even more valuable: legitimacy from Washington, with curiosity and cash from Silicon Valley.
+
+2. It’s digital gold.
+
+People have long described bitcoin as digital gold. In early November, Bloomberg reported that “buy bitcoin” had overtaken “buy gold” as an online search phrase, suggesting that bitcoin’s rising valuation could be partly due to investors seeing it as the precious metal’s trendy equivalent. Like gold or silver, bitcoin is scarce (by design) and a popular hedge for inflation hawks, worrywarts, conspiracy theorists, and other antiestablishment investors who believe the global economy is always a month away from implosion or hyperinflation.
+
+There is another important way that bitcoin is like gold: Its reputation is much bigger than its market. In any given week, $34 billion in bitcoin is traded, according to The Wall Street Journal, less than 1 percent of the global foreign-exchange market.
+
+As New York University professor and so-called “dean of valuation” Aswath Damodaran quipped, bitcoin could become the world’s reserve cryptocurrency or the biggest bust of the century. “Right now it’s not a very good currency, because it’s not a good medium of exchange and it’s not a good store of value, because it’s too volatile,” he told CNBC. He offered a more probable outcome for bitcoin: “gold for Millennials.”
+
+3. It’s the reserve currency of the ICO market.
+
+What’s an ICO? An “initial coin offering” is essentially a way for a company to crowdsource funds without selling shares. Instead of accepting public money in exchange for equity, as in an initial public offering, or IPO, an ICO offers digital tokens denominated in a new cryptocurrency.
+
+The conventional wisdom on ICOs is somewhat split. Some see it as an ingenious way for founders to quickly raise money without relying on the gatekeepers of venture capital. Others point out that it’s easy way to con poor dolts looking to buy into the crypto frenzy. And what a frenzy it is: In 2017, the ICO market exploded, raising more than $2 billion for new companies.
+
+There are several ways that the ICO craze feeds, and is fed by, the bitcoin boom. First, some analysts believe that the most lucrative ICOs are driven, not only by gullible rubes, but also by bitcoin millionaires who want to diversify their investments without paying tax by cashing out of cryptocurrencies, which would trigger a capital-gains tax. ICOs fulfill that need.
+
+Second, many ICO investors first convert their cash into bitcoin before buying tokens in a new cryptocurrency. As Tim Lee argues, this makes bitcoin the “reserve currency” of the crypto economy. Just as the U.S. dollar benefits from its status as the world’s reserve currency, accepted worldwide in lieu of or in exchange for the local currency, the same is often true of bitcoin in cryptocurrency markets. It’s possible that these factors work together in a feedback loop, where bitcoin millionaires seeking diversification raise the profile of ICOs, which increase the value of bitcoin.
+
+This much is clear: Bitcoin’s valuation has gone nuts in tandem with the (perhaps equally nuts) boomlet in ICOs.
+
+4. Maybe it’s just this simple: Bitcoin is an unprecedentedly dumb bubble built on ludicrous speculation.
+
+It seems strange to call a currency a bubble. But lacking more specific terminology, bubble seems like the only word that would apply.
+
+Even if one buys the argument that blockchain is brilliant, cryptocurrency is the new gold, and bitcoin is the reserve currency of the ICO market, it is still beyond strange to see any product’s value double in six weeks without any material change in its underlying success or application. Instead, there has been a great and widening divergence between bitcoin’s transaction volume (which has grown 32 times since 2012) and its market price (which had grown more than 1,000 times). 
+
+Surveys show that the vast majority of bitcoin owners are buying and holding bitcoin to exchange them for dollars. Let’s be clear: If the predominant use case for any asset is to buy it, wait for it to appreciate, and then to exchange it for dollars, it is a terrible currency. That is how people treat baseball cards or stamps, not money. For most of its owners, bitcoin is not a currency. It is a collectible—a digital baseball card, without the faces or stats.
+
+* * *
+
+The explosion of bitcoin’s value has been pretty silly. But great things can be born of such silliness.
+
+As Dan Gross wrote in his book Pop!, the soapsuds of burst bubbles often fertilize the next generation’s breakthrough technologies. Before the national telegraph, train system, and tech giants, there was a telegraph bubble, a train bubble, and (who could forget?) a dot-com and online-retail bubble. The blockchain, like each of those technologies, has the potential to become a critical piece of infrastructure for the digital economy, even if the price of bitcoin is crashing as you read this paragraph.
+
+In my most illuminating conversation about bitcoin, I spoke with Christian Catalini, a professor of technology at MIT Sloan School of Management. He began by reciting the three classic purposes of money: unit of account (you can measure income in dollars), store of value (you can hold dollars in your wallet and they won’t “go bad”), and medium of exchange (give somebody dollars and they’ll trust the value). Would bitcoin meet all three criteria? Maybe, he said. But maybe it won’t—and it won’t matter.
+
+“You could imagine that in the future there might be a cryptocurrency that is mostly a store of value, like gold,” he said. “It would be decentralized, and robust, but with high transaction fees. I might use it to buy a house, but not a coffee. On the other hand, others might be more useful for smaller payments. With digital tech, maybe we can have many different kinds of currencies, which altogether unbundle store of value from medium of exchange.”
+
+What seems most certain is that the future of money will test our conventional definitions—of currencies, of bubbles, and of initial offerings. What’s happening this month with bitcoin feels like an unsustainable paroxysm. But it’s foolish to try to develop rational models for when such a market will correct itself. Prices, like currencies, are collective illusions. And the history of American bubbles suggests that national hallucinations, like the over-construction of the rail system in the 19th century, can undergird the very real transformations of the next generation, even after they go pop.

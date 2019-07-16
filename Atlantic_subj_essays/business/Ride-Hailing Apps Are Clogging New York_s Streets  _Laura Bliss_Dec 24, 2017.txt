@@ -1,0 +1,29 @@
+Traffic is getting worse in New York City—much worse. Average speeds during business hours in Manhattan’s core dropped to a crawl in 2017—about six miles per hour, 15 percent slower than in 2010.
+
+That time is everyone’s money: According to INRIX, a transportation analytics firm, lost hours and excess fuel costs sucked nearly $17 billion out of the New York City economy in 2016. That’s not far off from the GDP of Iceland.
+
+North America’s second-largest city is growing: Population has climbed at least 4 percent since 2010, thanks to steady immigration from around the world. But it’s another group of recent arrivals that bears the brunt of responsibility for the new traffic: Uber, Lyft, Via, and the rest of the ride-hailing bunch.
+
+Bruce Schaller, a former NYC Department of Transportation official and expert on New York City street traffic and the for-hire car industry, has a new report out on just how severely the rise of “transportation network companies” (or TNCs) has affected congestion. Using data from the New York City Taxi and Limousine Commission, Schaller studied passenger trips, vehicle speeds, and mileage per hour of taxis and TNCs in Manhattan’s core business district from 2013 to 2017.
+
+The key takeaways: During that time period, total passenger trips increased 15 percent, even as taxi trips declined. That means TNCs have created new demand for backseat rides in Manhattan. And they increased the amount of miles traveled by for-hire vehicles around downtown by a whopping 36 percent, over the same time period. That adds up to more than 600 million miles of motor-vehicle traffic in the past 3 years alone—reflecting not only the staggering growth in rides, but also a trend toward lengthier trips and more “deadheading,” or cars traveling without passengers.
+
+With a 59 percent increase in the number of for-hire vehicles, the data makes a pretty clear statement: On-demand mobility is transforming New York City streets, and it does not appear to be for the better.
+
+“For years, as the city grew, more and more people took the subway and bus,” Schaller says in a short documentary on the subject called “Unsustainable.” “Now, as the city grows, more and more people are taking Uber, Lyft, and Via. This is not a sustainable way for the city to grow.”
+
+Meanwhile, the quality of New York City’s mass transit is in free fall. Not only has MTA bus ridership rapidly dropped in recent years, but the subways are now losing passengers, too. This can be attributed in part to declines in service, as abysmal delays and mechanical failures have become a near-daily feature of underground commutes. (Also: The schedules need reworking.) But Schaller’s and others’ research offers evidence that TNCs are drawing more-affluent passengers off trains and into cars. “People don’t feel as likely to be able to use [transit] to get where they need to be going,” Brad Lander, a city-council member representing parts of Brooklyn, says in the same film.
+
+That’s a lose-lose situation: Fewer transit riders means less revenue and demand for improved transit—disproportionately affecting low-income New Yorkers who have no choice but to remain aboard increasingly lousy trains and buses. “These are the effects of an inequitable, underfunded transit system,” Jessica Quiason, a researcher at ALIGN, a labor-organizing nonprofit, says in “Unsustainable.”
+
+And more ride-hailers means more traffic—which hurts those who don’t own or travel in private cars. Clogged streets are also slowing down city buses, packages, and freight. It slows down first responders, repairmen, teachers, and nursing aides. What this all amounts to, according to Jon Orcutt, the director of communications and advocacy at the New York pro-transit group TransitCenter, is “our worst transportation crisis in decades.”
+
+This is hardly an “only in New York” problem. A recent study from UC Davis took a comprehensive look at Uber and Lyft’s effects on transportation systems in eight U.S. cities (including New York) and found TNCs having similar adverse effects in Boston, Chicago, Los Angeles, the Bay Area, Seattle, and Washington, D.C. The reason Schaller’s traffic critique is so detailed and data-rich is because New York is one of only a few cities in the world that requires Uber, Lyft, and other such companies to share trip data for analyses like this one.
+
+Untangling the MTA from its many financial and political challenges has been a topic of intense debate and media scrutiny in New York in 2017. But Schaller’s report argues that what’s happening aboveground can’t be separated from public transit’s woes, and a chorus of transit advocates in “Unsustainable” take up that theme.
+
+If the city wants to keep moving, Schaller suggests three key public-policy moves: First, prioritize lanes and parking space for the highest efficiency vehicles, like buses and vans, to reward and incentivize the use of shared transportation.  Second, move more freight traffic during off-peak hours. And third, treat roads like a precious commodity, and charge drivers to use the ones in highest demand, perhaps with a special fee for TNC trips. Such an approach is known as congestion pricing, and it’s long been proposed for the city. The revenue could go into the MTA. (New York Governor Andrew Cuomo has said he’d support this; Mayor Bill de Blasio says he would not.)
+
+These problems easily stand to get worse, not better, with the rollout of self-driving vehicles. If local leaders don’t take the wheel on regulating TNCs, city drivers might be idling for a long time.
+
+This post appears courtesy of CityLab.
