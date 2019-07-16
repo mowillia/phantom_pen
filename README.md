@@ -29,9 +29,13 @@ The code files have the following functions
   * HTML/CSS/Image Files 
   * Python File of application
 * Additional Code for Flask application
-  * `encoder.py`
-  * `sample.py`
-  * `model.py`
+  * needed for sample generation
+    * `encoder.py` needed for sample generation
+    * `sample.py`
+    * `model.py`
+  * To run application
+    * `run.py`
+
 
 
 ## Authors
