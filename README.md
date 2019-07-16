@@ -9,22 +9,34 @@ These files contain the code for the Flask web application Phantom Pen. The mode
 
 ### Code Files
 
-What things you need to install the software and how to install them
+The code files have the following functions
 
-There are many categories of code files:
-
-* Code used to train the various models
-* Code used to scrape text and concatenate into a single file
-* Code for text classification and extractive summary
-* Code to collect metadata of the corpora
-* Code for Flask application
+* Text Files: Files for various corpora
+  * `gutenberg_texts`
+  * `short_stories`
+  * `Atlantic_subj_essays`
+  * `concatenated_subj_files`
+* Training Code
+  * `gpt2_training_clean.ipynb` Code used to train the various models for the program
+* Scraping texts and concatenating
+  * `web_scraping_atlantic_subjs.py` Code used to scrape atlantic articles
+  * `web_scraping_short_stories.py` Code used to scrape short stories
+  * `essay_concatenation_clean.py` Code used to concatenate the articles, short stories, books
+* Text generation and Classification
+  * `text_generation_function.ipynb` Code for the simple generate, classify & generate, and classify, extract, & generate functions of the application
+  * `classification_comparison.ipynb` Comparison of various classifiers for the classify function
+* `writrly folder` Code for Flask application
   * HTML/CSS/Image Files 
   * Python File of application
+* Additional Code for Flask application
+  * `encoder.py`
+  * `sample.py`
+  * `model.py`
 
 
 ## Authors
 
-* **Mobolaji Williams** - *Initial work* - [mowillia](https://github.com/mowillia)
+* **Mobolaji Williams** - [mowillia](https://github.com/mowillia)
 
 
 ## Acknowledgments
