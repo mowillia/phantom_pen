@@ -14,6 +14,7 @@ Original file is located at
 # Packages
 
 import pandas as pd
+import numpy as np
 import math, scipy
 import copy
 import re
@@ -23,27 +24,14 @@ import time
 # used in the count of words
 import string
 
+
+# NLTK Packages
 import nltk.data # natural language tool kit
-
-# for tokenizing sentences according by the words
-from nltk.tokenize import WhitespaceTokenizer
-
-from nltk.tokenize import sent_tokenize, word_tokenize # $ pip install nltk
 nltk.download('punkt')
-
-import numpy as np
 
 from os import listdir
 from os.path import isfile, join
 
-import matplotlib.pyplot as plt
-
-from sklearn.ensemble import RandomForestClassifier
-from sklearn.neighbors import KNeighborsClassifier
-from sklearn.discriminant_analysis import LinearDiscriminantAnalysis
-from sklearn.discriminant_analysis import QuadraticDiscriminantAnalysis
-from sklearn.model_selection import train_test_split
-from sklearn.linear_model import LogisticRegression
 from numpy import random
 
 # Run this cell to mount your Google Drive.
@@ -103,76 +91,6 @@ print('Run Time:', str(time.time()-start_time), ' sec')
 # number of essays 
 len(raw_file_list+raw_file_list_stories)
 
-
-
-## Getting atlantic article meta data
-
-k = 1678
-
-filename = raw_file_list[k]
-
-#locations of forward slashes
-sl_locs = [i for i, letter in enumerate(filename) if letter == '/']
-# location of slash before subject
-idx_subj_1 =  sl_locs[5]
-idx_subj_2 = sl_locs[6]
-# location of last forward slash
-idx = sl_locs[-1]
-
-# concatenated file name
-filename_concat = filename[idx+1:]
-
-# first underscore after title and before author
-idx1 = filename[idx+1:].find('_')
-# location of break between author and date
-idx2 = filename_concat[idx1+1:].find('_')
-
-
-# metadata
-#author = filename[]
-topic = filename[idx_subj_1+1:idx_subj_2]
-title = filename_concat[:idx1]
-author = filename_concat[idx1+1:][:idx2]
-date = filename_concat[idx1+1:][idx2+1:-4]
-
-print(topic)
-print(title)
-print(author)
-
-print(date)
-
-## Getting short story
-
-k = 100
-
-filename = raw_file_list_stories[k]
-
-#locations of forward slashes
-sl_locs = [i for i, letter in enumerate(filename) if letter == '/']
-# location of slash before subject
-idx_subj_1 =  sl_locs[4]
-idx_subj_2 = sl_locs[5]
-# location of last forward slash
-idx = sl_locs[-1]
-
-# concatenated file name
-filename_concat = filename[idx+1:]
-
-# first underscore after title and before author
-idx1 = filename[idx+1:].find('_')
-# location of break between author and date
-idx2 = filename_concat[idx1+1:].find('_')
-
-
-# metadata
-#author = filename[]
-topic = filename[idx_subj_1+1:idx_subj_2]
-title = filename_concat[:idx1]
-author = filename_concat[idx1+1:][idx2+1:-4]
-
-print(topic)
-print(title)
-print(author)
 
 def filename_metadata(filename):
 
