@@ -23,8 +23,6 @@ The code files have the following functions
 * Text generation and classification
   * `text_generation_function.ipynb` Code for the simple generate, classify & generate, and classify, extract, & generate functions of the application
   * `classification_comparison.ipynb` Comparison of various classifiers for the classify function
-  * `text_generation_function.ipynb` Code for the simple generate, classify & generate, and classify, extract, & generate functions of the application
-  * `classification_comparison.ipynb` Comparison of various classifiers for the classify function  
 * `extractive_text_summarizer` folder: Code for explored extractive summarization implementations
   * ```diff ! `text_summarizer_1_word_ct_cos_sim.ipynb````: Extractive summary using word-count vectors and cosing similarity [Ultimately the chosen one]
   * `text_summarizer_2_word_freq.ipynb`: Extractive summary using word-frequency vectors
