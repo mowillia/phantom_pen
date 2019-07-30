@@ -15,6 +15,7 @@ The code files have the following functions
   * `Atlantic_subj_essays`
   * `concatenated_subj_files`
 * Training Code
+  * `train.py` Slightly modified version of Nsheppherd's GPT2 training code
   * `gpt2_training_clean.ipynb` Code used to train the various models for the program
 * Scraping texts and concatenating
   * `web_scraping_atlantic_subjs.py` Code used to scrape atlantic articles
@@ -32,11 +33,13 @@ The code files have the following functions
   * Python File of application
 * Additional Code for Flask application
   * needed for sample generation
-    * `encoder.py` needed for sample generation
-    * `sample.py`
-    * `model.py`
+    * `encoder.py`: needed to encode words
+    * `sample.py`: needed to sample words randomly
+    * `model.py`: contains the definition of the model
   * To run application
     * `run.py`
+* Misc Files
+  * ``: Implementation of LSTM RNN to generate words for Atlantic Education Text
 
 
 ## Authors
