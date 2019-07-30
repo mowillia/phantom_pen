@@ -39,7 +39,7 @@ The code files have the following functions
   * To run application
     * `run.py`
 * Misc Files
-  * ``: Implementation of LSTM RNN to generate words for Atlantic Education Text
+  * `recurrent_neural_network_atlantic.ipynb`: Implementation of LSTM RNN to generate words for `Atlantic Education`
 
 
 ## Authors
